@@ -30,6 +30,16 @@ publisher,title,categories,url
 노컷뉴스,연예,연예,https://rss.nocutnews.co.kr/category/entertainment.xml
 노컷뉴스,스포츠,스포츠,https://rss.nocutnews.co.kr/category/sports.xml
 노컷뉴스,오피니언,사설,https://rss.nocutnews.co.kr/category/opinion.xml
+뉴시스,국제,국제,https://newsis.com/RSS/international.xml
+뉴시스,금융,경제,https://newsis.com/RSS/bank.xml
+뉴시스,사회,사회,https://newsis.com/RSS/society.xml
+뉴시스,스포츠,스포츠,https://newsis.com/RSS/sports.xml
+뉴시스,문화,문화,https://newsis.com/RSS/culture.xml
+뉴시스,정치,정치,https://newsis.com/RSS/politics.xml
+뉴시스,경제,경제,https://newsis.com/RSS/economy.xml
+뉴시스,산업,경제,https://newsis.com/RSS/industry.xml
+뉴시스,IT/바이오,IT|과학,https://newsis.com/RSS/health.xml
+뉴시스,연예,연예,https://newsis.com/RSS/entertain.xml
 동아일보,전체기사,_all_,https://rss.donga.com/total.xml
 동아일보,정치,정치,https://rss.donga.com/politics.xml
 동아일보,사회,사회,https://rss.donga.com/national.xml
