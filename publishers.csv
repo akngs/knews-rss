@@ -1,9 +1,14 @@
 name,type,url
 경향신문,종합일간지,https://www.khan.co.kr
-국민일보,국민일보,http://www.kmib.co.kr
+국민일보,종합일간지,http://www.kmib.co.kr
+내일신문,종합일간지,https://www.naeil.com
 동아일보,종합일간지,https://www.donga.com
+문화일보,종합일간지,http://www.munhwa.com
 서울신문,종합일간지,https://www.seoul.co.kr
+세계일보,종합일간지,https://www.segye.com
+아시아투데이,종합일간지,https://www.asiatoday.co.kr
 조선일보,종합일간지,https://www.chosun.com
 중앙일보,종합일간지,https://www.joongang.co.kr
+천지일보,종합일간지,http://www.newscj.com
 한겨레신문,종합일간지,https://www.hani.co.kr
 한국일보,종합일간지,https://www.hankookilbo.com
