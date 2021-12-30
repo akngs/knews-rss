@@ -21,3 +21,4 @@
 
 * 한국어 위키백과 [한국어 신문 목록](https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%8B%A0%EB%AC%B8_%EB%AA%A9%EB%A1%9D)
 * 한국어 위키백과 [대한민국의 텔레비전 방송사 목록](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%B0%A9%EC%86%A1%EC%82%AC_%EB%AA%A9%EB%A1%9D)
+* 미디어오늘의 [언론링크](http://www.mediatoday.co.kr/com/partners.html)

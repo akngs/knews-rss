@@ -4,9 +4,13 @@ name,type,url
 내일신문,종합일간지,https://www.naeil.com
 동아일보,종합일간지,https://www.donga.com
 문화일보,종합일간지,http://www.munhwa.com
+미디어오늘,미디어방송지,https://www.mediatoday.co.kr/rssIndex.html
 서울신문,종합일간지,https://www.seoul.co.kr
 세계일보,종합일간지,https://www.segye.com
+시사인,시사주간지,https://www.sisain.co.kr
+시사저널,시사주간지,https://www.sisajournal.com
 아시아투데이,종합일간지,https://www.asiatoday.co.kr
+여성신문,시사주간지,http://www.womennews.co.kr
 조선일보,종합일간지,https://www.chosun.com
 중앙일보,종합일간지,https://www.joongang.co.kr
 천지일보,종합일간지,http://www.newscj.com
