@@ -27,9 +27,7 @@ export async function loadFeedSpecs(
   return feedSpecs;
 }
 
-/**
- * 언론사 목록을 파싱
- */
+/** 언론사 목록을 파싱 */
 export async function parsePublishers(
   f: Deno.Reader,
 ): Promise<Publisher[]> {
@@ -44,9 +42,7 @@ export async function parsePublishers(
   return results;
 }
 
-/**
- * RSS 피드 명세 목록을 파싱
- */
+/** RSS 피드 명세 목록을 파싱 */
 export async function parseFeedSpecs(
   publishers: Publisher[],
   f: Deno.Reader,
