@@ -1,4 +1,4 @@
-import { readCSVObjects } from "https://deno.land/x/csv@v0.7.2/mod.ts";
+import { readCSVObjects } from "./deps.ts";
 
 /** 언론사 */
 export type Publisher = {

@@ -1,5 +1,4 @@
-import { assertEquals } from "https://deno.land/std@0.120.0/testing/asserts.ts";
-import { StringReader } from "https://deno.land/std@0.120.0/io/mod.ts";
+import { assertEquals, StringReader } from "../dev_deps.ts";
 import {
   type FeedSpec,
   parse_feed_specs,
