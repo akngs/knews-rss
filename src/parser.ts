@@ -22,15 +22,15 @@ export async function loadFeedSpecs(
 ): Promise<readonly FeedSpec[]> {
   const fPublishers = await Deno.open(publishersPath);
   const fFeedSpecs = await Deno.open(feedSpecsPath);
-  const publishers = await parse_publishers(fPublishers);
-  const feedSpecs = await parse_feed_specs(publishers, fFeedSpecs);
+  const publishers = await parsePublishers(fPublishers);
+  const feedSpecs = await parseFeedSpecs(publishers, fFeedSpecs);
   return feedSpecs;
 }
 
 /**
  * 언론사 목록을 파싱
  */
-export async function parse_publishers(
+export async function parsePublishers(
   f: Deno.Reader,
 ): Promise<Publisher[]> {
   const results: Publisher[] = [];
@@ -47,7 +47,7 @@ export async function parse_publishers(
 /**
  * RSS 피드 명세 목록을 파싱
  */
-export async function parse_feed_specs(
+export async function parseFeedSpecs(
   publishers: Publisher[],
   f: Deno.Reader,
 ): Promise<FeedSpec[]> {

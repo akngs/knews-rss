@@ -1,12 +1,12 @@
 import { assertEquals, StringReader } from "../dev_deps.ts";
 import {
   type FeedSpec,
-  parse_feed_specs,
-  parse_publishers,
+  parseFeedSpecs,
+  parsePublishers,
   type Publisher,
 } from "../parser.ts";
 
-Deno.test("parse_publishers()", async () => {
+Deno.test("parsePublishers()", async () => {
   const raw = new StringReader([
     "name,type,url",
     "n0,t0,https://n0.com",
@@ -17,11 +17,11 @@ Deno.test("parse_publishers()", async () => {
     { name: "n0", type: "t0", url: "https://n0.com" },
     { name: "n1", type: "t1", url: "https://n1.com" },
   ];
-  const actual = await parse_publishers(raw);
+  const actual = await parsePublishers(raw);
   assertEquals(actual, expected);
 });
 
-Deno.test("parse_feed_specs()", async () => {
+Deno.test("parseFeedSpecs()", async () => {
   const raw = new StringReader([
     "publisher,title,categories,url",
     "p0,t0,c0,https://p0.com/c0.xml",
@@ -47,6 +47,6 @@ Deno.test("parse_feed_specs()", async () => {
       url: "https://p1.com/c1.xml",
     },
   ];
-  const actual = await parse_feed_specs(publishers, raw);
+  const actual = await parseFeedSpecs(publishers, raw);
   assertEquals(actual, expected);
 });
