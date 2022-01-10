@@ -1,4 +1,4 @@
-import { readCSVObjects } from "./deps.ts";
+import { RawFeed, readCSVObjects } from "./deps.ts";
 
 /** 언론사 */
 export type Publisher = {
@@ -12,6 +12,15 @@ export type FeedSpec = {
   readonly publisher: Publisher;
   readonly title: string;
   readonly categories: readonly string[];
+  readonly url: string;
+};
+
+/** 표준화된 피드 항목 */
+export type FeedItem = {
+  readonly spec: FeedSpec;
+  readonly title: string;
+  readonly partialText: string;
+  readonly date: string;
   readonly url: string;
 };
 
@@ -73,4 +82,20 @@ export function decodeXml(buf: ArrayBuffer): string {
   const encoding = m ? m[1] : "utf-8";
   const decoder = new TextDecoder(encoding);
   return decoder.decode(buf);
+}
+
+/** https://deno.land/x/rss 의 Feed 형식을 FeedItem[] 형식으로 통일 */
+export function standardizeFeed(spec: FeedSpec, feed: RawFeed): FeedItem[] {
+  return feed.entries.map((item) => {
+    const rawDate = item["dc:dateRaw"] || item.publishedRaw;
+    if (!rawDate) throw new Error("No date");
+
+    return {
+      spec,
+      title: item.title?.value || "",
+      partialText: item.description?.value || "",
+      date: rawDate,
+      url: item.links?.[0]?.href || "",
+    };
+  });
 }
