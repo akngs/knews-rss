@@ -15,6 +15,18 @@ export type FeedSpec = {
   readonly url: string;
 };
 
+/** CSV 파일들로부터 피드 명세 목록 읽어오기 */
+export async function loadFeedSpecs(
+  publishersPath: string,
+  feedSpecsPath: string,
+): Promise<readonly FeedSpec[]> {
+  const fPublishers = await Deno.open(publishersPath);
+  const fFeedSpecs = await Deno.open(feedSpecsPath);
+  const publishers = await parse_publishers(fPublishers);
+  const feedSpecs = await parse_feed_specs(publishers, fFeedSpecs);
+  return feedSpecs;
+}
+
 /**
  * 언론사 목록을 파싱
  */

@@ -1,8 +1,10 @@
-import { parseFeed } from "https://deno.land/x/rss/mod.ts";
+import { loadFeedSpecs } from "./parser.ts";
 
-const response = await fetch(
-  "http://static.userland.com/gems/backend/rssTwoExample2.xml",
+const feedSpecs = await loadFeedSpecs(
+  "./data/publishers.csv",
+  "./data/feed_specs.csv",
 );
-const xml = await response.text();
-const feed = await parseFeed(xml);
-console.log(feed);
+
+for (const feedSpec of feedSpecs) {
+  console.log(feedSpec);
+}
