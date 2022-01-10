@@ -65,3 +65,12 @@ export async function parseFeedSpecs(
   }
   return results;
 }
+
+/** XML 인코딩 정보를 스니핑하여 ArrayBuffer를 string으로 디코딩 */
+export function decodeXml(buf: ArrayBuffer): string {
+  const sniff = new TextDecoder().decode(buf.slice(0, 50));
+  const m = sniff.match(/\sencoding="(.+?)"/);
+  const encoding = m ? m[1] : "utf-8";
+  const decoder = new TextDecoder(encoding);
+  return decoder.decode(buf);
+}
