@@ -5,13 +5,13 @@
 # 데이터
 
 - [data/publishers.csv](data/publishers.csv): 정리된 언론사 목록
-- [data/rss.csv](data/rss.csv): 언론사별 RSS 목록
+- [data/feed_specs.csv](data/feed_specs.csv): 언론사별 RSS 명세 목록
 
 # 기여하기
 
-- 아래 참고자료 목록을 참고하여 `publishers.csv`와 `rss.csv`에 빠진 데이터를 추가한 뒤 PR을 보내주세요.
+- 아래 참고자료 목록을 참고하여 `publishers.csv`와 `feed_specs.csv`에 빠진 데이터를 추가한 뒤 PR을 보내주세요.
 - 데이터를 추가할 때 언론사 이름 기준 가나다순 정렬이 유지되도록 해주세요.
-- `rss.csv`의 `categories`에는 다음 값들을 `|`로 구분하여 적어주세요. 분류에 부합되지 않는 RSS는 당분간 제외하고자
+- `feed_specs.csv`의 `categories`에는 다음 값들을 `|`로 구분하여 적어주세요. 분류에 부합되지 않는 RSS는 당분간 제외하고자
   합니다:
   - `_all_`: 전체 기사
   - `IT`, `건강`, `경제`, `과학`, `국제`, `만화`, `문화`, `사설`, `사회`, `스포츠`, `여성`, `연예`,
