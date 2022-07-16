@@ -94,8 +94,80 @@ export function standardizeFeed(spec: FeedSpec, feed: RawFeed): FeedItem[] {
       spec,
       title: item.title?.value || "",
       partialText: item.description?.value || "",
-      date: rawDate,
+      date: parseFuzzyDate(rawDate).toISOString(),
       url: item.links?.[0]?.href || "",
     };
   });
+}
+
+/**
+ * 다양한 형식의 문자열을 Date 객체로 파싱한다. 실패하면 예외를 던진다.
+ */
+export function parseFuzzyDate(raw: string): Date {
+  const parsers = [parseDateFormat0, parseDateFormat1];
+  for (const parser of parsers) {
+    const result = parser(raw);
+    if (result) return result;
+  }
+  throw new Error(`Invalid format: ${raw}`);
+}
+
+/** 로컬 컴퓨터의 타임존 오프셋(minutes) */
+const TZ_OFFSET = new Date().getTimezoneOffset();
+
+/**
+ * 아래 형식의 날짜를 파싱
+ *
+ * 2022-07-15T22:01:07+09:00
+ * 2022-07-15 07:30:10
+ */
+function parseDateFormat0(raw: string): Date | null {
+  const p =
+    /^(\d\d\d\d)-(\d\d)-(\d\d)[T\s](\d\d):(\d\d):(\d\d)(?:\+\d\d:\d\d)?$/;
+
+  const m = raw.match(p);
+  if (!m) return null;
+
+  const parts = m.slice(1).map((part) => +part);
+  const [yyyy, mm, dd, hour, min, sec] = parts;
+  return new Date(yyyy, mm - 1, dd, hour, min, sec);
+}
+
+/**
+ * 아래 형식의 날짜를 파싱
+ *
+ * Sat, 16 07 2022 10:35:04 +0900
+ * Sat, 16 Jul 2022 10:10:25 +0900
+ * Fri, 15 Jul 2022 17:34:14 GMT
+ * Sat,16 Jul 2022 10:48:43 +0900
+ * 16 Jul 2022 10:48:43 +0900
+ * 16 Jul  2022 10:48:43 +0900
+ */
+function parseDateFormat1(raw: string): Date | null {
+  const p =
+    /^(?:\w+,\s*)?(\d+)\s+(\d+|\w+)\s+(\d+)\s(\d\d):(\d\d):(\d\d)\s+(.+)$/;
+  const word2month = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
+
+  const m = raw.match(p);
+  if (!m) return null;
+
+  const dd = +m[1];
+  const mm = +m[2] || (word2month.indexOf(m[2]) + 1);
+  const yyyy = +m[3];
+  const [hour, min, sec] = [+m[4], +m[5], +m[6]];
+  const tzOffset = m[7] === "GMT" ? TZ_OFFSET : 0;
+  return new Date(yyyy, mm - 1, dd, hour, min - tzOffset, sec);
 }
