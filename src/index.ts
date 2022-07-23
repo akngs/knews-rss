@@ -1,4 +1,4 @@
-import { loadFeedSpecs } from "./parser.ts";
+import { fetchFeeds, loadFeedSpecs } from "./parser.ts";
 
 const feedSpecs = await loadFeedSpecs(
   "./data/publishers.csv",
@@ -6,5 +6,6 @@ const feedSpecs = await loadFeedSpecs(
 );
 
 for (const feedSpec of feedSpecs) {
-  console.log(feedSpec);
+  const feeds = await fetchFeeds(feedSpec);
+  console.log(feeds[0]);
 }

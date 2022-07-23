@@ -1,4 +1,5 @@
 import { RawFeed, readCSVObjects } from "./deps.ts";
+import { parseFeed } from "./deps.ts";
 
 /** 언론사 */
 export type Publisher = {
@@ -34,6 +35,15 @@ export async function loadFeedSpecs(
   const publishers = await parsePublishers(fPublishers);
   const feedSpecs = await parseFeedSpecs(publishers, fFeedSpecs);
   return feedSpecs;
+}
+
+/** 피드 아이템들을 읽어와서 표준화한 후 반환 */
+export async function fetchFeeds(feedSpec: FeedSpec): Promise<FeedItem[]> {
+  const res = await fetch(feedSpec.url);
+  const text = decodeXml(await res.arrayBuffer());
+  const rawFeed = await parseFeed(text);
+  const feeds = standardizeFeed(feedSpec, rawFeed);
+  return feeds;
 }
 
 /** 언론사 목록을 파싱 */
