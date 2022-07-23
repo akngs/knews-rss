@@ -3,3 +3,4 @@ export {
   type Feed as RawFeed,
   parseFeed,
 } from "https://deno.land/x/rss@0.5.4/mod.ts";
+export * as xml from "https://deno.land/x/xml@2.0.4/mod.ts";

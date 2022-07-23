@@ -1,8 +1,10 @@
 import { RawFeed, readCSVObjects } from "./deps.ts";
 import { parseFeed } from "./deps.ts";
+import { xml } from "./deps.ts";
 
 /** 언론사 */
 export type Publisher = {
+  readonly id: string;
   readonly name: string;
   readonly type: string;
   readonly url: string;
@@ -46,6 +48,31 @@ export async function fetchFeeds(feedSpec: FeedSpec): Promise<FeedItem[]> {
   return feeds;
 }
 
+/** RSS 형식의 문자열을 생성 */
+export function serialize(spec: FeedSpec, feeds: FeedItem[]): string {
+  const items = feeds.map((f) => ({
+    "title": f.title,
+    "link": f.url,
+    "guid": f.url,
+    "pubDate": f.date,
+    "content:encoded": f.partialText,
+  }));
+  return xml.stringify({
+    "rss": {
+      "@version": "2.0",
+      "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "channel": {
+        "title": `${spec.publisher.name} - ${spec.title}`,
+        "link": spec.url,
+        "description": `${spec.publisher.name} - ${spec.title}`,
+        "lastBuildDate": new Date().toISOString(),
+        "item": items,
+      },
+    },
+  });
+}
+
 /** 언론사 목록을 파싱 */
 export async function parsePublishers(
   f: Deno.Reader,
@@ -53,6 +80,7 @@ export async function parsePublishers(
   const results: Publisher[] = [];
   for await (const row of readCSVObjects(f)) {
     results.push({
+      id: row.id || "",
       name: row.name || "",
       type: row.type || "",
       url: row.url || "",
