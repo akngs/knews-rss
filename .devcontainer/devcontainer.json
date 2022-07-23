@@ -1,0 +1,7 @@
+{
+    "name": "knews-rss",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "denoland.vscode-deno"
+    ]
+}
