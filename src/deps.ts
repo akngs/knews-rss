@@ -4,3 +4,4 @@ export {
   parseFeed,
 } from "https://deno.land/x/rss@0.5.4/mod.ts";
 export * as xml from "https://deno.land/x/xml@2.0.4/mod.ts";
+export * as sleep from "https://deno.land/x/sleep@v1.2.1/mod.ts";

@@ -1,0 +1,23 @@
+name: Update feeds
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: denoland/setup-deno@v1
+      with:
+        deno-version: v1.x
+    - name: Fetch data
+      run: |
+        deno run --allow-read --allow-write --allow-net src/index.ts
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./rss

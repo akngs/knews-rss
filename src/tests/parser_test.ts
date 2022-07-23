@@ -9,14 +9,14 @@ import {
 
 Deno.test("parsePublishers()", async () => {
   const raw = new StringReader([
-    "name,type,url",
-    "n0,t0,https://n0.com",
-    "n1,t1,https://n1.com",
+    "id,name,type,url",
+    "id0,n0,t0,https://n0.com",
+    "id1,n1,t1,https://n1.com",
   ].join("\n"));
 
   const expected: Publisher[] = [
-    { name: "n0", type: "t0", url: "https://n0.com" },
-    { name: "n1", type: "t1", url: "https://n1.com" },
+    { id: "id0", name: "n0", type: "t0", url: "https://n0.com" },
+    { id: "id1", name: "n1", type: "t1", url: "https://n1.com" },
   ];
   const actual = await parsePublishers(raw);
   assertEquals(actual, expected);
@@ -24,14 +24,14 @@ Deno.test("parsePublishers()", async () => {
 
 Deno.test("parseFeedSpecs()", async () => {
   const raw = new StringReader([
-    "publisher,title,categories,url",
-    "p0,t0,c0,https://p0.com/c0.xml",
-    "p1,t1,c1|c2,https://p1.com/c1.xml",
+    "id,publisher,title,categories,url",
+    "i0,p0,t0,c0,https://p0.com/c0.xml",
+    "i1,p1,t1,c1|c2,https://p1.com/c1.xml",
   ].join("\n"));
 
   const publishers = [
-    { name: "p0", type: "t0", url: "https://p0.com" },
-    { name: "p1", type: "t1", url: "https://p1.com" },
+    { id: "i0", name: "p0", type: "t0", url: "https://p0.com" },
+    { id: "i1", name: "p1", type: "t1", url: "https://p1.com" },
   ];
 
   const expected: FeedSpec[] = [
