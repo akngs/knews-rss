@@ -1,32 +1,196 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>경향신문 - 생활/레저</title>
-    <link>https://www.khan.co.kr/rss/rssdata/skentertain_news.xml</link>
-    <description>경향신문 - 생활/레저</description>
-    <lastBuildDate>2022-07-24T00:07:41.290Z</lastBuildDate>
+    <title>경향신문 - 문화</title>
+    <link>https://www.khan.co.kr/rss/rssdata/culture_news.xml</link>
+    <description>경향신문 - 문화</description>
+    <lastBuildDate>2022-07-25T00:09:36.077Z</lastBuildDate>
     <item>
-      <title>[오늘 날씨] 중부지방 더위 누그러져, 밤부터 전국에 또 비</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207230006003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207230006003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-23T00:06:00.000Z</pubDate>
+      <title>[이기환의 Hi-story] 1437년 세종대왕이 관측한 그 별…579년후 알고보니 신성폭발이었다</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207240800001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207240800001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T08:00:00.000Z</pubDate>
       <content:encoded>
-        스포츠경향 DB&lt;br /&gt;
+        2022년 6월 21일은 역사적인 날이었습니다. 우리 기술로 만든 한국형 발사체 누리호가 성공적으로 우주궤도에 안착한 날이죠.&lt;br /&gt;
         &lt;br /&gt;
-        토요일인 23일은 절기상 1년 중 가장 덥다는 ‘대서’(&amp;#22823;&amp;#26257;)이지만, 전국이 대체로 흐리면서 무더위가 다소 누그러지겠다.&lt;br /&gt;
-        &lt;br /&gt;
-        아침 최저기온은 20&amp;#8764;23도, 낮 최고기온은 25&amp;#8764;30도···
+        이제 자력으로 1t 이상의 실용위성을 지구 상공 700㎞ 저궤도에 올릴 수 있는 7번째 ···
       </content:encoded>
     </item>
     <item>
-      <title>장령산 숲속의 작은 음악회 성황리 개최</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207231459003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207231459003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-23T14:59:00.000Z</pubDate>
+      <title>[박주연의 메타뷰(VIEW) (17)] 은희경 “소설 속 인물은 또 다른 나…여전히 하고 싶은 얘기 많죠”</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207240943001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207240943001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T09:43:00.000Z</pubDate>
       <content:encoded>
-        충북 옥천군 애향회(회장 임상호)가 주관하는 제17회 장령산 숲속의 작은 음악회가 23일 오후 장령산 휴양림에서 열린다.&lt;br /&gt;
+        &amp;lt;새의 선물&amp;gt; 100쇄 찍은 소설가 은희경&lt;br /&gt;
         &lt;br /&gt;
-        코로나19로 지난 2년간 열리지 못했지만 재도약의 뜻을 모아 애향회 주관으로 또다시 열리···
+        &lt;br /&gt;
+        소설가 은희경 / 우철훈 선임기자&lt;br /&gt;
+        &lt;br /&gt;
+        소설가 은희경씨(63)의 첫 장편소설이자 제1회 문학동네소설상 수상작인 &amp;lt;새의 선물&amp;gt;이 최근 100쇄를 찍었다. 1995년 1···
       </content:encoded>
+    </item>
+    <item>
+      <title>[인터뷰] 박해일, 이번엔 ‘고뇌하는 이순신’···“‘명량’의 이순신은 불, ‘한산’의 이순신은 지혜로운 장군”</title>
+      <link>https://www.khan.co.kr/culture/movie/article/202207241056001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/movie/article/202207241056001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T10:56:00.000Z</pubDate>
+      <content:encoded>
+        영화 &amp;lt;한산:용의 출현&amp;gt;에서 이순신 장군을 연기한 배우 박해일. 호호호비치 제공.&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        얼마전 개봉한 &amp;lt;헤어질 결심&amp;gt;에서 박해일이 연기한 형사 해준 역은 전형적인 형사 이미지와는 거리가 멀었다. 해준···
+      </content:encoded>
+    </item>
+    <item>
+      <title>충북 단양군, 한국수자원공사와 손 잡고 도담삼봉에 정원 조성 나선다</title>
+      <link>https://www.khan.co.kr/travel/national/article/202207241103001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/travel/national/article/202207241103001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T11:03:00.000Z</pubDate>
+      <content:encoded>
+        충북 단양의 단양팔경 중 제1경인 도담삼봉 전경.｜충북도 제공&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군과 한국수자원공사(K-Water)가 도담삼봉 인근에 자리 잡은 도담마을에 대규모 정원을 조성한다. 단양군은 지난 22일 ‘도담지구 저수 구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>충북 단양군, 한국수자원공사와 손 잡고 도담삼봉에 정원 조성 나선다</title>
+      <link>https://www.khan.co.kr/local/Chungbuk/article/202207241103001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/local/Chungbuk/article/202207241103001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T11:03:00.000Z</pubDate>
+      <content:encoded>
+        충북 단양의 단양팔경 중 제1경인 도담삼봉 전경.｜충북도 제공&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군과 한국수자원공사(K-Water)가 도담삼봉 인근에 자리 잡은 도담마을에 대규모 정원을 조성한다. 단양군은 지난 22일 ‘도담지구 저수 구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>충북 단양군, 한국수자원공사와 손 잡고 도담삼봉에 정원 조성 나선다</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207241103001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207241103001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T11:03:00.000Z</pubDate>
+      <content:encoded>
+        충북 단양의 단양팔경 중 제1경인 도담삼봉 전경.｜충북도 제공&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군과 한국수자원공사(K-Water)가 도담삼봉 인근에 자리 잡은 도담마을에 대규모 정원을 조성한다. 단양군은 지난 22일 ‘도담지구 저수 구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[리뷰] ‘거장의 섬’에서 자신만의 ‘예술’을 찾다···영화 ‘베르히만 아일랜드’</title>
+      <link>https://www.khan.co.kr/culture/movie/article/202207241413001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/movie/article/202207241413001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T14:13:00.000Z</pubDate>
+      <content:encoded>영화 &amp;lt;베르히만 아일랜드&amp;gt;의 한 장면.  ‘영화 속 영화’의 두 주인공이자 10대 시절 연인이었던 에이미(미아 바시코프스카)와 조지프(앤더슨 다니엘슨 라이)가 포뢰 섬으로 가는 배 위에서 재회하고 있다. 찬···</content:encoded>
+    </item>
+    <item>
+      <title>[서울25]석촌호수에 가면, 셰퍼드 페어리 작품을 볼수 있다</title>
+      <link>https://www.khan.co.kr/local/local-general/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/local/local-general/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T14:55:00.000Z</pubDate>
+      <content:encoded>
+        세계적인 아티스트 셰퍼드 페어리(사진 오른쪽)가 지난 22일 서울 송파구 문화실험공간 호수를 찾아 외벽에 직접 그래피티 작업을 한 뒤 서강석 송파구청장과 함께 기념촬영을 하고 있다. |송파구 제공&lt;br /&gt;
+        &lt;br /&gt;
+        서울 송파구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[서울25]석촌호수에 가면, 셰퍼드 페어리 작품을 볼수 있다</title>
+      <link>https://www.khan.co.kr/local/Seoul/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/local/Seoul/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T14:55:00.000Z</pubDate>
+      <content:encoded>
+        세계적인 아티스트 셰퍼드 페어리(사진 오른쪽)가 지난 22일 서울 송파구 문화실험공간 호수를 찾아 외벽에 직접 그래피티 작업을 한 뒤 서강석 송파구청장과 함께 기념촬영을 하고 있다. |송파구 제공&lt;br /&gt;
+        &lt;br /&gt;
+        서울 송파구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[서울25]석촌호수에 가면, 셰퍼드 페어리 작품을 볼수 있다</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T14:55:00.000Z</pubDate>
+      <content:encoded>
+        세계적인 아티스트 셰퍼드 페어리(사진 오른쪽)가 지난 22일 서울 송파구 문화실험공간 호수를 찾아 외벽에 직접 그래피티 작업을 한 뒤 서강석 송파구청장과 함께 기념촬영을 하고 있다. |송파구 제공&lt;br /&gt;
+        &lt;br /&gt;
+        서울 송파구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[서울25]석촌호수에 가면, 셰퍼드 페어리 작품을 볼수 있다</title>
+      <link>https://www.khan.co.kr/culture/art-architecture/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/art-architecture/article/202207241455001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T14:55:00.000Z</pubDate>
+      <content:encoded>
+        세계적인 아티스트 셰퍼드 페어리(사진 오른쪽)가 지난 22일 서울 송파구 문화실험공간 호수를 찾아 외벽에 직접 그래피티 작업을 한 뒤 서강석 송파구청장과 함께 기념촬영을 하고 있다. |송파구 제공&lt;br /&gt;
+        &lt;br /&gt;
+        서울 송파구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>생태계교란 생물종 늑대거북, 청주 아파트 단지 연못서 포획</title>
+      <link>https://www.khan.co.kr/local/Chungbuk/article/202207241556001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/local/Chungbuk/article/202207241556001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T15:56:00.000Z</pubDate>
+      <content:encoded>
+        충북 청주시 서원구 성화동 한 아파트단지 공원 인공연못에서 24일 오후 포획된 늑대거북. 청주시 제공.&lt;br /&gt;
+        &lt;br /&gt;
+        생태계교란 생물로 지정된 늑대거북이 충북 청주 성화동 한 아파트 단지 연못에서 포획됐다.&lt;br /&gt;
+        &lt;br /&gt;
+        청주시는 붉은···
+      </content:encoded>
+    </item>
+    <item>
+      <title>생태계교란 생물종 늑대거북, 청주 아파트 단지 연못서 포획</title>
+      <link>https://www.khan.co.kr/national/national-general/article/202207241556001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/national/national-general/article/202207241556001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T15:56:00.000Z</pubDate>
+      <content:encoded>
+        충북 청주시 서원구 성화동 한 아파트단지 공원 인공연못에서 24일 오후 포획된 늑대거북. 청주시 제공.&lt;br /&gt;
+        &lt;br /&gt;
+        생태계교란 생물로 지정된 늑대거북이 충북 청주 성화동 한 아파트 단지 연못에서 포획됐다.&lt;br /&gt;
+        &lt;br /&gt;
+        청주시는 붉은···
+      </content:encoded>
+    </item>
+    <item>
+      <title>생태계교란 생물종 늑대거북, 청주 아파트 단지 연못서 포획</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207241556001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207241556001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T15:56:00.000Z</pubDate>
+      <content:encoded>
+        충북 청주시 서원구 성화동 한 아파트단지 공원 인공연못에서 24일 오후 포획된 늑대거북. 청주시 제공.&lt;br /&gt;
+        &lt;br /&gt;
+        생태계교란 생물로 지정된 늑대거북이 충북 청주 성화동 한 아파트 단지 연못에서 포획됐다.&lt;br /&gt;
+        &lt;br /&gt;
+        청주시는 붉은···
+      </content:encoded>
+    </item>
+    <item>
+      <title>언론 속 ‘이대남·이대녀’의 진짜 모습들…EBS1 ‘특집 다큐’</title>
+      <link>https://www.khan.co.kr/culture/tv/article/202207242216055/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/tv/article/202207242216055/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T22:16:05.000Z</pubDate>
+      <content:encoded>지난 6월 기준, 청년 실업자는 30만명에 달한다. 청년 부채율은 코로나19를 거치며 나날이 상승 곡선을 그린다. 20대 성별 간 인식 격차는 최고조에 달한다. ‘Z세대’ ‘이대남’ ‘이대녀’ 등으로 불리는 20대에게···</content:encoded>
+    </item>
+    <item>
+      <title>[TV하이라이트]2022년 7월 25일</title>
+      <link>https://www.khan.co.kr/culture/tv/article/202207242217005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/tv/article/202207242217005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T22:17:00.000Z</pubDate>
+      <content:encoded>
+        ‘코인 폭망’ 대훈씨의 목장 적응기&lt;br /&gt;
+        &lt;br /&gt;
+        ■인간극장(KBS1 오전 7시50분) = 경기 가평의 한 한우목장. 부자의 티격태격하는 소리가 오늘도 끊이지 않는다. 일확천금을 꿈꾸며 가상통화 투자 대열에 뛰어들었지만, 남은···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[케이블·위성 하이라이트]2022년 7월 25일</title>
+      <link>https://www.khan.co.kr/culture/tv/article/202207242217015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/tv/article/202207242217015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-24T22:17:01.000Z</pubDate>
+      <content:encoded>■ 영화 ■ 앵커(캐치온1 오후 7시40분) = 방송사를 대표하는 앵커 세라(천우희). 세라가 진행을 맡은 뉴스 방송이 나가기 5분 전, 자신이 살해될 것이라며 죽음을 예고하는 제보 전화가 걸려 온다. 세라는 당연하게···</content:encoded>
     </item>
   </channel>
 </rss>
