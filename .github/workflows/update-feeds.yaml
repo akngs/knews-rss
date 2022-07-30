@@ -14,8 +14,7 @@ jobs:
       with:
         deno-version: v1.x
     - name: Fetch data
-      run: |
-        deno run --allow-read --allow-write --allow-net src/index.ts
+      run: bins/collect.sh && bins/merge.sh
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:

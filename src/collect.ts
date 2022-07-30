@@ -1,11 +1,11 @@
-import { fetchFeeds, loadFeedSpecs, serialize } from "./parser.ts";
+import { fetchFeeds, loadFeedSpecs } from "./parser.ts";
 import { sleep } from "./deps.ts";
 const feedSpecs = await loadFeedSpecs(
   "./data/publishers.csv",
   "./data/feed_specs.csv",
 );
 
-await Deno.mkdir("rss/raws", { recursive: true });
+await Deno.mkdir("rss/jsons", { recursive: true });
 
 feedSpecs.forEach(async (spec, i) => {
   try {
@@ -13,10 +13,9 @@ feedSpecs.forEach(async (spec, i) => {
     await sleep.sleep(1 + i % 5);
 
     const categories = spec.categories.join("-");
-    const filename = `rss/raws/${spec.publisher.id}-${categories}.xml`;
+    const filename = `rss/jsons/${spec.publisher.id}-${categories}.json`;
     const feeds = await fetchFeeds(spec);
-    const xml = serialize(spec, feeds);
-    await Deno.writeTextFile(filename, xml);
+    await Deno.writeTextFile(filename, JSON.stringify(feeds));
   } catch (e) {
     console.log(e);
   }
