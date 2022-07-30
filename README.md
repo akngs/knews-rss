@@ -7,15 +7,34 @@
 - [data/publishers.csv](data/publishers.csv): 정리된 언론사 목록
 - [data/feed_specs.csv](data/feed_specs.csv): 언론사별 RSS 명세 목록
 
+# 수집된 RSS 예시
+
+전체:
+
+- https://akngs.github.io/knews-rss/all.xml
+
+분야별:
+
+- https://akngs.github.io/knews-rss/categories/column.xml
+- https://akngs.github.io/knews-rss/categories/women.xml
+- https://akngs.github.io/knews-rss/categories/tech.xml
+
+언론사별:
+
+- https://akngs.github.io/knews-rss/publishers/hani.xml
+- https://akngs.github.io/knews-rss/publishers/khan.xml
+- https://akngs.github.io/knews-rss/publishers/mediatoday.xml
+
 # 기여하기
 
 - 아래 참고자료 목록을 참고하여 `publishers.csv`와 `feed_specs.csv`에 빠진 데이터를 추가한 뒤 PR을 보내주세요.
 - 데이터를 추가할 때 언론사 이름 기준 가나다순 정렬이 유지되도록 해주세요.
-- `feed_specs.csv`의 `categories`에는 다음 값들을 `|`로 구분하여 적어주세요. 분류에 부합되지 않는 RSS는 당분간 제외하고자
-  합니다:
+- `feed_specs.csv`의 `categories`에는 다음 값들을 `|`로 구분하여 적어주세요. 분류에 부합되지 않는 RSS는 당분간
+  제외하고자 합니다:
   - `_all_`: 전체 기사
-  - `IT`, `건강`, `경제`, `과학`, `국제`, `만화`, `문화`, `사설`, `사회`, `스포츠`, `여성`, `연예`,
-    `인물`, `의학`, `정치`
+  - `it`, `health`, `economy`, `science`, `international`, `cartoon`, `culture`,
+    `opinion`, `society`, `sports`, `women`, `entertainment`, `people`, `tech`,
+    `medical`, `politics`
 
 # 참고자료
 
