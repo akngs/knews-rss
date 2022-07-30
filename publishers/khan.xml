@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>경향신문 - 생활/레저</title>
-    <link>https://www.khan.co.kr/rss/rssdata/skentertain_news.xml</link>
-    <description>경향신문 - 생활/레저</description>
-    <lastBuildDate>2022-07-30T03:25:11.991Z</lastBuildDate>
+    <title>경향신문 - 문화</title>
+    <link>https://www.khan.co.kr/rss/rssdata/culture_news.xml</link>
+    <description>경향신문 - 문화</description>
+    <lastBuildDate>2022-07-30T03:26:40.048Z</lastBuildDate>
     <item>
       <title>“5G 서울·부산 KT가 가장 잘 터져”…&amp;#160;3사 모두 서울 5G 가용성 100% 육박</title>
       <link>https://www.khan.co.kr/it/it-general/article/202207281611011/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=it_news</link>
@@ -29,19 +29,6 @@
       <guid>https://www.khan.co.kr/it/it-general/article/202207282134025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=it_news</guid>
       <pubDate>2022-07-28T21:34:02.000Z</pubDate>
       <content:encoded>페이스북과 인스타그램 사용자에게 광범위한 개인정보 수집에 동의하지 않으면 사용하지 못하게 강요했던 메타가 결국 꼬리를 내렸다. 비판 여론이 거세지고 개인정보보호위원회까지 나서 우려를 표하자 기존 방침을···</content:encoded>
-    </item>
-    <item>
-      <title>[오늘 날씨] 구름 많고 내륙 소나기, 서울 낮 최고 35도 폭염</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290000003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290000003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T00:00:00.000Z</pubDate>
-      <content:encoded>
-        28일 강원 원주시 한 하천 산책로 조경용 바나나 나무에서 바나나가 자라고 있다. 연합뉴스&lt;br /&gt;
-        &lt;br /&gt;
-        금요일인 29일은 전국에 가끔 구름이 많겠다.&lt;br /&gt;
-        &lt;br /&gt;
-        경기 북부와 강원 내륙·산지, 충청권 내륙, 전북 북부 내륙, 경상 서부 내···
-      </content:encoded>
     </item>
     <item>
       <title>[권헌영의 사람과 디지털] 플랫폼 자율규제의 성공 조건</title>
@@ -643,28 +630,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>브랜드엑스코퍼레이션, ‘디지털 패션’ 진출 선언…컴투버스와 MOU</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290918003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290918003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T09:18:00.000Z</pubDate>
-      <content:encoded>
-        브랜드엑스코퍼레이션이 메타버스 전문 기업 컴투버스와 디지털 패션 제휴사업 추진을 위한 업무협약을 체결했다고 29일 밝혔다.&lt;br /&gt;
-        &lt;br /&gt;
-        컴투버스는 컴투스와 그룹 계열사 위지윅스튜디오, 엔피가 공동 설립한 메타버스 전···
-      </content:encoded>
-    </item>
-    <item>
-      <title>동서식품, 경남 창원공장에 두 번째 스마트팩토리 가동</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290922003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290922003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T09:22:00.000Z</pubDate>
-      <content:encoded>
-        동서식품이 두 번째 스마트팩토리 가동을 시작한다.&lt;br /&gt;
-        &lt;br /&gt;
-        동서식품은 커피 제조공장인 경상남도 창원공장에 스마트팩토리를 본격 가동한다고  29 일 밝혔다.  동서식품의 스마트팩토리 도입은  2020 년 인천 부평공장에 ···
-      </content:encoded>
-    </item>
-    <item>
       <title>푸에르토리코 해역서 밀입국 5명 익사…미국행 이민자들 사망 잇따라</title>
       <link>https://www.khan.co.kr/world/america/article/202207290923001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/world/america/article/202207290923001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -688,17 +653,6 @@
         미국으로 가려던 중남미 등 출신의 이민자들이 잇따라 숨졌다.&lt;br /&gt;
         &lt;br /&gt;
         28일(현지시간) 미국령 푸에르토리코 인근 해역에서는 ···
-      </content:encoded>
-    </item>
-    <item>
-      <title>“미식가와 함께 맛집 탐방”&amp;#160;스텔라 아르투아, 프라이빗 미식 모임 참가자 모집</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290926003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207290926003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T09:26:00.000Z</pubDate>
-      <content:encoded>
-        맥주 브랜드 스텔라 아르투아가 프라이빗 미식 모임 ‘스텔라 다이닝 클럽’ 참가자를 모집한다.&lt;br /&gt;
-        &lt;br /&gt;
-        스텔라 아르투아는 29일 이 같이 밝히며 ‘스텔라 다이닝 클럽’은 소비자들이 유명 푸드 인플루언서들과 색다른 미···
       </content:encoded>
     </item>
     <item>
@@ -958,18 +912,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>페리페라, 오뚜기 컬래버 판매 수익금 일부 기부</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291007003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291007003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T10:07:00.000Z</pubDate>
-      <content:encoded>
-        감성 뷰티 브랜드 페리페라가 아름다운 기부를 이어간다.&lt;br /&gt;
-        &lt;br /&gt;
-        클리오는 자사 브랜드 페리페라가 지난 5월 식품 브랜드 오뚜기와 컬래버레이션을 통해 얻은 판매 수익금 일부를 아름다운재단에 기부했다고 28일 밝혔다.&lt;br /&gt;
-        ···
-      </content:encoded>
-    </item>
-    <item>
       <title>우상호 “‘내부총질’ 문자 보낸 사람 사과 않고 받은 사람이 사과···윤 대통령이 여권에 내부총질한 셈”</title>
       <link>https://www.khan.co.kr/politics/politics-general/article/202207291008001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/politics/politics-general/article/202207291008001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -1125,17 +1067,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>허리 통증에 다리 저림 증상....척추관협착증 의심</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291022003&amp;sec_id=561801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291022003&amp;sec_id=561801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T10:22:00.000Z</pubDate>
-      <content:encoded>
-        척추는 몸의 하중을 지탱하는 동시에 몸을 움직이는데 있어 중요한 역할을 한다. 이러한 척추에 다양한 질환이 발생될 경우 걷거나 움직이는데 있어 불편을 초래하면서 일상생활의 불편을 야기한다.&lt;br /&gt;
-        &lt;br /&gt;
-        그중 척추관협···
-      </content:encoded>
-    </item>
-    <item>
       <title>“인천공항과 같은 중·남부권 중추공항으로”…내달 초 대구·경북 통합신공항 특별법 발의</title>
       <link>https://www.khan.co.kr/local/Daegu/article/202207291022001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/local/Daegu/article/202207291022001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -1168,17 +1099,6 @@
         &lt;br /&gt;
         &lt;br /&gt;
         ‘인하대 성폭력 사망 사건’에 대한 김현숙 여성가족부 장관의 말이다. 이 발언을 담은 인터뷰가 보도되자 “성···
-      </content:encoded>
-    </item>
-    <item>
-      <title>라그나로크 팬들 모여라…그라비티, ‘스무 살의 라그나로크 페스티벌’ 개최</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291035003&amp;sec_id=560201&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291035003&amp;sec_id=560201&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T10:35:00.000Z</pubDate>
-      <content:encoded>
-        글로벌 인기 게임 라그나로크가 20주년 기념 오프라인 유저 행사 ‘스무 살의 라그나로크 페스티벌’을 개최한다.&lt;br /&gt;
-        &lt;br /&gt;
-        그라비티는 29일 이 같이 밝히며 ‘스무 살의 라그나로크 페스티벌’은 그라비티의 대표 온라인 PC···
       </content:encoded>
     </item>
     <item>
@@ -1347,19 +1267,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>SKT,&amp;#160;신규 5G 요금제 출시 “고객 선택권·혜택 강화”</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291100003&amp;sec_id=561101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291100003&amp;sec_id=561101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T11:00:00.000Z</pubDate>
-      <content:encoded>
-        SK텔레콤이 고객 선택권과 혜택을 강화한 신규 5G 요금제를 공개했다.&lt;br /&gt;
-        &lt;br /&gt;
-        SK텔레콤은 다음 달 5일 고객의 사용 패턴에 맞춰 보다 세분화한 5G 요금제를 출시한다고 29일 밝혔다.&lt;br /&gt;
-        &lt;br /&gt;
-        신규 5G 요금제는 ▲5G 일반 요금제 3···
-      </content:encoded>
-    </item>
-    <item>
       <title>‘그놈 목소리’ 잡는다…범정부 ‘보이스피싱 합수단’ 출범</title>
       <link>https://www.khan.co.kr/national/national-general/article/202207291100001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/national/national-general/article/202207291100001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -1437,6 +1344,17 @@
     </item>
     <item>
       <title>[책과 삶]봉준호도 반한 지구 멸망 이후 얼음 행성··· ‘미키7’에 대한 7가지 이야기</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207291113001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207291113001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T11:13:00.000Z</pubDate>
+      <content:encoded>
+        &amp;lt;미키7&amp;gt;  주무대인 니플하임은 얼음 행성이다.  복제인간 익스펜더블은 위험한 임무를 수행한다.  위 이미지는 황금가지가 &amp;lt;미키7&amp;gt;  배경에  어울리는 것들을 찾아 고른 것이다.  황금가지 제공&lt;br /&gt;
+        &lt;br /&gt;
+        미키···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]봉준호도 반한 지구 멸망 이후 얼음 행성··· ‘미키7’에 대한 7가지 이야기</title>
       <link>https://www.khan.co.kr/culture/book/article/202207291113001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207291113001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T11:13:00.000Z</pubDate>
@@ -1444,6 +1362,21 @@
         &amp;lt;미키7&amp;gt;  주무대인 니플하임은 얼음 행성이다.  복제인간 익스펜더블은 위험한 임무를 수행한다.  위 이미지는 황금가지가 &amp;lt;미키7&amp;gt;  배경에  어울리는 것들을 찾아 고른 것이다.  황금가지 제공&lt;br /&gt;
         &lt;br /&gt;
         미키···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[김민정의 도쿄 책갈피]회사에는 좋은 사람이지만 좋은 동료는 아닌···그런 사람도 있잖아</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207291117001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207291117001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T11:17:00.000Z</pubDate>
+      <content:encoded>
+        맛있는 밥을 먹을 수 있기를&lt;br /&gt;
+        &lt;br /&gt;
+        맛있는 밥을 먹을 수 있기를&lt;br /&gt;
+        &lt;br /&gt;
+        다카세 준코&lt;br /&gt;
+        &lt;br /&gt;
+        전원 여성 작가라고요? 그렇다. 올해 아쿠타가와상 후보 다섯 작품 모두 여성 작가의 작품이었다. 언론들은 이례적인 일이라고 떠들어···
       </content:encoded>
     </item>
     <item>
@@ -1676,6 +1609,22 @@
     </item>
     <item>
       <title>[책과 삶] ‘완벽하게 공정한 경쟁’은 없다···‘능력주의’는 불평등을 키울 뿐</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207291143001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207291143001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T11:43:00.000Z</pubDate>
+      <content:encoded>
+        공정 이후의 세계&lt;br /&gt;
+        김정희원 지음｜창비｜264쪽｜1만7000원&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        윤석열 대통령이 대선 후보 시절 ‘“윤석열표 공정” “공정이 상식이 되는 나라”를 슬로건으로 내세웠다. 국회사진기자단&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        인국공 비정규직 ····
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶] ‘완벽하게 공정한 경쟁’은 없다···‘능력주의’는 불평등을 키울 뿐</title>
       <link>https://www.khan.co.kr/culture/book/article/202207291143001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207291143001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T11:43:00.000Z</pubDate>
@@ -1885,17 +1834,6 @@
       <content:encoded>이종호 과학기술정보통신부 장관이 지난 11일 서울 중구 대한상공회의소에서 열린 통신3사 CEO 간담회에 참석해 기념촬영을 하고 있다.  왼쪽부터 유영상 SK텔레콤 대표, 이 장관, 구현모 KT 대표, 황현식 LG유플러스···</content:encoded>
     </item>
     <item>
-      <title>e스포츠 게임단 젠지, ‘버버리’와 컬래버 영상 제작</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291248003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291248003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T12:48:00.000Z</pubDate>
-      <content:encoded>
-        영국의 명품 브랜드 버버리가 e스포츠 게임단 젠지(Gen.G)와 협력키로 했다. 게임계에서 여성을 지지하고 포용의 중요성을 알린다는 계획이다.&lt;br /&gt;
-        &lt;br /&gt;
-        버버리는 ‘네트워크: 인스파이어(NetWORK: Inspire)’ 프로그램의 일···
-      </content:encoded>
-    </item>
-    <item>
       <title>바이든,&amp;#160;미국 경기침체 논란에  “올바른 길로 가고 있다”… ‘한국기업 투자’까지 언급하며 적극 방어</title>
       <link>https://www.khan.co.kr/world/world-general/article/202207291259001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/world/world-general/article/202207291259001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -1915,17 +1853,6 @@
         조 바이든 미국 대통령이 28일(현지시간) 워싱턴 DC의 아이젠하워 행정청사에서 열린 기업 CEO들과의 간담회 자리에서 발언하고 있다. 워싱턴 | EPA연합뉴스&lt;br /&gt;
         &lt;br /&gt;
         미국의 국내총생산(GDP)이 2분기 연속 역성장을 기록하면···
-      </content:encoded>
-    </item>
-    <item>
-      <title>냉감웨어, 더워서 즐거워</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291300003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291300003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T13:00:00.000Z</pubDate>
-      <content:encoded>
-        폭염이 이어지면서 냉감 기능성 웨어의 매출이 급증하고 있다. 특히 짧은 장마 뒤 ‘역대급’ 더위가 이어질 것이라는 전망이 나오면서 냉감 기능성 웨어의 인기는 더욱 높아질 것으로 전망된다.&lt;br /&gt;
-        &lt;br /&gt;
-        고유의 기능성 냉감···
       </content:encoded>
     </item>
     <item>
@@ -1970,19 +1897,6 @@
         미 공군 F-35A 항공기가 2020년 1월 6일 미국 유타주 힐 공군기지에서 훈련 도중 정렬하고 있다. 로이터연합뉴스&lt;br /&gt;
         &lt;br /&gt;
         미국 국무부가 자국 최신예 전투기 F-35를 독일에 판매하는 방안을 승인했다고 미 국방부 산하 국방···
-      </content:encoded>
-    </item>
-    <item>
-      <title>제주의 중심에서 ‘녹나무’ 한우를…스페셜 차림 출시</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291308003&amp;sec_id=561050&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291308003&amp;sec_id=561050&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T13:08:00.000Z</pubDate>
-      <content:encoded>
-        롯데관광개발은 제주 드림타워 복합리조트 내 그랜드 하얏트 제주의 한식당 ‘녹나무’에서 한우 스페셜 차림 메뉴를 출시했다고 28일 밝혔다.&lt;br /&gt;
-        &lt;br /&gt;
-        녹나무 ‘한우 플레터’. 롯데관광개발 제공&lt;br /&gt;
-        &lt;br /&gt;
-        롯데관광개발에 따르면 ···
       </content:encoded>
     </item>
     <item>
@@ -2183,6 +2097,20 @@
         &lt;br /&gt;
         우상호 더불어민주당 비상대책위원장은 29일 윤석열 대통령 직무수행 긍정율이 28%를 기록, 30%선이···
       </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]진짜 무서운 건 귀신이 아니다. 불안한 눈빛을 지닌 인간이다···여성 소설가 3인이 꼽은 ‘무더위 날릴 공포소설’</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207291418001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207291418001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T14:18:00.000Z</pubDate>
+      <content:encoded>연일 최고기온 30도가 넘어가는 무더위가 이어지고 있다. 날씨뿐 아니라 세상이 돌아가는 모습도 푹푹 찌긴 마찬가지다. 코로나19의 재확산, 어려운 경제상황 등…. 잠시나마 뒷덜미를 서늘하게, 등줄기를 오싹하게 ···</content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]진짜 무서운 건 귀신이 아니다. 불안한 눈빛을 지닌 인간이다···여성 소설가 3인이 꼽은 ‘무더위 날릴 공포소설’</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207291418001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207291418001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T14:18:00.000Z</pubDate>
+      <content:encoded>연일 최고기온 30도가 넘어가는 무더위가 이어지고 있다. 날씨뿐 아니라 세상이 돌아가는 모습도 푹푹 찌긴 마찬가지다. 코로나19의 재확산, 어려운 경제상황 등…. 잠시나마 뒷덜미를 서늘하게, 등줄기를 오싹하게 ···</content:encoded>
     </item>
     <item>
       <title>[책과 삶]진짜 무서운 건 귀신이 아니다. 불안한 눈빛을 지닌 인간이다···여성 소설가 3인이 꼽은 ‘무더위 날릴 공포소설’</title>
@@ -2494,6 +2422,23 @@
     </item>
     <item>
       <title>[책과 삶]빙하와의 작별인사를 준비하세요, 우리도 머지 않았으니</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207291447001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207291447001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T14:47:00.000Z</pubDate>
+      <content:encoded>
+        ⓒJemma Wadham&lt;br /&gt;
+        &lt;br /&gt;
+        문학수첩 &amp;lt;빙하여 안녕&amp;gt; 표지. 문학수첩 제공.&lt;br /&gt;
+        &lt;br /&gt;
+        빙하여 안녕&lt;br /&gt;
+        &lt;br /&gt;
+        제마 워덤 지음·박아람 옮김&amp;#9474;문학수첩&amp;#9474;336쪽&amp;#9474;1만4000원&lt;br /&gt;
+        &lt;br /&gt;
+        빙하가 녹아서 북극곰이 살 곳이 줄어든다.···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]빙하와의 작별인사를 준비하세요, 우리도 머지 않았으니</title>
       <link>https://www.khan.co.kr/culture/book/article/202207291447001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207291447001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T14:47:00.000Z</pubDate>
@@ -2523,21 +2468,18 @@
       </content:encoded>
     </item>
     <item>
-      <title>[연재 소설] 세라의 티키타카(35화)</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291451003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291451003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T14:51:00.000Z</pubDate>
-      <content:encoded>아침부터 내린 비는 조금씩 잦아들었다. 세라는 침대에 모로 누워 창밖으로 보이는 사각 하늘을 쳐다봤다. 얼기설기 꼬인 전깃줄에 대롱대롱 매달린 빗방울이 그네를 타고 있었다. 전선 위에 새가 날아오를 때마다 후···</content:encoded>
-    </item>
-    <item>
-      <title>더스윙 골프, 추민형 신임 대표이사 영입</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291454003&amp;sec_id=561901&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291454003&amp;sec_id=561901&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
+      <title>히스테리에 &apos;여성의 얼굴&apos;을 씌운 건 누구였을까[플랫]</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207291454001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207291454001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
       <pubDate>2022-07-29T14:54:00.000Z</pubDate>
       <content:encoded>
-        ‘더스윙 골프’가 추민형 신임 대표이사를 8월 1일자로 영입한다고 밝혔다.&lt;br /&gt;
+        정상은 없다&lt;br /&gt;
+        로이 리처드 그린커 지음·정해영 옮김｜메멘토｜600쪽｜3만3000원 &lt;br /&gt;
         &lt;br /&gt;
-        더스윙 골프 경영진은 추 대표이사의 이력과 성과를 토대로, 급성장하고 있는 더스윙 골프의 내실을 다질 수 있는 적임자라 판단했다고···
+        &lt;br /&gt;
+        히스테리 증세가 있는 여성을 묘사한 1893년의 그림. 위키피디아&lt;br /&gt;
+        &lt;br /&gt;
+        로이 리처드 그린커의 증조할아버지 줄리어드는 19세기 후···
       </content:encoded>
     </item>
     <item>
@@ -2640,19 +2582,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>티파니, 지역 사회 긍정 변화 도모 ‘티파니 아트리움’ 프로그램 런칭</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291502003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291502003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T15:02:00.000Z</pubDate>
-      <content:encoded>
-        글로벌 주얼리 하우스 티파니가 사회 전반에 긍정적 영향을 도모하기 위한 플랫폼 ‘티파니 아트리움 (Tiffany Atrium)’을 런칭한다고 발표했다.&lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        플랫폼 명칭인 ‘아트리움’은 브랜드의 리턴 투 티파니 하트···
-      </content:encoded>
-    </item>
-    <item>
       <title>민주당 “엉터리 같은 국정운영 기조···감사원은 청부 감사 행동대장”</title>
       <link>https://www.khan.co.kr/politics/politics-general/article/202207291502001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/politics/politics-general/article/202207291502001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -2716,41 +2645,6 @@
         우상호 더불어민주당 비상대책위원장이 29일 국회에서 열린 비상대책위원회 회의에서 발언하고 있다. 국회사진기자단&lt;br /&gt;
         &lt;br /&gt;
         더불어민주당은 29일 윤석열 정부가 사정기관과 감사원을 통한 전 정권 압박에만 몰두하고 민생···
-      </content:encoded>
-    </item>
-    <item>
-      <title>부산스러운 식당, ‘대한민국 1인 미디어 대전’ 크리에이터 이색 요리 대결</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291507003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291507003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T15:07:00.000Z</pubDate>
-      <content:encoded>
-        크리에이터들의 축제 ‘대한민국 1인 미디어 대전’에서 이색 요리 대결이 펼쳐진다.&lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        &lt;br /&gt;
-        이번 요리 대결 주인공은 만화가이자 인기 요리 프로그램에서 참신한 레시피들을 선보인 김풍 작가와 크리에이터 승우아빠···
-      </content:encoded>
-    </item>
-    <item>
-      <title>미쉐린, 클래리베이트 R&amp;amp;D 포럼 100대 기업 선정</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291510003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291510003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T15:10:00.000Z</pubDate>
-      <content:encoded>
-        글로벌 모빌리티 선도 기업 미쉐린이 미국의 글로벌 학술정보서비스 기업 클래리베이트가 선정하는 2022년 글로벌 100대 혁신 기업에 선정됐다.&lt;br /&gt;
-        &lt;br /&gt;
-        클래리베이트는 혁신 속도를 높이기 위해 신뢰할 수 있는 인사이트···
-      </content:encoded>
-    </item>
-    <item>
-      <title>미래 읽는 포르쉐 AG, 2022년도 상반기 매출, 영업 이익 모두 올라</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291514003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291514003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T15:14:00.000Z</pubDate>
-      <content:encoded>
-        포르쉐 AG는 2022년 상반기 동안 179억 2천만 유로의 매출과 34억 8천만 유로의 영업 이익, 19.4 퍼센트의 이익률(전년 동기 16.9%)을 달성했다고 밝혔다.&lt;br /&gt;
-        &lt;br /&gt;
-        이번 2022 상반기 실적은 165억 3천만 유로의 매출과 27···
       </content:encoded>
     </item>
     <item>
@@ -3242,6 +3136,13 @@
       </content:encoded>
     </item>
     <item>
+      <title>[도대체 작가의 토요툰]‘공생’ 알지? 공생을 좀 해보자고~</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207291612005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207291612005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T16:12:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
       <title>기름만 넣는 주유소? 현대오일뱅크의 변신은 계속된다</title>
       <link>https://www.khan.co.kr/travel/national/article/202207291612001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/travel/national/article/202207291612001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -3513,17 +3414,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>&amp;#32654; 대형 록페스티벌 ‘2022 롤라팔루자’ 개막…BTS 제이홉 한국 아티스트 최초로 주요 미국 페스티벌 헤드라이너</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291630013&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291630013&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T16:30:01.000Z</pubDate>
-      <content:encoded>
-        연합뉴스&lt;br /&gt;
-        &lt;br /&gt;
-        미국 시카고에서 열리는 세계 최대 규모 록 페스티벌 ‘2022 롤라팔루자’(Lollapalooza)가 28일(이하 현지시간) 개막을 했다.페스티벌은 나흘간 오전 11시부터 밤 10시까지 미시간호수와 시카고 마천루를···
-      </content:encoded>
-    </item>
-    <item>
       <title>LG전자, 2분기 최대 매출에도 ‘영업이익 감소’...차 전장부문은 첫 흑자</title>
       <link>https://www.khan.co.kr/economy/economy-general/article/202207291632001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/economy/economy-general/article/202207291632001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -3612,21 +3502,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>‘제5회 울산단편영화제’ 29&amp;#8764;30일 개최…홍보대사 김명수ㄱ이가령</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291641003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291641003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T16:41:00.000Z</pubDate>
-      <content:encoded>
-        울산단편영화제 제공&lt;br /&gt;
-        &lt;br /&gt;
-        제5회 울산단편영화제가 29&amp;#8764;30일 동구 일산해수욕장에서 개최된다.&lt;br /&gt;
-        &lt;br /&gt;
-        작품 공모 결과 단편영화, 애니메이션, 다큐멘터리 등 총 696편을 접수했고, 최종 47편이 본선에 진출했다.&lt;br /&gt;
-        &lt;br /&gt;
-        영화제 ···
-      </content:encoded>
-    </item>
-    <item>
       <title>[오늘의 증시경향]코스피 상승 마감…인도, 배틀그라운드 모바일 차단에 크래프톤 급락</title>
       <link>https://www.khan.co.kr/economy/finance/article/202207291646001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/economy/finance/article/202207291646001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -3685,6 +3560,17 @@
       <guid>https://www.khan.co.kr/national/national-general/article/202207291649005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=society_news</guid>
       <pubDate>2022-07-29T16:49:00.000Z</pubDate>
       <content:encoded>99일 만에 10만명이 넘었다. 지난 27일 0시 기준으로 집계된 코로나19 신규 확진자 수치다. 반인반마(半人半馬) 괴물 ‘켄타우로스’라는 이름까지 붙여준 것으로 보아 최근의 변이 바이러스는 전파력이 말처럼 빠른···</content:encoded>
+    </item>
+    <item>
+      <title>[위근우의 리플레이] ‘나 혼자만 레벨업’은커녕, 나 혼자 관리해야 하는 웹툰 작가들</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207291649015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207291649015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T16:49:01.000Z</pubDate>
+      <content:encoded>
+        제동장치 없는 과로 시장의 비극…이런 부고, 다시 나와선 안 된다&lt;br /&gt;
+        &lt;br /&gt;
+        지난 23일, 한 명의 창작노동자가 세상을 떠났다. 세계적인 인기를 끈 카카오페이지 웹툰 &amp;lt;나 혼자만 레벨업&amp;gt;(이하 &amp;lt;나혼렙&amp;gt;)의 작···
+      </content:encoded>
     </item>
     <item>
       <title>[위근우의 리플레이] ‘나 혼자만 레벨업’은커녕, 나 혼자 관리해야 하는 웹툰 작가들</title>
@@ -3858,19 +3744,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>김호중, 게임 ‘스타웨이 김호중’ 공식 영상 오픈</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291741003&amp;sec_id=560201&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291741003&amp;sec_id=560201&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T17:41:00.000Z</pubDate>
-      <content:encoded>
-        스노우볼 제공&lt;br /&gt;
-        &lt;br /&gt;
-        가수 김호중이 주인공으로 등장하는 모바일 게임 ‘스타웨이 김호중’의 공식 영상이 공개됐다.&lt;br /&gt;
-        &lt;br /&gt;
-        29일 오후 2시 게임 제작사 스노우볼스의 공식 유튜브 채널을 통해 ‘스타웨이 김호중(STARWAY 김호중···
-      </content:encoded>
-    </item>
-    <item>
       <title>감사원 중립성 두고 법사위서 충돌한 여야···국민의힘 “이재명도 감사해야” VS. 민주당 “표적 감사”</title>
       <link>https://www.khan.co.kr/politics/assembly/article/202207291742001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/politics/assembly/article/202207291742001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -3937,41 +3810,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>복합문화공간 ‘로얄멜팅클럽’, 한남동에 확장 오픈</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291804003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291804003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T18:04:00.000Z</pubDate>
-      <content:encoded>
-        복합문화공간 ‘로얄멜팅클럽’이 7월 15일 한남동에 확장 오픈했다.&lt;br /&gt;
-        &lt;br /&gt;
-        전체 6층으로 이루어진 로얄멜팅클럽은 지하 1층 베이킹 공간을 비롯해 1, 2층은 카페, 3층은 전시 공간인 아트 스페이스, 4층은 베이킹클래스···
-      </content:encoded>
-    </item>
-    <item>
-      <title>연세본사랑병원, 부천시탁구협회와 경기력 향상위한 MOU 체결</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291805003&amp;sec_id=561801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291805003&amp;sec_id=561801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T18:05:00.000Z</pubDate>
-      <content:encoded>
-        연세본사랑병원은 29일(금) 부천시탁구협회 임직원 및 동호회 회원들의 경기력 향상을 위해 전문적인 의료서비스를 지원하는 협약을 체결했다. &lt;br /&gt;
-        &lt;br /&gt;
-        협약식에는 연세본사랑병원 권세광·최철준 병원장과 부천시탁구협···
-      </content:encoded>
-    </item>
-    <item>
-      <title>호텔신라 2분기 영업이익 432억, 작년 동기 대비 6.8% 감소</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291809003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291809003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T18:09:00.000Z</pubDate>
-      <content:encoded>
-        호텔신라 로고&lt;br /&gt;
-        &lt;br /&gt;
-        코스피 상장사인 호텔신라는 연결 기준 올해 2분기 영업이익이 432억원으로 지난해 동기보다 6.8% 감소한 것으로 잠정 집계됐다고 29일 공시했다.&lt;br /&gt;
-        &lt;br /&gt;
-        이번 영업이익은 연합인포맥스가 집계한 시장 전망···
-      </content:encoded>
-    </item>
-    <item>
       <title>대통령 직속 디지털플랫폼정부위원장, ‘고건 아들’ 고진</title>
       <link>https://www.khan.co.kr/politics/president/article/202207291812001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/politics/president/article/202207291812001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -4019,17 +3857,6 @@
         &lt;br /&gt;
         &lt;br /&gt;
         더불어민주당 8·28 전당대회 대표 경선에 출마한 이재명 후···
-      </content:encoded>
-    </item>
-    <item>
-      <title>럭키데이, 아미네, 오드리누나 그리고 사이먼 도미닉까지 ‘랩비트 페스티벌’ 최종 라인업 발표</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291816003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291816003&amp;sec_id=560801&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T18:16:00.000Z</pubDate>
-      <content:encoded>
-        오는  9월 3일부터 4일까지 과천 서울랜드에서 열리는 대형 뮤직 페스티벌 ‘RAPBEAT 2022(이하 랩비트)’가 최종 라인업을 공개했다.&lt;br /&gt;
-        &lt;br /&gt;
-        발표마다 강력한 라인업으로 대중의 뜨거운 호응을 받은 랩비트가 대망의 최종···
       </content:encoded>
     </item>
     <item>
@@ -4121,30 +3948,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>‘2022 부산여행영화제’ 8월 5일 개막</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291837003&amp;sec_id=561050&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291837003&amp;sec_id=561050&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T18:37:00.000Z</pubDate>
-      <content:encoded>
-        ‘우리가 사랑이라고 믿는 것’ 스틸. 영화의전당 제공&lt;br /&gt;
-        &lt;br /&gt;
-        스크린에서 영화 속 여행지로 떠나는 2022 부산여행영화제가 다음 달 5일 영화의전당에서 개막한다.&lt;br /&gt;
-        &lt;br /&gt;
-        8월 7일까지 부산 해운대구 영화의전당 소극장에서 열리···
-      </content:encoded>
-    </item>
-    <item>
-      <title>펩시콜라 악취 안전 이상 없는 것으로…“더운 날씨 유통 중 발생”</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291846003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207291846003&amp;sec_id=564001&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T18:46:00.000Z</pubDate>
-      <content:encoded>
-        펩시콜라 ‘제로슈거’ 일부 제품에서 이어진 악취 논란에 대해 식약처가 안전하다는 조사 결과를 발표했다.&lt;br /&gt;
-        &lt;br /&gt;
-        식품의약품안전처는 29일 최근 롯데칠성음료의 탄산음료 콜라 ‘펩시 제로슈거’ 악취 논란과 관련, 유통···
-      </content:encoded>
-    </item>
-    <item>
       <title>잠수교육 중 실종된 60대 다이버 숨진 채 발견</title>
       <link>https://www.khan.co.kr/local/local-general/article/202207291927001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/local/local-general/article/202207291927001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -4168,19 +3971,6 @@
         29일 인천시 북항 인근에 있는 자동차 개조공장에서 불이 나 소방당국이 밤 늦게까지 진화 작업을 벌여 9시간여만에 불길을 잡았다.&lt;br /&gt;
         &lt;br /&gt;
         이날 화재가 발생한 곳은 공단 지···
-      </content:encoded>
-    </item>
-    <item>
-      <title>3PM ‘2022 렛츠락페스티벌’ NFT 티켓 판매</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207292001003&amp;sec_id=561101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207292001003&amp;sec_id=561101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T20:01:00.000Z</pubDate>
-      <content:encoded>
-        ‘2022 렛츠락페스티벌’ NFT 티켓. 3PM 제공&lt;br /&gt;
-        &lt;br /&gt;
-        음악 NFT 플랫폼 3PM이 30일 ‘2022 렛츠락페스티벌’ NFT 티켓을 판매한다.&lt;br /&gt;
-        &lt;br /&gt;
-        렛츠락페스티벌 NFT 티켓은 총 7가지 에디션으로 110장의 한정된 수량만 판매될 예정이다···
       </content:encoded>
     </item>
     <item>
@@ -4971,6 +4761,19 @@
     </item>
     <item>
       <title>[클래식 오디세이 - 음악의 역사를 항해하다]합창단 소년에서 칸타타의 대가로…그의 뿌리는 ‘코랄’이었다</title>
+      <link>https://www.khan.co.kr/culture/performance/article/202207292141005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/performance/article/202207292141005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T21:41:00.000Z</pubDate>
+      <content:encoded>
+        (14) 바흐가 머문 도시와 음악 여정&lt;br /&gt;
+        &lt;br /&gt;
+        세 아들과 함께 있는 바흐. 독일의 초상화가 발타자르 데너(1685~1749)가 1730년에 그린 것으로 알려져 있다.&lt;br /&gt;
+        &lt;br /&gt;
+        독일의 중앙에 자리한 작은 도시 아이제나흐…루터의 자취가 ···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[클래식 오디세이 - 음악의 역사를 항해하다]합창단 소년에서 칸타타의 대가로…그의 뿌리는 ‘코랄’이었다</title>
       <link>https://www.khan.co.kr/culture/performance/article/202207292141005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/performance/article/202207292141005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T21:41:00.000Z</pubDate>
@@ -5102,6 +4905,17 @@
     </item>
     <item>
       <title>[새책]자연은 어떻게 발명하는가 外</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207292200005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207292200005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:00:00.000Z</pubDate>
+      <content:encoded>
+        자연은 어떻게 발명하는가&lt;br /&gt;
+        &lt;br /&gt;
+        고생물학자 닐 슈빈이 유전자를 도구로 ‘진화의 비밀’을 파헤친다. 수십억년에 걸친 진화의 역사가 표절과 도용으로 가득했음을 말한다. ‘큰 뇌’의 비결은 유전자 복사의 결과이며,···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[새책]자연은 어떻게 발명하는가 外</title>
       <link>https://www.khan.co.kr/culture/book/article/202207292200005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207292200005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T22:00:00.000Z</pubDate>
@@ -5109,6 +4923,20 @@
         자연은 어떻게 발명하는가&lt;br /&gt;
         &lt;br /&gt;
         고생물학자 닐 슈빈이 유전자를 도구로 ‘진화의 비밀’을 파헤친다. 수십억년에 걸친 진화의 역사가 표절과 도용으로 가득했음을 말한다. ‘큰 뇌’의 비결은 유전자 복사의 결과이며,···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]살기 위해 한데 뭉치고, 버티기 위해 함께 먹다</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207292200015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207292200015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:00:01.000Z</pubDate>
+      <content:encoded>
+        연대의 밥상&lt;br /&gt;
+        - 한없이 기꺼운 참견에 대하여&lt;br /&gt;
+        이종건 지음·곰리 그림&lt;br /&gt;
+        롤러코스터 | 272쪽 | 1만2000원&lt;br /&gt;
+        &lt;br /&gt;
+        재개발·철거 반대 농성장에서 먹는 밥을 상상해본 적이 있는가. 투쟁 역시 밥심이다. 언제 들이닥칠지 모···
       </content:encoded>
     </item>
     <item>
@@ -5127,6 +4955,19 @@
     </item>
     <item>
       <title>[책과 삶]누구나 마주칠 수밖에 없는, 그러나 겪어보지 않으면 알 수 없는 것들</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207292200025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207292200025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:00:02.000Z</pubDate>
+      <content:encoded>
+        돌보는 사람들&lt;br /&gt;
+        샘 밀스 지음·이승민 옮김&lt;br /&gt;
+        정은문고 | 458쪽 | 2만1000원&lt;br /&gt;
+        &lt;br /&gt;
+        조현병을 앓는 아버지를 돌보며 살아가는 영국의 소설가 샘 밀스의 자전적 에세이다. 아버지를 보살피던 어머니가 세상을 떠나면서 갑작···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]누구나 마주칠 수밖에 없는, 그러나 겪어보지 않으면 알 수 없는 것들</title>
       <link>https://www.khan.co.kr/culture/book/article/202207292200025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207292200025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T22:00:02.000Z</pubDate>
@@ -5140,6 +4981,17 @@
     </item>
     <item>
       <title>[새책]일본 풍토기 外</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207292202005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207292202005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:02:00.000Z</pubDate>
+      <content:encoded>
+        일본 풍토기&lt;br /&gt;
+        &lt;br /&gt;
+        ‘초기 삼부작’ 마지막 작품. 주제는 ‘남북 분단 거부’ ‘인간 해방’ ‘현실 인식 혁명’이다. 김시종은 재일조선인 모습을 재일조선인 눈에 보이는 사회, 문화, 역사를 일본이라는 덩어리로 파악···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[새책]일본 풍토기 外</title>
       <link>https://www.khan.co.kr/culture/book/article/202207292202005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207292202005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T22:02:00.000Z</pubDate>
@@ -5147,6 +4999,19 @@
         일본 풍토기&lt;br /&gt;
         &lt;br /&gt;
         ‘초기 삼부작’ 마지막 작품. 주제는 ‘남북 분단 거부’ ‘인간 해방’ ‘현실 인식 혁명’이다. 김시종은 재일조선인 모습을 재일조선인 눈에 보이는 사회, 문화, 역사를 일본이라는 덩어리로 파악···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]성폭력 피해자들에게 “혼자가 아냐”</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207292202015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207292202015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:02:01.000Z</pubDate>
+      <content:encoded>
+        너와 나의 세미콜론&lt;br /&gt;
+        킴벌리 브루베이커 브래들리 지음&lt;br /&gt;
+        이계순 옮김 | 라임 | 248쪽 | 1만2000원&lt;br /&gt;
+        &lt;br /&gt;
+        열두 살 델라, 열일곱 살 수키의 엄마는 교도소에 있다. 델라가 다섯 살 때 필로폰 문제로 구속된 뒤 쭉 수감 중···
       </content:encoded>
     </item>
     <item>
@@ -5164,6 +5029,21 @@
     </item>
     <item>
       <title>[책과 삶]여전히 가장 논쟁적인…자살과 죽음</title>
+      <link>https://www.khan.co.kr/culture/book/article/202207292202025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/book/article/202207292202025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:02:02.000Z</pubDate>
+      <content:encoded>
+        자유 죽음&lt;br /&gt;
+        장 아메리 지음·김희상 옮김&lt;br /&gt;
+        위즈덤하우스 | 284쪽 | 1만8000원&lt;br /&gt;
+        &lt;br /&gt;
+        아유슈비츠 생환자인 장 아메리의 이 책은 1976년 출간되자마자 격한 논쟁에 휩싸였다. &lt;br /&gt;
+        &lt;br /&gt;
+        아메리가 ‘자살’을 대체한 ‘자유 죽음···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[책과 삶]여전히 가장 논쟁적인…자살과 죽음</title>
       <link>https://www.khan.co.kr/culture/book/article/202207292202025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/book/article/202207292202025/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-29T22:02:02.000Z</pubDate>
@@ -5175,6 +5055,17 @@
         아유슈비츠 생환자인 장 아메리의 이 책은 1976년 출간되자마자 격한 논쟁에 휩싸였다. &lt;br /&gt;
         &lt;br /&gt;
         아메리가 ‘자살’을 대체한 ‘자유 죽음···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[TV하이라이트]2022년 7월 30·31일</title>
+      <link>https://www.khan.co.kr/culture/tv/article/202207292204005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/tv/article/202207292204005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:04:00.000Z</pubDate>
+      <content:encoded>
+        프로듀서들이 나선다, 여름 신곡 대전&lt;br /&gt;
+        &lt;br /&gt;
+        ■리슨 업(KBS2 토 오후 10시35분) = 대한민국 ‘최정상 프로듀서’들의 경쟁 배틀이 시작된다. 프로듀서들은 매주 화려한 무대와 신곡을 발표해 음원 차트 경쟁을 펼쳐야 한···
       </content:encoded>
     </item>
     <item>
@@ -5197,6 +5088,17 @@
         프로듀서들이 나선다, 여름 신곡 대전&lt;br /&gt;
         &lt;br /&gt;
         ■리슨 업(KBS2 토 오후 10시35분) = 대한민국 ‘최정상 프로듀서’들의 경쟁 배틀이 시작된다. 프로듀서들은 매주 화려한 무대와 신곡을 발표해 음원 차트 경쟁을 펼쳐야 한···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[볼만한 주말영화]2022년 7월 30·31일</title>
+      <link>https://www.khan.co.kr/culture/tv/article/202207292204015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/tv/article/202207292204015/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-29T22:04:01.000Z</pubDate>
+      <content:encoded>
+        살아남기 위해 벌이는 인질극&lt;br /&gt;
+        &lt;br /&gt;
+        시네마 &amp;lt;네고시에이터&amp;gt;(OBS 토 오후 10시30분) = 시카고 경찰청의 인질 협상 전문가 대니(새뮤얼 잭슨). 동료 네이선(폴 길포일)으로부터 경찰 내부 비리에 관련된 정보를 받기···
       </content:encoded>
     </item>
     <item>
@@ -5312,43 +5214,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>태풍 ‘송다’ 북상에 중대본 가동, 위기경보 ‘주의’ 격상</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207292310003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207292310003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T23:10:00.000Z</pubDate>
-      <content:encoded>
-        기상청 제공&lt;br /&gt;
-        &lt;br /&gt;
-        행정안전부는 제5호 태풍 ‘송다’가 내일(30일)부터 우리나라에 영향을 줄 것으로 보고 29일 오후 7시를 기해 중앙재난안전대책본부를 가동하고, 위기경보 수준을 ‘관심’에서 ‘주의’로 올린다고 밝···
-      </content:encoded>
-    </item>
-    <item>
-      <title>[종합] 코로나 확진, 29일 오후 9시까지 7만8743명</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207292322003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207292322003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-29T23:22:00.000Z</pubDate>
-      <content:encoded>
-        29일 대구 국채보상운동 기념공원에 코로나19 임시선별검사소가 설치되고 있다.  연합뉴스&lt;br /&gt;
-        &lt;br /&gt;
-        코로나19가 재유행하는 가운데 29일 오후 9시까지 전국에서 7만8천명대의 신규 확진자가 발생했다.&lt;br /&gt;
-        &lt;br /&gt;
-        각 지방자치단체에 따···
-      </content:encoded>
-    </item>
-    <item>
-      <title>[오늘 날씨] ‘최고 35도’ 무더위 이어져, 곳곳 비 소식</title>
-      <link>http://sports.khan.co.kr/news/sk_index.html?art_id=202207300000003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</link>
-      <guid>http://sports.khan.co.kr/news/sk_index.html?art_id=202207300000003&amp;sec_id=560101&amp;utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=skentertain_news</guid>
-      <pubDate>2022-07-30T00:00:00.000Z</pubDate>
-      <content:encoded>
-        29일 서울 영등포구 여의대로. 연합뉴스&lt;br /&gt;
-        &lt;br /&gt;
-        토요일인 30일은 전국 대부분 지역의 낮 기온이 33도 이상 오르는 무더위가 계속되는 가운데 곳곳에 비 소식이 있겠다.&lt;br /&gt;
-        &lt;br /&gt;
-        수도권과 강원 영서, 충청권, 전북 동부, 전남권 내···
-      </content:encoded>
-    </item>
-    <item>
       <title>[사유와 성찰] 작은 불이 큰 숲을 태운다</title>
       <link>https://www.khan.co.kr/opinion/column/article/202207300300005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/opinion/column/article/202207300300005/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
@@ -5428,6 +5293,13 @@
     </item>
     <item>
       <title>[인스피아]‘뭘 모르는’ 초보의 질문은 쓸모없는 것일까?</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207300630001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207300630001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T06:30:00.000Z</pubDate>
+      <content:encoded>※경향신문의 인문교양 뉴스레터 인스피아(링크) 7월 27일자에 게재된 글입니다. 뉴스레터에는 해당 주제에 대해 추가로 읽을만한 책과 글 소개 등이 포함되어 있습니다. 한편의 글로 하나의 깊은 영감을 드리는 &amp;#1···</content:encoded>
+    </item>
+    <item>
+      <title>[인스피아]‘뭘 모르는’ 초보의 질문은 쓸모없는 것일까?</title>
       <link>https://www.khan.co.kr/culture/culture-general/article/202207300630001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</link>
       <guid>https://www.khan.co.kr/culture/culture-general/article/202207300630001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=total_news</guid>
       <pubDate>2022-07-30T06:30:00.000Z</pubDate>
@@ -5456,6 +5328,17 @@
         여름 휴가철을 맞이해 트로트 가수 11인이 경향신문에 공개한 ‘인생 맛집’ 지도.&lt;br /&gt;
         &lt;br /&gt;
         ‘맛집이다’ 싶은 식당의 벽면에는 반드시 이들의 사인이 있다. 트로트 가수들이다. 이들이 ‘맛잘알’이 되는 이유는 명확하다.···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[오마주] PC한데 웃기다··· 넷플릭스 시트콤 ‘원 데이 앳 어 타임’</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207300800001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207300800001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T08:00:00.000Z</pubDate>
+      <content:encoded>
+        ‘오마주’는 주말에 볼 만한 온라인동영상서비스(OTT) 콘텐츠를 추천하는 코너입니다. 매주 토요일 오전 찾아옵니다.&lt;br /&gt;
+        &lt;br /&gt;
+        넷플릭스 오리지널 드라마 &amp;lt;원 데이 앳 어 타임&amp;gt;의 한 장면. 가족들은 슬픔도 웃음으로 ···
       </content:encoded>
     </item>
     <item>
@@ -5489,6 +5372,17 @@
         한미가 후반기 연합연습을 통합·확대하고 가까운 시일 내 고위급 확장억제전략협의체(EDSCG)를 개최하기로 합의했다.&lt;br /&gt;
         &lt;br /&gt;
         국방부는 이종섭 국방부장관과 로이드 오스틴 미국 국방장관이 29일(현지시간) 미국 국방부 청···
+      </content:encoded>
+    </item>
+    <item>
+      <title>‘한산: 용의 출현’ 개봉 4일째 100만 돌파</title>
+      <link>https://www.khan.co.kr/culture/movie/article/202207300821001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/movie/article/202207300821001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T08:21:00.000Z</pubDate>
+      <content:encoded>
+        &amp;lt;한산: 용의 출현&amp;gt;이 개봉 4일째인 30일 오전 누적 관객 수 100만 명을 돌파했다고 배급사 롯데엔터테인먼트가 30일 알렸다.&lt;br /&gt;
+        &lt;br /&gt;
+        지난 27일 개봉한 &amp;lt;한산&amp;gt;은 29일까지 관객 95만3000여 명, 이날 오전 4만70···
       </content:encoded>
     </item>
     <item>
@@ -5562,6 +5456,66 @@
       <guid>https://www.khan.co.kr/politics/president/article/202207300954001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=politic_news</guid>
       <pubDate>2022-07-30T09:54:00.000Z</pubDate>
       <content:encoded>윤석열 대통령이 지난 7월 12일 서울 용산 대통령실 청사로 출근하며 취재진의 질문에 답하고 있다./연합뉴스윤석열 대통령의 지지율이 바닥을 모르고 추락하고 있다. 김건희 여사 의혹, 출근길 기자들과의 문답(도어···</content:encoded>
+    </item>
+    <item>
+      <title>[주말엔]1년 내내 15도···폭염도 범접 불가한 곳이 있다</title>
+      <link>https://www.khan.co.kr/travel/national/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/travel/national/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T10:55:00.000Z</pubDate>
+      <content:encoded>
+        단양군, 온달 동굴·고수동굴 등&lt;br /&gt;
+        휴가철 관광시설 운영시간 연장&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양 고수동굴 내부에 있는 사랑의 계곡 모습. 단양군 제공&lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군이 휴가철을 맞아 지역을 찾는 방문객들을 위해 주요 관광시설의 운영···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[주말엔]1년 내내 15도···폭염도 범접 불가한 곳이 있다</title>
+      <link>https://www.khan.co.kr/local/Chungbuk/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/local/Chungbuk/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T10:55:00.000Z</pubDate>
+      <content:encoded>
+        단양군, 온달 동굴·고수동굴 등&lt;br /&gt;
+        휴가철 관광시설 운영시간 연장&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양 고수동굴 내부에 있는 사랑의 계곡 모습. 단양군 제공&lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군이 휴가철을 맞아 지역을 찾는 방문객들을 위해 주요 관광시설의 운영···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[주말엔]1년 내내 15도···폭염도 범접 불가한 곳이 있다</title>
+      <link>https://www.khan.co.kr/life/life-general/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/life/life-general/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T10:55:00.000Z</pubDate>
+      <content:encoded>
+        단양군, 온달 동굴·고수동굴 등&lt;br /&gt;
+        휴가철 관광시설 운영시간 연장&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양 고수동굴 내부에 있는 사랑의 계곡 모습. 단양군 제공&lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군이 휴가철을 맞아 지역을 찾는 방문객들을 위해 주요 관광시설의 운영···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[주말엔]1년 내내 15도···폭염도 범접 불가한 곳이 있다</title>
+      <link>https://www.khan.co.kr/culture/culture-general/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</link>
+      <guid>https://www.khan.co.kr/culture/culture-general/article/202207301055001/?utm_campaign=rss_btn_click&amp;utm_source=khan_rss&amp;utm_medium=rss&amp;utm_content=culture_news</guid>
+      <pubDate>2022-07-30T10:55:00.000Z</pubDate>
+      <content:encoded>
+        단양군, 온달 동굴·고수동굴 등&lt;br /&gt;
+        휴가철 관광시설 운영시간 연장&lt;br /&gt;
+        &lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양 고수동굴 내부에 있는 사랑의 계곡 모습. 단양군 제공&lt;br /&gt;
+        &lt;br /&gt;
+        충북 단양군이 휴가철을 맞아 지역을 찾는 방문객들을 위해 주요 관광시설의 운영···
+      </content:encoded>
     </item>
     <item>
       <title>[주말엔]1년 내내 15도···폭염도 범접 불가한 곳이 있다</title>
