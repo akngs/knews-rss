@@ -1,69 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 인물/단체</title>
-    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
-    <description>에이블뉴스 - 인물/단체</description>
-    <lastBuildDate>2025-01-15T00:10:08.927Z</lastBuildDate>
-    <item>
-      <title>“함께 읽기로 맥락 파악하면 선동 안 당해요”</title>
-      <link>https://www.khan.co.kr/article/202412222009005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202412222009005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2024-12-22T20:09:00.000Z</pubDate>
-      <content:encoded>
-        온라인 독서모임 플랫폼 ‘그믐’ 운영 김새섬 대표
-        
-        김새섬 ‘지식공동체 그믐’ 대표   본인 제공
-        
-        인터넷엔 페이지 낱장 돌아다녀
-        가공된 정보에 세뇌당하기 쉬워
-        
-        책은 정보 엮여 맥락 만드는 매체
-        혼자보다 리딩크루 만들어갈 것
-        
-        “책을 한 장씩 찢어서 방에 넣어놨다고 가정해보죠. 그 방에 들어가 찢긴 페이지들을 다 읽었어요. 그럼 그 책을···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사 - 2024년 12월 23일</title>
-      <link>https://www.khan.co.kr/article/202412222010005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202412222010005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2024-12-22T20:10:00.000Z</pubDate>
-      <content:encoded>
-        ■행정안전부 △이북5도 평안북도 사무국장 박민석
-        
-        ■국토교통부 ◇과장급 전보 △국제협력통상담당관 권유정 △국가공간정보센터장 한동훈 △교통안전정책과장 김유진
-        
-        ■공정거래위원회 ◇과장급 전보 △플랫폼공정경쟁정책과장 고인혜 △기업거래정책과장 신용희 △기업결합과장 박설민
-        
-        ■법제처 ◇고위공무원 전보 △경제법제국장 안상현
-        
-        ■우주항공청 △우주항공정책국···
-      </content:encoded>
-    </item>
-    <item>
-      <title>‘WK리그 출범’ 이끈 오규상 여자축구연맹 회장 별세</title>
-      <link>https://www.khan.co.kr/article/202412222010015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202412222010015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2024-12-22T20:10:01.000Z</pubDate>
-      <content:encoded>
-        한국 여자축구 행정을 17년째 이끌어온 오규상 한국여자축구연맹 회장이 지난 20일 별세했다. 향년 68세. 경신고와 고려대를 졸업한 오 회장은 1975년부터 2년 동안 청소년대표, 1977년에는 국가대표 선수로 뛴 축구인 출신이다.
-        
-        프로축구 울산 현대 부단장과 실업축구 울산 현대미포조선 단장을 역임했고, 2003년부터 여자축구연맹 부회장을 맡으···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고 - 2024년 12월 23일</title>
-      <link>https://www.khan.co.kr/article/202412222010045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202412222010045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2024-12-22T20:10:04.000Z</pubDate>
-      <content:encoded>
-        ■신현복씨 별세, 주학 스타제국 대표 부친상=20일 평택시 평택제일장례식장. 발인 23일 오전 10시 (031)611-1144
-        
-        ■김선희씨 별세, 서문갑씨 부인상, 태건 게임물관리위원장·주영씨·원건 연세장례식장사업소장 모친상=21일 신촌세브란스병원. 발인 24일 오전 7시 (02)2227-7500
-        
-        ■주충열씨 별세, 양홍열씨 남편상, 주연호 서울아산···
-      </content:encoded>
-    </item>
+    <title>경향신문 - 인물</title>
+    <link>https://www.khan.co.kr/rss/rssdata/people_news.xml</link>
+    <description>경향신문 - 인물</description>
+    <lastBuildDate>2025-01-16T00:10:30.705Z</lastBuildDate>
     <item>
       <title>‘1세대 시사평론가’ 유창선씨 별세</title>
       <link>https://www.khan.co.kr/article/202412222010055/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -442,27 +382,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>‘2024년 장애아가족 양육지원사업‥공모전’ 수상작 연재-②</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217699</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217699</guid>
-      <pubDate>2025-01-07T09:17:00.000Z</pubDate>
-      <content:encoded>한국장애인개발원(원장 이경혜, 이하 개발원)은 장애아동 가족의 일상적인 양육 부담을 덜어주고 보호자의 사회활동을 돕기 위해 돌봄서비스, 장애아 돌보미 양성, 휴식지원프로그램을 지원 하는 ‘장애아가족 양육지원사업’을 진행하고 있다.이에 매년 우수사례를 발굴하기 위해 ‘장애아가족 양육지원사업 서비스 이용 및 제공 사례 공모’를 실시, 시상하고 있다. 지난해 66편의 작품을 접수, 심사를 통해 총 8편을 수상작으로 선정한 바 있다.‘2024년 장애아가족 양육지원사업 서비스 이용 및 제공 사례’ 수상작 중 최우수상 1편, 우수상 2편, 장</content:encoded>
-    </item>
-    <item>
-      <title>기아 초록여행, ‘설 명절&amp;3월 테마여행’ 참가 장애인가정 모집</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217796</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217796</guid>
-      <pubDate>2025-01-07T16:24:44.000Z</pubDate>
-      <content:encoded>기아의 대표 사회공헌사업 ‘기아 초록여행’이 2025년 을사년 새해를 맞아 설 명절 여행과 3월 테마여행 참가자를 모집한다고 7일 밝혔다.이번 프로그램은 이동의 제약으로 여행이 어려운 장애인 가정에게 편리하고 안전한 여행의 기회를 제공하기 위해 마련됐다.총 36가정을 선정하며 다양한 지원 혜택을 제공한다. 모든 프로그램은 공통적으로 장애인 편의장치가 장착된 차량과 유류를 제공하며 일부 프로그램은 추가로 문화여가비와 운전기사 지원도 포함된다.먼저 설 기념 귀성&amp;가족여행은 3인 이상 가족으로 구성된 장애인 가정 총 19가정(서울 4가정</content:encoded>
-    </item>
-    <item>
-      <title>양천해누리복지관, ‘삶에 창을 내다’ 도서 발간</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217797</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217797</guid>
-      <pubDate>2025-01-07T18:12:03.000Z</pubDate>
-      <content:encoded>양천해누리복지관(관장 김경환)은 장애인의 삶에 조금 더 따뜻한 바람과 관계의 창을 열기 위해 노력해 온 실천의 이야기를 엮은 “삶에 창을 내다”라는 도서를 발간했다고 7일 밝혔다.이 도서는 사회복지현장에서 당사자 및 지역사회와 관계 맺는 과정을 읽기 쉽게 이야기 형식으로 풀어냈으며, 장애인이 마주하는 삶의 긍정적인 변화를 만들기 위한 실천 이야기들로 구성됐다.특히 “조그만 창이 없으면, 사각형 안에 갇히게 되는 건 아닐까?”라는 질문으로 시작, 장애인의 삶에도 더 너른 창이 열리길 바라는 실천가들의 노력이 고스란히 담겨 있다. 단순</content:encoded>
-    </item>
-    <item>
       <title>오늘의 부고 - 2025년 1월 8일</title>
       <link>https://www.khan.co.kr/article/202501072009035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202501072009035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -474,20 +393,6 @@
         
         ■현충성씨 별세, 현소정씨·원섭 MBC···
       </content:encoded>
-    </item>
-    <item>
-      <title>[인사]국토교통부 外</title>
-      <link>https://www.donga.com/news/People/article/all/20250107/130812819/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250107/130812819/2</guid>
-      <pubDate>2025-01-08T03:00:00.000Z</pubDate>
-      <content:encoded>◇국토교통부 ▽과장급 △대전지방국토관리청 충주국토관리사무소장 박광현 ◇공정거래위원회 〈전보〉 ▽과장급 △제조업감시과장 박정웅</content:encoded>
-    </item>
-    <item>
-      <title>‘2024년 장애아가족 양육지원사업‥공모전’ 수상작 연재-③</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217701</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217701</guid>
-      <pubDate>2025-01-08T09:12:00.000Z</pubDate>
-      <content:encoded>한국장애인개발원(원장 이경혜, 이하 개발원)은 장애아동 가족의 일상적인 양육 부담을 덜어주고 보호자의 사회활동을 돕기 위해 돌봄서비스, 장애아 돌보미 양성, 휴식지원프로그램을 지원 하는 ‘장애아가족 양육지원사업’을 진행하고 있다.이에 매년 우수사례를 발굴하기 위해 ‘장애아가족 양육지원사업 서비스 이용 및 제공 사례 공모’를 실시, 시상하고 있다. 지난해 66편의 작품을 접수, 심사를 통해 총 8편을 수상작으로 선정한 바 있다.‘2024년 장애아가족 양육지원사업 서비스 이용 및 제공 사례’ 수상작 중 최우수상 1편, 우수상 2편, 장</content:encoded>
     </item>
     <item>
       <title>삼경리테일, ‘장애인 가정 긴급지원’ 500만 원 기탁</title>
@@ -528,55 +433,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>“살아있는 정치인이 못한 화합, 죽은 카터가 이뤄”</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822777/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822777/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/09/130823700.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“살아있는 미국 정치인이 못 하는 ‘화합’을 죽은 카터가 이뤄냈다.”  ‘가장 위대한 전직 대통령’ 지미 카터 전 미국 대통령(1924∼2024)의 유해가 7일(현지 시간) 수도 워싱턴 의회 중앙의 로툰다홀에 안치됐다. 뉴욕타임스(NYT)는 “격렬한 갈등을 벌이는 민주당과 공화당 정치인들이 (모처럼) 휴전하는 화합의 순간”이었다며 생존 정치인이 못 하는 일을 카터 전 대통령이 해냈다고 애도했다. 카터 전 대통령과 같은 민주당 소속인 카멀라 해리스 부통령은 “그의 업적과 행동은 우리가 할 수 있는 어떤 찬사보다 더 크게 그를 대변한다”고 애도했다. 공화당의 존 슌 상원 원내대표 또한 “해군 참전 용사, 땅콩 농부, 조지아 주지사, 대통령이었던 카터에게 마지막 작별 인사를 하기 위해 (양당 정치인이) 모였다”고 기렸다. 지난해 12월 29일 조지아주 플레인스 자택에서 타계한 그의 유해는 이날 대통령 전용기 ‘에어포스원’을 통해 워싱턴 인근 메릴랜드주의 앤드루스 합동기지로 옮겨졌다. 그가</content:encoded>
-    </item>
-    <item>
-      <title>“용꿈 사겠소” 조선시대 길몽 매매문서 공개</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822774/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822774/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/09/130819012.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;조선 시대 길몽(吉夢)을 사고판 기록이 공개됐다. 한국국학진흥원은 순천 박씨 충청공파 문중과 진주 강씨 법전 문중이 기탁한 자료에서 ‘꿈 매매 문서’ 2점을 찾아냈다고 8일 밝혔다. 진흥원이 공개한 문서에 따르면 1814년 2월 대구에 사는 박기상은 청룡과 황룡이 웅장한 자태를 뽐내며 하늘로 올라가는 꿈을 꿨고, 다음 달 3일 과거시험을 보기 위해 한양으로 떠나는 친척 아우 박용혁에게 이 꿈 이야기를 들려주고 팔았다. 문서(사진)엔 ‘매몽주(買夢主·꿈을 산 사람)’ 박용혁이 급제 후 관직에 오르면 ‘몽주(夢主·꿈 주인)’ 박기상에게 1000냥을 주기로 했다고 적었다. 두 사람이 수결(手決)했고, 친척 2명이 증인으로 참석했다. 1840년 2월 경북 봉화에 사는 진주 강씨 집안의 여자 하인 신씨는 청룡과 황룡이 서로 엉켜 있는 꿈을 꾸고는 주인의 친척 동생인 강만에게 청홍백 삼색실을 받고 꿈을 팔았다. 문서엔 몽주인 ‘반비(班婢) 신(辛)’과 증인으로 나선 남편 박충금의 수결이 있다.</content:encoded>
-    </item>
-    <item>
-      <title>교총, 2025년 신년교례회 개최</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822766/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822766/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/09/130823688.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국교원단체총연합회(교총)가 8일 서울 영등포구 FKI타워에서 ‘2025년 교육계 신년교례회 겸 제40대 교총 회장단 취임식’을 열었다. 강주호 신임 교총 회장(39·사진)은 이날 “변화에 대한 현장의 기대와 여망이 한국교총 역대 최연소, 30대 회장을 선택했다고 생각한다”며 “앞으로 3년, 늘 선생님 곁에 함께하며 젊음과 패기로 직접 뛰는 회장이 되겠다”고 밝혔다. 이주호 부총리 겸 교육부 장관도 축사를 통해 “신임 회장의 취임으로 교총에 새롭고 힘 있는 바람이 불어올 것으로 기대한다”며 “교육부도 변화하는 교육 환경에 맞춰 교원이 본연의 교육 활동에 전념할 수 있도록 많은 노력을 기울이겠다”고 전했다. 이날 행사에는 이 부총리, 이배용 국가교육위원장, 정근식 서울시교육감, 정성국 국민의힘 의원 등 250여 명이 참석했다.</content:encoded>
-    </item>
-    <item>
-      <title>[인사]기획재정부 外</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822763/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822763/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>◇기획재정부 〈전보〉 ▽국장급 △장관정책보좌관 고광희 ◇금융위원회 〈전보〉 ▽팀장급 △복지지원팀장 전은주 ◇세계일보 ▽논설위원실 △수석논설위원 주춘렬 △논설위원 김청중 황계식 ▽심의위원실 △심의위원 이상혁 ▽편집국 △부국장 김용출 △〃 겸 외교안보부장 이우승 △경제부장 우상규 △사회〃 정재영 △문화체육〃 이강은 △사진〃 남제현 ▽디지털미디어국 △디지털전략콘텐츠부장 엄형준 △디지털뉴스부장 이진경</content:encoded>
-    </item>
-    <item>
-      <title>안중근 항일독립운동 그린 영화 ‘하얼빈’ 117개국 판매</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822768/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822768/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/09/130819007.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;안중근 의사의 독립운동을 그린 영화 ‘하얼빈’(사진)이 해외 117개국에 판매됐다. 8일 CJ ENM에 따르면 하얼빈은 지난해 12월 25일 미국과 싱가포르에서 개봉한 것을 시작으로 이달 인도네시아, 말레이시아 등 세계 각국에서 순차적으로 관객들을 만나고 있다. 호주와 뉴질랜드, 대만 등에서도 곧 개봉할 예정으로 판권이 팔린 나라는 117개국에 이른다. CJ ENM은 “해외 유수 영화제에 초청되며 작품성을 인정받은 것 등이 매력적으로 다가간 것 같다”며 “우리나라의 특수성이 강한 역사 소재의 영화가 이렇게 많은 나라에 팔린 건 의미가 깊다”고 밝혔다. 하얼빈은 1908년 안 의사가 이끈 함경북도 신아산 전투부터 1909년 이토 히로부미 사살까지의 약 1년을 담았다. 지난해 12월 24일 국내 개봉해 최근까지 누적 관객 수 377만 명을 돌파하며 박스오피스 정상을 지키고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>[부고]‘예천통명농요’ 보유자 안용충씨</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822762/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822762/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/09/130823681.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;경북 예천군 예천읍 통명리 일대에서 전승돼 온 노래인 국가무형유산 ‘예천통명농요’ 보유자 안용충 씨(사진)가 7일 노환으로 별세했다. 향년 87세. 어린 시절부터 농요를 부르며 자란 고인은 예천통명농요보존회장 등을 맡으며 지역 농요의 보존을 위해 힘썼다. 유족으로는 아내 최숙이 씨와 아들 일동 도현 씨, 딸 경숙 경희 경자 씨 등이 있다. 빈소는 경북 예천권병원, 발인은 10일 오전 8시. 054-655-0456</content:encoded>
-    </item>
-    <item>
-      <title>[부고]박남주 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130822757/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130822757/2</guid>
-      <pubDate>2025-01-09T03:00:00.000Z</pubDate>
-      <content:encoded>◇박남주 씨 별세·양기모 세계한인무역협회(월드옥타) 상근부회장 장인상=7일 서울 더조은요양병원, 발인 10일 오전 5시 02-941-4444 ◇류권식 씨 별세·조성자 씨 남편상·병직 서울피부과 원장 병연 한국경제신문 논설위원 부친상=8일 서울 세브란스병원, 발인 11일 오전 9시 20분 02-2227-7500 ◇최성순 씨 별세·조치연 세연 씨 호연 EBS 이사(전 경향신문 편집국장) 병연 소영 씨 표연 국립낙동강생물자원관 책임연구원 혜영 한국보건의료정보원 팀장 모친상·김상래 브레인즈컴퍼니 이사 김도경 IT 프리랜서 장모상·조금희 최현수 김미혜 임휘옥 오나령 씨 시모상=8일 충남 논산시 강경장례식장, 발인 11일 오전 8시 041-745-4401</content:encoded>
-    </item>
-    <item>
       <title>‘2024년 장애아가족 양육지원사업‥공모전’ 수상작 연재-④</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217702</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217702</guid>
@@ -596,13 +452,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217821</guid>
       <pubDate>2025-01-09T09:40:20.000Z</pubDate>
       <content:encoded>밀알복지재단은 MBC ‘놀면 뭐하니?’가 5000만원을 기부했다고 9일 밝혔다.이날 전달된 기부금은 ‘놀면 뭐하니?’가 과거 진행한 프로젝트인 ‘MSG 워너비’, ‘WSG 워너비’의 음원 수익을 포함한 부가사업 수익 중 일부다.MBC ‘놀면 뭐하니?’는 2019년 드럼 신동 유고스타의 &apos;유플래쉬&apos; 프로젝트 수익금 기부를 시작으로 지난 6년간 총 약 10억 원을 밀알복지재단에 기부했다. 그간 기부금은 예술에 열정을 가진 저소득가정 아동청소년들의 음악교육비 등에 쓰였다.이번 기부금은 밀알복지재단의 ‘2025 위기 독거노인 지원사업’을</content:encoded>
-    </item>
-    <item>
-      <title>[인사]한국거래소</title>
-      <link>https://www.donga.com/news/People/article/all/20250109/130831444/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20250109/130831444/1</guid>
-      <pubDate>2025-01-09T19:19:00.000Z</pubDate>
-      <content:encoded>◇한국거래소＜신규 보임＞▽부서장 △비서실장 이상균 △경영지원본부 홍보부장 김성수 △유가증권시장본부 채권시장부장 신희용 △〃 ESG지원부장 손재식 △코스닥시장본부 상장관리부장 황창기 △〃 중소기업회계지원센터 지원실장 주진우 △파생상품시장본부 파생시장부장 김영배 △〃 증권·파생상품연구센터 연구실장 김세랑 △시장감시본부 심리1부장 이종상 △〃 공매도특별감리부장 우민철 △청산결제본부 CCP리스크검증실장 최훈 ＜전보＞▽부서장 △경영지원본부 전략기획부장 최훈철 △〃 경영관리부장 최진영 △〃 리스크관리부장 안현수 △유가증권시장본부 주식시장부장</content:encoded>
     </item>
     <item>
       <title>[부고]김흥업 별세 外</title>
@@ -638,27 +487,6 @@
       <guid>https://www.donga.com/news/People/article/all/20250110/130832876/2</guid>
       <pubDate>2025-01-10T03:00:00.000Z</pubDate>
       <content:encoded>경복고 동창회는 2025년 경복동문대상 수상자로 이수만 전 SM엔터테인먼트 총괄 프로듀서를 선정했다고 밝혔다. 시상식은 15일 더플라자호텔에서 열린다.</content:encoded>
-    </item>
-    <item>
-      <title>한국사회복지학회장 김교성 교수</title>
-      <link>https://www.donga.com/news/People/article/all/20250110/130832901/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250110/130832901/2</guid>
-      <pubDate>2025-01-10T03:00:00.000Z</pubDate>
-      <content:encoded>한국사회복지학회는 9일 김교성 중앙대 사회복지학부 교수(58)가 제43대 회장에 취임한다고 밝혔다. 김 회장은 한국사회정책학회 회장과 중앙대 사회복지대학원장 등을 지냈다. 임기는 1년.</content:encoded>
-    </item>
-    <item>
-      <title>퇴임 12일 앞둔 바이든, 증조할아버지 됐다</title>
-      <link>https://www.donga.com/news/People/article/all/20250110/130832878/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250110/130832878/2</guid>
-      <pubDate>2025-01-10T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/10/130833759.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;조 바이든 미국 대통령이 퇴임을 12일 앞두고 증손자를 얻었다. 현직 대통령이 증조할아버지가 된 것은 미국 역사에서 처음이다. 8일(현지 시간) AP통신 등에 따르면 이날 바이든 대통령의 손녀 나오미 바이든이 캘리포니아주 로스앤젤레스(LA)의 병원에서 아들을 출산했다. 질 바이든 여사는 이날 자신의 인스타그램에 바이든 대통령이 증손자를 품에 안은 사진을 올렸다. 그는 “증손자를 소개하게 돼 자랑스럽다”며 아이의 이름을 ‘윌리엄 브래넌 닐 4세’라고 지었다고 전했다. 이날 LA 산불 현장을 찾은 바이든 대통령은 브리핑을 마무리하면서 “좋은 소식은 내가 오늘 증조할아버지가 됐다는 것”이라고 말했다. 백악관은 바이든 대통령 부부가 뉴올리언스 차량 테러 현장을 찾은 후 6일 밤 LA를 방문했다고 밝혔다. 바이든 대통령 부부는 LA 병원에 약 40분간 머물며 손녀 나오미와 증손자를 만났다. 일곱 명의 손주를 둔 바이든 대통령은 각별한 ‘손주 사랑’으로 유명하다. 그는 과거 “어떤 일을 하더라</content:encoded>
-    </item>
-    <item>
-      <title>스웨덴 의료진 6·25활동상, 60여년만에 빛 봤다</title>
-      <link>https://www.donga.com/news/People/article/all/20250110/130832880/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250110/130832880/2</guid>
-      <pubDate>2025-01-10T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/10/130833558.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;6·25전쟁 당시 한국에 파견된 스웨덴 의료지원단의 활동상을 다수의 컬러 사진 등으로 생생하게 소개한 도서가 최근 발간됐다. 스웨덴 6·25참전용사협회 중 하나인 ‘한서협회(Koreanska S¨allskapet)’가 펴낸 ‘6·25전쟁의 스웨덴 야전병원(The Swedish Field Hospital in the Korean War·사진)’이란 제목의 책이다. 이 책자는 서울 용산구 전쟁기념관을 운영하는 전쟁기념사업회(회장 백승주)의 기부금으로 제작됐다. 전쟁기념사업회는 2023년 9월 스웨덴을 방문해 6·25전쟁 관련 현지 자료를 수집하고, 한서협회에 기부금을 전달했다고 한다.  책자에는 스웨덴 참전용사들이 6·25전쟁 당시 부산 등지에서 직접 찍은 컬러와 흑백 사진 100여 장이 실렸다. 야전상의 차림의 스웨덴 의료지원단 소속 의사와 간호사들이 길게 줄 지어선 어린이들을 진료하고, 고아들에게 구호물자를 전달하는 한편 거동이 불편한 노인을 돌보는 모습 등이 담겨 있다. 개천 옆</content:encoded>
     </item>
     <item>
       <title>‘2024년 장애아가족 양육지원사업‥공모전’ 수상작 연재-⑤</title>
@@ -1137,6 +965,164 @@
       <guid>https://www.donga.com/news/People/article/all/20250114/130863406/2</guid>
       <pubDate>2025-01-15T03:00:00.000Z</pubDate>
       <content:encoded>한인 이민자들이 미국에 도착한 지 13일(현지 시간)로 122주년을 맞았다. 1903년 1월 13일 한인 100여 명이 미국 하와이 땅을 처음 밟았고, 이를 기념해 2005년 미 상하원은 이날을 ‘미주 한인의 날’로 지정한 바 있다. 올해는 기념일 지정을 재차 지지하는 결의안이 상하원에서 각각 발의됐고, 각지에서 기념행사도 열렸다.  이번 지지 결의안은 한국계 의원들 주도로 13일 발의됐다. 상원에서는 한국계로는 첫 상원의원에 당선된 앤디 김 의원(민주·뉴저지)과 댄 설리번 의원(공화·아칸소)이, 하원에서는 한국계 영 김 의원(공화·캘리포니아)과 지미 고메즈 의원(민주·캘리포니아)이 각각 결의안을 제출했다. 하원에서는 한국계인 데이브 민(민주·캘리포니아) 의원과 매릴린 스트리클런드 의원(민주·워싱턴) 등 54명의 의원이 공동 발의자로 이름을 올렸다. 117·118대 의회에서도 유사한 결의안을 주도했던 3선의 영 김 의원은 이날 보도자료에서 “122년간 한국계 미국인들은 학교와 직장,</content:encoded>
+    </item>
+    <item>
+      <title>‘2024년 장애아가족 양육지원사업‥공모전’ 수상작 연재-⑧</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217707</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217707</guid>
+      <pubDate>2025-01-15T09:19:00.000Z</pubDate>
+      <content:encoded>한국장애인개발원(원장 이경혜, 이하 개발원)은 장애아동 가족의 일상적인 양육 부담을 덜어주고 보호자의 사회활동을 돕기 위해 돌봄서비스, 장애아 돌보미 양성, 휴식지원프로그램을 지원 하는 ‘장애아가족 양육지원사업’을 진행하고 있다.이에 매년 우수사례를 발굴하기 위해 ‘장애아가족 양육지원사업 서비스 이용 및 제공 사례 공모’를 실시, 시상하고 있다. 지난해 66편의 작품을 접수, 심사를 통해 총 8편을 수상작으로 선정한 바 있다.‘2024년 장애아가족 양육지원사업 서비스 이용 및 제공 사례’ 수상작 중 최우수상 1편, 우수상 2편, 장</content:encoded>
+    </item>
+    <item>
+      <title>“사람 쓰러졌다”···육군 장교, 의식불명 시민 심폐소생술로 살려</title>
+      <link>https://www.khan.co.kr/article/202501151118001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202501151118001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-01-15T11:18:00.000Z</pubDate>
+      <content:encoded>
+        육군 35사단 감찰실 감찰참모인 최상윤 중령이 하트세이버로 선정돼 충남 부여소방서에서 표창과 꽃다발을 받고 있다. 35사단 제공
+        
+        육군 35사단 현역 장교가 심정지로 쓰러진 주민을 심폐소생술로 살려낸 사실이 뒤늦게 알려졌다.
+        
+        15일 35사단에 따르면 이 부대 감찰실에서 근무하는 감찰참모 최상윤 중령은 지난해 12월 22일 충남 부여군의 한 운동장에서 축구···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[온라인 라운지]성균관대 총동창회, 2024 자랑스러운 성균인상 선정</title>
+      <link>https://www.donga.com/news/People/article/all/20250115/130866942/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20250115/130866942/1</guid>
+      <pubDate>2025-01-15T14:31:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/15/130866983.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;성균관대 총동창회(회장 김성집)는 15일 김동필 넥스팜코리아 회장, 이규용 나자인 회장, 권태진 변호사 등 3명에게 ‘2024년 자랑스러운 성균인상’을 시상했다. 교학 정신인 인의예지(仁義禮智)와 리더십을 바탕으로 모교의 명예를 높인 동문에게 수여하는 상이다.</content:encoded>
+    </item>
+    <item>
+      <title>임영웅 팬클럽 ‘잠실 웅바라기스쿨’, 청각장애인 지원 위해 800만원 기부</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217938</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217938</guid>
+      <pubDate>2025-01-15T14:50:00.000Z</pubDate>
+      <content:encoded>사단법인 사랑의달팽이(회장 김민자)는 임영웅 팬클럽 ‘잠실 웅바라기스쿨’ 회원들이 청각장애인 지원을 위해 800만 원을 기부했다고 15일 밝혔다.이번 기부금은 임영웅 팬클럽 영웅시대 잠실 웅바라기스쿨 회원들이 ‘임영웅 리사이틀 in 고척돔’ 콘서트가 성황리에 마친 것을 기념한 기부금으로, 잠실 웅바라기스쿨은 지난 2021년 사랑의달팽이에 후원을 시작한 이후 회원들의 자발적인 모금을 통해 누적 60,770,600원을 기부했다.기부금은 전액 청각장애인에게 소리를 찾아주는 소리동행 지원 사업으로 사용될 예정이다.잠실 웅바라기스쿨 관계자는</content:encoded>
+    </item>
+    <item>
+      <title>SOK, ‘2025 토리노 스페셜올림픽 세계동계대회’ 출격 준비 완료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217937</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217937</guid>
+      <pubDate>2025-01-15T16:14:55.000Z</pubDate>
+      <content:encoded>스페셜올림픽코리아(회장 정양석, 이하 SOK)는 강원도 평창군 알펜시아리조트에서 ‘2025 토리노 스페셜올림픽 세계동계대회 국가대표 강화훈련’을 마쳤다고 15일 밝혔다.이번 강화훈련은 2025 토리노 스페셜올림픽 세계동계대회 참가 선수들에게 합숙기간 동안 개별 특성과 경기력을 파악하고 선수와 지도자 간의 유대감을 형성하기 위해 지난 12일부터 나흘간 진행됐다.한국 선수단은 스노슈잉, 알파인스키, 크로스컨트리스키, 쇼트트랙스피드스케이트, 피겨스케이트, 스노보드, 플로어볼 7개 종목의 총 41명의 선수와 14명의 지도자 전원이 훈련에</content:encoded>
+    </item>
+    <item>
+      <title>권익위 올해 핵심과제 ‘장애인 생활위기 선제발굴’</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=217941</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=217941</guid>
+      <pubDate>2025-01-15T16:37:27.000Z</pubDate>
+      <content:encoded>국민권익위원회(이하 권익위)가 올해 장애인 등 취약계층을 위해 거주지 순회 상담을 통한 생활 위기 선제 발굴과 찾아가는 현장 고충 해결 등을 추진한다.권익위는 15일 ▲민생·약자 보호 등 국민생활 안정 ▲국민이 체감하는 청렴·공정사회 구현 ▲디지털 플랫폼 확대로 국민 소통·권익구제 강화을 핵심으로 한 ‘2025년 주요업무 추진계획’을 발표했다.이중 장애와 관련한 내용을 살펴보면, 먼저 달리는 국민신문고와 현장간담회 등 다양한 경로를 통해 취약계층 고충을 선제적으로 발굴하고 신속하게 대응한다. 예를 들어 고령자·장애인 등 거주하는 공</content:encoded>
+    </item>
+    <item>
+      <title>[인사]새만금개발청</title>
+      <link>https://www.donga.com/news/People/article/all/20250115/130868575/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20250115/130868575/1</guid>
+      <pubDate>2025-01-15T16:53:00.000Z</pubDate>
+      <content:encoded>◇새만금개발청 ▽과장급 △대변인 이상필 △운영지원과장 이범 △정보민원담당관 오욱연 △신산업전략과장 김현주 △기반시설〃 노유진 △관광진흥〃 홍두진</content:encoded>
+    </item>
+    <item>
+      <title>힘센 리더십의 초라한 마무리</title>
+      <link>https://www.khan.co.kr/article/202501152017015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202501152017015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-01-15T20:17:01.000Z</pubDate>
+      <content:encoded>
+        이기흥 3연임 실패…체육계 예산 확보 잘했지만 정치적 의욕 지나쳐
+        
+        
+        
+        대한체육회 이기흥 회장(70·사진)이 낙선했다. 숱한 사법 리스크 속에서도 3선에 성공하리라는 전망은 덧없었다.
+        
+        이 회장은 지난 14일 제42대 대한체육회장 선거에서 총투표 수 1209표 가운데 379표를 얻는 데 그쳐 417표를 얻은 유승민 후보에게 패했다. 2016년부터···
+      </content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사 - 2025년 1월 16일</title>
+      <link>https://www.khan.co.kr/article/202501152021005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202501152021005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-01-15T20:21:00.000Z</pubDate>
+      <content:encoded>■법무부 ◇보호기관 4급 △법무부 치료처우과장 조연호 △부산소년원 분류보호과장 배영준 △광주소년원장 이승원 △대전소년원장 성봉호 △안양소년원장 배성희 △부산소년원 부산청소년비행예방센터장 김양곤 △서울보호관찰소 관찰과장 권은아 △서울남부보호관찰소장 민덕희 △의정부보호관찰소 고양지소장 김남중 △대전보호관찰소 천안지소장 강영욱 △대구보호관찰소 서부지소장 김원진 ···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고 -2025년 1월 16일</title>
+      <link>https://www.khan.co.kr/article/202501152021015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202501152021015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-01-15T20:21:01.000Z</pubDate>
+      <content:encoded>
+        ■최성관씨 별세, 구태근 BNK경남은행 상무 장인상=15일 진주제일병원. 발인 17일 오전 10시30분 (055)750-7100
+        
+        ■이근무 아주대 명예교수 별세, 한선씨·태인 제주한라대 교수·태림씨(강사) 부친상, 이재향 이탈리아 무역공사 상무관 시부상, 김성재 코트라 부장 장인상=14일 오후 8시36분 분당서울대병원. 발인 17일 오전 9시 (031)···
+      </content:encoded>
+    </item>
+    <item>
+      <title>김연경 사인 공, 신유빈 라켓… ‘광복80장터’ 연다</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872277/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872277/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130872462.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;광복 80주년을 맞아 일제강점기 국채보상운동의 정신을 잇는 기부 바자회 행사인 ‘광복80 장터’가 17∼19일 서울 종로구 광화문광장 놀이마당 일대에서 개최된다. 15일 국가보훈부에 따르면 이 행사는 일제강점기 3·1만세운동 등 주요 독립운동의 발상지였던 전국 장터를 모티브로 총 9동의 장터 매장과 체험관으로 진행된다. 대구 국채보상운동기념사업회와 대구상공회의소는 대구지역 만세운동 발상지인 ‘서문밖 장터’와 국채보상운동체험관을 운영하고, 충남 천안시는 ‘아우내 장터’에서 지역 특산품인 호두과자와 농작물(쌀)을 3일간 무료로 제공한다. 또 일제 제암리 학살 사건의 발단이 되었던 만세운동 장소인 ‘발안 장터’에선 장터 특산품 판매와 발안 장터 재현 기념문화제가 소개된다. 강원 지역 최대 규모의 만세운동이 전개됐던 ‘양양 장터’에선 양양 출신 독립운동가 작품 전시와 광복 80주년을 주제로 한 라이브 드로잉 퍼포먼스를 진행한 후 작품을 기증할 예정이다. 충북 최초의 만세운동이 일어난 ‘괴산</content:encoded>
+    </item>
+    <item>
+      <title>오상욱-신유빈-에드워드 리, 한국이미지상 수상</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872269/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872269/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130872454.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울 강남구 그랜드 인터컨티넨탈 서울 파르나스 호텔에서 15일 열린 제21회 한국이미지상 시상식에서 수상한 오상욱 선수, 신유빈 선수, 최정화 한국이미지커뮤니케이션연구원 이사장, 에드워드 리 셰프(왼쪽부터).</content:encoded>
+    </item>
+    <item>
+      <title>장석환 대진대 총장 취임</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872268/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872268/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130872453.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;장석환 대진대 스마트건설·환경공학부 교수(사진)가 15일 제12대 총장에 취임했다. 임기는 내년 말까지 2년이다. 장 총장은 서울시립대를 졸업하고 1998년 대진대 교수로 부임해 대학원장, 교육대학원장, 통일대학원장을 역임했다. 한국수자원학회 부회장, 물학술단체연합회 부회장을 지냈다.</content:encoded>
+    </item>
+    <item>
+      <title>[인사]통계청 外</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872272/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872272/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>◇통계청 〈전보〉 ▽과장급 △경인지방통계청 조사지원과장 원정연 △〃 지역통계과장 김태근 △〃 수원사무소장 김상진 △호남지방통계청 제주사무소장 박인천 ◇새만금개발청 ▽과장급 △대변인 이상필 △운영지원과장 이범 △정보민원담당관 오욱연 △신산업전략과장 김현주 △기반시설〃 노유진 △관광진흥〃 홍두진 ◇원자력안전위원회 〈전보〉 ▽과장급 △혁신행정데이터팀장 김석준 △생활방사선안전과장 김태윤 △방사성폐기물안전과장 채희연 △원자력통제과장 주호성 △고리원전지역사무소장 김성길 ◇한국관광공사 △제주지사장 박정웅 △대전충남〃 심홍용 △관광복지안전센터 파트장 문지영 ◇조계종 △정무특별보좌관 이규민 ▽한국불교문화사업단 △사무국장 본연 스님 △문화사업국장 하원 스님 ◇한국경제신문 △경영지원실 업무지원국장 이관우 △제작국장 겸 한경프린팅대표 박해준 △논설위원실 논설위원 서정환 △〃 서욱진 △〃 김동욱 △〃 송형석 △편집국 부국장 겸 B&amp;M부문 에디터 김형호 △〃 부국장 겸 마켓부문 에디터 고경봉 △〃 부</content:encoded>
+    </item>
+    <item>
+      <title>항암치료 의료진에 감사 전한 英왕세자빈</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872275/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872275/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130872444.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;케이트 미들턴 영국 왕세자빈이 14일(현지 시간) 영국 런던 로열 마스든 병원에 들러 개를 쓰다듬고 있다. 지난해 1월 암 진단 후 이 병원에서 항암 치료를 받은 그는 이날 암 증상이 완화됐다며 의료진에 감사 인사를 전했다.</content:encoded>
+    </item>
+    <item>
+      <title>[라운지]성균관대 총동창회</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872274/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872274/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>◇성균관대 총동창회(회장 김성집)는 15일 김동필 넥스팜코리아 회장, 이규용 나자인 회장, 권태진 변호사 등 3명에게 ‘2024년 자랑스러운 성균인상’을 시상했다.</content:encoded>
+    </item>
+    <item>
+      <title>세계 부호 1~3위 트럼프 취임식에 뜬다</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872276/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872276/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130872501.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 최고 부자 1∼3위로 꼽히는 일론 머스크 테슬라 최고경영자(CEO·54), 제프 베이조스 아마존 창업자(61), 마크 저커버그 메타 CEO(41)가 도널드 트럼프 미국 대통령 당선인의 20일(현지 시간) 취임식에 나란히 참석한다. 트럼프 2기 출범 날부터 적극 눈도장 찍기에 나서는 것으로 풀이된다.  CNBC 등은 14일 대통령 취임식 업무 담당자를 인용해 머스크, 베이조스, 저커버그가 취임식에 참석하며, 내각 지명자들과 함께 상석인 연단에 앉을 예정이라고 전했다. 특히 최근 적극적으로 ‘친트럼프’ 행보를 이어가는 저커버그는 취임식 날 저녁 무도회에 앞서 열리는 리셉션도 공화당 거액 기부자이며 카지노 재벌인 미리엄 애덜슨과 함께 공동 주최한다. CNBC는 “기술 분야의 선두 주자들이 트럼프와 밀월하는 이유는 트럼프의 두 번째 임기에 세금 및 무역 정책, 기술 산업의 변화 가능성 등 상당한 위험이 있기 때문”이라고 전했다. 앞서 9일 트럼프 당선인과 마주쳐야 하는 지미 카터 전</content:encoded>
+    </item>
+    <item>
+      <title>로봇-반도체 등 첨단기술 전문가 국가인재로 관리</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872271/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872271/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>인사혁신처는 15일 대전 유성구 KAIST 본원에서 KAIST와 ‘국가 첨단 전략기술 분야 인재 확충 등을 위한 업무협약’을 체결했다고 밝혔다. 로봇, 반도체 등 첨단 전략기술 분야 전문가를 국가인재로 등록해 관리하기 위한 것이다. 이번 협약은 로봇, 반도체, 디스플레이, 이차전지, 바이오 등 국가 첨단 전략기술 분야 인재 정보를 선제적으로 확충해 우수 인적 자원을 범국가적으로 활용하기 위해 추진됐다. 협약에 따라 KAIST 교원들은 ‘국가인재 데이터베이스’에 등록된다. 인사처 관계자는 “더 많은 과학기술 인재들이 정부의 다양한 분야, 직위에서 활동할 수 있을 것으로 기대하고 있다”고 말했다. 국가인재 데이터베이스는 정부 주요 직위에 적합한 인재를 임명·위촉할 수 있도록 최신 인물 정보를 수집·관리하는 국가 인물 정보 관리체계 시스템으로, 민간 우수 인재가 공공부문에 활발히 진출할 수 있도록 민간 전문가와 국가·자치단체·공공기관 등을 연결하는 역할을 하고 있다. 현재 38만여 명이</content:encoded>
+    </item>
+    <item>
+      <title>[부고]이근무 아주대 명예교수</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872273/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872273/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130872434.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이근무 아주대 명예교수(사진)가 14일 별세했다. 향년 87세. 개성에서 태어난 고인은 서울대 사회학과를 졸업한 뒤 1965∼1978년 동아일보에서 국방부, 공항, 학술 담당기자로 근무했다. 1978년 아주공과대학 교양학부 조교수로 부임해 1989년 사회학과를 설립하고 초대 학과장을 지냈다. 유족으로 부인 송수자 씨와 아들 한선 씨, 딸 태인 제주 한라대 교수, 태림 씨, 사위 김성재 KOTRA 부장, 며느리 이재향 이탈리아 무역공사 상무관 등이 있다. 빈소는 경기 성남시 분당서울대병원, 발인은 17일 오전 9시. 031-787-1500</content:encoded>
+    </item>
+    <item>
+      <title>[부고]권옥순 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20250116/130872270/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250116/130872270/2</guid>
+      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
+      <content:encoded>◇권옥순 씨 별세·조용호 경기도의회 의원 모친상=14일 경기 오산장례문화원, 발인 18일 오전 9시 30분 031-375-1100 ◇김연옥 씨 별세·김완규 경기도의회 의원 모친상=15일 경북 구미시 선산전문장례식장, 발인 17일 오전 7시 30분 054-482-1414 ◇김인제 전 대전대 총장 별세·동수 대전 이편한치과 원장 동성 제일홀리캠 전무 순자 전 대전MBC 아나운서 남영 전 신일여상 교사 정선 전 대한법률구조공단 본부장 부친상·홍일표 전 국회의원 장인상=15일 대전 을지대병원, 발인 17일 오전 10시 30분 042-611-3980 ◇조종구 씨 별세·남주 한국공학대 교수 남기 숙명여대 교수 남민 한국기술교육대 교수 부친상·신창동 경남에너지 회장 김정수 GS칼텍스 부사장 장인상·이은영 씨 시부상=14일 삼성서울병원, 발인 18일 오전 7시 30분 02-3410-3151 ◇최성관 씨 별세·구태근 BNK경남은행 상무 장인상=15일 경남 진주제일병원, 발인 17일 오전 10시 30</content:encoded>
     </item>
   </channel>
 </rss>
