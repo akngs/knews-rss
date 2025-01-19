@@ -3,14 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2025-01-18T00:28:11.800Z</lastBuildDate>
-    <item>
-      <title>AI가 설계한 단백질로 ‘뱀독’ 무력화 성공</title>
-      <link>https://www.donga.com/news/It/article/all/20250116/130872590/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250116/130872590/1</guid>
-      <pubDate>2025-01-16T02:11:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/16/130873503.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2024년 노벨 화학상은 인공지능(AI)으로 단백질을 예측해 단백질 설계의 토대를 만들어 AI 신약 개발 시대를 열어낸 연구자들에게 돌아갔다. 이 노벨 화학상을 받은 데이비드 베이커 미국 워싱턴대학교 교수가 AI로 설계한 단백질로 ‘뱀독’을 무력화하는 데 성공했다.16일 국제학술지 네이처에는 ‘설계 단백질로 치명적 뱀 독소 중화’라는 연구 성과가 게재됐다.이번 연구에는 RFdiffusion이라는 AI 기반 생성 모델이 활용됐다. 이 모델은 이미지 생성 AI에도 쓰이는 ‘확산 모델’의 원리로 무작위 노이즈에서 시작해 단백질 구조를 만들어낸다.이렇게 만들어진 결과물은 단백질 구조에 맞는 아미노산 서열 설계 AI 모델(ProteinMPNN), 구조 예측·검증 AI 모델(AlphaFold2), AI 기반 단백질 설계 스크리닝 기술로 추려졌다.연구팀은 뱀 독소 중 3FTx 그룹 무력화를 목표로 삼았다. 3FTx는 다수의 뱀독에서 공통 발견되는 독소로 중심부에서 손가락 같은 아미노산 사슬이 뻗</content:encoded>
-    </item>
+    <lastBuildDate>2025-01-19T00:12:29.468Z</lastBuildDate>
     <item>
       <title>[만화 그리는 의사들]〈346〉성병이라는데 상대방은 어떡하나요</title>
       <link>https://www.donga.com/news/It/article/all/20250116/130871464/2</link>
@@ -38,13 +31,6 @@
       <guid>https://www.donga.com/news/Economy/article/all/20250115/130870496/2</guid>
       <pubDate>2025-01-16T03:00:00.000Z</pubDate>
       <content:encoded>삼성의 보안 전문 계열사인 에스원은 올해 인공지능(AI) 폐쇄회로(CC)TV 설치가 늘어날 것으로 예측했다. 에스원이 고객 2만9000여 명을 대상으로 조사해 15일 발표한 2025년 보안 트렌드에 따르면 “안전사고 예방을 위해 도입하고 싶은 CCTV 솔루션이 무엇인가”라는 질문에 ‘AI CCTV’라는 답변이 58%로 가장 많았다. ‘CCTV 이상 유무 감지 서비스’(30%)와 ‘일반 CCTV 추가’(9%)가 뒤를 이었다. 응답자들은 또 “CCTV 영상 해킹 범죄 예방을 위해 필요한 보완책이 무엇인가”란 질문에는 ‘보안 인증을 받은 CCTV 설치’(57%)와 ‘검증된 업체의 CCTV 구매’(32%)를 꼽았다. 한편 에스원은 지난해 중대재해처벌법이 5인 이상, 50인 미만의 사업장까지 확대 적용되면서 올해 AI CCTV를 활용해 사고를 예방하는 시스템이 주목받을 것으로 예상했다.</content:encoded>
-    </item>
-    <item>
-      <title>KT, MS와 AX사업 전략 워크숍… AI 협력 본격화</title>
-      <link>https://www.donga.com/news/Economy/article/all/20250115/130870578/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20250115/130870578/2</guid>
-      <pubDate>2025-01-16T03:00:00.000Z</pubDate>
-      <content:encoded>KT는 마이크로소프트(MS)와 인공지능 전환(AX) 사업 전략 워크숍을 열었다고 14일 밝혔다. 지난해 9월 MS와 전략적 파트너십을 체결한 KT는 이번 워크숍을 통해 양 사의 협력을 공고히 하고 실질적인 AX 혁신을 이끌어 시장 주도권을 확보한다는 계획이다. 서울 노보텔앰배서더 동대문에서 전날 진행된 워크숍에는 김영섭 KT 대표와 조원우 한국MS 대표 등 양 사 임직원 200여 명이 참석했다. 정우진 KT 전략사업컨설팅부문장은 KT의 AX 사업의 방향과 계획을 소개했고, 조원우 한국MS 대표이사는 MS의 전반적인 사업 추진 계획을 발표했다. 공공, 금융 등 개별 산업 특성에 맞춰 효과적인 인공지능(AI) 전환을 추진하기 위한 논의도 진행했다. 한편 KT는 국내 문화와 환경, 규제 상황에 특화된 AX를 달성하고자 한국형 AI와 강력한 보안 클라우드 서비스인 ‘시큐어 퍼블릭 클라우드’ 개발을 추진 중이다.</content:encoded>
     </item>
     <item>
       <title>자나깨나 ‘스마트폰’…방치했다가 젓가락도 못드는 이유</title>
@@ -353,6 +339,20 @@
       <guid>https://www.donga.com/news/Inter/article/all/20250118/130887234/1</guid>
       <pubDate>2025-01-18T08:20:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/18/130887235.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일상을 소셜미디어(SNS)에 공유하며 큰 인기를 얻은 124세 중국 여성이 최근 자신의 장수 비결을 공유해 화제다.14일(현지시각) 홍콩의 사우스차이나모닝포스트(SCMP)는 1901년 청나라 말기에 태어나 현재 중국 남서부 쓰촨성 난충시에 거주하는 추차이스(124)를 소개했다. 매체에 따르면 어린 시절 큰 어려움을 겪고, 40대에 남편을 잃은 뒤 네 자녀를 홀로 키운 추차이스는 큰아들의 죽음 이후 손녀까지 돌보는 등 가족을 위해 헌신했다. 그는 고난에도 불평하지 않고 항상 긍정적인 태도를 유지했다. 이어 추 여사는 하루 세 끼를 정해진 시간에 먹고, 식사 후 산책한 뒤 오후 8시 경에 잠자리에 든다. 그의 단순한 삶이 장수의 비결이라 꼽았다.매체는 그녀가 124세의 나이에도 계단에 쉽게 오를 수 있으며 집안일을 혼자서 다 해내는 등 건강에 큰 무리가 없다고 설명했다. 또 돼지 지방을 끓여서 나온 기름으로 만든 고형 식용유인 ‘라드’를 좋아하지만 의사의 권유에 따라 적당히 먹는다고 덧</content:encoded>
+    </item>
+    <item>
+      <title>우주 인터넷, 그게 돈이 될까? 머스크는 다 계획이 있다[딥다이브]</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250117/130883475/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250117/130883475/1</guid>
+      <pubDate>2025-01-18T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/17/130883739.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일론 머스크의 위성 인터넷 서비스 ‘스타링크(Starlink)’를 아시나요. 우크라이나 전쟁에서 위력을 과시한 스타링크가 곧 한국에서도 서비스를 시작한다고 합니다. 허황한 꿈인 줄 알았던 초연결의 ‘우주 인터넷 시대’가 손에 잡히는 현실로 다가온 건데요.인터넷 연결에 광케이블이면 충분하지, 무슨 위성씩이나 필요하냐고요? 그게 그렇지가 않습니다. 아마존부터 아프리카까지, 세계 곳곳에서 스타링크는 이미 열풍을 일으키고 있죠. 그 확장 속도가 무서울 정도인데요. 오늘은 지구 정복 노리는 스타링크를 들여다보겠습니다.*이 기사는 17</content:encoded>
+    </item>
+    <item>
+      <title>‘미운 오리’였던 ‘바스켓퀸’ 정선민 “이충희 아저씨 덕에 ‘백조’ 됐죠” [이헌재의 인생홈런]</title>
+      <link>https://www.donga.com/news/Culture/article/all/20250117/130883878/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20250117/130883878/1</guid>
+      <pubDate>2025-01-19T09:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/01/17/130883894.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;현역 시절 ‘바스켓 퀸’이라는 별명으로 불렸던 정선민(51)은 한국 여자 농구의 살아있는 전설이다. 코트 위에 선 여왕을 막을 수 있는 사람은 아무도 없었다.농구대잔치 시절부터 최고로 군림했던 그는 1998년 여자프로농구(WKBL) 출범 이후에도 2012년을 끝으로 은퇴할 때까지 항상 최고의 자리를 지켰다. 7차례 정규리그 최우수선수(MVP)를 차지했고, 몸담았던 팀 대부분을 우승으로 이끌었다. 그는 프로농구에서 415경기를 뛰면서 8140점을 기록했다. 경기당 19.61점꼴이다. 3142리바운드(평균 7.57), 1777어시스트(4.28개), 771스틸(1.86개) 등 공격이면 공격, 수비면 수비 등 못 하는 게 없었다. 트리플 더블도 8차례나 기록했다.그가 한국 여자 농구 역사상 최고의 ‘올라운드 플레이어’가 될 수 있었던 것은 역설적이게도 중학교 시절까지는 볼품없는 선수였기 때문이다. 초등학교 시절 그는 또래 중 키가 크다는 이유로 농구부로 뽑혔다. 그런데 막상 농구팀에 가보니</content:encoded>
     </item>
   </channel>
 </rss>
