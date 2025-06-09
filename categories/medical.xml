@@ -3,105 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2025-06-08T00:13:02.077Z</lastBuildDate>
-    <item>
-      <title>장애 지형서도 시속 14㎞, 사족 로봇 국내 개발</title>
-      <link>https://www.donga.com/news/People/article/all/20250603/131740040/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250603/131740040/2</guid>
-      <pubDate>2025-06-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131741692.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 연구진이 계단이나 벽, 장애물 등이 있는 복잡한 지형에서도 빠르게 달릴 수 있는 사족 보행 로봇 기술을 개발했다. 향후 재난 현장이나 산악 수색 등 사람이 투입되기 어려운 환경에 활용될 것으로 보인다. 3일 KAIST는 황보제민 기계공학과 교수팀이 벽, 계단, 징검다리 등 불연속적인 지형에서 시속 14.4km로 달릴 수 있는 사족 보행 로봇 내비게이션 시스템을 개발했다고 밝혔다. 이 시스템이 적용된 로봇 ‘라이보’는 1.3m 폭의 간격을 뛰어넘고, 징검다리나 30도 경사의 벽을 빠르게 달리는 등 어려운 과제를 무리 없이 통과했다. 해당 기술은 국제학술지 ‘사이언스 로보틱스’ 5월호에 게재됐다. 연구팀은 안정적인 로봇의 움직임을 구현하기 위해 크게 두 가지 기술을 개발했다. 로봇의 발이 내딛는 위치를 계획하는 ‘플래너’와 발 디딤 위치를 정확하게 따라가는 ‘트래커’다.  플래너는 신경망 기반의 인공지능(AI) 기술을 활용해 물리적으로 가능한 발 디딤 위치를 빠르게 탐색하고, 시뮬</content:encoded>
-    </item>
-    <item>
-      <title>게임사들, AI 앞세워 사업 확장… “키워드 넣으니 옷디자인 뚝딱”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20250603/131739103/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20250603/131739103/2</guid>
-      <pubDate>2025-06-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/03/131740403.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 게임사들이 인공지능(AI)을 앞세워 사업 영역을 게임 밖으로 넓히고 있다. 게임 개발 과정에서 축적한 AI 기술을 활용해 콘텐츠 제작, 패션, 로보틱스 등으로 사업 영역을 다각화하는 시도가 잇따르고 있다.3일 업계에 따르면 엔씨소프트는 내부 AI 연구개발 조직이었던 ‘엔씨 리서치’를 올해 2월 ‘엔씨 AI’로 분사시켰다. 엔씨 AI는 음성합성, 이미지 변환, 챗봇, 기계번역 등 다양한 AI 기술을 기반으로 패션과 미디어, 커머스 등 산업별 맞춤형 AI 구독형 소프트웨어(SaaS) 제공 기업으로 탈바꿈하고 있다. 엔씨 AI가 선보인 ‘바르코 아트 패션’은 패션 분야 전문 용어와 유행을 학습한 패션 제작 전용 AI 모델이다. 예를 들어 디자이너가 ‘스트리트 캐주얼’이라는 키워드를 입력하면 단 몇 초 만에 10종이 넘는 관련 디자인을 생성해 낸다. 패션브랜드 MLB, 디스커버리 등을 보유한 F&amp;F가 이 솔루션을 도입해 제품 개발 주기가 기존 6개월에서 3개월로 단축된 것으로</content:encoded>
-    </item>
-    <item>
-      <title>오픈AI 동영상 생성 서비스 ‘소라’, MS ‘빙’서 무료 제공</title>
-      <link>https://www.donga.com/news/Economy/article/all/20250603/131739095/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20250603/131739095/2</guid>
-      <pubDate>2025-06-04T03:00:00.000Z</pubDate>
-      <content:encoded>오픈AI 동영상 인공지능(AI) 서비스 ‘소라’가 마이크로소프트(MS) 검색 엔진 ‘빙(Bing)’을 통해 무료로 제공된다. MS는 2일(현지 시간) 빙 애플리케이션에 동영상 생성 기능인 ‘빙 비디오 크리에이터’를 도입한다고 밝혔다. MS는 이 기능이 오픈AI의 소라 모델을 활용해 텍스트를 입력하면 동영상을 생성할 수 있으며 무료로 제공된다고 설명했다. 현재 오픈AI에서 소라를 이용하려면 월 20달러를 내야 하는 챗GPT 플러스나 월 200달러인 챗GPT 프로를 구독해야 한다. 이번 MS 빙과의 통합을 통해 일반 사용자는 소라를 무료로 사용할 수 있게 됐다. 영상 생성 기능은 생성 속도에 따라 ‘빠른 생성’과 ‘일반 생성’으로 나눠져 있다. 일반 생성은 무료로 사용 가능하며, 빠른 생성은 계정당 최대 10개까지 만들 수 있다. 이후부터는 MS 스토어에서 구매하거나 적립할 수 있는 포인트가 필요하다.</content:encoded>
-    </item>
-    <item>
-      <title>하루 커피 2잔 마시면…여성 건강하게 늙는데 도움</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131742447/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131742447/2</guid>
-      <pubDate>2025-06-04T09:08:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131742391.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt; 중년 여성 커피 애호가들에게 반가운 소식이다. 카페인이 포함된 커피가 여성의 정신적 신체적 건강 노화에 도움이 되는 것으로 나타났다. 하지만 카페인을 제거한 디카페인 커피나 차(茶)는 관련이 없었으며, 콜라 등 액당을 첨가한 탄산음료는 섭취량이 증가할수록 건강하게 나이 먹을 가능성을 크게 낮췄다.미국 하버드대 공중보건대학원의 사라 마다비 박사 연구팀은 여성 4만7513명의 데이터를 30년간 추적 관찰해 얻은 연구 결과를 지난 5월 31일부터 6월3일까지 열린 미국 영양학회 연례회의(NUTRITION 2025)에서 발표했다.마다비 박사는 “과거 연구들은 커피가 특정 건강 결과와 관련이 있음을 밝혀냈지만, 이번 연구는 30년 동안 여러 노화 분야에 걸친 커피의 영향을 평가한 첫 연구”라며 “결과는 카페인이 함유된 커피가 정신적, 신체적 기능을 모두 보존하는 노화 경로를 독특하게 지원할 수 있음을 시사한다”라고 말했다.연구진은 ‘건강한 노화’(healthy aging)를 70세</content:encoded>
-    </item>
-    <item>
-      <title>네오테크, “전통 제조기업에도 협업툴 기반 업무 체계가 꼭 필요합니다”</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131742518/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131742518/1</guid>
-      <pubDate>2025-06-04T09:23:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131742507.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 5월 28일 개최된 ‘플로우 X 데이’는 협업 도구인 ‘플로우’의 개발사 마드라스체크의 창립 10주년을 기념하는 행사다. 이날 행사는 1부, 2부로 진행되어 많은 고객사 및 관계사, 언론사 취재진 등이 참석해 성황을 이뤘다.1부 행사에서 플로우 도입 우수 사례 발표를 진행한 ‘네오테크’의 이준명 대표를 만나, 제조 중소기업으로서 협업툴을 도입하고 긍정적인 효과를 얻은 자세한 이야기를 들었다.네오테크는 자동차 튜닝 분야의 ‘모빌리티 섀시 하드웨어’ 설루션 기업으로, 자동차 승차감을 좌우하는 고성능 서스펜션(쇽업저버)과 제동 성능 강화를 위한 브레이크 시스템을 개발, 제조하는 국내 강소기업이다. 현재 국내 자동차 튜닝 시장에서 700여 개 거래처를 통해 확고한 입지를 다졌고, 최근에는 미국, 호주, 동남아 등 해외 시장 수출도 진행 중이다. 부품 공급을 넘어 현지 맞춤형 튜닝 세팅과 로컬 서비스까지 함께 제공한다.네오테크는 정통 제조기업이라 협업툴 같은 IT 서비스 도입이 녹록지</content:encoded>
-    </item>
-    <item>
-      <title>韓 연구진, 사람 뇌 신경 전달 원리 닮은 로봇 센서 개발</title>
-      <link>https://www.donga.com/news/Society/article/all/20250604/131743158/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20250604/131743158/1</guid>
-      <pubDate>2025-06-04T10:32:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131743159.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내에서 사람의 뇌 신경 전달 원리를 닮아 밝기가 들쭉날쭉한 상황에서도 효율적이고 정확하게 사물의 윤곽 정보를 추출하는 비전 센서가 개발됐다. 자율주행, 드론, 로봇 기술에서 주변 환경을 더 빠르고 정확하게 인식하는 데 도움이 될 전망이다.울산과학기술원(UNIST)은 신소재공학과 최문기 교수팀이 한국과학기술연구원(KIST) 최창순 박사팀, 서울대학교 김대형 교수팀과의 공동 연구를 통해 시냅스 모방 로봇 비전 센서를 개발했다고 4일 밝혔다.비전 센서는 기계의 눈 역할을 하는 부품으로, 센서가 감지한 정보는 뇌의 역할을 하는 프로세서로 전달되어 처리된다. 이때 정보가 여과 없이 전달되면 전송 데이터가 늘어나 처리 속도가 느려지고, 불필요한 정보로 인해 인식 정확도도 떨어질 수 있다. 조명이 급격히 바뀌거나 밝고 어두운 영역이 뒤섞인 상황에서는 이러한 문제가 더욱 두드러진다.공동연구팀은 뇌 시냅스에서 일어나는 도파민-글루타메이트 신호 전달 경로를 모방해 윤곽선처럼 명암 대비가 큰 시각 정</content:encoded>
-    </item>
-    <item>
-      <title>오리엔텀-연세대-국민은행, 과기정통부 ‘양자컴퓨팅 기반 양자이득 도전 연구’에 최종 선정</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131742714/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131742714/1</guid>
-      <pubDate>2025-06-04T10:51:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131742754.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방승현 오리엔텀 대표는 연세대학교, KB국민은행과 함께 구성한 컨소시엄이 과학기술정보통신부(한국연구재단)가 주관하는 2025년도 ‘양자컴퓨팅 기반 양자이득 도전 연구’ 공모 과제에 최종 선정됐다고 4일 밝혔다.선정된 연구 개발 과제의 명칭은 ‘확률 미분 방정식 해석기 구현을 통한 파생상품 가격 결정 방법 구현 및 양자 우위 실증’이다. 총연구 기간은 2025년부터 2027년까지 3년간이며, 총 30.5억 원의 연구비가 투입된다.해당 과제는 기존에 사용되던 시뮬레이션 방식의 한계를 극복하기 위해 확률 미분 방정식(SDE)을 기반으로 한 새로운 양자 알고리즘을 직접 개발한다. 또한, 고전 컴퓨터로는 해결이 어려운 고차원 문제를 양자컴퓨팅의 블록 인코딩(Block Encoding) 기법을 활용해 효율적으로 구현할 계획이다. 이를 통해 파생상품의 가격 변동성과 위험도를 정밀하게 예측하고, 양자 우위를 실증하는 것이 목표다.방승현 오리엔텀 대표는 “양자 우월성의 도달 시점을 기다리기보다, 실</content:encoded>
-    </item>
-    <item>
-      <title>살 빼려 적게 먹으면 우울증 위험 증가…남성-비만인 더 심해</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131743795/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131743795/2</guid>
-      <pubDate>2025-06-04T11:38:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131743762.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt; 식사량을 제한하는 저칼로리 식단이 영양 결핍과 같은 이유로 우울증 증상 발생 위험을 높일 수 있는 것으로 나타났다. 칼로리 제한이 기분에 미치는 영향은 남성과 과체중·비만인 사람에게서 더 두드러졌다.학술지 BMJ 영양 예방&amp;건강(Nutrition Prevention &amp; Health)에 발표한 이번 연구는 미국 국민건강영양조사(NHANES)에 참여하고 우울증 증상과 관련된 설문지를 작성한 성인 2만 8525명을 대상으로 했다. 남성이 1만 4196명, 여성 1만4329명 이었다.우울증을 겪고 있다고 답한 사람은 전체의 8%로 집계됐다. 체질량지수(몸무게(㎏)를 키의 제곱(㎡)으로 나눈 값) 기준으로 과체중은 33%, 비만은 38%였다.연구 대상자의 87%는 특정 식단을 따르고 있지 않다고 밝혔다. 칼로리 제한 식단을 따르는 이는 2206명으로 전체의 7.7%에 불과했다. 859명은 지방, 설탕, 소금, 섬유질 또는 탄수화물 섭취를 줄이는 ‘영양소 제한’ 식단을</content:encoded>
-    </item>
-    <item>
-      <title>SBA, 초격차 스타트업과 혁신 이끌 ‘2025 이노웨이브’ 모집</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131744401/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131744401/1</guid>
-      <pubDate>2025-06-04T13:27:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/05/131751269.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울경제진흥원(이하 SBA)이 초격차 10대 부문 스타트업과 수요 기업의 개방형 혁신을 도울 ‘2025 이노웨이브’ 수요 기업을 6월 16일부터 6월 27일까지 모집한다.창업진흥원과 SBA는 우리나라의 미래를 이끌 초격차 10대 부문(시스템반도체·바이오와 헬스·미래 모빌리티·친환경과 에너지·로봇·빅데이터와 인공지능·사이버 보안과 네트워크·우주항공과 해양·차세대 원전·양자 기술) 유망 스타트업 1000곳을 발굴·육성하는 스타트업 1000+ 프로젝트를 진행 중이다. 이번 2025 이노웨이브는 혁신 기술을 가진 초격차 스타트업과 수요 기업의 협업을 유도, 이들이 동반 성장하면서 신사업 기회를 함께 만들도록 돕는 지원 사업이다.2025 이노웨이브 참여 대상은 초격차 10대 부문 기술 수요와 개방형 혁신 의지를 가진 대·중견 기업, 공공기관과 지자체다. SBA는 기업과 기관 30곳 내외를 선발, 초격차 스타트업과 논의를 거쳐 최종 10개의 컨소시엄을 구성한다. 컨소시엄 구성원들은 올해 12월</content:encoded>
-    </item>
-    <item>
-      <title>쿠키런 킹덤, ‘다시 열정의 전장으로’ 업데이트… 다채로운 콘텐츠 추가</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131744741/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131744741/1</guid>
-      <pubDate>2025-06-04T13:57:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131747665.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;데브시스터즈 개발 스튜디오 스튜디오킹덤은 4일 모바일 게임 ‘쿠키런: 킹덤’의 ‘다시 열정의 전장으로’ 업데이트를 진행했다고 밝혔다. 이번 업데이트는 비스트이스트 월드의 열 번째 에피소드와 함께 새로운 쿠키, 미니게임, 스킨 등 다양한 콘텐츠를 선보였다.신규 에피소드 ‘다시 열정의 전장으로’는 홀리베리 쿠키가 설탕 낙원의 심장으로 향하는 모험을 다룬다. 끈적한 시럽과 디저트 생물들로 가득한 길목에서 방패를 잃은 홀리베리 쿠키가 고통을 딛고 영웅으로 돌아온다는 내용이라고 한다.홀리베리 쿠키는 ‘선봉장: 홀리베리 쿠키’로 각성해 등장한다. 과거 책임감에 지쳤던 영웅이 신념과 열정으로 새로운 갑주를 두르고 복귀한다. ‘신념이 깃든 방패’ 스킬은 아군 피해를 일부 흡수하고 치명타 피해 감소 및 피해 증가를 제공한다.업데이트에는 ‘정글전사 쿠키의 베리베리 높이높이!’ 미니게임이 추가됐다. 플레이어는 발판을 뛰어오르며 베리를 수집해 높은 층까지 도달해야 하며, 베리 자력, 점프 강화, 피버타임</content:encoded>
-    </item>
-    <item>
-      <title>대장암 재발 방지 ‘운동 치료’가 약물보다 낫다…임상시험서 증명</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131745736/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131745736/2</guid>
-      <pubDate>2025-06-04T15:22:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131745703.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt; 대장암 환자를 위한 운동 프로그램이 암 재발과 사망 위험을 크게 줄일 수 있다는 대규모 임상 시험 결과가 나왔다. 캐나다 호주 등 6개국 대장암 환자 889명을 대상으로 한 연구에 따르면 ‘운동 치료’는 대장암 환자의 사망 위험을 37% 줄였고, 암 재발 위험은 28% 낮췄다. 연구 참여자 대부분은 표준 수술과 화학 항암요법을 받은 3기(90%) 또는 고위험 2기 암 환자였다.수술 후 환자들은 3~6개월 동안 카페시타빈과 옥살리플라틴(CAPOX), 5-플루오로우라실과 옥살리플라틴(FOLFOX), 또는 단독 플루오로피리미딘 치료를 받는다. 그러나 이 같은 치료는 부작용 외에도 높은 재발률을 보인다. 따라서 환자의 삶의 질과 생존율 향상을 위해 새로운 치료법이 필요하다.연구진은 2009년부터 2024년 사이에 각 환자를 약 8년 동안 추적관찰 했다. 환자들은 수술과 화학요법을 마친 후 절반은 운동 프로그램에 참여했고, 나머지 절반은 회복 후 건강한 생활 습관을 설명하는 책자만</content:encoded>
-    </item>
-    <item>
-      <title>세원인텔리전스-현대차 글로벌 SW센터, AI 기반 스마트 모빌리티 기술 협력 MOU</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131744807/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131744807/1</guid>
-      <pubDate>2025-06-04T15:23:01.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131744828.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세원인텔리전스는 현대자동차그룹 글로벌 소프트웨어센터와 AI 기반 스마트 모빌리티 기술 협력을 위한 업무협약(MOU)을 체결했다고 4일 밝혔다.협약은 지난달 진행됐다. 양 기관은 보유한 기술력과 노하우를 바탕으로 스마트 모빌리티 분야의 공동 연구 및 제품 개발, 특허 협력 개발, 미국 현지 진출 확대 등을 포괄적으로 추진한다.양사는 AI 기반 데이터 분석 및 알고리즘 고도화 프로젝트를 공동 수행하고, 이를 바탕으로 차량 탑재형 차세대 AI 모빌리티 솔루션을 공동 개발할 예정이다. 특히 이번 프로젝트에서는 레이더 센서와 퀄컴(Qualcomm) 칩셋을 활용해 운전자의 상태를 실시간으로 모니터링하고, 졸음운전 및 주의력 저하를 조기에 감지·예방할 수 있는 기술을 적용한다. 또한 해당 기술에 대한 공동 지식재산권을 확보하고 특허 협력 체계를 구축해 글로벌 시장 경쟁력 확보에 나선다. 기술 상용화 이후 국내뿐만 아니라 미국을 포함한 북미 시장 진출도 본격화할 계획이다.세원인텔리전스는 자사의 딥</content:encoded>
-    </item>
-    <item>
-      <title>AI 스타트업 인포플라, 글로벌 무대에서 ‘존재감’</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131746312/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131746312/1</guid>
-      <pubDate>2025-06-04T16:37:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131746292.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(이하 AI)을 통한 업무 자동화 시장은 정말로 ‘핫’한 분야다. 이 시장을 선점하기 위해 다양한 글로벌 기업이 경쟁하고 있다. 그 중에는 자금력이나 인력보다는 아이디어 중심으로 승부하는 소규모 기업도 적지 않다. 국내 AI 스타트업인 ‘인포플라(InfoFla, 대표 최인묵)’도 그 중의 하나로, 자체 개발한 AI 기반 자동화 솔루션을 통해 해외 무대에서 존재감을 드러내고 있다.이들의 대표작은 비전 AI 기반 업무 자동화 솔루션인 ‘VLAgent’다. 기존의 RPA(Robotic Process Automation) 기반 업무 자동화 솔루션은 정해진 스크립트에 의한 단순 반복작업에만 적용 가능하고 각종 돌발상황에 대처하지 못하는 것이 단점이었다. 예를 들어 웹이나 앱 내에서 이루어지는 반복 작업을 RPA로 자동화하는 경우, 의도하지 않은 팝업창이나 오류 메시지가 뜨면 작업이 중단된다.인포플라는 이를 극복하기 위해 거대 언어 모델, LLM(Large language model)에</content:encoded>
-    </item>
-    <item>
-      <title>디에스엠퍼메니쉬, 2024 통합 연차 보고서 통해 성과 발표…“통합 출범 이후 시너지 효과”</title>
-      <link>https://www.donga.com/news/It/article/all/20250604/131746554/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250604/131746554/1</guid>
-      <pubDate>2025-06-04T18:33:32.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131746566.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 영양‧건강‧뷰티 기업 디에스엠퍼메니쉬(dsm-firmenich)가 ‘2024 통합 연차 보고서(Integrated Annual Report, IAR)’를 통해 출범 이후의 성과를 공유했다.디에스엠퍼메니쉬는 2023년 5월 세계 최대 비타민 원료 제조 기업 디에스엠(DSM)과 글로벌 향료·풍미 기업 퍼메니쉬(Firmenich)의 합병해 출범했다. ‘삶의 진보를 실현한다(We bring progress to life)’라는 비전 아래 ▲건강·영양· 케어(Health,Nutrition &amp; Care) ▲향수·뷰티(Perfumery &amp; Beauty) ▲맛·질감·건강(Taste, Texture &amp; Health) 등 국내 영양‧건강‧뷰티 산업 전반을 위한 원료 포트폴리오를 갖고 있다.2024 통합 연차 보고서에 따르면, 디에스엠퍼메니쉬는 지난해 조정 EBITDA(Adjusted EBITDA) 21억 유로(한화 약 3조 3608억 원)를 기록했다.디에스엠퍼메니쉬는 합병 이후 처음으로 ‘20</content:encoded>
-    </item>
+    <lastBuildDate>2025-06-09T00:12:40.033Z</lastBuildDate>
     <item>
       <title>“AI 덕에… 1년 걸릴 영화, 카메라 없이 8일만에 완성”</title>
       <link>https://www.donga.com/news/Culture/article/all/20250605/131748640/2</link>
@@ -122,13 +24,6 @@
       <guid>https://www.donga.com/news/It/article/all/20250605/131747887/2</guid>
       <pubDate>2025-06-05T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/05/131749216.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;요즘 의료 정책이나 병원 운영을 이야기할 때 ‘환자 중심 의료’라는 말이 자주 등장한다. 30여 년간 내과의사, 입원의학과 의사로 일하면서 ‘내가 만일 환자라면 무엇을 원할까’ 고민할 때가 많았다. 주치의가 알기 쉽게 설명하고 효과적으로 치료해 빨리 회복시키는 것, 퇴원 뒤 같은 병이 재발하지 않게 돕는 것 등이 아닐까. 당연하지만 쉽지 않은 게 현실이다. 진료과 교수는 외래진료나 수술, 연구로 숨 돌릴 틈이 없다. 전공의 역시 과중한 업무에 시달린다. 그렇다 보니 환자는 짧은 회진 시간 외에 의사를 만나기 어려웠다. 특히 의정 갈등으로 전공의 집단 사직이 이뤄지면서 의료 현장은 ‘환자 중심 의료’에서 더욱 멀어지게 됐다. 여기서 나온 정부 보완책이 ‘전문의 중심 병원’이다. 전공의는 교육 수련에 충실하게 하고, 치료 전 과정을 책임질 수 있는 전문의가 환자를 돌보도록 진료체계를 만든다는 것이다. 그 핵심에는 입원 전담 전문의가 있다.  입원 환자를 돌볼 때는 질환 중증도나 동반 복</content:encoded>
-    </item>
-    <item>
-      <title>[만화 그리는 의사들]〈364〉수술실이 얼음장같아요!</title>
-      <link>https://www.donga.com/news/It/article/all/20250605/131747889/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20250605/131747889/2</guid>
-      <pubDate>2025-06-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/05/131746879.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;</content:encoded>
     </item>
     <item>
       <title>트럼프, 사우디서 멸종위기종 표범 한쌍 받는다</title>
@@ -353,6 +248,111 @@
       <guid>https://www.donga.com/news/It/article/all/20250607/131754669/1</guid>
       <pubDate>2025-06-07T12:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/07/131754690.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“솔직히 의사이면서도 제 건강에는 크게 신경 쓰지 않았어요. 그런데 거스 히딩크 감독님 수술한 뒤 계속 데이터로 건강을 관리해 주면서 ‘아 나도 이러면 안 되겠다’는 생각이 들었죠. 히딩크 감독님은 오른쪽 무릎 수술한 2014년 68세였고, 왼쪽 무릎 수술한 2022년 76세였습니다. 그분이 수술한 이유는 스포츠를 즐기며 건강하게 살고 싶어서였죠. 감독님이 활짝 웃으며 뛰어다니는 모습을 보면 너무 행복해 보였죠. 히딩크 감독님의 생체 나이는 60대 수준입니다. 아직도 활발하게 운동할 수 있는 이유는 탄탄한 근육 때문이었습니다.”송준섭 강남제이에스병원 원장(56)은 퇴행성 관절염으로 지팡이를 짚고 다니던 거스 히딩크 전 한국축구대표팀 감독(79)의 무릎을 제대혈 줄기세포 치료로 완치시켜 세계적으로 주목받았다. 뛰어다닐 수 있게 된 히딩크 전 감독은 다시 축구는 물론 골프, 테니스를 즐기며 건강한 노후를 즐기고 있다. 운동을 등한시하던 송 원장도 이런 히딩크 감독을 보고 2년 전부터 운</content:encoded>
+    </item>
+    <item>
+      <title>SKT, 예약자 70% 이상 유심 교체…293만명 남아</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131761701/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131761701/1</guid>
+      <pubDate>2025-06-08T12:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131761702.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;SK텔레콤이 해킹 사고 이후 유심 교체를 예약한 가입자 중 70% 이상 교체를 마쳤다. 남은 예약자는 300만명 아래로 내려왔다.8일 SK텔레콤에 따르면 전날 하루 동안 가입자 12만명이 유심 교체를 완료했다. 누적 659만명으로 남은 대기자는 293만명이다.지난달 한때 하루 30만명 교체가 이뤄졌지만 이달 들어 10만명대가 이어지고 있다. 이에 대해 SK텔레콤은 징검다리 휴일 등 영향으로 보고 있다.SK텔레콤 관계자는 “유심 교체 예약자 중 70% 이상 교체를 완료했고, 잔여 예약자 안내가 진행 중”이라며 “연휴 이후 유심 교체 내방객 증가 대비 교체작업 지원에 만전을 기하겠다”고 말했다.SK텔레콤은 이달 20일 정도면 남은 예약자 수요를 전부 소화할 수 있을 것으로 내다봤다. 내부 계획상 16일까지 전체 예약자를 대상으로 유심 교체 안내 문자를 발송하고 20일께 1차 유심 교체를 마칠 수 있다는 예상이다.한편 SK텔레콤은 오는 13일까지 1인 소매장 대상 본사 직원 지원인력을 7</content:encoded>
+    </item>
+    <item>
+      <title>“집·회사 아니면 설정 못바꾼다”…삼성 갤럭시 보안기능 추가</title>
+      <link>https://www.donga.com/news/It/article/all/20250608/131764872/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20250608/131764872/1</guid>
+      <pubDate>2025-06-08T19:14:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131764873.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 갤럭시 시리즈 스마트폰에 낯선 장소에서 민감한 보안 설정을 변경하려고 시도 시 생체인증을 요구하는 보안기능을 새롭게 추가했다.8일 IT 업계에 따르면 삼성전자는 최근 갤럭시 제품군용 소프트웨어 ‘원(One) UI 7’ 업데이트를 통해 해당 보안 기능을 도입했다.이 기능은 스마트폰이 ‘신뢰하는 장소’(이용자 설정)를 벗어났을 때 자동으로 보안 강도를 높이는 방식으로 작동한다. 다른 사람이 화면 잠금 패턴 또는 비밀번호(PIN)를 알아내도 집·직장 등 안전한 장소가 아닌 곳에선 스마트폰 민감 정보를 변경할 수 없도록 설정할 수 있다.안전한 장소가 아닌 곳에서 생체인증 재설정을 시도하면 1시간의 지연시간을 부여하는 보안 지연 기능도 추가됐다. 스마트폰을 도난당한 소유주가 원격으로 잠글 수 있도록 시간을 벌어주는 개념이다.신규 기능은 ‘갤럭시 S25’ 시리즈를 시작으로 갤럭시 Z 폴드·플립 시리즈 등에도 순차 적용되고 있다.(서울=뉴스1)</content:encoded>
+    </item>
+    <item>
+      <title>‘단백질 폭탄’ 그릭요거트, 더 건강하게 먹기[정세연의 음식 처방]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20250608/131765233/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20250608/131765233/2</guid>
+      <pubDate>2025-06-08T23:09:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131764264.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그릭 요거트가 인기다. 요거트를 오래 냉장 보관하면 뚜껑을 열었을 때 물이 생긴 걸 본 적 있을 것이다. 이 물을 유청이라고 하는데, 요거트에서 유청을 쫙 빼서 수분기가 거의 없는 꾸덕한 질감으로 만든 것을 ‘스트레인드 요거트(Strained yogurt)’라고 한다. 마침 그리스의 한 회사에서 이를 그릭 요거트라고 이름 붙여 판매했는데 인기를 끌면서, 이후 스트레인드 요거트를 통칭해 그릭 요거트라고 부르게 됐다.그릭 요거트는 특히 다이어트할 때 건강하게 살을 빼는 데 도움이 된다. 꾸덕한 질감이라 100g만 먹어도 포만감이 오래가 한 끼 식사로 좋고, 고단백·저당·락토프리 제품이 많아 다이어트용 식품으로 적합하다. 집에서도 쉽게 만들 수 있다. 우유에 농후발효유나 스타터 유산균을 섞어 8∼12시간 발효해 1차 요거트를 만든 뒤, 면포에 유청을 걸러내면 완성된다. 무가당 플레인 요거트를 커피 드리퍼나 다시백에 올려 유청을 빼는 방법도 있다.유청은 수분과 유당이 섞인 물이라, 이를 걸</content:encoded>
+    </item>
+    <item>
+      <title>눈 커지고 뒷걸음질… 감정 표현하는 로봇 개발</title>
+      <link>https://www.donga.com/news/People/article/all/20250609/131765491/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250609/131765491/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/09/131763813.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 연구진이 자극의 횟수나 강도에 따라 눈이 커지거나 뒷걸음질을 치는 등 반응이 달라지는 감정 적응형 로봇을 개발했다. 울산과학기술원(UNIST)은 이희승 디자인학과 교수팀이 감정을 눈과 움직임으로 표현하고 시간에 따라 반응이 바뀌는 적응형 로봇 기술을 개발했다고 8일 밝혔다. 이 로봇은 눈 모양과 색상, 움직임을 조합해 6가지 감정을 표현할 수 있다. 가령 로봇을 세게 두드리면 로봇 눈이 커지고 몸을 뒤로 젖히면서 놀란 감정을 표현한다. 같은 자극이 반복되면 똑같은 반응을 보이는 것이 아니라 이전 감정 상태와 자극의 누적값에 따라 표현이 달라진다. 연구팀은 감정을 고정 상태가 아니라 시간에 따라 변하는 ‘벡터’로 보고 로봇 제어 모델을 개발했다. 강한 자극은 감정 벡터의 크기를 빠르게 키우고, 약한 자극은 서서히 반응을 변화시키도록 제어하는 방식이다. 그 결과 사용자의 80% 이상이 해당 로봇의 감정 표현에 대해 “자연스럽고 생동감 있다”고 답하는 등 긍정적인 결과를 얻었다. 이</content:encoded>
+    </item>
+    <item>
+      <title>신나는 물놀이의 계절… 오늘도 30도 더위</title>
+      <link>https://www.donga.com/news/Society/article/all/20250608/131765346/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20250608/131765346/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765894.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;8일 전국 낮 최고기온이 30도 안팎까지 오른 가운데 대전 대덕구 한 야외 수영장에서 시민들이 물놀이를 즐기고 있다. 9일에도 경북 구미 32도, 대전 31도, 서울·광주 30도 등 더위가 이어질 것으로 예보됐다.</content:encoded>
+    </item>
+    <item>
+      <title>오픈AI “대학 교육 전과정에 AI 도입”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131764480/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131764480/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>챗GPT 개발사 오픈AI가 인공지능(AI)을 대학 캠퍼스 생활 전반에 도입하는 방식으로 대학 교육을 전면 개편하려는 계획을 추진하고 있다고 뉴욕타임스(NYT)가 7일(현지 시간) 보도했다.  오픈AI의 이른바 ‘AI-네이티브 대학(A.I.-native universities)’ 전략이 성공하면 대학생들은 입학부터 졸업까지 AI 조교의 도움을 받아 학습을 받게 된다. 교수들은 수업별 맞춤형 AI 학습봇을 제공하게 된다. 취업지원센터는 면접 대비 AI 채팅봇을 운영하고, 학생들은 시험 전 AI 음성 모드를 켜고 구술 퀴즈를 받는 등 교육 전 과정에 AI를 통합하는 것이다. 리아 벨스키 오픈AI 교육 부문 부사장은 NYT 인터뷰에서 “AI가 고등 교육의 핵심 인프라가 되는 것이 우리의 비전”이라며 “대학이 학생들에게 학교 이메일 계정을 주는 것처럼 캠퍼스 내 모든 학생이 개인화된 AI 계정에 접속하고 그게 이후에 직장 생활까지 이어진다”고 말했다.  오픈AI는 이런 구상을 실현하기 위해</content:encoded>
+    </item>
+    <item>
+      <title>‘HBM 전진기지’ SK 신공장 “11월 준공 맞추려 24시간 공사”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131764405/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131764405/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765707.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;5일 충북 청주시 SK하이닉스 신공장 ‘M15X’ 건설 현장. 축구장 약 10개 규모인 6만 ㎡ 부지에 하늘 높이 솟은 크레인 10여 대와 인부 수천 명이 부산하게 움직이며 작업에 한창이었다. D램 생산기지가 될 팹(fab·반도체 공장)동은 외골격 공사가 거의 마무리돼 저층부 마감재 처리까지 끝나가는 상태였다. 현장에서 만난 시공사 SK에코플랜트 관계자는 “11월 준공을 어떻게든 맞추려고 24시간 교대근무 체제로 밤낮없이 작업을 진행하고 있다”고 전했다. SK하이닉스의 고대역폭메모리(HBM) 전진기지가 될 M15X 가동이 가까워지면서 국내 반도체 업계의 기대감이 커지고 있다. 국내에서는 최근 3년가량 신규 팹이 들어서지 않아 장비업계에선 M15X 준공을 손꼽아 기다리고 있다. SK하이닉스는 준공 직후 대량 생산체제에 돌입하기 위해 장비 반입도 1, 2개월 앞당긴 것으로 나타났다.8일 반도체 업계에 따르면 SK하이닉스는 이달 M15X의 골격을 잡는 외부 마감을 끝내고 이르면 7월부터</content:encoded>
+    </item>
+    <item>
+      <title>“韓기업들과 ‘국제핵융합실험로’ 협력”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131764402/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131764402/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765704.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“한국 기업들의 고품질 제조 능력은 핵융합 분야에서도 많은 기여를 하고 있습니다. 원자력 발전에서 쌓아 온 한국의 경험이 많은 영향을 미쳤다고 생각합니다.” 8일 서울 강남구 그랜드인터컨티넨탈에서 열린 ‘퓨전 인더스트리 데이’에 참석한 피에트로 바라바스키 국제핵융합실험로(ITER) 사무총장(사진)은 핵융합 분야에서 한국이 유리한 고지를 점하고 있다며 이같이 설명했다. 바라바스키 사무총장은 “한국 기업인 다원시스와 큰 계약을 앞두고 있다”며 “오늘 이 행사에 온 것도 핵융합 공급망에 있는 한국 기업들과 협력을 하기 위해서”라고 했다.  ITER는 유럽연합(EU), 미국, 러시아, 일본, 중국, 한국, 인도가 참여하는 세계 최대 규모의 국제 공동 프로젝트다. 현재 프랑스 남부 카다라슈 지역에 축구장 60개와 맞먹는 크기의 핵융합로를 건설 중으로, 2034년 가동이 목표다. 한국핵융합에너지연구원 및 민간 기업들은 ITER에 들어가는 진공용기, 삼중수소시스템 등 핵심 부품 9가지를 납품하고</content:encoded>
+    </item>
+    <item>
+      <title>“AI 도입한 기업, 부가가치 7.6%-매출 4% 늘어”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131764400/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131764400/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>인공지능(AI) 도입이 기업의 부가가치 상승과 매출 증가에 긍정적인 영향을 미친다는 연구 결과가 나왔다. 대한상공회의소 지속성장이니셔티브(SGI)가 8일 내놓은 ‘AI 도입이 기업 성과 및 생산성에 미치는 영향 및 시사점’ 보고서에 따르면 2017∼2023년 통계청의 기업활동조사 자료를 바탕으로 분석한 결과 AI 기술을 도입한 기업은 도입 전과 비교할 때 부가가치가 7.6%, 매출이 4.0% 각각 늘어난 것으로 조사됐다. 또 AI를 도입한 기업과 도입하지 않은 기업을 그룹으로 나눠 매출과 부가가치, 생산성을 비교한 결과 AI 도입 기업 그룹이 3가지 요소 모두에서 더 좋은 성과를 낸 것으로 나타났다. SGI 분석에 따르면 한국 기업들의 AI 도입률은 2018년 2.8%에서 2023년 6.4%로 높아졌다. 정보통신업의 AI 도입률이 26.1%로 가장 높았으며 교육 서비스업이 15.7%, 금융·보험업이 15.5% 순이었다. 반면 제조업은 4.0% 수준에 그쳤다. SGI는 “범용 AI 기</content:encoded>
+    </item>
+    <item>
+      <title>이해진 “골리앗 이기려면 돌멩이 잘 골라야… AI 데이터 차별화”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131764562/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131764562/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765697.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“다윗이 골리앗을 이기려면 빨리 집중해 돌멩이 하나를 잘 던져야 합니다.” 이해진 네이버 이사회 의장(사진)은 5일(현지 시간) 네이버의 첫 해외 투자법인인 ‘네이버 벤처스’ 설립을 앞두고 미국 실리콘밸리에서 언론과 만나 이같이 밝혔다. 미중 간 인공지능(AI) 패권 경쟁이 격화하는 가운데, 네이버가 승부수를 걸 수 있는 분야에 특화하겠다는 의지를 보인 것이다. 이 의장은 한국의 AI 경쟁력에 대해 “어떤 기술에서든 한국은 (미국·중국에 비해) 투자 규모도, 인력도 늘 부족했다”며 “그렇기 때문에 이런 싸움에 익숙하다”고 말했다. 그는 “지금은 돌멩이를 잡는 과정이고 돌멩이를 잡기 전에 대규모언어모델(LLM)이나 클라우드 등 기본적인 기술을 준비해야 한다”고 했다. AI의 등장이 네이버에 위기일 수 있다는 점도 강조했다. 이 의장은 “자주 하는 말이지만 (네이버 창업 이후) 지난 25년 내내 망할 것 같았다. 모바일, 인터넷, 블록체인 등 새로운 것이 나올 때마다 네이버는 쉽지 않을</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자, 초저전력 디지털 광고판 선보여</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131764549/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131764549/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765686.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 전력을 계속 공급하지 않아도 이미지를 화면에 띄워 놓을 수 있는 디지털 광고판인 ‘삼성 컬러 이페이퍼’(사진)를 8일 출시했다. 삼성 컬러 이페이퍼는 디지털 종이에 잉크 기술을 적용하는 방식의 초저전력 디스플레이로 화면을 유지하는 동안의 소비전력은 0.00W(와트)다. 국제전기기술위원회 기준에 따르면 소비전력 0.005W 미만은 0.00W로 표시한다. 화면을 변경할 때도 기존 디지털 사이니지 대비 소모 전력이 낮아 에너지 소비를 크게 줄일 수 있다.  삼성전자가 이번에 출시하는 모델은 32형 사이즈 한 종류다. 쿼드HD(QHD)해상도와 16 대 9 화면비가 적용됐다. 가장 얇은 부분이 8.6mm이며 배터리를 포함한 무게는 2.5kg으로 설치와 이동이 간편하다. 함께 제공되는 거치용 액세서리를 활용하면 벽이나 천장 레일 와이어에 걸 수 있다.  삼성 컬러 이페이퍼는 ‘컬러 이미징 알고리즘’ 기술을 적용해 실제 종이 포스터 등 광고물과 비슷한 느낌의 화면을 재현할 수 있다.</content:encoded>
+    </item>
+    <item>
+      <title>‘카티’ 세포치료제, 악성 뇌종양-위암에도 효과 보였다</title>
+      <link>https://www.donga.com/news/It/article/all/20250608/131762248/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20250608/131762248/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765672.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일부 혈액암을 중심으로 치료 효과를 냈던 ‘키메릭항원수용체-T(카티·CAR-T)’ 세포 치료제가 혈액암을 넘어 고형암에서도 치료 효과가 잇따라 입증되고 있다. 중국 연구진은 진행성 위암 환자를 대상으로 한 임상시험에서 생존 기간을 늘리는 성과를 냈으며 미국 연구진은 악성 뇌종양인 재발성 교모세포종 환자에게서 종양 억제 효과를 관찰했다. 그간 ‘넘기 어려운 벽’으로 여겨졌던 고형암 영역에서도 CAR-T 치료제가 치료 선택지로 자리 잡을 가능성을 보여줬다는 평가가 나온다.● 고형암 CAR-T 치료 임상시험 결과 공개 지난달 30일(현지 시간)부터 이달 3일까지 미국 시카고에서 열린 세계 최대 규모의 암학회 미국임상종양학회(ASCO)에선 CAR-T 치료제를 사용해 고형암 치료 효과를 본 임상시험 사례가 연이어 소개됐다. CAR-T 세포 치료는 환자 자신의 면역세포인 T 세포를 체외에서 유전적으로 변형해 암세포를 정확히 인식하고 공격하도록 만든 뒤 다시 환자에게 주입하는 것이다. 중국 베이</content:encoded>
+    </item>
+    <item>
+      <title>가짜손 쓰다듬었는데 “찍찍”… 쥐도 ‘체화감각’ 느낀다</title>
+      <link>https://www.donga.com/news/It/article/all/20250608/131762238/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20250608/131762238/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765661.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;특정 뇌 영역에 이상이 생기면 자신의 팔다리를 자기 것으로 인지하지 못할 수 있다. 반대로 교통사고 등으로 팔다리가 절단됐는데 마치 팔다리가 있는 것처럼 통증을 느끼는 사람도 있다. 모두 자신의 몸을 자신의 것으로 느끼는 ‘체화 감각’에 문제가 생긴 경우다. 뤼크 에스테바네즈 프랑스 국립과학연구센터(CNRS) 연구원 연구팀은 쥐도 인간처럼 체화 감각을 느낄 수 있다는 점을 확인하고 연구 결과를 5일 국제학술지 ‘PLOS 바이올로지’에 발표했다. 쥐를 대상으로 인간의 체화 감각 연구를 활성화할 수 있을 것으로 예상된다.연구팀은 고무손을 진짜 손처럼 느끼는 ‘고무손 착각’ 현상이 쥐에게서도 일어난다는 점을 확인했다. 고무손 착각은 실험 참가자의 시선이 닿는 곳에 고무로 만든 손을 놓고 실험 참가자의 진짜 손은 보이지 않는 곳에 두도록 한 뒤 고무손과 진짜 손을 동시에 붓으로 쓸어내리며 동기화하는 실험이다. 동기화 이후 붓으로 고무손을 쓸어내리면 참가자들은 진짜 손을 쓸어내린다고 착각한다</content:encoded>
+    </item>
+    <item>
+      <title>“타우린 부족하다고 빨리 늙는 것 아냐”</title>
+      <link>https://www.donga.com/news/It/article/all/20250608/131762244/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20250608/131762244/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/08/131765648.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;아미노산의 일종으로 피로 해소 효과가 있는 ‘타우린’은 나이가 들면 체내에서 부족해지는 물질로 알려졌다. 하지만 타우린과 노화의 상관관계가 불분명해 타우린이 노화를 나타내는 바이오마커(생물지표)가 될 수 없다는 새로운 관점이 제시됐다.  라파엘 데 카보 미국 국립보건원(NIH) 노화연구소 시니어연구원 연구팀은 혈액 내 타우린이 노화 바이오마커가 될 가능성이 낮다는 점을 확인하고 연구 결과를 5일 국제학술지 ‘사이언스’에 발표했다.  곤충이나 쥐 등 동물을 대상으로 한 선행 연구에 따르면 나이가 들면 줄어드는 타우린을 보충해 주면 수명 연장 효과가 나타난다. 이 같은 연구 결과를 토대로 타우린 보충제는 ‘젊음의 묘약’으로 판매되며 인기를 얻기도 했다.  데 카보 연구원 연구팀은 나이가 들면 타우린 수치가 줄어든다는 기존 연구 결과를 반박했다. 인간, 원숭이, 쥐 혈액 샘플에서 타우린 수치를 확인한 결과 나이가 들수록 수치가 오히려 늘어나거나 일정하게 유지된다는 점이 확인된 것이다. 연</content:encoded>
+    </item>
+    <item>
+      <title>[DBR/알립니다]‘ChatGPT 마스터 클래스 12기’ 수강생 모집</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250608/131757352/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250608/131757352/2</guid>
+      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
+      <content:encoded>DBR(동아비즈니스리뷰)이 역대 교육 중 수강자 수 및 만족도 1위를 차지한 ‘ChatGPT 마스터 클래스 12기’의 수강생을 모집합니다. 본교육은 챗GPT를 포함한 생성형 AI를 실무에 활용하고 싶은 기업 임직원 또는 일반인이 쉽게 배울 수 있는 실습 중심으로 설계됐습니다. 국내 주요 기업과 다수의 인공지능(AI) 프로젝트 경험을 기반으로 국내 최고의 AI 전문 기업으로 평가받는 알고리즘랩스와 함께 생성형 AI를 쉽고 빠르게 실무에 적용하는 방법을 알려 드립니다. 최신 업데이트한 생성형 AI 트렌드, 업무 자동화 및 데이터 분석은 물론이고 콘텐츠 제작 실습을 통해 효율적으로 업무를 처리하는 방법을 익히면서 AI 활용 전문가가 되는 지름길을 제시합니다. 챗GPT를 포함한 생성형 AI를 이해하고, 이를 현업과 일상에 활용하고 싶은 분들의 많은 관심과 참여를 바랍니다.● 교육 일시: 2025년 6월 16일(월), 17일(화) 오전 10시∼오후 5시 30분● 교육 내용: 챗GPT</content:encoded>
     </item>
   </channel>
 </rss>
