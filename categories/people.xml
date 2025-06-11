@@ -1,63 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>경향신문 - 인물</title>
-    <link>https://www.khan.co.kr/rss/rssdata/people_news.xml</link>
-    <description>경향신문 - 인물</description>
-    <lastBuildDate>2025-06-10T00:14:10.650Z</lastBuildDate>
-    <item>
-      <title>경향신문 임지영 기자 ‘이달의 편집상’</title>
-      <link>https://www.khan.co.kr/article/202505152045045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202505152045045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2025-05-15T20:45:04.000Z</pubDate>
-      <content:encoded>
-        4월5일자 경향신문 1면 지면.
-        
-        
-        
-        한국편집기자협회(회장 김창환)는 제283회 이달의 편집상 수상작으로 경향신문 임지영 차장(사진)의 ‘끝내, 시민이 이겼다… 다시, 민주주의로’ 등 6편을 선정했다고 15일 밝혔다.  
-        
-        이 지면은 기사 없이 제목만을 배치한 파격으로 윤석열 전 대통령 파면 선고 다음날 가장 과감한 1면 편집을 선보였다는 평가를···
-      </content:encoded>
-    </item>
-    <item>
-      <title>최정화 한국외대 명예교수, 프랑스 최고 권위 훈장</title>
-      <link>https://www.khan.co.kr/article/202505152046005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202505152046005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2025-05-15T20:46:00.000Z</pubDate>
-      <content:encoded>
-        양국 교류 공로…한국 여성 첫 ‘레지옹 도뇌르 오피시에장’
-        
-        
-        
-        최정화 한국이미지커뮤니케이션연구원(CICI) 이사장 겸 한국외대 명예교수(70·사진)가 프랑스 최고 권위 훈장인 레지옹 도뇌르의 오피시에(Officier·장교)장을 받았다. 한국 여성으로는 최초 수훈자다.
-        
-        CICI는 최 이사장이 15일 오후 서울 서대문구 프랑스 대사관저에서 한국과···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고 - 2025년 5월 19일</title>
-      <link>https://www.khan.co.kr/article/202505182047005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202505182047005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2025-05-18T20:47:00.000Z</pubDate>
-      <content:encoded>
-        ■김복자씨 별세, 정해봉·해성·해은씨 모친상, 옥광덕 경향신문 공무국 부국장 장모상=18일 서울적십자병원. 발인 20일 (02)2002-8444
-        
-        ■이영순씨 별세, 김성수 한국거래소 홍보부 부서장 모친상=18일 이대서울병원. 발인 20일 (02)6986-4440
-        
-        ■봉상임씨 별세, 윤형식 전 매경닷컴 대표·정식 전 한국환경공단 처장 모친상=18일 광···
-      </content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사 - 2025년 5월 19일</title>
-      <link>https://www.khan.co.kr/article/202505182047015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202505182047015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2025-05-18T20:47:01.000Z</pubDate>
-      <content:encoded>
-        ■행정안전부 ◇시도 부단체장 △전북특별자치도 행정부지사 노홍석 ◇과장급 전보 △지방자치인재개발원 기획협력과장 김수정 △국가재난안전교육원 민방위비상대비교육과장 송준호
-        
-        ■국토교통부 ◇과장급 전보 △주택임대차기획팀장 양찬윤 △청년주거정책과장 김동현 △대도시권광역교통위원회 광역환승과장 정양기 △부산지방국토관리청 김해국토관리사무소장 노치욱 △홍보담당관 정진훈 ···
-      </content:encoded>
-    </item>
+    <title>동아일보 - 사람속으로</title>
+    <link>https://rss.donga.com/inmul.xml</link>
+    <description>동아일보 - 사람속으로</description>
+    <lastBuildDate>2025-06-11T00:14:22.026Z</lastBuildDate>
     <item>
       <title>이은형 건설연 연구위원, 서울시 주택시장 전문가 자문위원 위촉</title>
       <link>https://www.khan.co.kr/article/202505191608001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -521,27 +467,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>밀알복지재단, 제11회 스토리텔링 공모전 ‘일상 속의 장애인’ 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221923</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221923</guid>
-      <pubDate>2025-06-02T09:10:15.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】밀알복지재단이 한국장애인고용공단과 함께 제11회 스토리텔링 공모전 ‘일상 속의 장애인’을 개최한다고 2일 밝혔다.이번 공모전은 장애와 관련된 실제 경험담을 갖고 있는 사람 누구나 참여 가능하다. 일상 부문, 고용 부문, 아동·청소년 부문으로 나눠 공모를 받는다.일상 부문은 장애인의 꿈과 도전, 장애인 가족 및 지인으로서 겪은 이야기, 장애 관련 깨달음을 얻은 사건 등 일상 속에서 겪은 이야기를 제출하면 된다.고용 부문은 장애인 근로자나 동료의 작업 현장 이야기, 장애인 고용에 대한 차별이나 선입견을 없앨 수</content:encoded>
-    </item>
-    <item>
-      <title>장애인표준사업장, 직접생산확인증명제도 시행 후 우선구매 실적·장애인 고용 증가</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221924</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221924</guid>
-      <pubDate>2025-06-02T09:21:27.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 한국장애인고용공단(이사장 이종성, 이하 공단)은 장애인 표준사업장 생산품에 대한 직접생산확인증명 제도 시행 이후 우선구매 실적과 장애인 고용이 모두 눈에 띄게 증가하며 의미 있는 성과를 거뒀다고 2일 밝혔다.공단은 2024년 5월부터 직접생산확인증명서 발급 업무를 시작했다. 표준사업장 직접생산품 확인은 공공기관이 장애인 표준사업장 생산품을 구매할 때 해당 사업체에서 설비 및 장비, 인원, 자격 등 관련 기준을 준수해 직접 제품을 생산하는지 확인하는 제도다.이는 ‘국가를 당사자로 하는 계약에 관한 법률 시행령</content:encoded>
-    </item>
-    <item>
-      <title>장애인도서관, ‘도서관 장애인서비스 아이디어·우수사례’ 공모</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221926</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221926</guid>
-      <pubDate>2025-06-02T10:09:18.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 문화체육관광부 국립장애인도서관이 오는 7월 31일까지 전국 도서관의 장애인서비스 발전과 장애인의 정보격차 해소에 기여할 수 있는 ‘도서관 장애인서비스 아이디어 및 우수사례’를 공모한다.올해로 18회째를 맞은 이번 공모전은 도서관 장애인서비스 활성화 및 발전에 기여할 수 있는 기술, 공간, 프로그램 등 전 분야를 주제로 하며, 국민 누구나 응모할 수 있는 ‘아이디어’ 부문과 실제 장애인서비스를 운영하는 도서관에서 응모할 수 있는 ‘우수사례’ 부문으로 진행된다.1차 서류심사, 2차 대면심사와 공개검증 절차를 거</content:encoded>
-    </item>
-    <item>
       <title>경향 성덕환 기자 ‘이도영 시사만화상’ 우수상 수상…윤석열 “호수 위 달그림자···” 발언 풍자</title>
       <link>https://www.khan.co.kr/article/202506021213001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202506021213001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -552,24 +477,6 @@
         
         
         이 작품은 수많은 내란 혐의 관련 증언·증거를 두고 “호수 위 달그림자 쫓아가는 느낌”이라며 부인한 윤석열 전 대통령의 왜곡된···
-      </content:encoded>
-    </item>
-    <item>
-      <title>대한장애인체육회, ‘1차 2025 드림패럴림픽 정규프로그램’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221945</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221945</guid>
-      <pubDate>2025-06-02T16:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완)가 지난달 23일부터 30일까지 이천선수촌에서 ‘2025 드림패럴림픽 정규프로그램’ 1차 수를 마무리했다.드림패럴림픽은 초‧중등학생을 대상으로 장애인스포츠를 직접 체험할 수 있는 기회를 제공함으로써 장애인도 비장애인과 동등한 사회구성임을 알리고 장애인에 대한 긍정적인 인식을 확산하고자 기획된 교육 프로그램이다.이번 1차수 프로그램은 이천시 관내 초·중등 학생과 교사를 대상으로 진행됐으며 이천중학교, 신둔초등학교, 아미초등학교, 이천매곡초등학교에서 총 11학급 245명이 참가했다.</content:encoded>
-    </item>
-    <item>
-      <title>경향신문 성덕환 기자 ‘이도영 시사만화상’ 우수상</title>
-      <link>https://www.khan.co.kr/article/202506022043005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202506022043005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2025-06-02T20:43:00.000Z</pubDate>
-      <content:encoded>
-        경향신문 성덕환 미술팀 선임기자(사진)가 ‘2025 이도영 시사만화상’ 우수상을 받았다. 전국시사만화협회는 성 기자의 ‘시사2판4판-호수 위 달그림자’(주간경향 2025년 2월17일자)를 우수상으로 선정했다고 2일 알렸다.
-        
-        이 작품은 수많은 내란 혐의 관련 증언·증거를 두고 “호수 위 달그림자 쫓아가는 느낌”이라며 부인한 윤석열 전 대통령의 왜···
       </content:encoded>
     </item>
     <item>
@@ -610,27 +517,6 @@
       </content:encoded>
     </item>
     <item>
-      <title>‘무채색 옷 투표’ BTS-아이유… 정치논란 차단</title>
-      <link>https://www.donga.com/news/People/article/all/20250603/131740042/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250603/131740042/2</guid>
-      <pubDate>2025-06-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/03/131740634.1.gif&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“여러분, 오늘 꼭 투표하세요.” 가수 겸 배우 윤은혜는 3일 오전 자신의 인스타그램에 사진과 함께 제21대 대통령 선거 본투표를 마친 뒤 팬들에게 투표를 독려한 짤막한 글을 올렸다. 투표 ‘인증 사진’은 신중을 기했다. 옷은 무채색으로 입었고, 투표소 현수막을 가리키는 손은 이모티콘으로 가렸다. 특정 정당이나 후보 지지로 오해받을 여지를 사전에 차단한 것이다. 이날 연예인 등 많은 유명인은 이전 선거와 마찬가지로 투표에 적극 참여하며 소셜미디어 인증샷을 올렸다. 하지만 이번 대선은 복장과 제스처 등 외적 요소에 더 각별한 주의를 기울이는 모양새다. 최근 걸그룹 에스파의 멤버 카리나가 올린 사진 때문에 벌어졌던 ‘색깔 논쟁’으로 정치적 표현에 대한 민감도가 높아졌기 때문이다. 배우 변정수 역시 “그냥 쉬는 날이 아니라는 것, 귀찮다고 포기하지 말아 달라”며 소셜미디어에 투표 장려 메시지를 올렸다. 방송인 곽정은도 오전 6시경 손등에 찍은 투표 도장 사진을 공개하며 투표 참여를 독려했</content:encoded>
-    </item>
-    <item>
-      <title>‘反유대주의 희생양’ 佛 드레퓌스, 131년만에 준장 진급</title>
-      <link>https://www.donga.com/news/People/article/all/20250603/131740038/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250603/131740038/2</guid>
-      <pubDate>2025-06-04T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/03/131740594.1.gif&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;프랑스 하원이 2일(현지 시간) 19세기 말 반(反)유대주의 물결로 인해 독일 간첩이란 누명을 쓰고 복역해 역사적 논란이 된 알프레드 드레퓌스(1859∼1935·그림)를 준장으로 승격하는 법안을 채택했다. 이른바 ‘드레퓌스 사건’이 발생한 지 131년 만으로, 미국 등에서 여전히 논란이 되고 있는 반유대주의와 맞물려 주목된다. 영국 일간 가디언 등에 따르면 이날 프랑스 하원은 드레퓌스를 준장으로 승진시키는 법안을 통과시켰으며, 추후 상원의 법안 심사가 진행될 예정이다. 이 법안을 발의한 가브리엘 아탈 전 프랑스 총리는 소셜미디어 X에 “드레퓌스를 준장으로 승급시키는 것은 배상 행위이자, 드레퓌스의 공로를 인정하는 일”이라고 썼다. 1894년 당시 프랑스 육군 포병 대위였던 드레퓌스는 독일에 군사기밀을 넘긴 혐의로 체포돼 종신형을 받았다. 그는 이듬해 1월 프랑스령 기아나의 악명 높은 감옥에 유배됐다. 나중에 무죄로 밝혀진 이 사건은 유대인에 대한 편견이 작용한 결과로 제대로 된 증거</content:encoded>
-    </item>
-    <item>
-      <title>‘배리어프리 파크 뮤직콘서트’ 6일 양주 옥정호수공원에서 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221978</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221978</guid>
-      <pubDate>2025-06-04T08:59:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 ‘배리어프리 파크 뮤직콘서트’가 오는 6일 오후 3시 경기도 양주시 옥정호수공원 야외공연장에서 개최된다.이번 공연은 한국문화예술위원회 아트트리 전문예술단체인 ‘지아트컴퍼니’ 주최로 배리어프리운동본부와 한국콘텐츠관광협의회, 양주시 전문예술단체인 솔리스타인코리아가 함께 한다.현충일에 개최되는 공연은 순국선열과 호국영령 헌정 오프닝 공연과 함께 &apos;보리밭&apos; 박화목 시인의 시에 곡을 붙인 가곡과 한국인이 사랑하는 아름다운 우리 가곡을 노래한다.소프라노 김지현, 메조소프라노 정한나, 바리톤 박선기, 김재원, 마림바 전</content:encoded>
-    </item>
-    <item>
       <title>문화날개IL센터, ‘바리스타 양성교육’ 참가자 모집</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221961</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221961</guid>
@@ -645,25 +531,11 @@
       <content:encoded>【에이블뉴스 이슬기 기자】사회복지법인 함께웃는재단이 출판사 에이스북과 지난 2일 ‘함께웃는시리즈9: 자폐와 법(가제)’ 출판지원을 위한 업무협약을 체결했다.‘함께웃는시리즈9 : 자폐와 법(가제)’은 자폐인이 피해자 또는 가해자로 법적 상황에 놓일 수 있는 다양한 위험과 대응을 다룬 전문도서로 범죄, 법적 책임, 교정제도, 권리보호 등 실제 사례를 기반으로 심층 분석한 ‘Handbook of Autism Spectrum Disorder and the Law, 2021’의 번역본이다.예일대학교 Fred R. Volkmar 박사를 비롯한</content:encoded>
     </item>
     <item>
-      <title>[인사]여성가족부</title>
-      <link>https://www.donga.com/news/People/article/all/20250604/131742835/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20250604/131742835/1</guid>
-      <pubDate>2025-06-04T10:05:00.000Z</pubDate>
-      <content:encoded>◇여성가족부 △가족문화과장 임종필</content:encoded>
-    </item>
-    <item>
       <title>장애인체육회, 장애인 선수 사회 재참여 ‘2025 선수 진로역량교육’ 운영</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=221994</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=221994</guid>
       <pubDate>2025-06-04T13:49:56.000Z</pubDate>
       <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완)가 장애인(은퇴)선수의 안정적인 사회 재참여를 지원하기 위해 ‘2025 선수 진로역량교육’을 운영한다고 4일 밝혔다.이번 교육은 지난해에 이어 장애인선수 및 은퇴선수가 생애주기 및 전환준비 정도에 따라 적합한 교육과정을 직접 선택할 수 있도록 씨앗과정(입문과정)과 열매과정(전문과정)으로 구분해 운영한다.씨앗과정은 스포츠 전문가로의 진로전환을 위한 기초능력 함양과정으로 ▲진로역량 기초과정 ▲스포츠산업 창업준비과정 ▲장애인체육단체 수요맞춤형 역량 강화과정 등이 열린다.열매과정은 스포</content:encoded>
-    </item>
-    <item>
-      <title>‘범 GS家’ 허남각 삼양통상 회장 별세</title>
-      <link>https://www.donga.com/news/Economy/article/all/20250604/131744858/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20250604/131744858/1</guid>
-      <pubDate>2025-06-04T16:45:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131745668.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;허남각 삼양통상 회장(사진)이 4일 별세했다. 향년 87세. 허 회장은 허정구 삼양통상 명예회장의 아들이며 허동수 GS칼텍스 명예회장, 허광수 삼양인터내셔널 회장의 형이다. 허 회장은 1938년 경남 진주에서 태어나 서울 보성고와 서울대 상과대학을 졸업했다. 1961년 삼양통상 사장으로 취임한 허 회장은 베트남 진출 등 국내 제혁산업의 글로벌화를 이끌었다. 1986년 미국 나이키와 계약을 맺고 한국 나이키를 설립한 뒤 회장을 맡기도 했다. 1990년부터는 삼양통상 회장으로 회사 성장을 이끌었다.고인은 생전 ‘기업인의 사회적 책임’을 강조하며 교육, 스포츠 분야에서 사회공헌에 앞장섰다. 서울대 총동문회 기부를 통해 ‘허남각 특지 장학회’를 조성하고 후학 양성에 힘썼다. 허 회장 등 삼형제는 부친 허 명예회장의 뜻을 이어받아 고려대 장학기금인 ‘보헌(寶軒) 장학회’를 운영해 왔다. 또 ‘스포츠를 통한 인재 양성’이라는 부친의 철학을 실천하기 위해 한국 아마추어 골프 발전에도 힘썼다. 2</content:encoded>
     </item>
     <item>
       <title>머스크의 트럼프 저격 “감세법안은 역겨운 흉물”</title>
@@ -699,41 +571,6 @@
       <guid>https://www.donga.com/news/People/article/all/20250605/131748722/2</guid>
       <pubDate>2025-06-05T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/05/131749272.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;CBS 재단 이사회는 4일 전체 이사회를 열고, 소강석 새에덴교회 담임목사(63·사진)를 제33대 이사장으로 선출했다. 대한예수교장로회합동총회 총회장과 한국교회총연합 대표회장을 역임한 소 목사는 현재 한민족평화나눔재단 이사장을 맡고 있다. 임기는 2년.</content:encoded>
-    </item>
-    <item>
-      <title>[인사]여성가족부 外</title>
-      <link>https://www.donga.com/news/People/article/all/20250605/131748720/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250605/131748720/2</guid>
-      <pubDate>2025-06-05T03:00:00.000Z</pubDate>
-      <content:encoded>◇여성가족부 △가족문화과장 임종필 ◇고려대 △연구윤리센터장 김주한(의과대학 의학과) △국제어학원장 김준연(문과대학 중어중문학과) ◇이화여대 △미래전략실장 최용상 △이화글로벌사회공헌원장 하은희 △융합혁신연구원장 이준엽 △다중스케일 물질 및 시스템〃 문회리 △프로테오넥서스〃 이윤실 △기후환경융합〃 허창회</content:encoded>
-    </item>
-    <item>
-      <title>[부고]허남각 삼양통상 회장</title>
-      <link>https://www.donga.com/news/People/article/all/20250605/131748718/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250605/131748718/2</guid>
-      <pubDate>2025-06-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/05/131749258.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;허남각 삼양통상 회장(사진)이 4일 별세했다. 향년 87세. 허 회장은 허정구 삼양통상 명예회장의 아들로 허동수 GS칼텍스 명예회장의 형이다. 허 회장은 1961년 삼양통상 사장 취임 이후 베트남 진출 등 국내 제혁산업의 글로벌화를 이끌어 왔다. 1990년부터 삼양통상 회장을 지냈다. 유족으로 아들 준홍 삼양통상 대표이사, 딸 정윤 씨 등이 있다. 빈소는 서울 세브란스병원, 발인은 7일 오전 8시.</content:encoded>
-    </item>
-    <item>
-      <title>[부고]김석찬 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20250605/131748712/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250605/131748712/2</guid>
-      <pubDate>2025-06-05T03:00:00.000Z</pubDate>
-      <content:encoded>◇김석찬 씨 별세·인석 케이씨케이캐피탈 회장 강석 씨 부친상=3일 서울 중앙대병원, 발인 6일 오전 8시 30분 02-860-3500 ◇송정애 씨 별세·곽석종 동아일보 오목호매실독자센터 사장 장모상=4일 전북 전주시 효사랑장례문화원, 발인 6일 오전 9시 30분 063-250-4444 ◇이만영(가수 케빈 리) 별세·김창혜 씨 남편상·준석 신한저축은행 부사장 승환 기아 선임 엔지니어 형제상=3일 서울 중앙보훈병원, 발인 5일 오후 3시 30분 02-2225-1004 ◇정영자 씨 별세·손임성 경기도 도시주택실장 모친상=3일 전남 구례산림조합장례식장, 발인 5일 오전 9시 061-781-0444</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다]신문박물관 기획전 ‘아이돌로그래피: 프레시움에서 읽는 K-Pop with MyK FESTA’</title>
-      <link>https://www.donga.com/news/People/article/all/20250605/131748714/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250605/131748714/2</guid>
-      <pubDate>2025-06-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/05/131746892.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아일보사 부설 신문박물관 PRESSEUM(관장 김태령)은 문화체육관광부의 후원으로 일민미술관, 채널A, 한국국제교류문화진흥원과 함께 기획전 ‘아이돌로그래피: 프레시움에서 읽는 K-Pop with MyK FESTA’를 개최합니다. 오늘날 한국 대중문화는 복합적인 문화 현상으로 우리 일상과 감각 속에 자리합니다. 특히 K-Pop이 만들어 내는 이미지, 이야기, 세계관은 예술 장르를 넘어 동시대 미디어 환경과 유기적으로 얽혀 변화하고 있습니다. 김혜원, 노상호, 박광수, 이동훈, 이플리 등 현대미술가 5인이 참여하는 이번 전시를 통해 보편적 문화로서 K-Pop의 미래를 가늠하고 미학적 지평을 넓힐 계기가 되기를 바랍니다.● 기간: 6월 5∼29일● 장소: 신문박물관 5층 기획전시실● 문의: 02-2020-1880, info@presseum.or.kr● 주최: 신문박물관, 일민미술관, 채널A, 한국국제문화교류진흥원● 후원: 문화체육관광부</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다]‘2025 한국의 소비자대상’ 개최합니다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20250604/131745452/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20250604/131745452/2</guid>
-      <pubDate>2025-06-05T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/04/131745451.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;초개인화 시대, 급격하게 변화하는 현대사회 속에서 기술의 발전은 우리의 삶을 근본적으로 바꾸고 있습니다. ‘개인화’와 ‘맞춤화’로 현대 소비자들이 브랜드와의 관계를 새롭게 정의하고 있습니다. 동아일보는 소비자의 선호도와 가치를 충족시키는 브랜드를 선정해 기업과 소비자 모두 윈윈할 수 있는 새로운 소비 기준을 제시하고자 ‘2025 한국의 소비자대상’ 행사를 개최합니다. 많은 기업의 관심과 참여 부탁드립니다.● 응모 부문: 소비재, 내구재, 서비스, ESG브랜드 외● 응모 일정: 5월 27일(화)∼6월 27일(금)● 시상식: 2025년 7월 29일(화) 더 플라자호텔 그랜드볼룸(예정)● 홈페이지: www.k-ca.kr● 문의 및 접수: 2025 한국의 소비자대상 운영사무국 ● 전화: 02-362-2501,  e메일: 2502@donga-ad.com</content:encoded>
     </item>
     <item>
       <title>로이사랑나눔회, 장애인 화가 5인전 &apos;&apos;Beyond the Border&apos; 개최</title>
@@ -1148,6 +985,169 @@
       <guid>https://www.donga.com/news/People/article/all/20250610/131773819/2</guid>
       <pubDate>2025-06-10T03:00:00.000Z</pubDate>
       <content:encoded>◇김영학 전 서울시 교육위원 별세·박영순 전 동작교육청 교육장 남편상·현희 현정 씨 부친상·최종석 한진 전무 장인상=8일 서울 세브란스병원, 발인 11일 오전 6시 02-2227-7500 ◇박용정 씨 별세·이현미 대원 지숙 대성 씨 모친상·안병삼 데일리스포츠한국·리빙TV 부회장 정우영 씨 장모상=8일 서울성모병원, 발인 11일 오전 10시 30분 02-2258-5940 ◇백인기 전 전주 보호관찰소장 별세·박춘순 씨 남편상·은아 보령 임상본부장 은실 은영 창현 씨 부친상=8일 삼성서울병원, 발인 10일 오전 8시 15분 02-3410-3151 ◇오달조 씨 별세·이주일 광주경찰서 여성청소년과장 장모상=8일 경북 칠곡경북대병원, 발인 11일 오전 7시 053-200-2500</content:encoded>
+    </item>
+    <item>
+      <title>금천장애인돌봄쉼터, 장애자녀 진로설계·자립준비 부모교육 참여자 모집</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222122</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222122</guid>
+      <pubDate>2025-06-10T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 금천장애인돌봄쉼터는 오는 29일까지 장애자녀를 둔 부모를 대상으로 ‘장애자녀 진로설계 및 자립준비 부모교육’ 참여자를 모집한다.이번 교육은 관련 분야에서 지속적인 부모교육을 진행하고 있는 발달장애인, 경계선지능인 교육 및 코칭 전문 교육기업 꿈앤컴퍼니 박대수 대표가 교육 강사로 참여한다.교육 대상은 서울시 금천구에 거주하는 장애자녀를 둔 부모님 대상 15명(각 교육별 선착순)으로 교육별 중복 신청이 가능하며 금천구에 직장, 장애 자녀의 학교 및 이용기관이 있을 경우에도 참여가 가능하다.무료 교육으로 신청은</content:encoded>
+    </item>
+    <item>
+      <title>장애직원·시니어직원 함께 일하는 ‘굿윌스토어 밀알야탑점’ 개점</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222118</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222118</guid>
+      <pubDate>2025-06-10T09:25:34.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】밀알복지재단이 운영하는 굿윌스토어가 장애인과 시니어 인력을 함께 고용한 첫 ‘시니어스토어’인 ‘굿윌스토어 밀알야탑점’을 지난 5일 경기도 성남시 야탑동에 개소했다.굿윌스토어는 시민이나 기업으로부터 중고 물건이나 새 상품을 기증받아 판매한 수익으로 장애인을 고용하는 장애인직업재활시설이다.그러나 이번에 문을 연 밀알야탑점은 기존 굿윌스토어의 장애인 고용 중심 모델에서 한 단계 나아가, 시니어와 장애인이 함께 일하며 ‘일을 통한 자립’이라는 새로운 방향성을 제시한다.밀알야탑점에는 시니어 근로자 3명과 장애인 근로</content:encoded>
+    </item>
+    <item>
+      <title>양천해누리복지관, 카카오톡 채널 친구 추가 이벤트 진행</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222136</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222136</guid>
+      <pubDate>2025-06-10T13:39:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】양천해누리복지관이 복지관 카카오톡 채널을 새롭게 개설하고, 오는 27일까지 ‘카카오톡 채널 친구 추가 이벤트’를 실시한다.복지관 카카오톡 채널은 복지관 소식을 보다 쉽고 편리하게 전달하기 위한 목적으로 개설되었으며, ▲복지관 소식 정기 발송 ▲실시간 1:1 문의 ▲복지관 SNS를 한 번에 볼 수 있는 간편 메뉴 ▲자주 묻는 질문에 대한 챗봇 응답 등 다양한 기능을 통해 온라인 소통을 한층 강화할 계획이다.카카오톡 채널 개설을 기념해 진행되는 이번 이벤트는 채널을 친구 추가한 참여자 중 총 30명을 추첨해 1</content:encoded>
+    </item>
+    <item>
+      <title>노원시각장복, ‘2025년 하반기 자립생활훈련’ 참여자 모집</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222135</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222135</guid>
+      <pubDate>2025-06-10T13:39:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】서울특별시립노원시각장애인복지관이 오는 8월 1일까지 후천적 시각장애를 겪은 중도시각장애인을 대상으로 자립생활훈련 참여자를 모집한다.이번 자립생활훈련은 갑작스러운 시력 상실로 어려움을 겪는 중도시각장애인들에게 자립에 필요한 다양한 맞춤형 프로그램을 제공한다. 이는 개인별 시각장애 정도와 특성, 개별 욕구를 반영하여 한 사람 한 사람에게 최적화된 교육으로 이루어지며, 자립 기반을 강화하고 사회 진출 기회를 넓히는데 목적이 있다.개별 상담과 면접을 통해 최종 선정자는 8월 18일부터 12월 5일까지 16주간 점자</content:encoded>
+    </item>
+    <item>
+      <title>‘2025년 영남권 발달장애인기능경기대회’ 7월 2일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222134</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222134</guid>
+      <pubDate>2025-06-10T13:39:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 2025년 영남권 발달장애인기능경기대회가 오는 7월 2일 한국폴리텍대학 울산캠퍼스, 엠제빵커피학원, 더캠프PC방(명촌캠프)에서 개최된다.고용노동부와 한국장애인고용공단이 주최하는 이번 대회는 발달장애인의 기능향상을 촉진하고 우수 기능 인력 저변을 확대하며 사회통합 및 사기 진작을 도모하기 위해 전국 4개 권역으로 매년 열리고 있다.올해 대회는 총 6개 직종으로 경기가 진행된다. 경기 직종은 데이터입력, 바리스타, 사무행정, 영상컨텐츠편집이며, 특화직종은 E-SPORTS, 요양보호보조다. 참가 자격은 만 15세</content:encoded>
+    </item>
+    <item>
+      <title>RM·뷔 “전역을 명받았습니다”</title>
+      <link>https://www.khan.co.kr/article/202506102045005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202506102045005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-06-10T20:45:00.000Z</pubDate>
+      <content:encoded>
+        방탄소년단 이달 내 전원 복귀
+        “기다려주신 아미분들께 감사
+        가장 하고 싶은 일? 공연이죠”
+        
+        그룹 방탄소년단(BTS)의 RM과 뷔가 10일 강원 춘천시 신북읍체육공원 축구장에서 전역 인사를 하고 있다. 군악대에서 복무한 RM은 색소폰 연주를 하고 있다. 연합뉴스
+        
+        그룹 방탄소년단(BTS)의 RM과 뷔가 10일 군 복무를 마치고 사회로 복귀했다. ···
+      </content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사 - 2025년 6월 11일</title>
+      <link>https://www.khan.co.kr/article/202506102045015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202506102045015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-06-10T20:45:01.000Z</pubDate>
+      <content:encoded>
+        ■한겨레 △이슈부국장 최혜정 △경제산업부장 노현웅 △뉴콘텐츠부장 김선식 △사회정책부장 김소연
+        
+        ■쿠키뉴스 △산업부장 임지혜
+        
+        ■녹색경제신문 △산업부국장 박상효
+      </content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고 - 2025년 6월 11일</title>
+      <link>https://www.khan.co.kr/article/202506102045025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202506102045025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-06-10T20:45:02.000Z</pubDate>
+      <content:encoded>
+        ■강정두씨 별세, 최인경 전 중앙전자기술학원장 부인상, 승경 서원양행 본부장·화경 현대엘리베이터 부장·경임 SK플래닛 매니저 모친상, 정영길 과학기술정보통신부 과장 장모상=10일 신촌세브란스병원. 발인 12일 (02)2227-7500
+        
+        ■남점열씨 별세, 권혁남 전북대 신문방송학과 명예교수 모친상=9일 서울성모병원. 발인 12일 (02)2258-5951···
+      </content:encoded>
+    </item>
+    <item>
+      <title>‘1세대 패션모델’ 이희재 별세</title>
+      <link>https://www.khan.co.kr/article/202506102045035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202506102045035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-06-10T20:45:03.000Z</pubDate>
+      <content:encoded>
+        1970~1990년대 인기 패션모델로 활약한 이희재씨가 담도암 투병 끝에 지난 9일 오후 8시6분쯤 별세했다고 유족이 10일 전했다. 향년 73세.
+        
+        서울에서 태어난 고인은 서울 중앙여고와 건국대 의상학과를 졸업했다. 대학에 다니던 1971년 대한방직협회가 주최한 ‘목화아가씨’ 선발대회에서 1위를 차지하며 패션모델로 데뷔했다. 1979년 미국 로···
+      </content:encoded>
+    </item>
+    <item>
+      <title>“누군가를 일으킬 수 있는 음악 하고 싶어”…그룹 NCT 도영 솔로 2집 발매</title>
+      <link>https://www.khan.co.kr/article/202506102046015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202506102046015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-06-10T20:46:01.000Z</pubDate>
+      <content:encoded>
+        윤도현·김윤아 등 앨범에 참여
+        
+        
+        
+        “일기장은 되게 사적인 부분이지만 소중한 사람에게는 몇번이고 보여줄 수 있잖아요. 팬분들이 저를 추억하고 싶을 때 이 앨범을 꺼내 들어줬으면 좋겠어요.”
+        
+        그룹 NCT의 도영(사진)이 솔로 2집 앨범 &amp;lt;소어(Soar)&amp;gt;로 돌아왔다. 지난해 데뷔 8년 만에 솔로 1집을 낸 데 이어, 약 14개월 만의 ···
+      </content:encoded>
+    </item>
+    <item>
+      <title>토니상 박천휴 “멋부리지 말고 꾹꾹 써갈 것”</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781658/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781658/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/11/131782531.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“한 번도 상을 목표로 한 적은 없어요. 뮤지컬을 만든다는 건, 작가로서 긴 시간 혼자 외롭게 종이 위에 세상을 만들어가는 일이에요.” 대학로에서 초연한 순수 창작 뮤지컬 ‘어쩌면 해피엔딩’으로 미국 공연계의 오스카로 불리는 토니상을 거머쥔 박천휴 작가(42)는 10일 자신의 소셜미디어에 장문의 글을 올리며 소감을 전했다. 친구인 작사가 윌 애런슨과 각본상, 작사·작곡상을 공동 수상한 박 작가는 한국 국적자 최초로 토니상 수상자가 된 기록도 세웠다. 박 작가는 이번 수상을 계기로 뮤지컬 작가로서 지내온 그간의 삶을 돌아보기도 했다. 그는 “지난한 작업을 마치고 나면 마치 행성들이 일렬로 마주치는 희박한 기회를 기다리듯 또 아주 긴 시간의 제작 과정을 거치게 된다”고 적었다.  “그 긴 시간을 견디게 하는 건 ‘나중에 받게 될지도 모를’ 상 같은 게 아니에요. 그저 이 이야기와 음악을 쓰고 싶다는 충동, 그걸 꼭 무대 위에 구현하고 싶다는 의지, 그런 것들입니다. 만약 좀 더 빨리,</content:encoded>
+    </item>
+    <item>
+      <title>“타임스스퀘어처럼” 광화문스퀘어 본격화</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781652/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781652/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/11/131782527.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울 광화문광장과 세종대로 일대에 대형 디지털 옥외광고판을 설치해 미국 뉴욕의 타임스스퀘어 같은 미디어 랜드마크로 조성하는 ‘광화문스퀘어 프로젝트’가 본격화됐다.  10일 서울 종로구는 전날 구청 기획상황실에서 ‘광화문스퀘어 옥외광고물 자유표시구역 민관합동협의회’ 상반기 정기회의를 열었다고 밝혔다. 지난해 12월 협의회 출범과 올해 4월 사무국 개소 이후 개최된 첫 정기회의로, 종로구 서울시 행정안전부 등 공공기관과 사업구역 내 건물주, 광고·법률·회계 전문가 등이 참석했다.  이날 회의에서는 상반기 추진 성과, 하반기 실행 전략 및 광화문스퀘어 미디어 플랫폼(GMP) 구축 방안 등이 검토됐다. 8월 KT 광화문 웨스트 빌딩, 10월 동아미디어센터에 이어 연말까지 교보생명, 동화면세점, 다정빌딩 등 총 9개 건물에 전광판이 순차적으로 설치될 예정이다. 발광다이오드(LED) 가로등을 설치하는 ‘미디어폴(Media Pole)’ 사업은 지난달 사업 시행사가 선정됐고, 현재 설계가 진행되고</content:encoded>
+    </item>
+    <item>
+      <title>[라운지]백봉정치문화교육연구원</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781656/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781656/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>◇백봉정치문화교육연구원(이사장 라종일)은 17일 오후 3시 서울 중구 장충동 서울클럽에서 제2회 백봉 한반도 문화상 시상식을 연다. 수상작은 ‘굳세어라 금순아’와 ‘단장의 미아리고개’로, ‘굳세어라…’의 고 박시춘 작곡가와 ‘단장의…’ 노랫말을 지은 고 반야월 작사가의 가족들이 대리 수상한다.</content:encoded>
+    </item>
+    <item>
+      <title>김병기 “헌정 유린세력 단죄”… 서영교 “민생 추경에 최우선”</title>
+      <link>https://www.donga.com/news/Politics/article/all/20250611/131782237/2</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20250611/131782237/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/11/131782515.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국정원 출신… 20대 대선서 新친명 부각“내란 종식 법안 가장 우선적으로 추진야당과 유연하게 협상하되 원칙 지킬것”“내란 종식을 위한 법안을 가장 우선적으로 추진하겠다.” 더불어민주당 원내대표 선거에 출마한 3선 김병기 의원(서울 동작갑·기호 1번)은 8일 동아일보 인터뷰에서 당선 시 가장 먼저 추진할 과제로 ‘내란 종식’을 꼽았다. 김 의원은 “내란 종식은 입법과 특검을 통해 제도적으로 완결돼야 할 국가적 과제”라고 강조했다. 그러면서 “원내대표로서 국회 내 특위 구성 및 관련 상임위 활동, 특검 도입 등 모든 입법적 수단을 총동원해 헌정 질서를 유린한 세력에 대한 단죄와 책임을 명백히 할 것”이라며 “그 위에 드러난 진실을 바탕으로 재발을 막기 위한 제도적 보완과 안전장치를 법제화하겠다”고 했다. 김 의원은 국회 차원의 ‘반헌법특위특별조사위원회’ 구성을 통한 진상 규명도 약속했다. 김 의원은 스스로를 “대통령의 국정 철학과 개혁 방향을 누구보다 깊이 이해하고 가장 안정적으로 실행</content:encoded>
+    </item>
+    <item>
+      <title>[부고]강정두 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781642/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781642/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>◇강정두 씨 별세·최인경 전 중앙전자기술학원장 부인상·승경 서원양행 본부장 화경 현대엘리베이터 부장 경임 SK플래닛 매니저 모친상·정영길 과학기술정보통신부 과장 장모상=10일 서울 세브란스병원, 발인 12일 오전 10시 02-2227-7500 ◇김정걸 전 매일신문 상무 별세·김경애 씨 남편상·호성 서울아산병원 영상의학과 교수 수연 씨 부친상·김정규 씨 장인상·정다은 아주대병원 소아청소년과 교수 시부상=10일 서울아산병원, 발인 12일 오전 10시 40분 02-3010-2000 ◇김정출 씨 별세·김미화 혜숙 상각 상경 미경 씨 모친상·이계창 김용광 씨 장모상·이경희 연합뉴스TV 사회부장 외조모상=9일 서울 동신병원, 발인 12일 오후 3시 50분 02-395-1024  ◇남점열 씨 별세·권혁남 전북대 신문방송학과 명예교수(전 한국언론학회장) 혁중 서울고법 부장판사 모친상=9일 서울성모병원, 발인 12일 오전 6시 30분 02-2258-5940 ◇노태극 전 국회의원 별세·정영애 씨 남편</content:encoded>
+    </item>
+    <item>
+      <title>서해수호 55용사의 두 딸, 프로야구 시구-시타</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781650/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781650/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/11/131781649.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서해수호 55용사의 딸들이 해군 장교가 되어 프로야구 경기의 시구·시타 행사에 참여했다. 10일 서울 잠실야구장에서 열린 프로야구 LG트윈스와 SSG랜더스 경기에서 시구와 시타에 나선 조시은·김해나 해군 소위가 주인공. 조 소위(학군 70기)의 아버지는 2002년 제2연평해전 당시 고속정 357호정에서 20mm 함포 사수로 싸우다 전사한 조천형 상사다. 김 소위(학사 138기)는 2010년 천안함 피격 사건으로 전사한 김태석 원사의 딸이다.  두 사람은 이날 서해수호 55용사를 상징하는 등번호 55가 적힌 유니폼을 입고 마운드와 타석에 올랐다. 서해수호 55용사는 제2연평해전과 천안함 피격, 연평도 포격전 등 북한의 3대 서해 도발에서 전사한 장병과 천안함 승조원을 구조하다 숨진 한주호 준위 등이다. 이날 행사는 해군이 6월 호국보훈의 달을 맞아 한국프로야구리그 후원기업인 신한은행과 협업해 이뤄졌다.  올 3월 임관한 조 소위는 현재 해군교육사령부에서 이지스구축함 전투체계 교육을 받</content:encoded>
+    </item>
+    <item>
+      <title>BTS RM-뷔 전역… 21일 슈가 합류 ‘완전체’</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781647/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781647/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/11/131781646.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“팬들이 기다려주셔서 감사하고, 앨범 열심히 만들어서 빨리 무대로 복귀하겠습니다.” 그룹 방탄소년단(BTS) 멤버 RM(본명 김남준·31)은 군 복무를 마치고 10일 전역하며 이렇게 말했다. RM과 BTS 멤버 뷔(본명 김태형·30)는 2023년 12월 육군 현역으로 입대해 각각 15사단 군악대와 2군단 군사경찰 특수임무대에서 복무하고 이날 함께 제대했다. 두 사람은 강원 춘천시 신북읍체육공원에서 팬들과 만나 전역 인사를 했다. RM은 “군 생활을 통해 전방·후방에서 나라를 지켜줘서 (저희가) 왕성하게 활동할 수 있었다는 걸 알게 됐다”고 소감을 밝혔다. 뷔는 “몸과 마음을 다시 한번 생각하는 시간을 보냈다”며 “하루빨리 팬들에게 보답하고 싶다”고 했다. 진과 제이홉은 지난해 6월과 10월 군복을 벗었고, 지민과 정국은 11일 전역한다. 공익근무요원인 슈가까지 21일 소집해제되면 BTS의 ‘완전체’ 복귀가 가능해진다.</content:encoded>
+    </item>
+    <item>
+      <title>‘자칼의 날’ 쓴 英작가 포사이스 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20250611/131781644/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250611/131781644/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/11/131782514.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘현대 첩보 소설의 대부’로 불리는 영국 소설가 프레더릭 포사이스(사진)가 별세했다. 향년 86세. 미국 뉴욕타임스(NYT) 등에 따르면 포사이스는 9일(현지 시간) 런던 북부 자택에서 숨을 거뒀다. 고인은 고교 졸업 뒤 19세에 영국 공군에 입대해 조종사 훈련을 받았으며, 로이터통신과 BBC방송 등에서 기자로 일했다. 작가로 전업해 처음 쓴 장편소설 ‘자칼의 날’(1971년)은 샤를 드골 프랑스 대통령을 암살하려는 킬러를 다룬 작품으로, 영화로도 만들어졌다. 이 밖에 ‘오데사 파일’ ‘전쟁의 개들’ 등을 집필해 세계적으로 7500만 부 이상을 판매했다. 미국 에드거 앨런 포 상 등을 수상했다.</content:encoded>
+    </item>
+    <item>
+      <title>“검증된 경기도 기후정책, 새 정부 적극 추진을… 필요하다면 경험 공유”</title>
+      <link>https://www.donga.com/news/Society/article/all/20250610/131781599/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20250610/131781599/2</guid>
+      <pubDate>2025-06-11T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/10/131782426.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“경기도는 지방자치의 실험장이자 선도 모델로서 지방자치의 미래를 이끄는 중심축이 될 것입니다.” 김동연 경기도지사는 지난달 26일 동아일보와의 인터뷰에서 “경기도는 사회, 경제, 노동, 환경 등 여러 면에서 대한민국의 축소판”이라며 이같이 말했다. 이어 “경기도가 바뀌면 대한민국이 바뀐다는 생각으로 각종 정책의 선도적 시험대 역할을 자처할 것”이라고 덧붙였다. 김 지사는 1995년 전국 동시 지방선거로 지방자치가 본격 출범한 이후 30년간 가장 크게 달라진 점으로 “‘중앙 중심’에서 ‘지방 주도’로의 패러다임 전환”을 꼽았다. 시민들의 삶의 질을 높이는 생활 밀착형, 지역 맞춤형 정책이 중앙이 아니라 지방 주도로 만들어지고 확산되는 계기가 됐다는 것이다. 김 지사는 “지방자치의 장점은 속도감 있게 직접적이고 적극적인 행정이 가능하다는 것”이라며 지난 30년을 “대한민국 민주주의가 성숙하고, 지방의 자율성과 주민 참여가 강화되며 지역 발전의 속도를 높여 온 여정이었다”고 평가했다. 경</content:encoded>
     </item>
   </channel>
 </rss>
