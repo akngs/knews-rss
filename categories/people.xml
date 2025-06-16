@@ -3,20 +3,7 @@
     <title>동아일보 - 사람속으로</title>
     <link>https://rss.donga.com/inmul.xml</link>
     <description>동아일보 - 사람속으로</description>
-    <lastBuildDate>2025-06-15T00:15:35.308Z</lastBuildDate>
-    <item>
-      <title>오늘의 부고 - 2025년 5월 21일</title>
-      <link>https://www.khan.co.kr/article/202505202007005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202505202007005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2025-05-20T20:07:00.000Z</pubDate>
-      <content:encoded>
-        ■조남순씨 별세, 정광현 전남 순천시 부시장 장모상=20일 광주 VIP장례타운. 발인 22일 (062)521-4444
-        
-        ■이한웅씨 별세, 인모 전 영등포구 부구청장·애리·현정씨 부친상=19일 서울대병원. 발인 22일 (02)2072-2010
-        
-        ■권오채씨 별세, 용진 명문제약 마케팅본부장·용정·가영·윤희씨 부친상=19일 서울아산병원. 발인 22일 (0···
-      </content:encoded>
-    </item>
+    <lastBuildDate>2025-06-16T00:12:54.331Z</lastBuildDate>
     <item>
       <title>조사기자협회 정기세미나, 생성형 AI 활용 방안 논의</title>
       <link>https://www.khan.co.kr/article/202505202007015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -517,69 +504,31 @@
       </content:encoded>
     </item>
     <item>
-      <title>마러라고처럼? 트럼프 “백악관 연회장 짓겠다”</title>
-      <link>https://www.donga.com/news/People/article/all/20250609/131765494/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250609/131765494/2</guid>
-      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/09/131765493.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 대통령(사진)이 사재를 털어 백악관에 새로운 연회장을 짓겠다고 6일(현지 시간) 발표했다. 올 1월 재집권한 그는 이미 백악관 집무실 ‘오벌 오피스’, 장미정원 등을 플로리다주 사저 ‘마러라고 리조트’처럼 화려하게 꾸미고 있다. 새 연회장 또한 마러라고의 초대형 연회장과 비슷하게 지어질 것이란 관측이 나온다. 트럼프 대통령은 이날 트루스소셜에 “트럼프라는 사람의 호의로 백악관에 새로 지어질 연회장 부지를 방금 둘러봤다”며 “아름다운 연회장이 곧 완성될 것이고, 웅장한 백악관과도 잘 어울리는 멋진 부속 건물이 될 것”이라고 밝혔다. 완공 시기와 건설 장소 등 세부 사항은 공개하지 않았으나 영국 데일리메일은 백악관 관계자를 인용해 대통령 부인 집무실이 있는 이스트윙 인근에 대규모 연회장이 들어설 것으로 전망된다고 전했다.  현재 백악관 내 연회 시설은 국빈 만찬과 기자회견 등에 사용되는 ‘이스트룸’이 있다. 면적 약 264㎡로 1800년 제2대 대통령 존 애덤스가 백</content:encoded>
-    </item>
-    <item>
-      <title>눈 커지고 뒷걸음질… 감정 표현하는 로봇 개발</title>
-      <link>https://www.donga.com/news/People/article/all/20250609/131765491/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250609/131765491/2</guid>
-      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/09/131763813.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 연구진이 자극의 횟수나 강도에 따라 눈이 커지거나 뒷걸음질을 치는 등 반응이 달라지는 감정 적응형 로봇을 개발했다. 울산과학기술원(UNIST)은 이희승 디자인학과 교수팀이 감정을 눈과 움직임으로 표현하고 시간에 따라 반응이 바뀌는 적응형 로봇 기술을 개발했다고 8일 밝혔다. 이 로봇은 눈 모양과 색상, 움직임을 조합해 6가지 감정을 표현할 수 있다. 가령 로봇을 세게 두드리면 로봇 눈이 커지고 몸을 뒤로 젖히면서 놀란 감정을 표현한다. 같은 자극이 반복되면 똑같은 반응을 보이는 것이 아니라 이전 감정 상태와 자극의 누적값에 따라 표현이 달라진다. 연구팀은 감정을 고정 상태가 아니라 시간에 따라 변하는 ‘벡터’로 보고 로봇 제어 모델을 개발했다. 강한 자극은 감정 벡터의 크기를 빠르게 키우고, 약한 자극은 서서히 반응을 변화시키도록 제어하는 방식이다. 그 결과 사용자의 80% 이상이 해당 로봇의 감정 표현에 대해 “자연스럽고 생동감 있다”고 답하는 등 긍정적인 결과를 얻었다. 이</content:encoded>
-    </item>
-    <item>
-      <title>제니 ‘루비’, 美롤링스톤 2025년 최고 앨범에</title>
-      <link>https://www.donga.com/news/People/article/all/20250609/131765487/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250609/131765487/2</guid>
-      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/09/131763807.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;블랙핑크 멤버 제니가 올해 3월에 발매한 솔로 1집 ‘루비(RUBY·사진)’가 미국 음악전문지 롤링스톤이 발표한 ‘2025년 최고의 앨범(The Best Albums of 2025 So Far)’에 K팝으로는 유일하게 포함됐다. 5일(현지 시간) 롤링스톤에 따르면 2025년 최고의 앨범에는 ‘루비’ 등 66장의 앨범이 선정됐다. 레이디 가가의 7번째 정규 앨범 ‘메이헴(Mayhem)’을 비롯해 설리나 고메즈와 베니 블랑코의 ‘아이 세드 아이 러브 유 퍼스트(I Said I Love You First)’, 마일리 사이러스의 ‘섬싱 뷰티풀(Something Beautiful)’ 등이 이름을 올렸다. 롤링스톤은 제니의 ‘루비’에 대해 “2000년대와 2010년대 알앤드비(R&amp;B) 중심의 팝을 지배했던 아이디어를 흥미로운 방식으로 재해석했다”고 평가했다.  미 대중문화매체인 콤플렉스(Complex)도 ‘루비’를 ‘2025년 최고의 앨범’ 25장 가운데 하나로 꼽았다. 콤플렉스는 “이</content:encoded>
-    </item>
-    <item>
-      <title>우크라 군인 살린 갤럭시폰 “케이스가 파편 막아”</title>
-      <link>https://www.donga.com/news/People/article/all/20250609/131765489/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250609/131765489/2</guid>
-      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/09/131763810.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;러시아와 전쟁 중인 우크라이나 군인이 삼성전자의 스마트폰 ‘갤럭시 S25 울트라’ 덕분에 생명을 구한 사연이 뒤늦게 알려졌다. 8일(현지 시간) 삼성전자 우크라이나 공식 웹사이트의 갤럭시 S25 울트라 리뷰란에 따르면 현재 참전 중인 한 우크라이나 군인은 ‘갤럭시 S25 울트라―나의 구세주’라는 글을 게시했다. 이 글을 올린 군인은 “교전 중 큰 파편이 내 갤럭시 S25 울트라(사진)에 직격으로 맞았다. (파편이) 화면을 뚫고 들어왔지만 튼튼한 티타늄 케이스에 박혀 내 몸에는 닿지 않았다”고 밝혔다. 이 군인이 올린 사진에 따르면 스마트폰의 좌측 상단이 부서져 있지만, 스마트폰 전체가 관통되지는 않았다. 포격 파편 혹은 총탄 등을 맞았지만, 품속에 있던 스마트폰이 방패가 되어줬던 것으로 보인다. 이 군인은 “안타깝게 이 스마트폰을 3주밖에 사용하지 못했지만, 기회가 생기면 다시 S25 울트라를 꼭 구입할 것”이라고 전했다. 해당 리뷰를 확인한 삼성전자 측은 이 군인의 스마트폰을 무료</content:encoded>
-    </item>
-    <item>
-      <title>1433년 ‘세종조 회례연’ 경복궁서 재현</title>
-      <link>https://www.donga.com/news/People/article/all/20250609/131765483/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250609/131765483/2</guid>
-      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/09/131765482.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;8일 서울 종로구 경복궁 근정전 앞에서 12년 만에 ‘세종조 회례연(會禮宴)’을 재현하는 무대가 펼쳐졌다. 회례연이란 정월 초하루에 왕과 신하가 모여 정과 뜻을 나눴던 잔치를 일컫는다. 국립국악원은 올해부터 법정기념일이 된 ‘국악의 날’(6월 5일)을 맞아 2013년 이후 처음으로 경복궁에서 세종조 회례연을 다시 선보였다(사진). 세종대왕은 예와 악으로 백성을 다스리는 유교 정치의 이상을 실현하기 위해 음악 제도를 정비하고 악보와 악기도 새로 만들었다. 1433년 회례연은 아악과 당악, 정재와 일무 등 다채로운 궁중 악무를 아우르는 그간의 성과를 집약해 보여주는 자리이기도 했다. 국악의 날은 국악진흥법에 따라 해마다 6월 5일로 지정됐다. 세종이 지은 악곡 ‘여민락(與民樂)’이 처음 기록된 날짜(음력 1447년 6월 5일)를 따랐다. 국악원은 이에 맞춰 이달 15일까지를 ‘국악주간’으로 정하고 다양한 행사를 진행하고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>[인사]서울신문</title>
-      <link>https://www.donga.com/news/People/article/all/20250609/131765485/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250609/131765485/2</guid>
-      <pubDate>2025-06-09T03:00:00.000Z</pubDate>
-      <content:encoded>◇서울신문 △사진부장 도준석 △뉴미디어랩〃 류지영 △영상미디어센터장 박지환 △문화체육부 선임기자 최여경 △사진부 전문기자 안주영</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사 - 2025년 6월 10일</title>
+      <title>오늘의 인사 - 2025년 6월 16일</title>
       <link>https://www.khan.co.kr/article/202506092031045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202506092031045/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2025-06-09T20:31:04.000Z</pubDate>
       <content:encoded>
-        ■보건복지부 ◇과장급 전보 △의사집단행동중앙사고수습본부 송양수 △정신건강관리과장 송명준 △건강보험지불혁신추진단장 유정민 △의료개혁추진단 의료체계혁신과장 이선식
+        ■과학기술정보통신부 △원천기술과장 이강우
         
-        ■한국에너지기술연구원 △에너지ICT연구단장 백종복 △에너지변환연구실장 이범준 △총무회계실장 허태원
+        ■국가철도공단 △안전본부장 김종호 △수도권본부장 이명석 △강원본부장 최영환 △국가철도공단 근무 민병균
         
-        ■한국예탁결제원 ◇본부장 보임 △Next KSD 추진단 단장 이승환 ◇부장 보임 △증권담보···
+        ■조선일보 △편집국장 강경희 △논설위원 선우정
+        
+        ■이투데이 △편집국장 이초희 △경영기획실장 박성호
+        
+        ■두산 ◇상무 승진 △최우석
       </content:encoded>
     </item>
     <item>
-      <title>오늘의 부고 - 2025년 6월 10일</title>
+      <title>오늘의 부고 - 2025년 6월 16일</title>
       <link>https://www.khan.co.kr/article/202506092032005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202506092032005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2025-06-09T20:32:00.000Z</pubDate>
       <content:encoded>
-        ■백인기 전 전주보호관찰소장 별세, 은아 보령 임상본부장 부친상=8일 삼성서울병원. 발인 10일 (02)3410-6919
+        ■이정실 전 한양대 수학과 교수 별세, 상헌 매일경제신문 교열부장 부친상=14일 서울성모병원. 발인 17일 (02)2258-5940
         
-        ■김영학 전 서울시 교육위원 별세, 박영순 전 동작교육청 교육장 남편상, 최종석 한진 전무 장인상=8일 신촌세브란스병원. 발인 11일 (02)2227-7584
+        ■유우청씨 별세, 주희 서울경제신문 차장 부친상=14일 부천성모병원. 발인 16일 (032)340-7301
       </content:encoded>
     </item>
     <item>
@@ -630,27 +579,6 @@
       <guid>https://www.donga.com/news/People/article/all/20250610/131773823/2</guid>
       <pubDate>2025-06-10T03:00:00.000Z</pubDate>
       <content:encoded>제2의 3·1운동으로 불리는 ‘6·10만세운동’ 제99주년 기념식이 10일 국가보훈부 주최로 서울 종로구 중앙고등학교에서 열린다.  6·10만세운동은 순종 인산일(장례일)인 1926년 6월 10일 학생들이 주도한 독립만세운동으로 3·1운동, 1929년 학생 독립운동과 함께 일제에 맞서 만세를 외친 3대 독립운동이다.  당시 서울 지역 학생들은 인산 행렬 곳곳에서 격문을 뿌리고 태극기를 흔들며 ‘대한독립 만세’를 외쳤다.  행사는 ‘우리의 대한, 모두의 독립, 하나 된 만세’를 주제로 열리며 독립유공자 유족 등 400여 명이 참석한다. 6·10만세운동 10주년 당시 백범 김구 선생 등이 한국국민당 명의로 발표한 선언서도 낭독된다. 낭독은 당시 만세운동을 주도했던 학생들이 다닌 중앙고등보통학교 후신 중앙고 학생과 연희전문학교 후신 연세대 학생, 보성전문학교 후신 고려대 학생 등 3인이 맡는다.</content:encoded>
-    </item>
-    <item>
-      <title>[인사]한국폴리텍대</title>
-      <link>https://www.donga.com/news/People/article/all/20250610/131773813/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250610/131773813/2</guid>
-      <pubDate>2025-06-10T03:00:00.000Z</pubDate>
-      <content:encoded>◇한국폴리텍대 △한국폴리텍Ⅳ대 교무기획처장 이동환</content:encoded>
-    </item>
-    <item>
-      <title>[부고]‘한국화 거장’ 홍석창 화백</title>
-      <link>https://www.donga.com/news/People/article/all/20250610/131773821/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250610/131773821/2</guid>
-      <pubDate>2025-06-10T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/10/131774241.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘한국화의 거장’으로 불린 홍석창 화백(대한민국예술원 회원·사진)이 9일 별세했다. 향년 84세. 강원 영월 출신인 고인은 홍익대 동양화과를 졸업한 뒤 1965년 첫 개인전을 시작으로 중국, 미국, 일본, 독일에서 30차례의 개인전과 단체전을 개최하며 한국화의 경계를 확장했다는 평가를 받았다. 1980년부터 홍익대 미대 교수로 재직하며 미술대학원장, 박물관장 등을 역임했다.  유족으로는 부인 정순희 씨, 딸 손아 미림 씨가 있다. 빈소는 서울 세브란스병원, 발인은 11일 오전 6시 20분. 02-2227-7500</content:encoded>
-    </item>
-    <item>
-      <title>[부고]김영학 전 서울시 교육위원 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20250610/131773819/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20250610/131773819/2</guid>
-      <pubDate>2025-06-10T03:00:00.000Z</pubDate>
-      <content:encoded>◇김영학 전 서울시 교육위원 별세·박영순 전 동작교육청 교육장 남편상·현희 현정 씨 부친상·최종석 한진 전무 장인상=8일 서울 세브란스병원, 발인 11일 오전 6시 02-2227-7500 ◇박용정 씨 별세·이현미 대원 지숙 대성 씨 모친상·안병삼 데일리스포츠한국·리빙TV 부회장 정우영 씨 장모상=8일 서울성모병원, 발인 11일 오전 10시 30분 02-2258-5940 ◇백인기 전 전주 보호관찰소장 별세·박춘순 씨 남편상·은아 보령 임상본부장 은실 은영 창현 씨 부친상=8일 삼성서울병원, 발인 10일 오전 8시 15분 02-3410-3151 ◇오달조 씨 별세·이주일 광주경찰서 여성청소년과장 장모상=8일 경북 칠곡경북대병원, 발인 11일 오전 7시 053-200-2500</content:encoded>
     </item>
     <item>
       <title>[온라인 라운지]V리그 남자부 20년 역사 총정리 ‘V리그 연대기 둘’ 출간</title>
@@ -786,13 +714,6 @@
       <guid>https://www.donga.com/news/Society/article/all/20250610/131781599/2</guid>
       <pubDate>2025-06-11T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/10/131782426.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“경기도는 지방자치의 실험장이자 선도 모델로서 지방자치의 미래를 이끄는 중심축이 될 것입니다.” 김동연 경기도지사는 지난달 26일 동아일보와의 인터뷰에서 “경기도는 사회, 경제, 노동, 환경 등 여러 면에서 대한민국의 축소판”이라며 이같이 말했다. 이어 “경기도가 바뀌면 대한민국이 바뀐다는 생각으로 각종 정책의 선도적 시험대 역할을 자처할 것”이라고 덧붙였다. 김 지사는 1995년 전국 동시 지방선거로 지방자치가 본격 출범한 이후 30년간 가장 크게 달라진 점으로 “‘중앙 중심’에서 ‘지방 주도’로의 패러다임 전환”을 꼽았다. 시민들의 삶의 질을 높이는 생활 밀착형, 지역 맞춤형 정책이 중앙이 아니라 지방 주도로 만들어지고 확산되는 계기가 됐다는 것이다. 김 지사는 “지방자치의 장점은 속도감 있게 직접적이고 적극적인 행정이 가능하다는 것”이라며 지난 30년을 “대한민국 민주주의가 성숙하고, 지방의 자율성과 주민 참여가 강화되며 지역 발전의 속도를 높여 온 여정이었다”고 평가했다. 경</content:encoded>
-    </item>
-    <item>
-      <title>&apos;응답하라 한국수어&apos;,  ‘제20회 서울특별시수어문화제’ 14일 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222185</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222185</guid>
-      <pubDate>2025-06-11T13:52:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 서울특별시농아인협회는 오는 14일 신촌 연세로에서 &apos;응답하라 한국수어&apos;라는 슬로건 아래 ‘제20회 서울특별시수어문화제’를 개최한다.그동안 수어문화제는 농인과 비장애인 간의 소통의 장을 마련하고 수어에 대한 인식을 확산시키는 중요한 행사로 자리매김해 왔다.이번 축제에는 약 30개의 부스가 마련돼 참가자들이 수어 및 농문화 체험을 통해 다양한 경험을 할 수 있도록 한다. 또한 축하공연과 함께 진행되는 수어골든벨, 새롭게 열리는 수어웹툰 공모전, 더 가까이 카카오엔터테인먼트 수어이름짓기 공모전이 준비돼 있다.개회</content:encoded>
     </item>
     <item>
       <title>‘제4회 전국어울림생활체육대축전’ 13일 개막‥장애인·비장애인 1450명 참가</title>
@@ -1093,6 +1014,13 @@
       <content:encoded>【에이블뉴스 백민 기자】 한국장애인고용공단(이사장 이종성, 이하 공단)은 13일 현대자동차(주)(대표이사 무뇨스 바르셀로 호세 안토니오)와 함께 첫 추진한 장애인 맞춤훈련을 성공적으로 마무리하고 수료식을 가졌다.이번 맞춤훈련은 지난 4월 양 기관이 체결한 장애인고용증진 협약의 후속 성과로 시작됐다. 맞춤훈련 프로그램은 장애인의 직무 적응력 향상과 업무역량 개발을 위한 실무 중심으로 구성되어 있으며 현대자동차와 공동으로 기획·설계하고 공단이 운영했다.총 5주간의 집중 훈련을 이수한 수료자들은 오는 6월 말부터 양재, 강남 사옥 등 주</content:encoded>
     </item>
     <item>
+      <title>장애인체육회, 장애인 생활체육 활성화 캠페인 ‘나답게 MOVE’ 스타트</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=222325</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=222325</guid>
+      <pubDate>2025-06-13T18:29:15.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완)는 13일 강원특별자치도 홍천종합체육관에서 열린 ‘제4회 전국어울림생활체육대축전’ 개회식에서 장애인 생활체육 활성화 캠페인‘나답게 MOVE’의 시작을 알렸다.이번 캠페인은 ‘누구나 스포츠를 즐기는 나라’를 표방하는 이재명 정부의 국정철학과 맞물려 장애인 모두가 일상 속에서 함께하는 스포츠 문화를 확산하고자 기획됐다.특히 생활체육이 장애인의 자립과 건강, 사회 통합을 실현하는 핵심 수단임을 다시금 강조하며 캠페인이 장애인 생활체육 활성화를 위한 첫걸음이 됐다는 점에서 큰 의미를 지</content:encoded>
+    </item>
+    <item>
       <title>“10년 마라톤 여정, ‘해피엔딩’ 마무리 기뻐”</title>
       <link>https://www.donga.com/news/People/article/all/20250613/131805045/2</link>
       <guid>https://www.donga.com/news/People/article/all/20250613/131805045/2</guid>
@@ -1140,6 +1068,84 @@
       <guid>https://www.donga.com/news/People/article/all/20250613/131805035/2</guid>
       <pubDate>2025-06-14T01:40:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/13/131805442.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고려대 사범대학 교우회가 장학금 및 교육봉사 기금 1억 원을 기부하기로 약정했다. 고려대는 13일 오전 서울 성북구 서울캠퍼스 본관에서 기부약정식을 열었다고 밝혔다. 이날 행사에는 김미숙 사범대학 교우회장(지리교육과 81학번·사진) 등을 비롯해 김동원 고려대 총장 등 교내 인사들이 참석했다. 기탁된 교육봉사 기금은 교육 소외 지역의 아동 및 청소년을 위한 고려대 사범대학 학습 멘토링 프로그램 ‘KU:CEAM(쿠쌤)’에 사용될 예정이다.</content:encoded>
+    </item>
+    <item>
+      <title>[부고]류호준 캄파리코리아 대표 부친상</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250615/131807304/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250615/131807304/1</guid>
+      <pubDate>2025-06-15T11:25:00.000Z</pubDate>
+      <content:encoded>◇류화현씨 별세 (향년 91세) 류호준 (캄파리코리아 대표) 부친상 = 15일 삼성 서울병원 장례식장 17호실, 발인 17일 오전 7시, 장지 서울추모공원 02-3410-3151</content:encoded>
+    </item>
+    <item>
+      <title>다시 뭉친 BTS “우리가 돌아왔어요”</title>
+      <link>https://www.khan.co.kr/article/202506152044025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202506152044025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2025-06-15T20:44:02.000Z</pubDate>
+      <content:encoded>
+        지난 13일 제이홉 솔로 콘서트에
+        진·정국, 무대에 깜짝 등장 축하
+        RM·슈가·지민·뷔 객석서 관람
+        
+        지난 13일 경기 고양종합운동장에서 열린 솔로 콘서트 무대에서 BTS 제이홉(가운데)이 진(왼쪽), 정국과 함께 서 있다. 빅히트 뮤직 제공
+        
+        “오늘 공연에 멤버들이 와 계시네요. 사랑해! 멤버들이 군 복무를 끝내고 돌아오는 시점이 됐어요. 여러···
+      </content:encoded>
+    </item>
+    <item>
+      <title>[부고]임창숙 씨 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131810934/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131810934/1</guid>
+      <pubDate>2025-06-15T22:26:00.000Z</pubDate>
+      <content:encoded>◇임창숙 씨 별세·이봉재 이기연 이봉옥 이연수 씨 모친상·노병용 클리프커뮤니케이션 대표 장모상=15일 신촌세브란스병원, 발인 17일 오전 8시 20분 02-2227-7500</content:encoded>
+    </item>
+    <item>
+      <title>코인-리조트… 트럼프, 작년 8200억원 벌었다</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131811182/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131811182/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/15/131809619.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 대통령(사진)이 가상화폐 등의 분야에서 지난해 6억 달러(약 8200억 원) 이상을 벌어들이며 총자산을 최소 16억 달러 규모로 증식시킨 것으로 분석됐다. 14일 로이터통신(현지 시간)에 따르면 이 같은 사실은 전날 미국 정부윤리청(OGE)이 발표한 트럼프 대통령의 재무 공개 보고서를 통해 드러났다. 보고서에 따르면 트럼프 대통령은 장남인 트럼프 주니어와 차남 에릭이 지난해 9월 설립한 가상자산 플랫폼 월드 리버티 파이낸셜(WLF)을 통해 5735만 달러를 벌어들였다. 또 플로리다주에 소유한 웨스트팜비치, 도럴, 주피터 등 세 개의 골프 리조트와 회원제 클럽 리조트인 마러라고 멤버십 판매를 통해 최소 2억1770만 달러의 소득을 창출한 것으로 나타났다. 각종 판매 사업으로도 많은 수입을 올렸다. 그는 컨트리 가수 리 그린우드와 함께 제작한 ‘그린우드 성경’ 판매를 통해 130만 달러를, ‘트럼프 시계’ ‘트럼프 스니커즈와 향수’ 판매에선 각각 280만 달러와 25</content:encoded>
+    </item>
+    <item>
+      <title>여객기 희생자 추모띠 두른 英국왕 생일 기념식</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131811180/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131811180/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/15/131809616.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;찰스 3세 영국 국왕(77)의 생일을 기념하는 ‘군기 분열식(Trooping the Colour)’이 14일(현지 시간) 버킹엄궁에서 열렸다. 찰스 3세의 실제 생일은 11월 14일이지만, 영국의 국왕 생일 기념 군기 분열식은 실제 생일과 상관없이 날씨가 좋은 6월에 열리는 게 관례다. 찰스 3세 생일 기념 군기 분열식은 올해로 3번째다. 영국 전역의 장병 1350명이 참여한 이날 행사엔 왕실 인사들이 총출동했다. 찰스 3세는 첫 번째 군기 분열식에는 직접 말을 타고 참석했으나, 항암 치료를 시작한 작년과 마찬가지로 올해 역시 마차를 선택했다. 찰스 3세의 동생 에드워드 왕자(61), 앤 공주(75)와 장남 윌리엄 왕세자(43)는 말에 탄 채로 행사에 참여했다. 지난해 9월 항암 치료를 마친 캐서린 왕세자빈은 이날 찰스 3세 바로 옆에서 함께 군사 행진을 지켜봤다. 왕세자 부부의 자녀 조지 왕자(12), 샬럿 공주(10), 루이 왕자(7)도 참석해 군중을 향해 손을 흔들었다. 왕실</content:encoded>
+    </item>
+    <item>
+      <title>BTS 제이홉 신곡 ‘킬린 잇 걸’… 아이튠스 차트 61개국서 1위</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131811178/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131811178/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/15/131811533.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 방탄소년단(BTS)의 제이홉(사진)이 13일 발표한 신곡 ‘킬린 잇 걸(Killin’ It Girl)’이 호주와 브라질, 덴마크, 프랑스 등 61개국 아이튠스 ‘톱 송’ 차트에서 1위를 기록했다고 14일 빅히트뮤직이 밝혔다. 이 곡은 ‘월드와이드 아이튠스 송 차트’와 ‘유러피안 아이튠스 송 차트’에서도 원곡과 솔로 버전이 각각 1, 2위에 올랐다.  ‘킬린 잇 걸’은 첫눈에 반한 상대에게 빠져든 순간의 설렘을 담은 힙합 곡이다. 미국 여성 래퍼 ‘글로릴라’가 피처링(다른 가수의 연주나 노래에 참여해 도와줌)으로 참여했다.</content:encoded>
+    </item>
+    <item>
+      <title>중남미 첫 여성 대통령 차모로 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131811172/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131811172/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/15/131811532.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중남미 최초의 여성 대통령인 비올레타 차모로 전 니카라과 대통령(사진)이 14일(현지 시간) 코스타리카 산호세 자택에서 숨을 거뒀다고 로이터통신 등이 보도했다. 향년 96세. 고인은 야당 정치인이던 남편 페드로 호아킨 차모로 카르데날이 소모사 독재 정권에 피살된 뒤 정치에 뛰어들었다. 이후 1990∼1997년 니카라과 대통령을 지냈다. 2006년 정적 다니엘 오르테가가 대통령이 돼 자신을 비롯한 야당 인사들을 탄압하자 2023년 코스타리카로 망명했다.</content:encoded>
+    </item>
+    <item>
+      <title>수녀원 무료급식소서 삼겹살 굽기 봉사한 스님</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131811176/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131811176/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/06/15/131811529.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;천주교가 운영하는 무료급식소에 고기 후원이 끊겼다는 소식을 접한 스님과 불자들이 삼겹살을 후원하고 직접 구워서 배식에 나선 미담이 눈길을 끌고 있다. 광주·전남 지역 기반의 불교 자원봉사단체 자비신행회는 12일 광주 남구 방림2동의 무료급식소 ‘성요셉의 집 사랑의 식당’을 찾아 삼겹살 20kg과 쌀 100kg을 기부했다. 이어 현장에서 고기를 구워 100여 명의 어르신에게 점심을 대접했다. 성요셉의 집은 천주교 까리따스수녀원이 1998년부터 운영해온 무료급식소다. 정부나 지자체의 식비 지원 없이 자원봉사자와 후원자들의 기부로만 운영되고 있다. 자비신행회는 불교계 자원봉사단체로, 1999년부터 광주를 중심으로 저소득층과 소외계층을 위한 무료급식, 의료 지원, 반찬 나눔 활동을 펼쳐 왔다. 특히 ‘고기특공대’라는 대학생 자원봉사팀을 꾸려 매달 어르신들을 직접 찾아가 고기를 구워 드리는 활동도 이어오고 있다. 이번 ‘성요셉의 집’ 방문은 급식소에서 고기반찬을 더 이상 내놓기 어렵다는 소식</content:encoded>
+    </item>
+    <item>
+      <title>[부고]김일용 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20250615/131811174/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20250615/131811174/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>◇김일용 씨 별세·은실 은정 씨 부친상·김성일 스마트교회 목사 신충섭 한화투자증권 전무 장인상=14일 부산 한서병원, 발인 17일 오전 9시 0507-1320-1860 ◇김호석 씨 별세·영현 프로야구 두산 베어스 투수 부친상=15일 광주 그린장례문화원, 발인 17일 오전 7시 062-250-4455 ◇류화현 씨 별세·홍순임 씨 남편상·호연 씨 호준 캄파리코리아 대표 선영 씨 부친상·조규형 손근국 씨 장인상·김준희 이르킴갤러리 대표 시부상=13일 삼성서울병원, 발인 17일 오전 7시 02-3410-3151 ◇유우청 씨 별세·김현숙 씨 남편상·주희 서울경제신문 차장 형석 에스제이엠 과장 부친상·조재영 씨 시부상=14일 경기 부천성모병원, 발인 16일 오전 11시 30분 032-340-7301 ◇이병란 씨 별세·성낙원 한국예총 대전시연합회장 낙춘 맥스프로 대표 낙중 TJB대전방송 보도국 영상제작팀 부국장 모친상=14일 충북 옥천농협장례식장, 발인 17일 오전 9시 043-731-4443</content:encoded>
+    </item>
+    <item>
+      <title>[DBR/알립니다]‘비즈니스 커뮤니케이션 마스터 클래스’ 수강생 모집</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250615/131801895/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250615/131801895/2</guid>
+      <pubDate>2025-06-16T03:00:00.000Z</pubDate>
+      <content:encoded>DBR(동아비즈니스리뷰)이 비즈니스 문해력 향상을 위한 ‘비즈니스 커뮤니케이션 마스터 클래스’ 수강생을 모집합니다. 본 교육은 조직 내 소통의 정확성과 속도를 높이는 데 필수적인 커뮤니케이션 핵심 스킬을 하루 만에 학습할 수 있도록 구성된 케이스 및 실습 중심 프로그램입니다. 다양한 실무 사례를 바탕으로 한 상황별 커뮤니케이션 전략, 비즈니스 문서 작성법, 프레젠테이션 자료 기획 및 발표 스킬까지 업무에 바로 적용할 수 있는 실질적인 방법론을 알려드립니다. 현직 경영 전문 기자와 경영 컨설턴트의 현장 경험과 전문성이 집약된 이번 교육은 실무에 필요한 커뮤니케이션 역량을 단기간에 끌어올릴 수 있는 지름길을 제시합니다. 모든 직무와 직급에 걸쳐 비즈니스 문해력을 한 단계 높이고 싶은 분들의 많은 관심과 참여를 바랍니다.● 교육 일정: 2025년 6월 26일(목) 오전 10시∼오후 5시 30분● 교육 내용: 비즈니스 문해력과 커뮤니케이션 전략, 비즈니스 문서 작성법, 프레젠테이션</content:encoded>
     </item>
   </channel>
 </rss>
