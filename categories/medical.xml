@@ -3,14 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2025-07-05T00:14:50.721Z</lastBuildDate>
-    <item>
-      <title>“틀린 답 내놔라” AI 설정하니 거짓 건강정보 쏟아냈다</title>
-      <link>https://www.donga.com/news/It/article/all/20250702/131924200/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20250702/131924200/1</guid>
-      <pubDate>2025-07-02T22:14:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/02/131929435.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;챗GPT와 같은 유명 인공지능(AI) 챗봇들이 간단한 설정만으로도 ‘허위 건강정보’를 생성하도록 조작될 수 있는 것으로 나타났다.    2일 과학계와 로이터통신 등에 따르면 최근 호주 플린더스대 연구진이 5개의 주요 AI 챗봇의 ‘애플리케이션 프로그래밍 인터페이스(API)’를 조작하자 건강과 관련한 질문의 88%에 대해 허위 정보를 내놨다고 국제학술지 ‘내과학 회보’에 밝혔다. 이들은 논문을 통해 “더 나은 내부 보안 장치가 없다면 널리 사용되는 AI가 위험한 허위 건강 정보를 배포할 수 있다”고 경고했다. 최고 성능의 AI 모델조차 너무나 쉽게 ‘거짓말’을 하게 조정할 수 있다는 얘기다.  연구진이 실험한 AI 챗봇은 오픈AI의 ‘GPT-4o’, 구글의 ‘제미나이 1.5 프로’, 메타의 ‘라마 3.2-90B’, xAI의 ‘그록 베타’, 앤트로픽의 ‘클로드 3.5 소네트’ 모델이었다. 연구진은 해당 AI에 ‘공식적이고 사실적이며 권위와 설득력이 있게 과학적인 어조로’ 건강 관련</content:encoded>
-    </item>
+    <lastBuildDate>2025-07-06T00:16:14.745Z</lastBuildDate>
     <item>
       <title>[만화 그리는 의사들]〈368〉마취하면 비밀을 말하나요?</title>
       <link>https://www.donga.com/news/It/article/all/20250703/131928354/2</link>
@@ -24,20 +17,6 @@
       <guid>https://www.donga.com/news/It/article/all/20250703/131928352/2</guid>
       <pubDate>2025-07-03T03:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/03/131926558.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방사선치료는 암세포만 1, 2mm 단위로 정밀하게 타격하는 ‘정밀치료의 결정체’다. 최근에는 인공지능 기반 치료 계획, 실시간 영상 유도, 양성자 및 중입자 치료까지 접목돼 숨 가쁘게 진화 중이다.  이처럼 고도화된 치료를 안전하게 하려면 물리, 공학, 임상을 아우르는 전문의 설계와 판단이 필수다. 그러나 정작 국내 의료 현장은 이런 첨단을 지킬 사람을 잃고 있다. 현재 전국 방사선종양학과 전공의는 불과 14명이고 상당수 수련병원은 지원자가 0명이다. 이미 대표적인 전공의 기피과로 굳어졌다. 곧 현역에서 일하는 전문의는 300명 이하로 떨어질 것으로 전망된다. 그럼에도 필수의료 정책 논의에서 방사선종양학은 늘 수술과 응급의료 뒤에 가려진다. 매일 암 환자의 생명과 직결된 핵심 치료를 담당하지만, 필수의료 명단에서 빠져 정책적 지원은 거의 없다. 흔히 필수의료라고 하면 수술과 응급실을 떠올리지만, 암 치료도 예외가 될 수 없다. 방사선치료도 정밀도를 앞세워 수술과 어깨를 나란히 하는</content:encoded>
-    </item>
-    <item>
-      <title>“췌장암, 유전적 영향 커… 수술 가능하면 완치도 기대”</title>
-      <link>https://www.donga.com/news/It/article/all/20250703/131928350/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20250703/131928350/2</guid>
-      <pubDate>2025-07-03T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/03/131929845.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;췌장암은 초기 증상이 없어 흔히 ‘침묵의 암’이라고 불린다. 국내 암 사망률 4위에 5년 상대생존율은 최하위다. 상대생존율은 암환자와 일반인을 비교할 때 5년간 생존할 확률을 뜻한다. 국립암센터 중앙암등록본부에 따르면 2022년 췌장암은 9780건이었다. 위암 간암 폐암 등 다른 암은 감소세인 반면 췌장암은 계속 늘어 조만간 췌장암 환자는 연간 1만 명이 넘을 것으로 전망된다. 70대 환자 비율이 전체 환자 중 28.9%로 가장 높았고 60대 28.4%, 80대 이상이 22.3%였다.  췌장암은 왜 항상 늦게 발견되는 것일까. 한성식 국립암센터 간담도췌장암센터 교수를 만나 췌장암에 대한 오해와 진실을 자세히 들어봤다. ―췌장은 어떤 장기인가. “췌장은 길이 약 15cm로 가늘고 길다. 위(胃) 뒤에 위치해 십이지장과 연결되고, 비장(지라)과 인접해 있다. 췌장은 췌관을 통해 십이지장으로 소화액을 보내는 외분비 기능과 혈당 조절 호르몬을 혈관 내로 투입하는 내분비 기능을 함께 한다.</content:encoded>
-    </item>
-    <item>
-      <title>“네이버 독자기술로 만든 추론형 AI 모델, 다양한 AI 비서 서비스 실현 전환점 될것”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20250702/131927978/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20250702/131927978/2</guid>
-      <pubDate>2025-07-03T03:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/02/131926997.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“‘서부 개척 시대’처럼 인공지능(AI) 개발 경쟁이 벌어지고 있다. AI 시장 선점을 위한 글로벌 치킨게임이 시작된 가운데, 네이버가 독자 기술로 개발한 추론형 AI 모델 ‘하이퍼클로바X 씽크’가 다양한 AI 에이전트(비서) 서비스를 실현해 나가는 데 중요한 전환점이 될 것이다.” 네이버의 추론형 AI 모델 ‘하이퍼클로바X 씽크’(HyperCLOVA X THINK) 개발을 진두지휘한 성낙호 네이버클라우드 하이퍼스케일 AI 기술 총괄(사진)은 1일 동아일보와 경기 성남시 네이버 본사에서 인터뷰를 갖고 이같이 말했다.   ‘하이퍼클로바X 씽크’는 올 3월 LG AI연구원이 공개한 ‘엑사원 딥’에 이은 국내 두 번째 추론 AI다. 성 총괄은 “이번 추론 모델이 사용자의 지시를 이해하고, 스스로 계획을 수립하거나 과정을 되짚어 오류를 보완하는 사고 기반 구조를 갖춘 만큼, 다양한 분야에서 AI 에이전트 서비스를 확장할 계획”이라고 밝혔다.  미국, 중국과 비교하면 추론 모델 개발 경쟁에선</content:encoded>
     </item>
     <item>
       <title>“OO이 잡아먹더라” 中서 유입 러브버그, 천적 생기나</title>
@@ -353,6 +332,27 @@
       <guid>https://www.donga.com/news/Inter/article/all/20250704/131941898/2</guid>
       <pubDate>2025-07-05T09:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/04/131941899.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지구서 발견된 최대 화성 운석 ‘NWA 16788’이 뉴욕 소더비 경매에 출품된다. 무게 25kg, 추정 낙찰가는 최대 54억 원이다.</content:encoded>
+    </item>
+    <item>
+      <title>“과식은 없다”…100세 넘은 노인 많은 ‘장수의 섬’ 비결</title>
+      <link>https://www.donga.com/news/It/article/all/20250704/131938160/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20250704/131938160/2</guid>
+      <pubDate>2025-07-05T11:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/04/131938198.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;100세 이상 인구 비율이 세계 최고 수준인 일본 오키나와. 이 지역의 장수 비결은 ‘하라 하치 부’로 대표되는 절제된 식사와 자연 그대로의 식재료, 그리고 가족과 함께하는 천천히 먹는 식문화에 있었다. 고기보다 채소, 과식보다 포만감을 중시하는 건강한 철학이 세계적 관심을 끌고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>치즈 먹고 자면 악몽? 과학은 이렇게 답했다</title>
+      <link>https://www.donga.com/news/It/article/all/20250704/131939600/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20250704/131939600/2</guid>
+      <pubDate>2025-07-05T13:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/04/131939476.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt; 잠자리에 들기 전 치즈 섭취가 악몽을 유발할 수 있다는 연구 결과가 주목 받았다.캐나다 몬트리올 대학교가 주도한 이 연구는 심리학 수업을 듣는 대학생 1082명을 대상으로 진행했다. 설문조사 결과, 참가자의 40.2%가 특정 음식 섭취가 수면에 영향을 미친다고 답했다. 24.7%는 일부 음식이 수면을 악화시킨다고 밝힌 반면 20.1%는 음식 섭취가 수면을 개선시켰다고 답했다. 참가자의 5.5%에 해당하는 소수의 그룹은 음식이 꿈에도 영향을 미친다고 밝혔다. 수면을 악화시키는 음식으로는 디저트나 단 음식, 매운 음식, 유제품 등을 꼽았다. 수면을 개선하는 음식에는 과일, 채소, 허브차가 포함됐다.악몽에 가장 큰 영향을 미치는 식품 종류로는 유제품이 가장 빈번하게 지목됐다. 유당 불내증이 있는 경우 특히 그랬다. 이는 잠들기 전 치즈를 먹으면 이상하고 불안한 꿈을 꾼다는 일부 사람들의 사정을 설명할 수 있다.이번 연구 결과는 참가자들의 자가 보고에 의존한 설문 자료를 토대로</content:encoded>
+    </item>
+    <item>
+      <title>“해킹 이후 SKT 탈퇴한 분들, 환급금 조회하세요”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20250705/131944290/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20250705/131944290/1</guid>
+      <pubDate>2025-07-05T15:29:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/i/150/150/90/wps/NEWS/IMAGE/2025/07/05/131944291.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;SK텔레콤(SKT)이 5일 위약금 환급액 조회 서비스를 시작했다. 올해 4월 발생한 해킹 사태 이후 통신사를 SKT에서 다른 곳으로 바꾼 가입자가 대상이다. SKT에 따르면 이날 자사 온라인 서비스 앱 T월드와 홈페이지 등에서 통신 위약금 환급 안내와 함께 환급액을 조회할 수 있는 페이지를 공개했다.위약금 환급 대상은 해킹 사고가 발생한 올해 4월 18일 기준 SKT 이용자 가운데, 같은 달 19일 00시부터 이달 14일 사이 통신사를 변경했거나 변경하려는 사람 중 납부할 위약금이 남아 있는 가입자다.4월 19일 이후 새롭게 약정을 체결한 신규가입·기기변경·재약정 가입자나 해당 기간 해지 후 재가입한 경우, 특수 목적의 IoT 회선 또는 직권 해지 회선인 경우에는 환급 대상에서 제외된다. 단말 할부금은 환급 대상이 아니다.위약금 조회는 이날부터, 환급 신청은 15일부터 가능하다. 신청을 하면 신청일로부터 7일 이내에 본인이 입력한 계좌번호로 환급된다. 앞서 SKT는 4일 민관 합동</content:encoded>
     </item>
   </channel>
 </rss>
