@@ -3,230 +3,13 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-02-12T00:14:34.109Z</lastBuildDate>
-    <item>
-      <title>“쿠팡 유출범, 전화번호 등 배송지 목록 1.5억회 조회”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133341209/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133341209/2</guid>
-      <pubDate>2026-02-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133341660.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;쿠팡의 개인정보 침해 사고 조사 결과 유출된 개인정보가 3300만 건을 넘어서고 이름과 전화번호, 주소 등이 포함된 ‘배송지 목록 페이지’는 무려 약 1억5000만 회나 조회된 것으로 드러났다. 배송지 목록에는 가족이나 지인 등 제3자의 주소를 최대 20개까지 저장할 수 있어 정보 유출 규모가 더 커질 가능성도 제기된다. 과학기술정보통신부는 10일 정부서울청사에서 쿠팡 침해 사고에 대한 민관합동조사단의 조사 결과를 발표했다. 정부는 25.6TB(테라바이트) 규모의 웹, 애플리케이션 접속기록(로그)을 분석했다. 쿠팡으로부터 제출받은 공격자의 PC 저장장치의 포렌식 분석도 진행했다. 그 결과 이름과 이메일 정보가 포함된 이용자 계정 정보 3367만3817건 유출이 확인했다. 유출된 계정은 3367만여 건이지만 ‘배송지 목록 페이지’는 1억4805만6502회나 조회됐다. 공동현관 비밀번호도 ‘배송지 목록 수정 페이지’를 통해 이름, 전화번호, 주소와 함께 5만여 차례 조회됐다. 조사</content:encoded>
-    </item>
-    <item>
-      <title>“공동현관 비번 5만번 조회”… 쿠팡서 지인 정보도 털렸을 가능성</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133340742/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133340742/2</guid>
-      <pubDate>2026-02-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133341586.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;쿠팡 침해사고에 대한 정부 민관합동조사단의 발표 결과는 쿠팡의 ‘셀프 조사’ 내용과는 전혀 달랐다. 쿠팡은 지난해 12월 자체 조사 결과 약 3000개의 고객 정보만 유출됐다고 밝혔지만, 정부 조사에 따르면 이름, 전화번호, 주소 등 민감 정보가 포함된 페이지가 1억5000만 회가량 조회된 것으로 나타났다. 유출 정보가 해외로 흘러갔을 수 있다는 정황까지 나왔다. ● 배송지·현관 비번·주문 목록까지 민감 정보 유출과학기술정보통신부 쿠팡 민관합동조사단은 10일 정부서울청사에서 쿠팡 개인정보 유출 사태의 정보 유출 규모와 유출 경로를 발표했다. 조사단은 지난해 4월부터 11월까지 쿠팡 웹사이트와 애플리케이션 접속기록(로그), 침해사고의 공격자로 추정되는 전 쿠팡 개발자 A 씨의 PC 저장장치를 포렌식 분석했다. 조사 결과 이름과 이메일이 포함된 이용자(계정) 정보 3367만3817건이 유출됐다. 이보다 더 심각한 것은 공격자가 이름, 전화번호, 주소 등 민감 정보가 담긴 ‘배송지</content:encoded>
-    </item>
-    <item>
-      <title>‘AI로 논술 채점’ 서울 중고교 66→120곳 확대</title>
-      <link>https://www.donga.com/news/Society/article/all/20260211/133340399/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260211/133340399/2</guid>
-      <pubDate>2026-02-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/10/133337042.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)을 활용해 서·논술형 시험을 평가하는 서울 지역 중고교가 올해 120곳으로 기존의 두 배로 늘어난다. 시범 운영을 거쳐 내년 말까지는 서울의 모든 중고교에 이 같은 평가 시스템이 도입될 예정이다. 서울시교육청은 10일 이 같은 내용을 담은 ‘2026학년도 중등 학생평가 내실화 계획’을 추진한다고 밝혔다. 먼저 AI 서·논술형 평가 실천 학교를 현재 66곳에서 올해 120곳으로 확대한다. AI 서·논술형 평가 지원 시스템인 ‘채움AI’도 손글씨 인식 기능을 보완해 고도화할 예정이다. 채움AI는 내년 말까지 서울 전체 중고교로 확대할 계획이다. 아울러 AI 활용에 대한 가이드라인을 마련해 AI 평가에 대한 신뢰성을 높일 방침이다. 교사의 논술형 평가 역량을 강화하기 위해 연수와 현장 지원도 강화한다. 교사들이 전문성과 자율성에 기반한 평가를 할 수 있도록 ‘학생평가지원단’도 확대 운영하기로 했다. 미래형 평가체제 기반을 조성하기 위해 ‘교육과정·평가지원센터’도 구축할</content:encoded>
-    </item>
-    <item>
-      <title>[헬스캡슐] 3개 특화 클리닉 원스톱 진료 강화 外</title>
-      <link>https://www.donga.com/news/It/article/all/20260210/133330179/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260210/133330179/2</guid>
-      <pubDate>2026-02-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/10/133337235.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;■3개 특화 클리닉 원스톱 진료 강화하나로의료재단은 건강검진에서 이상 소견이 발견될 경우 추가 진단과 외래 진료, 치료까지 즉시 연계하는 ‘원스톱 통합의료 서비스’를 운영하고 있다.대학병원에서 풍부한 임상 경험을 쌓은 의료진이 주축이 돼 호르몬건강클리닉, 비뇨의학클리닉, 여성전문클리닉 등 3대 특화 클리닉을 중심으로 전문 진료 체계를 구축했다.호르몬건강클리닉은 연세대 의대학장과 세브란스병원 내과부장을 지낸 이은직 원장이 이끌며 갑상선·뇌하수체·부신 등 내분비 질환을 중심으로 진단부터 치료까지 체계적인 진료를 제공한다.비뇨의학클리닉은 강남세브란스병원 비뇨의학과장을 지낸 정병하 교수가 센터장을 맡아 전립선암과 전립선비대증 등 주요 비뇨기 질환을 전문적으로 진료한다.여성전문클리닉은 세브란스병원장과 연세대 의대학장을 지낸 이병석 총괄원장을 중심으로 부인암과 폐경기 질환 등 여성 생애주기 전반의 건강관리를 담당한다.하나로의료재단은 건강검진에서 발견된 이상 소견을 신속히 전문 진료로</content:encoded>
-    </item>
-    <item>
-      <title>미세플라스틱, 노출량이 아니라 ‘겉면 성질’이 뇌 염증 좌우</title>
-      <link>https://www.donga.com/news/It/article/all/20260210/133330198/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260210/133330198/2</guid>
-      <pubDate>2026-02-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/10/133337191.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;우리 생활 전반에 퍼져 있는 미세 플라스틱이 인체 건강에 미치는 영향에 대한 우려가 커지는 가운데 미세 플라스틱의 ‘표면 화학적 특성’이 뇌 염증과 신경세포 손상을 결정짓는 핵심 요인이라는 연구 결과가 나왔다.단순히 크기나 노출량이 아니라 미세 플라스틱 표면의 성질 자체가 뇌 건강에 영향을 미친다는 사실을 실험적으로 입증한 것이다.가톨릭대 의과대학 의생명과학교실 유승아·임향숙 교수(공동 교신저자), 남민경 박사·김채린 대학원생(공동 제1저자) 연구팀은 미세 플라스틱 표면에 형성되는 화학구조에 따라 뇌 면역반응과 신경세포 손상이 달라진다는 점을 세계 최초로 규명했다.미세 플라스틱은 환경 속에서 다양한 물질과 접촉하며 시간이 지날수록 표면 성질이 변한다. 이 과정에서 아민기(-NH₂)나 카르복실기(-COOH)처럼 전기적 특성을 가진 화학구조가 표면에 노출된다. 연구팀은 이러한 표면 차이가 뇌에 미치는 영향을 알아보기 위해 표면 화학구조가 서로 다른 폴리스티렌 미세 플라스틱을 이용</content:encoded>
-    </item>
-    <item>
-      <title>챗GPT로 한달 만에 11kg 뺐다…“7300만원 시계 걸고 폭풍 감량”</title>
-      <link>https://www.donga.com/news/Culture/article/all/20260210/133336327/2</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20260210/133336327/2</guid>
-      <pubDate>2026-02-11T07:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/10/133336394.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본 언론인 야이타 아키오가 챗GPT를 &amp;apos;24시간 AI 트레이너&amp;apos;로 활용해 한 달 만에 11kg 감량에 성공했다. 1580000 대만달러 상당의 시계 내기와 AI의 철저한 식단 관리가 결합한 결과다. AI는 실시간 칼로리 분석과 맞춤형 조언을 제공하며 다이어트 성공을 이끌었다.</content:encoded>
-    </item>
-    <item>
-      <title>커피·차 ‘이만큼’ 마셨더니…치매 위험 낮아졌다</title>
-      <link>https://www.donga.com/news/Society/article/all/20260211/133341886/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260211/133341886/1</guid>
-      <pubDate>2026-02-11T07:06:59.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133341887.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하루에 커피 2~3잔이나 차 1~2잔을 마시면 인지 기능 저하를 늦추고 치매 위험을 낮추는 데 도움이 된다는 연구 결과가 나왔다. 이번 연구 결과는 지난 9일(현지 시간) 미국의사협회저널(JAMA)에 게재됐다. 하버드대 의대 대니얼 왕 교수 연구팀은 미국 간호사 건강 연구(NHS)와 보건 전문가 추적 연구(HPFS)에 참여한 13만명 이상의 자료를 바탕으로, 의료 종사자들의 건강 상태와 카페인 섭취 습관을 분석했다. 연구 참여자들은 2~4년마다 식품 섭취 설문지를 통해 일반 커피, 디카페인 커피, 차 섭취량을 보고했다.추적 관찰 기간 동안 치매 진단을 받은 사람은 1만1033명이었다.분석 결과, 카페인이 포함된 커피나 차를 많이 섭취한 사람일수록 치매 발생 가능성이 낮은 것으로 나타났다.카페인 커피를 가장 많이 마신 집단은 가장 적게 마신 집단보다 치매 위험이 18% 낮았고, 차를 가장 많이 마신 집단은 14% 낮았다. 이러한 연관성은 특히 75세 이하에서 더 뚜렷했다.</content:encoded>
-    </item>
-    <item>
-      <title>“지긋지긋 두드러기”…먹는 표적치료제 국내 도입 추진</title>
-      <link>https://www.donga.com/news/Society/article/all/20260211/133341898/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260211/133341898/1</guid>
-      <pubDate>2026-02-11T07:08:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133341899.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;작년 9월 미국식품의약국(FDA) 허가를 받은 먹는 만성 자발성 두드러기(CSU) 치료 신약의 국내 도입이 추진 중이다. 11일 관련업계에 따르면 한국노바티스는 먹는 만성 자발성 두드러기 치료제 ‘랩시도’(성분명 레미브루티닙)의 국내 품목허가 신청을 완료했다. 올해 상반기 내 승인받을 것으로 기대받고 있다. 이 약은 만성 자발성 두드러기에 대한 유일한 표적 BTK(브루톤 티로신 키나제) 치료제로 지난해 9월 FDA의 승인을 받았다. BTK를 표적해 히스타민과 염증 유발 매개체의 방출을 억제, CSU를 치료하는 독특한 접근법을 가진다. 하루 두 번 복용으로 CSU 면역반응의 주요 경로를 차단한다. CSU는 심각한 증상과 예측 불가능한 악화를 일삼아 진단·관리가 어려운 질병이다. 면역 조절 장애에 의해 발생하는 것으로 알려졌다. CSU 환자는 면역 체계가 알레르기(IgE) 또는 자가면역(IgG) 경로를 통해 활성화될 수 있다. 이로 인해 특정 면역 세포가 BTK 단백질을 활성화</content:encoded>
-    </item>
-    <item>
-      <title>“아침에 무릎 붓고 뻣뻣”…단순노화 아닌 ‘이 질환’ 의심</title>
-      <link>https://www.donga.com/news/Society/article/all/20260211/133342128/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260211/133342128/1</guid>
-      <pubDate>2026-02-11T08:08:51.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133342129.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;나이가 들면 평소 아프지 않던 무릎에도 통증이 나타나곤 한다. 그러나 많은 환자들이 ‘나이 들어서 그렇겠지’하며 무릎이 욱신거려도 대수롭지 않게 넘긴다. 격한 운동을 한 것도 아닌데 계단을 오르내릴 때마다 무릎 안쪽이 찌릿하고, 아침에 일어날 때 뻣뻣한 느낌이 들어도 파스만 붙이는 경우가 많다.11일 의료계에 따르면 ‘퇴행성 관절염’은 관절을 보호하는 연골이 점차 닳거나 손상돼 통증과 염증이 발생하는 질환이다. 노화, 유전적 요소, 비만, 관절의 외상이나 반복적 사용 등이 원인으로 작용하며, 관절의 염증성 질환 중 가장 흔하다.  문제는 이런 통증을 단순한 노화나 근육통으로 여기다가 나중에 병원을 찾았을 때에는 이미 퇴행성 관절염이 상당히 진행된 경우가 많다는 점이다. 연골은 신경세포가 없어서 닳아 없어지는 과정 자체는 통증으로 느껴지지 않는다. 우리가 느끼는 무릎 통증은 이미 연골 손상이 주변 조직에까지 영향을 미치기 시작했다는 뜻이다. 단순 노화로 인한 무릎 통증은 관절</content:encoded>
-    </item>
-    <item>
-      <title>삼성, 26일 美에서 언팩…‘갤럭시 S26’ 베일 벗는다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133342348/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133342348/1</guid>
-      <pubDate>2026-02-11T08:42:37.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133342349.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 오는 26일 미국 샌프란시스코에서 플래그십 스마트폰 신작인 ‘갤럭시 S26’ 시리즈를 선보인다. 이번 갤럭시 S26 시리즈는 보다 고도화된 갤럭시 AI 기능으로 사용자 편의성을 더 개선할 것으로 기대된다.삼성전자는 11일 갤럭시 언팩 2026 초대장을 공식 배포하고 한국 기준 26일 새벽 3시(현지시각 25일 오전 10시) 미국 샌프란시스코에서 새로운 갤럭시 S시리즈를 공개할 예정이라고 밝혔다.올해 갤럭시 언팩의 행사명은 ‘삼성 갤럭시 이벤트 - The Next AI Phone Makes Your Life Easier’이다. 행사명이 ‘당신의 삶을 더 편하게 만들어주는 차세대 AI 폰’으로 명명된 만큼 이번 갤럭시 S26 시리즈 또한 AI 기능에 초점을 둘 전망이다.업계에서는 이번 갤럭시 S26 시리즈에 프라이버시 보호, 보안, 앱 단위의 기기 제어 등 일상 생활에 밀접한 AI 기능이 대거 도입될 것으로 보고 있다.갤럭시 S26에는 삼성전자의 자체 개발 앱프로세서(</content:encoded>
-    </item>
-    <item>
-      <title>“목소리까지 복제된다” 인터폴 경고…AI 보이스피싱 급증, 딥페이크 사기 확산</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133342941/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133342941/2</guid>
-      <pubDate>2026-02-11T09:55:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133342778.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인터폴은 생성형 AI 확산으로 딥페이크·음성복제 결합 보이스피싱이 급증하고 있으며, 저비용·대량 사기가 가능해지면서 글로벌 스캠 범죄가 빠르게 확대되고 있다고 경고했다.</content:encoded>
-    </item>
-    <item>
-      <title>하루 방귀 몇 번?…“센서로 재보니 평균 32번 뿡!뿡!”[건강팩트체크]</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133343077/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133343077/2</guid>
-      <pubDate>2026-02-11T10:06:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133343028.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사람은 하루에 몇 번이나 방귀를 뀔까?대개 “10번쯤” 아니면 “많아야 20번”이라고 답할 것이다. 실제 기존 연구에서 흔히 인용하는 수치도 10~20회였다.그런데 직접 재본 결과, 이 수치는 크게 빗나갔을 가능성이 있다.미국 메릴랜드대학교 연구진이 개발한 전기화학 센서를 부착한 스마트 속옷을 성인 38명에게 입혀 측정한 결과, 하루 평균 32회 방귀를 뀌는 것으로 나타났다. 이는 사람들이 스스로 보고한 횟수의 약 두 배에 해당한다. 연구진은 “사람들이 거짓말을 한 게 아니라, 제대로 세지 못했을 가능성이 크다”라고 설명했다. 잠자는 동안 나온 방귀는 기억할 수 없고, 소량의 가스 배출은 인식조차 못 할 수 있기 때문이다.개인 차가 매우 크다는 점도 흥미로웠다.최소 4회에서 최대 59회까지 하루 방귀 횟수는 무려 14배 차이가 났다. 이는 “과연 ‘정상적인 방귀 횟수’라는 개념이 성립할 수 있을까?’라는 의문을 던진다.분석화학 분야 국제 학술지 ’Biosensors a</content:encoded>
-    </item>
-    <item>
-      <title>방미통위, 메타 제재하나…작년 ‘인스타 정지 대란’ 조사 착수</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133344219/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133344219/2</guid>
-      <pubDate>2026-02-11T12:19:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133344225.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 인스타그램 계정 다수가 정지됐던 이른바 ‘계정 정지 대란’과 관련해 정부가 정식 조사에 나섰다.11일 방송미디어통신위원회는 지난해 5~6월 미국 메타 플랫폼즈의 인스타그램 서비스에서 발생한 대규모 계정 정지와 관련해 전기통신사업법 위반 여부 등을 파악하고자 사실조사에 착수한다고 밝혔다.메타 측은 2024년부터 강화된 청소년 보호정책에 따라 아동·청소년 성적 학대 및 음란 영상물 차단 등을 위해 모니터링을 강화해 왔다. 이 과정에서 청소년 보호와는 무관한 일반 계정들이 특별한 이유 없이 영구 정지돼 이용자들이 반발했다.방미통위는 피해 사실을 인지하고 피해 현황과 원인 파악 등을 위한 실태 점검을 진행했다. 이후 법 위반 정황을 파악해 정식 조사 절차인 사실조사에 돌입했다.아울러 방미통위는 상당수 피해자가 계정 복구를 위해 개별 채팅 상담 등을 지원하는 유료 서비스 ‘블루 뱃지’에 가입했지만, 제대로 된 지원을 받지 못한 사실도 확인했다. 이에 따라 메타 측이 사전에 고지</content:encoded>
-    </item>
-    <item>
-      <title>[스타트업 브랜딩 가이드] 브랜드 컨셉이 없으면 고객은 가격부터 본다</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133344826/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133344826/1</guid>
-      <pubDate>2026-02-11T14:05:23.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133344761.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;브랜딩은 대기업만의 전유물이 아닙니다. 스타트업과 소규모 조직일수록 브랜딩이 절실합니다. 기업 이미지를 정립하고 고객 접점을 늘려 실질적인 성과 향상에 기여하기 때문입니다. 하지만 대다수 창업자는 제한된 자원을 이유로 브랜딩을 뒷전으로 미룹니다. 이에 IT동아는 장종화 타이디비(Tidy-B) 대표와 함께 스타트업이 실무에 바로 적용할 수 있는 브랜딩 노하우를 공유합니다. 스타트업 브랜딩 가이드를 통해 효과적인 브랜딩을 구축하길 기대합니다.온라인 쇼핑몰에서 상품을 검색할 때 ‘낮은 가격순’ 버튼을 눌러 본 경험이 있을 것이다. 이는 단순히 저렴한 상품을 찾기 위함이 아니다. 각 상품의 차별점을 알기 어려워 가격을 기준으로 적절한 제품을 찾기 위한 행동이다. 하지만 고객이 ‘낮은 가격순’ 버튼을 누르는 순간, 브랜드는 ‘비교 대상’이 아닌 그저 ‘가격표’로 전락한다. 브랜드 컨셉이 없다면 ‘얼마예요?’로 대화가 끝나고, 할인, 쿠폰, 이벤트만 남는다. 이번 기고에서는 브랜드 컨셉이</content:encoded>
-    </item>
-    <item>
-      <title>고지방이 고탄수화물보다 더 위험?…저탄고지의 역설[건강팩트체크]</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133345082/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133345082/2</guid>
-      <pubDate>2026-02-11T14:32:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133344862.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고지방 식단이, 고탄수화물 식단보다 건강에 더 해로울 수 있다는 연구 결과가 나왔다.2025년 한국인 영양소 섭취기준에 따르면 하루 총열량에서 탄수화물 50~65%, 단백질 10~20%, 지방 15~30% 비중으로 구성된 식단이 권장된다.체중 감량이나 대사 건강 등의 이유로 이러한 권장 비율에서 크게 벗어난 식사법이 있다. 키토제닉 식단이 대표적이다. ‘저탄수화물과 고지방’, 흔히 ‘저탄고지’로 줄여 부르는 이 식단은 목표에 따라 다르지만, 1:2:7(탄수화물 5~10%):단백질(20~30%):지방(60~75%) 비율이 일반적이다.이 식단을 따르는 가장 큰 이유는 탄수화물이 비만을 유발하고 혈당을 높이는 등 몸에 해롭게 작용할 위험이 있다고 믿기 때문이다.하지만 생쥐를 활용한 실험에서 일반적인 생각에 반하는 결과가 나와 주목된다.국제 학술지 ‘영양학 저널’(Journal of Nutrition)에 논문을 발표한 미국 펜실베이니아주립대학교(Penn State) 연구자들은 단</content:encoded>
-    </item>
-    <item>
-      <title>서울대-MIT-현대차·기아 연구팀, ‘여름철 찌는 듯한 차량 열기’ 해소할 필름 신기술 개발</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133345130/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133345130/1</guid>
-      <pubDate>2026-02-11T14:53:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133345146.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울대, 미국 매사추세츠공대(MIT) 등 연구팀이 여름철 찌는 듯한 차량 내부 열기를 식힐 수 있는 필름 신기술을 개발했다.11일 한국연구재단은 고승환 서울대 교수, 강 첸 MIT 교수, 현대차·기아의 기초소재연구센터와 열에너지통합개발실 연구팀이 공동으로 차량 유리에 적용할 수 있는 ‘투명 복사냉각 필름’을 개발했다고 밝혔다. 여름철 태양 복사열에 노출된 차량은 실내 온도가 빠르게 상승해 이를 다시 차갑게 만드려면 에어컨을 트는 등 에너지를 써야 한다. 유리 표면의 은 등 금속층을 얇게 펴발라 복사열의 이동을 최소화하는 ‘로우 이(Low-E) 코팅’ 등 기존 기술은 태양빛의 유입을 일부 막을 뿐 이미 실내에 축적되어 있는 열을 외부로 방출하지는 못 한다. 연구팀은 이를 해결하기 가시광 투과율 70% 이상을 유지해 시야를 방해하지 않으면서도 태양의 근적외선이 차량 안으로 유입되지 않게 반사하고 차량 내부의 열은 외부로 방출하는 다층 구조의 필름을 개발했다. 연구팀은 설계 제작</content:encoded>
-    </item>
-    <item>
-      <title>피부 AI 진단서 소재 연구까지 …브이앤코(V&amp;co), 통합 피부 바이오 연구체계 구축</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133345444/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133345444/1</guid>
-      <pubDate>2026-02-11T15:11:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133345976.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 피부 헬스케어 시장이 정밀 진단과 고기능성 바이오 소재 중심으로 빠르게 재편되는 가운데, 브이앤코(V&amp;co)는 단순한 피부 진단기기 개발을 넘어 AI로 피부 속 상태를 분석하고, 분자 수준에서 피부 미생물을 분석하며, 이에 기반한 소재 연구까지 연결하는 통합 피부 바이오 연구 체계를 구축했다고 밝혔다. 회사는 SK텔레콤과 공동연구로 진행한 AI기반 피부 마이크로바이옴 데이터와 수백만 종의 미생물 유전체 분석 데이터를 정밀 분석하여 피부 상태를 정량적으로 분석할 수 있는 바이오 피부 진단 기술을 개발했다.  피부 상재균 타깃 바이오마커 4종은 특허 등록 및 출원을 완료하여 기술적 완성도를 입증했으며, 향후 병·의원 등 전문 채널로의 확장을 검토 중이다. 이번 기술은 AI 기반 비교유전체 분석 시스템(In-silico)을 활용해 저비용·고효율로 데이터 확장이 가능하다는 것이 강점이다.  유용소재 원료 분야에서는 약 3,000종의 피부 마이크로바이옴 라이브러리를 구축</content:encoded>
-    </item>
-    <item>
-      <title>햇빛 막고 내부열 방출…찜통車 열기 식히는 ‘냉각 필름’ 개발</title>
-      <link>https://www.donga.com/news/Society/article/all/20260211/133345416/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260211/133345416/1</guid>
-      <pubDate>2026-02-11T15:35:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133345709.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;여름철 찌는 듯한 차량 내부 열기를 식힐 수 있는 필름 신기술이 개발됐다. 11일 한국연구재단은 고승환 서울대 교수, 강 첸 MIT 교수, 현대차·기아 연구팀이 공동으로 차량 유리에 적용할 수 있는 ‘투명 복사냉각 필름’을 개발했다고 밝혔다.기존 필름 기술은 유리를 통해 들어오는 태양빛을 일부 막을 뿐 이미 차량 내부에 축적된 열기는 효과적으로 방출하지 못 하는 한계가 있었다. 연구팀은 가시광 투과율 70% 이상을 유지하면서도 외부의 태양 근적외선을 반사해 차단하고 차량 내부 중적외선 영역의 열을 방출하는 다층 구조 필름을 개발했다. 연구팀이 에어컨을 가동해 내부 온도가 쾌적 상태에 이르는 시간을 측정해보니 이 필름을 적용할 경우 적용하지 않았을 때보다 17분이 단축됐다고 한다. 연구팀은 이 필름의 성능을 미국, 파키스탄 등 여러 지역의 기후와 운행 조건에서 평가한 결과 냉방 에너지 절감과 탄소 저감 효과를 입증했다고 밝혔다.</content:encoded>
-    </item>
-    <item>
-      <title>로봇개 ‘스팟’ 英 핵시설 현장 투입…근로자 대신 위험한 곳도 척척</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133345712/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133345712/1</guid>
-      <pubDate>2026-02-11T16:02:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133345888.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;보스턴다이내믹스의 로봇개(4족 보행 로봇) ‘스팟’이 영국 원자력 시설 해체 현장에 투입돼 고위험 지역에서 사람을 대신해 작업을 수행하고 있는 것으로 나타났다.11일 현대차그룹과 영국 원자력해체청(NDA)에 따르면 NDA 산하 원자력 시설 해체 및 방사성 폐기물 관리 담당 공기업인 ‘셀라필드’는 최근 인간의 접근이 제한되는 고위험 작업 현장에 스팟을 투입해 데이터 수집과 원격 점검 등을 수행하고 있다.스팟은 내부 구조가 복잡한 시설 안에서 핵시설 환경을 측정할 수 있는 다양한 감지 센서와 기능을 탑재했다. NDA 측은 스팟이 계단과 거친 지형을 안정적으로 이동하며 필요한 정보를 수집하고 있다고 설명했다. 감마선과 알파선 등 방사선을 측정해 방사성 물질이 있는지 확인하고, 오염 정도를 확인하기 위한 시료 채취 시험 작업도 성공했다. NDA 측은 “기존에는 모두 사람이 투입되던 작업들로, 스팟을 투입해 근로자들이 위험에 노출되는 상황을 크게 줄일 수 있게 됐다”고 평가했다.NDA</content:encoded>
-    </item>
-    <item>
-      <title>AI가 수상한 낌새까지 포착…수초 내 보안요원 출동</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133346022/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133346022/1</guid>
-      <pubDate>2026-02-11T17:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133345086.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;10일 오후 경기 수원시에 있는 에스원 통합관제센터. 관제실 중앙 대형 상황판에는 서울, 경기, 인천, 강원, 제주 등 전국 각지에서 들어온 보안 신호와 폐쇄회로(CC)TV 영상이 실시간으로 표시되고 있었다. 화면 한쪽에는 ‘이상 발생’, ‘침입’, ‘화재’ 등으로 분류된 신호 처리 현황이 분 단위로 갱신됐다. 이날 오후 4시 30분 기준 해당 센터가 처리한 일일 이상 신호는 2만6000건을 넘어섰다. 이곳의 관제사들은 각자 모니터 세 대를 앞에 두고 키보드와 마우스를 쉴 새 없이 움직였다.●AI가 수상한 낌새까지 잡는다이 곳에 접수되는 관제 신호는 한달에 약 250만 건에 달한다. 이 가운데 약 78%는 시스템이 실제 상황 여부를 판단해 자동 처리한다. 관제센터에 접수되는 이상 신호는 현장에 설치된 CCTV, 적외선 감지기, 열선 센서(매장 내 사람 또는 동물의 체온이 포착될 경우), 음원 감지 센서(매장 내 이상한 소리가 들릴 경우) 등에서 감지하고 보고된다.사람이 모든 신</content:encoded>
-    </item>
-    <item>
-      <title>NC AI, ‘K피지컬 AI 얼라이언스’ 컨소시엄 구성</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133346568/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133346568/1</guid>
-      <pubDate>2026-02-11T17:17:34.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347131.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;NC AI가 정보통신기획평가원이 주관하는 ‘피지컬 AI 모델 학습을 위한 월드 파운데이션 모델 기술개발’ 과제에 ‘K 피지컬 AI 얼라이언스’ 컨소시엄을 구성했다고 11일 밝혔다.  총 53개 기관이 참여하는 해당 컨소시엄의 목표는 로봇이 현실 세계를 이해하고 행동하게 만드는 ‘월드 파운데이션 모델(WFM)’과 ‘로보틱스 파운데이션 모델(RFM)’을 개발하는 것이다. 컨소시엄은 NC AI의 월드 모델을 중심으로 리얼월드(RLWRLD)와 씨메스의 로봇파운데이션 모델, 펑션베이의 시뮬레이션 기술, 레인보우로보틱스의 로봇공학 기술, 삼성SDS의 현장 인프라를 결합했다. 이를 통해 국내 제조 현장에서 발생하는 방대한 데이터를 AI 모델과 시뮬레이터에 학습시켜 숙련된 로봇의 ‘두뇌’를 만든다는 계획이다.  NC AI는 다중접속역할수행게임(MMORPG) 환경에서 수백만 명의 이용자와 상호작용하며 AI를 학습시킨 강화 학습 노하우를 활용할 예정이다. 한국과학기술원(KAIST)·서울대·고려대·광주</content:encoded>
-    </item>
-    <item>
-      <title>인천대, “실패를 성공의 자산으로”… ‘2026 재도전성공패키지’ 참가자 모집</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133347208/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133347208/1</guid>
-      <pubDate>2026-02-11T17:21:37.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347197.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인천대학교 창업지원단(단장 강동구)이 실패 경험을 딛고 다시 한번 비상을 꿈꾸는 창업가들을 적극 지원한다. 이에 인천대는 오는 3월 4일(수) 오후 4시까지 ‘2026년 재도전성공패키지’에 참여할 (예비)재창업자를 모집한다.재도전성공패키지는 우수한 아이템과 잠재력을 보유했음에도 한 차례 고배를 마신 (예비)재창업자들의 성공적인 재기를 돕는 정부 지원 사업이다. 이번 프로그램은 단순 자금 지원을 넘어, 사업 실패 원인을 면밀히 분석하고 재도약의 발판을 마련하는 데 중점을 둔다.선정된 기업 또는 창업자에게는 시제품 제작 및 마케팅 등에 활용할 수 있는 사업화 자금(평균 6,700만 원, 최대 1억 원)이 지원된다. 이와 함께 ▲재창업자 특화 교육 ▲맞춤형 멘토링 ▲네트워킹 ▲투자 연계(IR) 등 사업화 전 과정에 걸친 필수 프로그램도 제공된다.특히 창업 및 사업 과정에서 겪은 심리적 부담을 덜어줄 심리치유 프로그램과 인천대 자체 인프라를 활용한 전략분야 육성 및 판로 확대 등 특화</content:encoded>
-    </item>
-    <item>
-      <title>오픈AI, 삼성·SK와 손잡고 완성할 데이터센터…“3월 착공 준비”</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133346363/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133346363/1</guid>
-      <pubDate>2026-02-11T17:38:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133343626.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배경훈 부총리 겸 과학기술정보통신부 장관이 오픈AI가 삼성, SK그룹 등 국내 기업과 협력해 국내에 건설을 추진 중인 데이터센터에 대해 “올 3월 착공을 목표로 준비하고 있는 것으로 알고 있다”고 말했다.배 부총리는 11일 국회 과학기술정보방송통신위원회에 나와 “오픈AI와 삼성, SK의 데이터센터 건립 계획이 어떻게 되고 있느냐”는 국민의힘 이상휘 의원의 질문에 “지금 이행이 되고 있는 것으로 알고 있다”며 이렇게 답했다. 샘 올트먼 오픈AI 최고경영자(CEO)는 지난해 10월 한국에 방문해 과기정통부와 양해각서(MOU)를 체결하고 오픈AI의 글로벌 인공지능(AI) 데이터센터 구축 및 AI 확산시 한국 기업의 참여를 지원하기로 했다. 당시 올트먼 CEO는 이재용 삼성전자 회장, 최태원 SK그룹 회장과도 만나 각각 AI 핵심 인프라 구축을 위해 상호 협력한다는 내용의 협약서를 체결하기도 했다. 이날 언급된 데이터센터는 이 협약의 연장선상에서 추진 중이다. 이날 과방위에서는 오픈AI가</content:encoded>
-    </item>
-    <item>
-      <title>‘42주년’ 산돌, AI 시대 맞아 한국형 버크셔 해서웨이 꿈꾸는 이유</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133347585/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133347585/1</guid>
-      <pubDate>2026-02-11T17:47:13.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347467.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;콘텐츠 크리에이터 플랫폼 기업 산돌이 인공지능(AI) 시대에 발맞춰 자사의 강점을 살린 AI 폰트 기술과 전략적 투자운용을 통해 사업 혁신에 나선다. 특히 ‘가치 투자의 대가’ 워런 버핏이 이끄는 미국의 금융 투자 대기업 버크셔 해서웨이를 롤모델로 선택, 이번 사업 혁신을 바탕으로 새롭게 도약할 뜻을 드러냈다.산돌은 2월 10일 서울 영등포구 여의도동에 위치한 글래드 여의도에서 ‘산돌 2026 기자간담회’를 열었다. 이번 기자간담회는 ‘산돌의 밸류업 계획 한글에서 시작해, 미래를 설계하다’를 주제로 진행됐으며, 윤영호 산돌 대표를 포함해 신동근 산돌 부사장과 조성민 윤디자인 대표 등이 참석했다.폰트 사업에 AI 기술 접목, 효율성·확장성 증대산돌은 1984년 설립 후 폰트 사업에 집중했다. 지속적인 R&amp;D를 통해 글로벌 수준의 폰트 디자인 제작 및 서비스 역량을 키운 가운데 2014년 구독형 폰트 플랫폼 ‘산돌구름’을 선보이며 암호화 기술 기반의 폰트 클라우드 서비스 제</content:encoded>
-    </item>
-    <item>
-      <title>방미통위, 작년 ‘인스타그램 정지 대란’ 조사 착수</title>
-      <link>https://www.donga.com/news/Society/article/all/20260211/133347266/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260211/133347266/1</guid>
-      <pubDate>2026-02-11T17:56:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347615.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방송미디어통신위원회(방미통위)가 이용자들의 계정을 정당한 사유 없이 일방적으로 정지시켜 논란이 됐던 인스타그램에 대해 조사에 나선다.   11윌 방미통위는 지난해 5~6월 인스타그램 서비스에서 발생한 대규모 계정 정지와 관련해 사실조사에 착수한다고 밝혔다. 방미통위에 따르면 인스타그램 운영사인 메타는 2024년부터 강화된 청소년 보호 정책에 따라 아동과 청소년을 대상으로 하는 성적 학대 및 음란 영상물 차단을 위해 모니터링을 강화해 왔다. 그런데 이 과정에서 청소년 보호와는 무관한 일반 계정도 특별한 이유 없이 영구 정지되며 피해가 발생한 것으로 알려졌다.  방미통위는 이같은 사실을 인지한 뒤 피해 현황과 원인을 파악하기 위해 실태를 점검해왔다. 점검 과정에서 메타 측이 법을 위반한 정황을 파악해 정식 조사 절차인 사실조사에 착수하게 됐다는 게 방미통위의 설명이다.   방미통위는 또한 상당수 피해자들이 계정 복구 상담을 받기 개별 채팅 상담 등을 지원하는 유료 서비스 ‘메타</content:encoded>
-    </item>
-    <item>
-      <title>대구한의대, 제10대 총장 변창훈 박사 취임</title>
-      <link>https://www.donga.com/news/People/article/all/20260211/133345650/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260211/133345650/1</guid>
-      <pubDate>2026-02-11T18:17:32.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133345867.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대구한의대학교가 제10대 총장 취임식을 열고 향후 4년간 대학 운영을 이끌 새출발을 공식화했다.대구한의대학교는 경산캠퍼스 기린체육관에서 변창훈 총장 취임식을 개최했다고 11일 밝혔다. 행사에는 교내외 인사와 대학 구성원 등 500여 명이 참석해 네 번째 연임에 성공한 변 총장의 취임을 축하했다.변 총장은 제7·8·9대 총장에 이어 다시 대학 수장을 맡게 됐다. 임기는 2025년 12월 23일부터 2029년 12월 22일까지 4년이다. 대학 측은 이번 4 연임이 지난 10여년간 추진해 온 혁신 정책과 성과에 대한 내부 구성원의 신뢰를 재확인한 결과라고 설명했다.이날 취임식에는 기우항 학교법인 제한학원 이사장, 변정환 명예총장, 조재구 대구 남구청장, 양오봉 한국대학교육협의회 회장, 노찬용 한국대학법인협의회 회장, 정기환 대구경북지방중소벤처기업청장, 이기정 한양대학교 총장, 이재수 대구한의대학교 총동창회 회장 등 주요 인사가 참석했다. 행사는 대학 홍보영상 상영, 총장 약력 소개, 임명</content:encoded>
-    </item>
-    <item>
-      <title>플랜즈커피 “무인 카페 편견 깨고 커피 사각지대 해소할 것” [경북대 X IT동아]</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133347946/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133347946/1</guid>
-      <pubDate>2026-02-11T18:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347913.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;자판기 수준에 머물렀던 무인 카페는 인공지능(AI)과 로봇 팔을 장착한 ‘푸드테크’의 결정체로 진화했다. 하지만 무인 카페 시장의 성장세 이면에는 풀어야 할 숙제가 여전하다. 기계 오류에 따른 운영 중단, 제한적인 메뉴 구성, 그리고 소비자들이 느끼는 품질 불안감이다. 많은 무인 카페가 초기 투자비를 회수하지 못하고 사라지는 이유도 여기에 있다. 로봇을 도입한다고 해서 성공하는 것이 아니라, 기기 안정성과 운영 시스템 전반을 최적화해야 지속 가능한 비즈니스 모델이 완성된다.8년간 무인 카페 매장을 사업을 이어가는 플랜즈커피가 주목받는 이유다. 플랜즈커피는 무인 카페의 핵심 문제인 ‘기기 안정성’과 ‘운영 효율성’을 해결하는 데 집중했다. 오류(에러)를 최소화하기 위해 엔지니어 기반 조직을 구축했고, 인공지능(AI) 기반 고객 서비스(CS, Customer Service) 시스템으로 원격 관리 체계를 완성했다. 플랜즈커피는 어떻게 무인 카페에 인공지능을 결합하고자 했을까? 최준혁</content:encoded>
-    </item>
+    <lastBuildDate>2026-02-13T00:17:35.990Z</lastBuildDate>
     <item>
       <title>中 장악 ‘로청’ 시장에… 삼성-LG-다이슨 ‘기술전쟁’</title>
       <link>https://www.donga.com/news/Economy/article/all/20260211/133348267/2</link>
       <guid>https://www.donga.com/news/Economy/article/all/20260211/133348267/2</guid>
       <pubDate>2026-02-12T00:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347445.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 중국 업체들이 장악한 국내 로봇청소기 시장을 탈환하기 위해 2년 만에 야심작을 내놨다. 강력한 흡입력과 고도화된 인공지능(AI), 철통같은 보안 시스템을 앞세워 국내 로봇청소기 시장의 주도권을 차지하겠다는 계획이다. 여기에 다이슨, LG전자 등 전통의 가전 ‘강호’들이 로봇청소기 신작을 쏟아내고, 중국 업체들이 비행과 계단 등반 등 파격적인 신기술로 맞불을 놓으며 국내 로봇청소기 시장은 ‘기술 전쟁’의 한복판으로 접어들었다.● 삼성전자, 2년 만에 2세대 로봇청소기 출시삼성전자는 11일 서울 서초구 삼성 강남에서 미디어 브리핑을 열고 2026년형 로봇청소기 신제품 ‘비스포크 AI 스팀’을 공개했다. 이번 신작은 일반형, 플러스, 울트라 등 3종으로 구성됐으며 사용 환경에 따라 수동 급배수 방식과 자동 급배수 모델을 선택할 수 있다. 출고가는 사양에 따라 141만∼204만 원으로 책정됐다. 삼성전자가 내세우는 로봇청소기 신제품의 핵심 경쟁력은 ‘기본기’와 ‘지능’이다</content:encoded>
-    </item>
-    <item>
-      <title>AI가 수상한 낌새까지 포착… 이상 신호 접수 수초만에 ‘출동’</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133348025/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133348025/2</guid>
-      <pubDate>2026-02-12T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133347546.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;10일 오후 경기 수원시에 있는 에스원 통합관제센터. 관제실 중앙 대형 상황판에는 서울, 경기, 인천, 강원, 제주 등 전국 각지에서 들어온 보안 신호와 폐쇄회로(CC)TV 영상이 실시간으로 표시되고 있었다. 화면 한쪽에는 ‘이상 발생’, ‘침입’, ‘화재’ 등으로 분류된 신호 처리 현황이 분 단위로 경신됐다. 이날 오후 4시 30분 기준 해당 센터가 처리한 일일 이상 신호는 2만6000건을 넘어섰다. 이곳의 관제사들은 각자 모니터 세 대를 앞에 두고 키보드와 마우스를 쉴 새 없이 움직였다.● AI가 수상한 낌새까지 잡는다 이곳에 접수되는 관제 신호는 한 달에 약 250만 건에 달한다. 이 가운데 약 78%는 시스템이 실제 상황 여부를 판단해 자동 처리한다. 관제센터에 접수되는 이상 신호는 현장에 설치된 CCTV, 적외선 감지기, 열선 센서(매장 내 사람 또는 동물의 체온이 포착될 경우), 음원 감지 센서(매장 내 이상한 소리가 들릴 경우) 등에서 감지하고 보고된다. 사람이 모</content:encoded>
-    </item>
-    <item>
-      <title>NC AI, ‘K-피지컬 AI’ 컨소시엄 꾸렸다… 53곳 참여</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133348023/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133348023/2</guid>
-      <pubDate>2026-02-12T00:30:00.000Z</pubDate>
-      <content:encoded>NC AI가 정보통신기획평가원이 주관하는 ‘피지컬 AI 모델 학습을 위한 월드 파운데이션 모델 기술 개발’ 과제에 ‘K-피지컬 AI 얼라이언스’ 컨소시엄을 구성했다고 11일 밝혔다. 총 53개 기관이 참여하는 해당 컨소시엄의 목표는 로봇이 현실 세계를 이해하고 행동하게 만드는 ‘월드 파운데이션 모델(WFM)’과 ‘로보틱스 파운데이션 모델(RFM)’을 개발하는 것이다. 컨소시엄은 NC AI의 월드 모델을 중심으로 리얼월드(RLWRLD)와 씨메스의 로봇파운데이션 모델, 펑션베이의 시뮬레이션 기술, 레인보우로보틱스의 로봇공학 기술, 삼성SDS의 현장 인프라를 결합했다. 이를 통해 국내 제조 현장에서 발생하는 방대한 데이터를 AI 모델과 시뮬레이터에 학습시켜 숙련된 로봇의 ‘두뇌’를 만든다는 계획이다. NC AI는 다중접속역할수행게임(MMORPG) 환경에서 수백만 명의 이용자와 상호작용하며 AI를 학습시킨 강화 학습 노하우를 활용할 예정이다. KAIST·서울대·고려대·광주과학기술원(GI</content:encoded>
-    </item>
-    <item>
-      <title>“오픈AI, 한국 데이터센터 내달 착공 목표”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260211/133348019/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260211/133348019/2</guid>
-      <pubDate>2026-02-12T00:30:00.000Z</pubDate>
-      <content:encoded>배경훈 부총리 겸 과학기술정보통신부 장관이 오픈AI가 삼성, SK그룹 등 국내 기업과 협력해 국내에 건설을 추진 중인 데이터센터에 대해 “올 3월 착공을 목표로 준비하고 있는 것으로 알고 있다”고 말했다. 배 부총리는 11일 국회 과학기술정보방송통신위원회에 나와 “오픈AI와 삼성, SK의 데이터센터 건립 계획이 어떻게 되고 있느냐”는 국민의힘 이상휘 의원의 질문에 “지금 이행이 되고 있는 것으로 알고 있다”며 이렇게 답했다.  샘 올트먼 오픈AI 최고경영자(CEO)는 지난해 10월 한국에 방문해 과기정통부와 양해각서(MOU)를 체결하고 오픈AI의 글로벌 인공지능(AI) 데이터센터 구축 및 AI 확산 시 한국 기업의 참여를 지원하기로 했다. 당시 올트먼 CEO는 이재용 삼성전자 회장, 최태원 SK그룹 회장과도 만나 각각 AI 핵심 인프라 구축을 위해 상호 협력한다는 내용의 협약서를 체결하기도 했다. 이날 언급된 데이터센터는 이 협약의 연장선상에서 추진 중이다.</content:encoded>
-    </item>
-    <item>
-      <title>한국에도 번진 ‘AI 헬스케어’ 전쟁… 비만환자 지원도</title>
-      <link>https://www.donga.com/news/It/article/all/20260211/133347919/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260211/133347919/2</guid>
-      <pubDate>2026-02-12T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/11/133349724.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 아마존, 오픈AI, 앤스로픽 등 글로벌 빅테크 기업들이 인공지능(AI)을 활용한 건강관리 도구와 의료 행정 처리 도구를 잇달아 출시하면서 ‘AI 헬스케어’ 경쟁이 본격화되고 있다. 국내 양대 정보기술(IT) 기업인 네이버와 카카오 역시 미래 먹거리인 AI 헬스케어 관련 사업을 키우고 있다.네이버는 지난해 5월 테크 비즈니스 부문에 최인혁 대표를 선임한 이후 헬스케어 사업 확장에 속도를 내고 있다. 네이버는 의료진 업무를 지원하는 기업 간 거래(B2B) 서비스를 기반으로 AI 헬스케어 사업을 펼치고 있다. 사옥 내 부속 병원을 ‘테스트베드’로 삼아 대부분의 헬스케어 서비스를 진행하고 있다. 대표적인 것이 AI 사전 문진 솔루션인 ‘스마트 서베이(Smart Survey)’. 환자가 자신의 증상을 온라인 애플리케이션(앱)에 기록하면 AI가 맞춤 질문을 하고, 그 결과에 따른 진찰 사항을 의료 용어로 변환해 전자의무기록(EMR) 시스템에 기록하는 것이다. 건강검진 상담을 위한 종합</content:encoded>
     </item>
     <item>
       <title>“요즘 청소년은 SNS와 절친… 사람과의 관계는 갈수록 먹통”</title>
@@ -351,8 +134,225 @@
       <title>“욕먹어도 카톡광고 통했다” 카카오, 매출 8조·영업익 7000억 돌파</title>
       <link>https://www.donga.com/news/It/article/all/20260212/133351000/1</link>
       <guid>https://www.donga.com/news/It/article/all/20260212/133351000/1</guid>
-      <pubDate>2026-02-12T08:28:58.000Z</pubDate>
+      <pubDate>2026-02-12T08:28:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133351001.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;카카오가 카카오톡 개편을 통한 광고 노출 확대 등에 힘입어 지난해 매출 8조 원을 돌파했다. 영업이익도 7000억 원대를 넘어섰다. 연간 매출액과 영업이익 모두 창사 이래 역대 최대치다.카카오는 지난해 연결 기준 연간 매출액 8조 991억 원을 기록해 전년대비 3% 성장했다고 12일 공시했다. 영업이익은 7320억 원으로 48% 큰 폭의 성장을 기록했다. 지난해 4분기 매출액은 전년 동기 대비 9% 증가한 2조 1332억 원, 영업이익은 136% 증가한 2034억 원으로 집계됐다. 4분기 매출액 역시 분기 기준 역대 최대치이며, 영업이익은 지난 3분기에 이어 두 개 분기 연속 2000억 원대를 기록했다.사업 영역별로 보면 4분기 플랫폼 부문 매출액은 전년 동기 대비 17% 늘어난 1조 2226억 원을 기록했다.플랫폼 부문 중 톡비즈 매출액은 전년 동기 대비 13% 증가한 6271억 원을 기록했다. 톡비즈 광고 매출액은 3734억 원으로 전년 동기 대비 16% 성장했다. 비즈니</content:encoded>
+    </item>
+    <item>
+      <title>“살 빼려다 뇌졸중 올 판”…제로 단백질 바·아이스크림 속 성분 ‘충격’</title>
+      <link>https://www.donga.com/news/Society/article/all/20260212/133351230/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260212/133351230/1</guid>
+      <pubDate>2026-02-12T09:13:47.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133351231.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 젊은 층 사이에서 필수 간식으로 꼽히는 단백질 바와 저칼로리 아이스크림, 일부 다이어트 음료 등에 포함된 에리트리톨(Erythritol)이 뇌졸중 위험을 높인다는 충격적인 연구 결과가 나왔다.10일(현지시간) 영국 데일리메일에 따르면 미국 콜로라도 대학교 연구팀은 최근 ‘응용 생리학 저널(Journal of Applied Physiology)’에 에리트리톨이 인체 혈관 세포에 미치는 부정적인 영향을 발표했다.연구팀이 인간 세포를 다이어트 음료 농도의 에리트리톨에 노출시킨 결과, 단 3시간 만에 뇌의 보안 시스템인 뇌혈관 장벽 세포에서 치명적인 변화가 포착됐다. 뇌혈관 장벽은 뇌로 들어오는 해로운 물질을 걸러내는 중요한 역할을 한다. 하지만 에리트리톨에 노출된 세포들은 혈전을 녹이는 단백질을 제대로 내보내지 못하는 것으로 나타났다.또한 혈관 세포가 비정상적으로 수축하며 혈류 흐름을 방해하고, 심한 경우 세포가 사멸하는 현상까지 관찰됐다. 이는 혈관이 막혀 뇌 조직이 손상되는</content:encoded>
+    </item>
+    <item>
+      <title>“AI가 의약품 심사한다”…식약처, 시스템개발 본격 시동</title>
+      <link>https://www.donga.com/news/Society/article/all/20260212/133351682/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260212/133351682/1</guid>
+      <pubDate>2026-02-12T09:53:30.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133351683.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;식품의약품안전처가 의약품 허가·심사 업무에 인공지능(AI) 기술을 단계적으로 도입하기 위한 절차에 착수했다.식약처는 식품·의약품 안전 분야 대규모 인공지능 전환 사업을 관리하는 ‘식의약 인공지능 전환 추진단’ 설치하고, ‘의약품 AI 심사 시스템’ 개발 사업을 본격적으로 추진한다고 12일 밝혔다.사업기간은 올해부터 2028년까지로, 예산 223억원이 투입된다. 이번 사업은 새정부 경제성장전략 ‘AI 대전환 15대 선도프로젝트’ 중 하나인 ‘AI 신약심사’의 일환으로, 신약 심사 기간을 전세계 최단 수준으로 단축하여 국민 건강을 증진하고 제약·바이오산업의 경쟁력을 강화하기 위해 추진됐다. 식약처는 올해부터 생성형 AI 등 인공지능 기술을 활용해 원료 의약품 규격과 생물학적동등성 평가 심사 등을 중심으로 의약품 심사 업무 지원에 적합한 AI 모델과 시스템 기반을 구축한다. 이후 3년간 의약품 허가·신고 전 영역으로 AI 심사 시스템을 단계적으로 확장해 나갈 계획이다.또한 이번 사</content:encoded>
+    </item>
+    <item>
+      <title>“엄마의 마지막 함께해줘 감사”…의료진에 편지 쓴 유족</title>
+      <link>https://www.donga.com/news/Society/article/all/20260212/133351738/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260212/133351738/1</guid>
+      <pubDate>2026-02-12T09:57:16.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133351739.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가톨릭대학교 서울성모병원 호스피스병동에서 사랑하는 어머니의 마지막 시간을 함께한 유가족이 의료진에 감사의 편지를 전달해 잔잔한 감동을 전하고 있다.12일 서울성모병원에 따르면 유가족은 최근 호스피스병동을 찾아 고인의 마지막 여정을 함께해 준 의료진에게 치료를 넘어 한 사람의 삶과 존엄을 끝까지 지켜준 의료진의 헌신에 대한 존경과 감사의 마음이 담긴 편지를 전했다. 편지에는 “어머니께서는 호스피스병동에서 참으로 따뜻하고 존엄한 돌봄을 받았다”며 “의사 선생님들의 세심한 판단과 정성 어린 돌봄 덕분에 육체적 고통이 완화된 가운데 평안함 속에서 마지막 길을 걸을 수 있었다. 가족들 역시 의료진을 신뢰하며 이별을 준비할 수 있었던 시간이었고 그 모든 순간이 큰 위로가 됐다”고 적혀 있었다. 특히 간호사들의 헌신적인 간호에 대한 감사도 잊지 않았다. 유가족은 “밤낮을 가리지 않고 곁을 지켜주고, 작은 불편함 하나까지 놓치지 않던 간호사 선생님들의 손길은 단순한 간호를 넘어 사랑과 인내</content:encoded>
+    </item>
+    <item>
+      <title>서울창조경제혁신센터·LKB평산HB MOU ‘바이오 딥테크 기업 육성’</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133351972/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133351972/1</guid>
+      <pubDate>2026-02-12T10:23:42.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133351966.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;재단법인 서울창조경제혁신센터(대표이사 이영근)와 LKB평산 헬스바이오센터(이사장 이우룡·김수동 이하 LKB평산HB)는 10일, 서울창조경제혁신센터에서 바이오·헬스케어 및 딥테크 분야의 혁신 창업기업을 공동 발굴하고 육성하기 위한 업무협약(MOU)을 체결했다.이번 협약은 두 기관의 자원과 역량을 결합해 유망 스타트업의 투자 유치와 글로벌 진출을 가속화하고, 국내 창업 생태계의 혁신 성장에 기여하기 위해 마련됐다. 특히 이번 협약에는 아주대학교 첨단의료바이오 연구원, 융복합의료제품촉진지원센터, 카이저스타트업아카데미 등 바이오·의료 분야 전문 기관들이 부속 서명으로 참여하며 민-관-학을 아우르는 강력한 지원 네트워크를 형성했다.양 기관은 협약에 따라 ▲우수 스타트업 발굴 및 공동 육성(인허가 컨설팅 등) ▲공동 투자 및 펀드 연계(Seed/Pre-A 투자 및 Co-GP 펀드 결성) ▲공동연구 및 기술사업화(공공기술 이전 및 임상시험 지원) ▲해외 VC/CRO 네트워크를 활용한 글로벌</content:encoded>
+    </item>
+    <item>
+      <title>원주에서 시작된 지방정부 AI 혁신…‘AI 행정허브 모델’ 첫 제안</title>
+      <link>https://www.donga.com/news/Politics/article/all/20260212/133352262/1</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20260212/133352262/1</guid>
+      <pubDate>2026-02-12T10:51:51.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133352224.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“지방정부의 AI 전환이 더딘 이유는 기술 역량의 부족이 아니라, 행정 조직 구조가 AI를 수용할 수 있는 형태로 전환되지 않았기 때문이다.” 박기관 상지대학교 부총장이 한국지방자치학회 동계학술대회 AX특별위원회 세션에서 이같이 진단했다. 박 부총장은 지난 5일 한국보건복지인재원에서 열린 세션에서 ‘지방정부 AI 행정허브 모델의 이론 정립 및 적용에 관한 연구 - 강원특별자치도 원주시 사례를 중심으로’를 발표하며, 지방정부의 AI 전환을 위해 조직 거버넌스를 플랫폼 구조로 재편해야 한다고 강조했다. 이번 세션은 ‘지방정부 AI 전환은 왜 어려운가? - 행정과 데이터의 구조적 문제’를 주제로 이향수 한국지방자치학회장이 좌장을 맡았으며, ㈜카라멜라 정창용 대표가 발표에 참여했다. 토론에는 황범순 행정안전부 재난안전정보통신국장, 최지민 지방시대위원회 박사, 이병철 원주시 경제국장, 양홍선 ㈜카네어스 회장, 김인성 전 제주특별자치도의회 전문위원이 함께했다. 박 부총장이 제시한 ‘AI</content:encoded>
+    </item>
+    <item>
+      <title>美 법정선 인스타 CEO “SNS 중독, 의학적 의미 아냐…넷플 중독 같은 것”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20260212/133352588/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20260212/133352588/1</guid>
+      <pubDate>2026-02-12T11:29:37.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133352589.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국에서 소셜미디어(SNS) 중독성 문제를 다루는 재판이 시작된 가운데, 애덤 모세리 인스타그램 최고경영자(CEO)가 SNS 중독이 의학적인 의미의 중독은 아니라고 반박했다.CNN, CNBC 등에 따르면 모세리 CEO는 11일(현지 시간) 재판에 출석해 “임상적 중독(clinical addiction)과 잘못된 사용을 구분하는 것이 중요하다고 생각한다”며 “과도하다는 기준이 상대적일 수 있지만, 스스로 기분이 좋지 않다고 느낄 만큼 인스타그램을 사용하는 일은 있을 수 있다”고 증언했다.그는 “중독이란 표현은 종종 일상적인 의미로 사용되기도 한다”며 “내가 예전에 넷플릭스 프로그램에 중독됐다고 말했다고 해서, 그것이 곧 임상적인 중독을 뜻하는 것은 아니다”라고 설명했다. 다만 자신이 의료 전문가는 아니라고 여러 차례 강조했다. 이번 소송은 원고 케일리(20)와 그의 어머니가 유튜브·인스타그램 모회사인 메타를 상대로 제기했다. 이들은 기업 측이 청소년을 끌어모으고자 의도적으로 무한</content:encoded>
+    </item>
+    <item>
+      <title>“아이들 정보 무단 수집은 중대한 침해”…개인정보위, 버거킹에 9억 과징금 폭탄</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133352703/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133352703/1</guid>
+      <pubDate>2026-02-12T11:41:23.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133352704.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;개인정보보호위원회가 아동 개인정보를 무단 수집한 버거킹과 마케팅 동의를 강요한 메가커피 등에 거액의 과징금을 부과했다. 개인정보보호위원회는 전날 전체회의를 열고, 개인정보 보호법을 위반한 식음료 분야 10개 사업자에 대해 총 15억6600만원의 과징금과 1억1130만원의 과태료를 부과하기로 의결했다고 12일 밝혔다.◆버거킹 9억·메가커피 6억 과징금…아동 정보 무단 수집에 광고 강요까지가장 무거운 처분을 받은 곳은 버거킹 운영사인 비케이알이다. 버거킹은 법정대리인의 동의 없이 만 14세 미만 아동의 개인정보를 수집·이용해 9억2400만원의 과징금을 물게 됐다. 메가MGC커피는 마케팅에 동의하지 않은 회원에게도 자동으로 동의 처리가 되도록 시스템을 설정해 광고 메시지를 발송해오다 6억4200만 원의 과징금을 부과받았다.◆버거킹 과징금 왜 높나…“매출 규모와 위반 엄중함 반영”이정은 개인정보위 조사2과장은 12일 서울 종로구 정부서울청사에서 브리핑을 통해 버거킹에 고액의 과징금이</content:encoded>
+    </item>
+    <item>
+      <title>韓정부 상대 ‘쿠팡 투자자 소송’에 美 투자사 3곳 추가 참여</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133352520/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133352520/1</guid>
+      <pubDate>2026-02-12T11:42:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133352713.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;쿠팡 미국 투자사 세 곳이 한국 정부를 상대로 제기한 소송에 가세했다.11일(현지 시간) 쿠팡에 투자한 미국 투자회사인 에이브럼스 캐피털, 두라블 캐피털 파트너스, 폭스헤이븐은 그린옥스와 알티미터가 한국 정부를 상대로 제기한 법적 이의에 참여한다고 밝혔다. 쿠팡의 초기 투자회사인 그린옥스와 알티미터는 앞서 지난달 22일 쿠팡의 개인정보 유출 사건에 대한 한국 정부의 대응을 문제 삼아 미 무역대표부(USTR)에 조사와 적절한 무역 조치를 해달라고 요청했다. 이와 별개로 “한국 정부 때문에 미국 주주들이 수십억 달러에 달하는 손실을 보았다”며 한국 정부를 상대로 한 국제투자분쟁(ISDS) 중재 절차에도 돌입했다.이런 상황에서 에이브럼스 캐피털, 두라블 캐피털 파트너스와 폭스헤이븐도 그린옥스와 알티미터와 손을 잡고 ISDS 중재 절차에 공식 착수했다고 밝혔다. 세 회사는 앞서 다른 두 회사가 USTR에 청원한 조사에 대해서 공식 지지 입장을 표명하는 서한도 발송했다.소송전은 202</content:encoded>
+    </item>
+    <item>
+      <title>“코로나19보다 더 큰 격변 온다”…AI CEO의 ‘섬뜩한’ 경고 6000만 뷰 돌파</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133352566/4</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133352566/4</guid>
+      <pubDate>2026-02-12T11:50:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133352677.5.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI 발전이 코로나19보다 큰 사회·직업 구조 변화를 불러올 수 있다는 경고가 확산됐다. 하이퍼라이트 CEO 발언을 중심으로 AI 노동시장 영향과 생산성 논쟁을 짚어본다.</content:encoded>
+    </item>
+    <item>
+      <title>“성인용품 구매 3000명 명단 공개…쿠팡에 돈 요구 협박”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260212/133353109/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260212/133353109/1</guid>
+      <pubDate>2026-02-12T13:23:37.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133353110.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;쿠팡에서 3367만건에 달하는 개인정보가 유출된 사건과 관련해, 유출 용의자가 성인용품 구매자 3000명의 명단을 따로 분류해 협박에 활용하려 했다는 주장이 국회에서 제기됐다. 김민석 국무총리는 이번 사안을 두고 “전반적 규모부터 내용까지 거의 역대급”이라고 밝혔다.김승원 더불어민주당 의원은 지난 11일 국회 대정부질문에서 “유출 용의자가 3300만여 명의 개인정보 가운데 성인용품을 주문한 국민 3000명을 선별해 별도 리스트를 만들었다”며 “주소·성명·전화번호를 모두 알고 있으니 돈을 주지 않으면 외부에 공개해 쿠팡을 곤란하게 하겠다고 협박했다”고 주장했다. 김 의원은 “우리 국민의 엄청난 양의 개인정보가 범죄 집단에 의해 이용되고 있다”며 재발 방지 대책 마련을 촉구했다.이에 김 총리는 “조사와 수사뿐 아니라 재발 방지를 위한 각종 대비책을 관계 기관이 마련하고 있다”고 답했다. 한편 정부와 수사기관은 용의자 신병 확보에 난항을 겪고 있는 것으로 전해졌다. 정부는 최근 중국</content:encoded>
+    </item>
+    <item>
+      <title>탈팡·쿠폰 거부 시민 3751명 “사태 해결 전엔 안 돌아간다”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260212/133353271/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260212/133353271/1</guid>
+      <pubDate>2026-02-12T13:41:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133353272.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;쿠팡의 대규모 개인정보 유출 사태를 규탄하며 탈팡(쿠팡 탈퇴)하거나 보상 명목의 쿠폰을 거부한 시민 3751명의 서명이 쿠팡 본사에 전달됐다.안전한쿠팡만들기공동행동과 참여연대 등은 12일 서울 송파구 쿠팡 본사 앞에서 기자회견을 열고 ‘탈팡·쿠폰 거부 시민이 함께 쓴 기자회견문’을 발표했다.시민들이 보낸 메시지를 모아 작성한 회견문에는 “쿠팡 사태 이후 스팸 문자가 너무 많이 온다. 이러다가 가족들이 보이스피싱을 당하진 않을까 걱정된다”며 “정부는 쿠팡에 영업정지 처분을 해야 한다. 우리 시민들은 이 문제가 조속히 해결될 때까지 쿠팡을 이용하지 않겠다”는 목소리가 담겼다.일부 시민들은 “쿠팡 탈퇴한 지 한 달이 넘었지만 아무런 불편이 없다”며 “소비자를 우롱하는 5000원 쿠폰 보상은 받아들일 수 없다”고 했다.김주호 참여연대 민생팀장은 “시민들께 이 문제가 해결될 때까지 최소한 탈팡 또는 쿠폰 거부를 해 주시라고 요청하고 약 한 달이 지났는데 목표 인원보다 훨씬 많은 분이</content:encoded>
+    </item>
+    <item>
+      <title>[스타트업-ing] 오아시스 스튜디오 “플랫폼 개발 역량 강화로 ‘카멜’ 개발 박차”</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133354573/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133354573/1</guid>
+      <pubDate>2026-02-12T15:12:31.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354526.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오아시스 스튜디오는 콘텐츠 제작 파이프라인 플랫폼 ‘카멜(CAMEL)’을 개발한다. 카멜은 생성형 인공지능(AI) 기술을 기반으로 시나리오부터 영상 생성, 편집까지 콘텐츠 제작 전반의 워크플로를 개선하는 플랫폼이다. 오아시스 스튜디오는 최근 AI 및 플랫폼 개발 역량을 보유한 이유 CTO를 영입하고, 기존 클라우드 기반 시각특수효과(VFX) 제작 플랫폼 ‘OPV(OASYS VFX Pipeline)’를 카멜로 확장하고 있다. 이유 오아시스 스튜디오 CTO를 만나 오아시스 스튜디오와 카멜에 대해 이야기를 나눴다. 콘텐츠 제작 플랫폼 비전에 공감해 합류IT동아: 안녕하세요, 이유 CTO님. CTO님 소개 부탁드립니다.이유 CTO: 안녕하세요, 오아시스 스튜디오에서 연구개발을 총괄하는 이유입니다. 저는 3D 시뮬레이션 소프트웨어 개발사 FX기어(FXGear)에서 3D 형상 복원 및 증강현실(AR), 가상현실(VR) 솔루션, KT 연구소에서 AR 기술 등을 개발했습니다. 이후 다시 FX</content:encoded>
+    </item>
+    <item>
+      <title>메디센싱 “소리로 상황 이해하는 AI···의료·일상 돕는 방향으로 확장할 것” [과기대 딥테크]</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133354703/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133354703/1</guid>
+      <pubDate>2026-02-12T15:19:19.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354661.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;※ 서울과학기술대학교는 초기창업패키지 딥테크(AI·빅데이터) 분야 창업 기업을 지원합니다. IT동아는 서울과학기술대학교의 맞춤형 성장 지원 프로그램을 토대로 시장에서 뚜렷한 성과를 내는 유망 딥테크 스타트업의 면면을 살펴봅니다.“청각 인텔리전스의 표준을 정의하고 싶습니다.”돌봄과 안전에 대한 사회적 우려가 점차 커지고 있다. 혼자 사는 노인이 쓰러졌을 때나 아이가 울고 있을 때, 그리고 누군가 골목길에서 도움을 요청하는 순간 등을 감지할 수 있는 기술의 필요성이 높아지는 시점이다. 특히 비대면 진료와 원격 돌봄 서비스가 확산되는 가운데 사람이 직접 보거나 듣지 못하는 상황을 기술로 보완하려는 시도가 다양한 분야에서 이뤄지고 있다.스타트업 메디센싱(Medisensing)은 이러한 사회적 요구에 응답한다. 특히 소리를 듣고 그 의미와 상황을 해석하는 인공지능(AI) 기술로 의료부터 일상 생활의 안전·돌봄 영역까지 도전하고 있다. 단순한 음성 인식을 넘어 비명, 울음, 도움 요청 등</content:encoded>
+    </item>
+    <item>
+      <title>독감 백신 맞았더니 치매 위험↓…생물학적 근거는 무엇?[노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133354344/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133354344/2</guid>
+      <pubDate>2026-02-12T15:25:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354238.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;독감 백신과 치매 위험 감소의 연관성을 다룬 관점 분석 논문이 나왔다. 학술지 ‘노화 임상·실험 연구’(Aging Clinical and Experimental Research)에 논문을 발표한 이탈리아 연구진은 매년 맞는 계절성 독감 예방접종이 고령층의 치매 발병 위험을 낮추거나 발현 시점을 늦출 수 있는 실용적이고 접근성 높은 예방 전략이 될 수 있다며, 그 근거가 되는 생물학적 기전에 대한 가설을 제시했다.이번 분석 논문은 이탈리아 비타-살루테 산 라파엘레 대학교의 테뉴어 트랙(종신교수 임용 과정) 조교수인 로렌초 블란디(Lorenzo Blandi) 박사와 피렌체 대학교의 공중보건 전문의 마르코 델 리치오(Marco Del Riccio)가 썼다.뇌과학·심리학 분야를 주로 다루는 과학 전문 매체 사이포스트(PsyPost)에 따르면, 두 연구자는 독감 백신이 중증 심혈관 사건의 위험을 낮추고 전신 염증을 줄임으로써, 호흡기 질환 예방을 넘어 뇌 건강을 보호하는 효과를 제공할</content:encoded>
+    </item>
+    <item>
+      <title>삼성바이오, 안과질환 치료제 ‘오퓨비즈’ 내년 출시 확정…美 특허 합의</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133354428/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133354428/1</guid>
+      <pubDate>2026-02-12T15:29:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354835.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성바이오에피스가 연매출 14조원에 이르는 블록버스터 의약품 ‘아일리아’의 바이오시밀러(바이오의약품 복제약) ‘오퓨비즈’를 미국에서 2027년부터 판매하게 됐다. 삼성바이오에피스는 12일 아일리아의 개발사 리제네론 및 바이엘과 2mg 제형에 대한 미국 판매 라이선스 계약을 체결했다고 밝혔다. 이번 합의에 따라 삼성바이오에피스는 2027년 1월 중 미국에서 오퓨비즈를 출시할 수 있게 됐다. 올해 1월 유럽에 이어 미국까지 특허 합의를 완료하며 오퓨비즈의 해외 판매 활로가 열리게 된 셈이다.아일리아는 습성 연령관련 환반변성 등 안과질환 치료제로 2024년 글로벌 매출이 약 14조 원에 달하며, 이중 9조원은 미국 매출이다. 이번 합의에 따라 삼성바이오에피스는 오퓨비즈를 올해 1월 영국을 시작으로 4월에는 유럽 국가들, 2027년에는 미국 시장에 출시할 계획이다.</content:encoded>
+    </item>
+    <item>
+      <title>‘스핀 전달 이론’ 가정 뒤집은 이경진 교수, ‘올해의 KAIST인상’ 수상</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133354251/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133354251/1</guid>
+      <pubDate>2026-02-12T15:35:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354416.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;KAIST는 30여 년간 학계 정론으로 받아들여지던 ‘스핀 전달 이론’의 가정을 뒤집고 새로운 이론을 발표한 이경진 KAIST 물리학과 교수를 ‘올해의 KAIST인상(賞)’ 수상자로 선정했다고 12일 밝혔다. 이 상은 국내외에서 KAIST 위상을 높이는 데 기여한 구성원에게 수여하는 상으로 2001년 제정됐다.이 교수는 물질 내 ‘스핀’에 대한 새로운 현상을 제시한 공로를 인정받았다. 스핀은 전자 등 작은 입자가 팽이처럼 뱅글뱅글 도는 성질을 뜻한다. 이 교수는 스핀의 양자적 성질에 주목해 ‘양자 스핀펌핑’이라는 이론을 처음으로 제시했다. 이 연구는 지난해 국제학술지 ‘네이처’에 게재됐다.</content:encoded>
+    </item>
+    <item>
+      <title>“후기 단계 인물 필요” 머스크, IPO 직전 xAI 경영진 전면 개편</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133354728/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133354728/1</guid>
+      <pubDate>2026-02-12T15:45:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354941.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일론 머스크 테슬라 최고경영자(CEO)가 창업한 xAI가 기업공개(IPO)를 앞두고 별안간 경영진 교체에 나섰다. 앞서 스페이스X와 합병한 xAI의 IPO는 사상 최대 규모의 IPO가 될 것으로 전망된다. 업계에서는 대규모 IPO를 앞두고 성과 압박이 경영진 교체로 이어진 것이라는 분석이 나온다. 11일(현지 시각) 로이터는 xAI의 이번 조직 개편은 최근 여러 공동 창업자가 회사를 떠난 데 따른 것이라고 보도했다. 전날 xAI의 공동 창업자인 우위화이가 xAI의 임원직에서 사임한다고 자신의 X를 통해 밝혔다. 지난해에는 크리스티안 세게디, 이고르 바부슈킨, 그레그 양 등 공동창업자들이 줄지어 퇴사하면서 머스크 CEO와의 내부 불화설이 제기되기도 했다.이에 머스크 CEO는 “회사가 일정 규모에 도달했기 때문에 조직을 재정비하는 것일 뿐”이라며 내부 불화설을 일축했다. 이어 “(커진) 규모에서 더욱 효율적으로 운영하기 위한 것이고, 당연히 이런 과정에서 회사 초기 단계에 적합한 사</content:encoded>
+    </item>
+    <item>
+      <title>유통계 ‘웰니스 시장’ 치열한 경쟁…CJ올리브영도 도전장</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133354570/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133354570/1</guid>
+      <pubDate>2026-02-12T16:16:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133355427.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;유통업계의 ‘웰니스 시장’ 경쟁이 치열해지고 있다. 신종 코로나바이러스 감염증(코로나19)이후 MZ(밀레니얼+Z세대)를 중심으로 건강에 대한 관심이 높아지면서 시장이 빠르게 성장하자 관련 사업에 뛰어드는 곳도 늘어나는 추세다.   12일 업계에 따르면 배달의민족(배민) 운영사 우아한형제들은 이날부터 동아제약과 협업해서 선보인 ‘5000원 필수 영양제 4종’을 B마트에서 판매한다. 이번 협업은 배민 B마트 내 급증하는 ‘웰니스 소비’ 트렌드를 반영해 기획됐다. B마트 내 건강‧식단관리 카테고리의 지난달 거래액은 전월 대비 25% 증가했다. B마트 건강기능식품 핵심 구매층은 25~34세 여성으로 전체 구매자의 79%에 달했다.CJ올리브영도 최근 웰니스 큐레이팅 플랫폼인 ‘올리브베러(OLIVE BETTER)’를 앞세우며 건강기능식품 시장에 본격 합류했다. 올리브영은 CJ웰케어와 손잡고 6900원 균일가 건기식 ‘건강루틴 가격혁명’ 10종을 출시했다. 2월 한 달간은 5900원에 판매한</content:encoded>
+    </item>
+    <item>
+      <title>프랑스 AI ‘미스트랄’ 매출 급증…‘소버린 AI’의 성공 사례</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133353406/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133353406/1</guid>
+      <pubDate>2026-02-12T16:49:23.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133355825.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;유럽 소버린 인공지능(AI)의 대표 주자인 프랑스 스타트업 ‘미스트랄’이 최근 1년 동안 매출이 20배 증가했다고 밝혔다. 정보기술(IT) 업계에서는 미스트랄이 미국산 AI 의존도를 낮추면서 유럽 자체 AI 생태계를 구축하고 있다는 평가가 나온다.11일(현지 시간) 파이낸셜타임스에 따르면 아르투르 멘쉬 미스트랄 최고경영자(CEO)는 인터뷰를 통해 “지난달 매출액에 12배를 곱한 ‘연간 반복 매출(ARR)’이 4억 달러(약 5805억 원)를 넘어섰다”고 밝혔다. 이는 1년 전 2000만 달러(약 290억 원)에 불과했던 것과 비교하면 20배로 늘어난 것이다. 멘쉬 CEO는 “연말까지 이 수치가 10억 달러(1조 4392억 원)를 넘을 것으로 예상된다”고 덧붙였다.미스트랄은 이날 스웨덴에 새로운 AI 데이터 센터를 구축하기 위해 12억 유로(2조 668억 원)를 투자할 것이라고 발표했다. 이는 미스트랄이 프랑스 바깥 지역에 설립하는 첫 AI 데이터 센터다. 미스트랄은 지난해 9월 17억</content:encoded>
+    </item>
+    <item>
+      <title>오픈AI, ‘성인 모드’ 반대한 여성 임원 해고…성인 콘텐츠 도입 앞두고 논란</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133355592/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133355592/2</guid>
+      <pubDate>2026-02-12T16:53:42.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133355830.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI가 챗GPT 성인 모드 도입을 앞두고 정책 책임자를 해고하면서, 생성형 AI 산업에서 안전 정책과 플랫폼 수익화 전략 간 충돌이 본격화되고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>로봇 기업 앱트로닉, 벤츠-구글로부터 7000억 원 투자 확보</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133355626/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133355626/1</guid>
+      <pubDate>2026-02-12T17:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133355069.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 휴머노이드 로봇 스타트업 앱트로닉이 메르세데스-벤츠, 구글 등으로부터 7000억 원이 넘는 투자를 유치했다. 자동차 제조 강자와 인공지능(AI) 선도 기업이 동시에 나섰다는 점에서 업계 이목이 쏠린다. 테슬라도 주력 전기차 라인을 로봇 생산 기지로 전환하겠다고 선언하면서 스스로 판단하고 움직이는 피지컬 AI 주도권 경쟁이 본격화하고 있다.● 뜨거워지는 로봇 투자 열풍11일(현지시간) 앱트로닉은 5억2000만 달러(약 7530억 원)를 조달했다고 밝혔다. 벤츠·구글 외에 B 캐피털, 카타르투자청(QIA) 등이 투자자로 참여했으며 기업가치는 약 50억 달러(7조2100억원)로 평가받아 글로벌 로봇 시장의 ‘데카콘(기업가치 100억 달러 이상 비상장사)’ 후보로 부상했다.대규모 투자를 받은 앱트로닉의 로봇 ‘아폴로’는 창업자들이 과거 개발에 참여한 미국 항공우주국(NASA) 우주 탐사·재난 구조용 로봇 발키리의 핵심 기술을 계승했다. 극한 환경을 상정한 발키리의 내구성과 정밀 제어</content:encoded>
+    </item>
+    <item>
+      <title>“하늘 넘어 우주기술 확보 본격화”… 대한항공, ‘대형 우주 안테나 전개 시스템’ 개발</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133357568/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133357568/1</guid>
+      <pubDate>2026-02-12T18:47:54.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133357551.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대한항공이 하늘을 넘어 우주기술 확보에 나섰다.대한항공은 국방기술진흥연구소(국기연)와 손잡고 위성 탑재용 대형 안테나 전개 시스템 개발 시험에 성공했다고 12일 밝혔다. 향후 국가 안보와 직결되는 차세대 위성 개발 핵심기술로 확대해 우주산업 경쟁력 확보를 꾀한다는 방침이다.위성 탑재용 대형 안테나 전개 시스템 시험은 지난달 전북 전주 소재 캠틱종합기술원에서 진행됐다고 한다. 5미터(m)급 안테나를 시험용으로 만들었다. 국기연의 전개형 대형 위성 탑재용 안테나 전개 시스템 과제 일환으로 진행된 시험으로 대한항공을 비롯해 국기연, 캠틱종합기술원, 스텝랩, 한국항공대학교 등 산학연 주요 관계자들이 참석한 가운데 진행됐다.해당 기술은 발사 시 부피를 최소화하면서 발사체 내부에 대형 안테나가 수납 상태로 접혀 있다가 목표 궤도에 도달하면 거대한 크기로 펼쳐지는 것이 핵심이다. 특히 우주 환경에서 오차 없이 정밀하게 펼쳐져야 하기 때문에 위성의 성능을 결정짓는 주요 요소로 꼽힌다.대한항공</content:encoded>
+    </item>
+    <item>
+      <title>루이비통·디올·티파니, 고객 개인정보 유출로 총 360억원 과징금 철퇴</title>
+      <link>https://www.donga.com/news/Society/article/all/20260212/133355309/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260212/133355309/1</guid>
+      <pubDate>2026-02-12T19:02:35.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133357640.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;루이비통, 디올, 티파니 등 명품 브랜드 업체 3곳이 고객의 개인정보 관리를 소홀히 해 총 360억3300만 원의 과징금을 부과받았다.12일 개인정보보호위원회(개인정보위)는 전날 전체회의를 열어 이들 명품 브랜드 3곳에 대한 제재를 의결했다고 밝혔다. 조사 결과 이들 사업자는 모두 서비스형 소프트웨어(SaaS) 기반 고객관리 시스템을 사용하는 과정에서 적절한 보안 대책을 갖추지 않아 개인정보 유출 사고를 겪은 것으로 나타났다. SaaS는 기업이 자체 서버를 두지 않고 외부 클라우드 사업자가 제공하는 프로그램을 인터넷으로 접속해 이용하는 방식이다.루이비통코리아는 직원 기기가 악성코드에 감염되며 SaaS 계정 정보가 탈취돼 약 360만 명의 개인정보가 세 차례에 걸쳐 유출됐다. 크리스챤디올꾸뛰르코리아(디올)와 티파니코리아는 직원이 보이스피싱에 속아 SaaS 접근 권한을 넘기는 과정에서 각각 약 195만 명과 4600명의 개인정보가 유출된 것으로 조사됐다. 디올과 티파니는 유출 사실을 인</content:encoded>
+    </item>
+    <item>
+      <title>벤츠 공장에 ‘구글 두뇌’단 로봇?… 앱트로닉, 7000억원 투자 유치</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133357337/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133357337/2</guid>
+      <pubDate>2026-02-13T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133358668.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 휴머노이드 로봇 스타트업 앱트로닉이 메르세데스벤츠, 구글 등으로부터 7000억 원이 넘는 투자를 유치했다. 자동차 제조 강자와 인공지능(AI) 선도 기업이 동시에 나섰다는 점에서 업계 이목이 쏠린다. 테슬라도 주력 전기차 라인을 로봇 생산 기지로 전환하겠다고 선언하면서 스스로 판단하고 움직이는 피지컬 AI 주도권 경쟁이 본격화하고 있다.● 뜨거워지는 로봇 투자 열풍 11일(현지 시간) 앱트로닉은 5억2000만 달러(약 7530억 원)를 조달했다고 밝혔다. 벤츠·구글 외에 B캐피털, 카타르투자청(QIA) 등이 투자자로 참여했으며 기업가치는 약 50억 달러(약 7조2100억 원)로 평가받아 글로벌 로봇 시장의 ‘데카콘’(기업가치 100억 달러 이상 비상장사) 후보로 부상했다.대규모 투자를 받은 앱트로닉의 로봇 ‘아폴로’는 창업자들이 과거 개발에 참여한 미국 항공우주국(NASA) 우주 탐사·재난 구조용 로봇 발키리의 핵심 기술을 계승했다. 극한 환경을 상정한 발키리의 내구성과</content:encoded>
+    </item>
+    <item>
+      <title>카카오, 작년 매출 8조-영업익 7320억 ‘역대 최대’</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133357390/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133357390/2</guid>
+      <pubDate>2026-02-13T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133354960.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;카카오가 지난해 역대 최대 실적을 냈다. 카카오는 지난해 연간 매출이 전년 대비 3% 증가한 8조991억 원, 영업이익은 전년 대비 48% 늘어난 7320억 원으로 잠정 집계됐다고 12일 밝혔다. 매출과 영업이익 모두 창사 이래 최대치다.  카카오의 매출 성장을 이끈 것은 톡광고와 선물하기로 대표되는 톡비즈와 모빌리티, 페이 등의 사업이 포함된 ‘플랫폼’ 부문이다. 카카오의 플랫폼 부문 매출은 전년 대비 11% 증가한 4조3180억 원이었고, 이 중 톡비즈의 매출이 절반가량을 차지했다. 반면 게임과 뮤직 등 사업을 포함하는 ‘콘텐츠’ 부문 매출은 전년 대비 5% 줄어든 3조7810억 원으로 집계됐다. 콘텐츠 부문에서 실적 저하 폭이 가장 큰 사업은 게임으로, 매출이 전년 대비 38% 줄어든 5400억 원으로 나타났다.  카카오는 올 1분기(1∼3월) 중 온디바이스 AI ‘카나나 인 카카오톡’을 정식 출시할 계획이다. 구글과 안드로이드 확장현실(XR) 기반의 ‘AI 글라스’ 개발에</content:encoded>
+    </item>
+    <item>
+      <title>‘유럽 소버린AI’ 佛미스트랄, 1년새 매출 20배 증가</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260212/133357398/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260212/133357398/2</guid>
+      <pubDate>2026-02-13T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2025/03/10/131178536.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;유럽 소버린 인공지능(AI)의 대표 주자인 프랑스 스타트업 ‘미스트랄’이 최근 1년 동안 매출이 20배 증가했다고 밝혔다. 정보기술(IT) 업계에서는 미스트랄이 미국산 AI 의존도를 낮추면서 유럽 자체 AI 생태계를 구축하고 있다는 평가가 나온다. 11일(현지 시간) 파이낸셜타임스에 따르면 아르튀르 멘슈 미스트랄 최고경영자(CEO)는 인터뷰를 통해 “지난달 매출액에 12배를 곱한 ‘연간 반복 매출(ARR)’이 4억 달러(약 5805억 원)를 넘어섰다”고 밝혔다. 이는 1년 전 2000만 달러(약 290억 원)에 불과했던 것과 비교하면 20배로 늘어난 것이다. 멘슈 CEO는 “연말까지 이 수치가 10억 달러(약 1조4392억 원)를 넘을 것으로 예상된다”고 덧붙였다. 미스트랄은 이날 스웨덴에 새로운 AI 데이터 센터를 구축하기 위해 12억 유로(약 2조668억 원)를 투자할 것이라고 발표했다. 이는 미스트랄이 프랑스 바깥 지역에 설립하는 첫 AI 데이터 센터다. 미스트랄은 지난해</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자, 최고 성능 HBM4 세계 첫 양산-출하</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260213/133358212/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260213/133358212/2</guid>
+      <pubDate>2026-02-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/13/133358211.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 세계에서 가장 먼저 고대역폭메모리(HBM) 6세대(HBM4)를 양산·출하하기 시작했다고 12일 밝혔다. SK하이닉스와 마이크론을 제치고 글로벌 D램 주요 3사 중 가장 먼저 최신 인공지능(AI)칩에 탑재되는 차세대 메모리 반도체를 대량 생산했다고 강조한 것이다. HBM4는 올해 출시 예정인 엔비디아 ‘루빈’과 AMD ‘MI450’ 등 AI 칩에 탑재되는 차세대 HBM이다. HBM은 여러 개의 D램을 수직으로 쌓아 올려 데이터 처리 용량과 속도를 높인 제품으로 AI 칩의 핵심 부품이다. 삼성전자는 이날 HBM4에 반도체 회로 선폭이 10nm(나노미터·1나노미터는 10억분의 1m)급인 6세대 D램 미세 공정(1c)을 적용했다고 밝혔다. 이는 5세대 공정(1b)을 적용한 SK하이닉스보다 한 단계 앞선 것이다. 반도체는 공정이 미세해질수록 집적도가 높아져 데이터 처리 속도가 빨라지고 전력 효율이 높아진다. 다만 그만큼 수율(정상품 비율) 관리가 어려워지는데, 삼성전자의 이번</content:encoded>
+    </item>
+    <item>
+      <title>남극 빙하에 검출기 5800개… 우주 기원 단서 ‘중성미자’ 찾는다</title>
+      <link>https://www.donga.com/news/It/article/all/20260213/133357274/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260213/133357274/2</guid>
+      <pubDate>2026-02-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/13/133356237.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2km 두께의 남극 얼음 아래에서 우주의 기본입자인 ‘중성미자’의 비밀을 밝히는 거대 과학실험 장치 ‘아이스큐브(IceCube)’가 가동을 시작한 2011년 이후 약 15년 만에 업그레이드됐다. 중성미자의 흔적을 포착하는 초고감도 검출기가 기존 5160개에서 약 5800개까지 늘어났다.한국 과학자들도 포함된 국제 공동프로젝트 팀인 아이스큐브 협력단(IceCube Collaboration)은 12일(현지 시간) 남극 아문센-스콧 기지에 위치한 아이스큐브가 업그레이드를 마쳤다고 밝혔다. 2019년 미국 국립연구재단(NSF)의 업그레이드 예산 승인 이후 7년 만이다. ● 깊이 2.4km 구멍 6개 뚫어 검출기 600여 개 추가 중성미자는 우주의 기원 등 근본적인 질문에 답을 찾아줄 단서로 꼽히지만 연구하기엔 매우 까다롭다. 질량이 거의 없고 전하도 띠지 않아 다른 물질과의 상호작용이 거의 없어 ‘유령 입자’라는 별명이 붙을 정도로 검출이 어렵다. 중성미자는 이미 과학자들에게 노벨상을</content:encoded>
+    </item>
+    <item>
+      <title>뇌의 정보 처리 방식 적용… 인간 눈보다 4배 빠른 반도체 개발</title>
+      <link>https://www.donga.com/news/It/article/all/20260213/133357272/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260213/133357272/2</guid>
+      <pubDate>2026-02-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/13/133356232.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사람의 눈보다 4배 빠르게 사물의 움직임을 감지하는 ‘로봇 눈’과 같은 반도체 칩이 나왔다. 사람의 뇌가 시각 정보를 처리하는 원리를 반도체 칩에 적용해 인간의 시각 능력을 뛰어넘었다. 가오숴 중국 베이징항공항천대 교수와 리타오 베이징이공대 교수 공동 연구팀은 사람의 시각 처리 과정을 모방해 영상 속 움직임을 빠르게 잡아내는 반도체 칩을 개발하고 연구 결과를 국제학술지 ‘네이처 커뮤니케이션스’에 10일(현지 시간) 공개했다.  자율주행차나 드론이 주변 환경을 인식하려면 장착된 카메라에 담기는 영상에서 물체가 어디로 얼마나 빠르게 움직이는지 실시간으로 계산해야 한다. 지금까지는 영상 전체의 화소를 하나하나 분석해야 해 실시간 계산이 쉽지 않았다. 일반 TV 화질 수준의 영상 한 장을 처리하는 데 0.6초 넘게 소요됐다. 자율주행차나 드론이 실시간으로 판단을 내리기엔 느린 속도다. 연구팀은 뇌의 시각 처리 원리에서 해법을 찾았다. 사람의 뇌는 눈으로 본 장면을 한꺼번에 처리하지 않</content:encoded>
+    </item>
+    <item>
+      <title>죽은 이가 ‘좋아요’ 누른다?…메타, 사후 계정관리 AI 특허 논란</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133355568/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133355568/2</guid>
+      <pubDate>2026-02-13T07:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133355597.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;메타가 사용자 사망 이후에도 AI가 대신 SNS 계정을 운영할 수 있는 기술 특허를 확보하면서 디지털 사후관리와 데이터 윤리를 둘러싼 논쟁이 확산되고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>돈 들이지 않고 근력 지키는 법… 중장년이 선택한 ‘집에서 하는 운동’</title>
+      <link>https://www.donga.com/news/It/article/all/20260212/133355217/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260212/133355217/1</guid>
+      <pubDate>2026-02-13T09:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/12/133355127.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;근감소증이 질병으로 인식되면서 중·장년층을 중심으로 근력운동의 중요성이 커지고 있다. 근육량 감소는 보행 능력 저하와 낙상 위험 증가로 이어질 수 있어, 예방 차원의 관리 필요성도 함께 강조된다. 그러나 실제로 주 2회 이상 근력운동을 꾸준히 실천하는 50대 이상 중·장년층은 20%에도 미치지 못한다. 헬스장 방문에 대한 부담과 복잡한 운동 방법, 시간적 제약 등으로 인해 운동의 필요성은 느끼지만 생활 속에 이어가기 어렵다는 현실은 쉽게 바뀌지 않는다. 이러한 ‘운동 격차’를 해소하기 위한 대안으로, 집에서 부담 없이 시작할 수 있는 모바일 근력운동 앱 ‘데이스쿼트’가 중장년층 사이에서 새로운 선택지로 떠오르고 있다. 어깨부터 하체까지, 기구 없이 거실에서 데이스쿼트는 기존 하체 근력운동을 중심으로 시작해, 최근에는 상체 동작을 더해 전신을 사용하는 근력운동 루틴으로 확장했다. 다리에 힘을 길러 몸의 균형을 잡아주는 ‘스쿼트’, 팔 뒤쪽 근육을 펴주는 ‘삼두 익스텐션’, 좌</content:encoded>
     </item>
   </channel>
 </rss>
