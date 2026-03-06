@@ -1,37 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 인물/단체</title>
-    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
-    <description>에이블뉴스 - 인물/단체</description>
-    <lastBuildDate>2026-03-05T00:16:45.333Z</lastBuildDate>
-    <item>
-      <title>오늘의 인사-공정위, 법무부, 행안부, 국토부, 농림부</title>
-      <link>https://www.khan.co.kr/article/202602121455011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202602121455011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-02-12T14:55:01.000Z</pubDate>
-      <content:encoded>■법무부 &amp;#9671;부이사관 승진 &amp;#9651;기획재정담당관 강의곤 &amp;#9651;혁신행정담당관 심경보 &amp;#9671;서기관 전보 &amp;#9651;법무연수원 총무과장 김진섭■행정안전부 &amp;#9671;시·도 행정부시장 &amp;#9651;울산광역시 행정부시장 서남교 &amp;#9671;국장급 전보 &amp;#9651;지방행정국장 장헌범 &amp;#9651;사회재난정책국장 김영빈 &amp;#9651;국···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고-심규민 전 인천공항고 교장 모친상 외</title>
-      <link>https://www.khan.co.kr/article/202602121456011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202602121456011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-02-12T14:56:01.000Z</pubDate>
-      <content:encoded>■한선금씨 별세, 정현규 남대구세무서 공무원·은희·은주씨 모친상, 고봉환 전 LH 노동조합 위원장·황태연씨·장성철 한국전력 차장대우 장모상, 고재원 매일경제신문 기자·재필 삼성전자 연구원 외조모상=11일 대구의료원. 발인 14일 (053)560-8911■황의규씨 별세, 손남태 NH농협생명 IT지원부장 장인상=12일 보라매병원. 발인 14일 (02)836-6···</content:encoded>
-    </item>
-    <item>
-      <title>‘도슨의 청춘일기’ 주인공 밴 더 비크 사망</title>
-      <link>https://www.khan.co.kr/article/202602122104005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202602122104005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-02-12T21:04:00.000Z</pubDate>
-      <content:encoded>2000년대 미 청춘드라마 아이콘대장암 투병, 48세로 세상 떠나유족이 올린 밴 더 비크 부고. 출처: 인스타그램미국 드라마 &amp;lt;도슨의 청춘일기&amp;gt; 주인공 배우 제임스 밴 더 비크가 11일(현지시간) 세상을 떠났다고 유족과 AP통신 등이 알렸다. 향년 48세. 그는 2000년대 초중반 청춘 드라마의 아이콘이었다.아내 킴벌리 등 유족은 이날 벤 더 비···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-경찰청</title>
-      <link>https://www.khan.co.kr/article/202602131520001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202602131520001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-02-13T15:20:00.000Z</pubDate>
-      <content:encoded>■경찰청 &amp;#9671; 치안감 승진 예정 &amp;#9651;치안정보국 치안정보심의관 송영호 &amp;#9651; 국제치안협력국장 직무대리 이재영 &amp;#9651; 전기통신금융사기 통합대응단장 신효섭 &amp;#9651;서울특별시경찰청 경비부장 김병기</content:encoded>
-    </item>
+    <title>동아일보 - 사람속으로</title>
+    <link>https://rss.donga.com/inmul.xml</link>
+    <description>동아일보 - 사람속으로</description>
+    <lastBuildDate>2026-03-06T00:21:37.047Z</lastBuildDate>
     <item>
       <title>영화 ‘대부’ 속 그 변호사, 명배우 로버트 듀발 별세···향년 95세</title>
       <link>https://www.khan.co.kr/article/202602170913001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -257,111 +229,6 @@
       <content:encoded>전북 현대 정정용 감독이 25일 서울 서대문구 스위스 그랜드호텔 컨벤션센터에서 열린 ‘하나은행 K리그 2026 개막 미디어데이’에서 출사표를 밝히고 있다. 연합뉴스어쩌면 K리그에서 가장 외로운 자리다. 전북 현대 정정용 감독(57) 이야기다.25일 열린 K리그1 미디어데이에서 정정용 감독은 유니폼 가슴팍의 별 10개를 손으로 짚으며 “11번째 별을 꼭 새겼···</content:encoded>
     </item>
     <item>
-      <title>‘반복되는 거주시설 잔혹사, 국가는 어디에 있는가’ 정책리포트 발간</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229056</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229056</guid>
-      <pubDate>2026-02-26T16:41:21.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인단체총연맹(한국장총)이 장애인 거주시설에서 반복되는 학대 사건의 구조적 원인과 국가 책임 강화를 위한 정책 과제를 담은 장애인정책리포트 ‘반복되는 거주시설 잔혹사, 국가는 어디에 있는가’를 발간했다고 26일 밝혔다.이번 리포트는 최근 전국에서 발생한 거주시설 학대 사건들을 종합적으로 검토하며, 해당 문제가 단발적 사건이 아니라 시설 운영 구조와 제도적 한계, 국가·지자체의 대응 체계 속에서 구조적으로 반복되고 있음을 확인하고 제도 개선과 국가 책임 강화를 촉구했다.사회적 충격을 불러일으킨 ‘도가니</content:encoded>
-    </item>
-    <item>
-      <title>설리번학습지원센터, 자립생활지원 22개 프로그램 본격 운영 시작</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229059</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229059</guid>
-      <pubDate>2026-02-26T17:25:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 설리번학습지원센터(센터장 노형지, 이하 설리번)는 2026년 시각발달성인을 위한 자립생활지원 연중 프로그램을 개강하고 본격 운영에 26일 들어갔다고 밝혔다.이번 사업은 시각발달성인 108명을 대상으로 하며 기존 보호 중심 서비스를 넘어 이용자의 주체성을 보장하는 실질적 자립지원 체계를 구축하는 데 목적이 있다.특히 2026년에는 기존 운영 체계를 전면 재구조화하며 돌봄 중심의 ‘늘품교실’ 신설, PCP(사람중심계획) 기반 일상생활훈련 전 교실 도입, 연중 회기 24회기에서 28회기로 확대라는 세 가지 핵심</content:encoded>
-    </item>
-    <item>
-      <title>정주영 기리며… 韓 피아노 슈퍼스타 4인 협연</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133433738/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133433738/2</guid>
-      <pubDate>2026-02-27T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/27/133431588.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“만약 할아버님께 이번 피아노 연주회 기획을 고민해 왔다고 여쭸으면 ‘이봐! 뭘 망설여, 해 봐!’라고 하셨을 겁니다.” 정의선 현대자동차그룹 회장은 25일 서울 서초구 예술의전당 콘서트홀에서 연 고 정주영 창업회장 서거 25주기 기념 추모 음악회에 대해 이같이 말했다. 피아니스트 김선욱, 선우예권, 조성진, 임윤찬 등 4명의 슈퍼스타를 한자리에 모아 무대에 올리는 아이디어를 이날 현실로 만든 것이 할아버지인 정 창업회장의 도전정신이 함축된 ‘해봤어’ 정신이라는 의미다. 이번 추모 음악회는 ‘이어지는 울림’을 주제로 열렸다. 정 회장은 “할아버님의 신념과 모든 도전은 ‘사람’에서 시작되었다. 사람의 가능성을 믿으셨고, 사람을 위한 혁신을 이루셨다”며 “앞으로도 할아버님의 정신을 이어받아 더 나은 미래를 만들어 가겠다”고 밝혔다.음악회는 한 대의 피아노에 김선욱, 조성진이 나란히 앉아 슈베르트의 ‘네 손을 위한 환상곡’을 연주하며 시작됐다. 이어 라흐마니노프의 ‘두 대의 피아노를</content:encoded>
-    </item>
-    <item>
-      <title>“韓-튀르키예, 원전 협력으로 혈맹 이어갈 것”</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133429753/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133429753/1</guid>
-      <pubDate>2026-02-27T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/27/133433890.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“원자력발전 협력을 통해 한국과 튀르키예의 ‘혈맹’을 다음 세기까지 이어가겠다.”알파르슬란 바이락타르 튀르키예 에너지천연자원부 장관은 25일 서울 중구 더플라자 호텔에서 동아일보와 인터뷰를 갖고 “6·25전쟁에 참전해 한국을 위해 피 흘렸던 튀르키예가 이제는 ‘에너지 동반자’로 거듭나고 있다”며 이같이 말했다. 이어 “원전 도입은 건설부터 운영과 해체까지 수십년을 내다보며 진행해야 하는 백년대계 사업”이라며 “한국은 뛰어난 역량을 갖췄고 우리의 마음 속에 특별한 자리를 차지한 전략적 파트너”라고 했다.내년 수교 70주년을 앞둔 한국과 튀르키예는 지난해 11월 튀르키예 앙카라에서 열리 정상회담에서 신규 원전 사업을 추진하기로 했다. 후속 협의를 위해 한국을 찾은 바이락타르 장관은 원전이 양국 에너지 협력의 물꼬를 틀 것이라며 의미를 부여했다.유럽과 아시아를 잇는 지정학적 요충지에 자리한 튀르키예는 ‘에너지 허브’로 거듭나기 위한 인프라 투자에 집중하고 있다. 2050년까지 20GW(기</content:encoded>
-    </item>
-    <item>
-      <title>한국경제신문 사장 조일훈 씨</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133433722/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133433722/2</guid>
-      <pubDate>2026-02-27T04:30:00.000Z</pubDate>
-      <content:encoded>한국경제신문은 대표이사 사장에 조일훈 편집인 상무이사 겸 논설위원실장(60)을 26일 선임했다. 서울대 정치학과를 졸업한 조 신임 사장은 1992년 한국경제신문에 입사해 경제부장, 편집국장 등을 지냈다.</content:encoded>
-    </item>
-    <item>
-      <title>한국보완대체의사소통학회, 사단법인 설립 본격화‥박경옥 회장 선출</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229066</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229066</guid>
-      <pubDate>2026-02-27T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국보완대체의사소통학회(Korean Society of Augmentative and Alternative Communication, KSAAC)가 지난 25일 서울 여의도 이룸센터 누리홀에서 사단법인 설립을 위한 창립총회를 개최하고 법인 설립을 위한 공식 절차에 착수했다.보완대체의사소통(AAC)은 구어 의사소통에 어려움이 있는 장애인의 의사표현과 사회참여를 지원하는 중요한 수단으로, 장애인의 의사소통 권리 보장과 사회참여 확대를 위한 핵심적인 기반으로 주목받고 있다.학회는 특수교육학, 언어병리학, 재활공학</content:encoded>
-    </item>
-    <item>
-      <title>한국장애인자립생활센터총연합회 제9대 남인수 상임대표 선출</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229064</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229064</guid>
-      <pubDate>2026-02-27T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인자립생활센터총연합회(한자연)이 지난 26일 정기총회를 개최, 남인수 한밭장애인자립생활센터장을 제9대 상임대표로 선출했다.이번 선거는 전국 회원센터 대의원들이 참여한 가운데 진행됐으며, 남인수 당선인은 향후 4년간 한자연을 대표하게 된다. 임기는 오는 4월 1일부터 2030년 3월 31일까지다. 남 당선인은 전국 회원센터와의 소통을 강화하고 조직의 책무를 충실히 수행하겠다는 뜻을 밝혔다. 또한 &quot;다시 한자연&quot;을 강조하며 자립생활운동의 중심성을 회복하고 연합회의 역할을 강화하겠다는 의지를 표명했다.한편</content:encoded>
-    </item>
-    <item>
-      <title>한시련, ‘2026년도 제6회 보행지도사 시험’ 일정 공고</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229081</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229081</guid>
-      <pubDate>2026-02-27T11:14:30.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】국시각장애인연합회(한시련)가 2026년도 제6회 보행지도사 시험 일정을 공고했다고 27일 밝혔다.보행지도사는 시각장애인이 안전하고 독립적으로 보행할 수 있도록 지도하는 것을 주된 직무로 하는 전문가다. 보행지도사 자격제도는 2010년부터 한국시각장애인연합회가 관리·운영해 왔으며, 2021년 보건복지부로부터 공인을 받아 국가 공인 민간 자격으로 운영하고 있다.현재까지 배출된 보행지도사는 약 290명이며, 배출된 보행지도사는 시각장애인 복지관, 시각장애인 관련 기관 등에서 활동하고 있다.보행지도사 시험은 필기시</content:encoded>
-    </item>
-    <item>
-      <title>디어마이아티스트, 인체 크로키 체험 프로그램 ‘라이프 드로잉 클래스’ 진행</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229102</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229102</guid>
-      <pubDate>2026-02-27T13:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 디어마이아티스트가 오는 14일 오후 3시 서울 서초구 갤러리 디마 DeMA에서 장애인 대상 인체 크로키 체험 프로그램 ‘라이프 드로잉 클래스’를 진행한다.이번 프로그램은 3월 20일까지 열리는 청년작가 릴레이 전시 ‘From Body’의 1회차 전시 ‘첫 접촉’ 기간 중 개최되는 연계 프로그램이다.라이프 드로잉 클래스는 일반적으로 접하기 어려운 전문적인 크로키 수업에 참여해 ‘몸을 관찰하고 표현하는 경험’을 통해 감각과 표현의 주체로서 예술적 표현의 폭을 넓히고자 마련됐다.프로그램에는 장애인 10여 명이 참</content:encoded>
-    </item>
-    <item>
-      <title>평택대 권선진 교수, 한국장애인재단 이사장으로 선임</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229093</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229093</guid>
-      <pubDate>2026-02-27T13:40:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인재단(이하 재단)이 최근 제128차 이사회를 열고 권선진 평택대학교 교수를 이사장으로 선임했다고 27일 밝혔다. 재단은 이날 첫 이사회를 열어 향후 재단의 발전 방향을 이사들에게 설명할 예정이다.권선진 이사장은 연세대학교 사회복지학과에서 학사·석사·박사 학위를 취득한 장애인복지 분야의 대표적 학자로, 한국보건사회연구원을 거쳐 1999년부터 평택대학교 교수로 재직하며 장애인복지 정책과 재활행정 분야의 연구와 교육에 힘써왔다.장애인재활상담사 국가시험 출제 및 검토위원, 한국직업재활학회 회장을 역임하였고</content:encoded>
-    </item>
-    <item>
-      <title>장애인스포츠 등급분류 온라인 교육포털 ‘등급분류 한걸음’ 오픈</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229091</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229091</guid>
-      <pubDate>2026-02-27T13:40:37.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완)는 장애인스포츠 등급분류에 대한 국민 이해를 높이고 관련 정보 접근성을 확대하기 위해 온라인 교육포털 ‘등급분류 한걸음’을 공식 오픈했다고 27일 밝혔다.장애인스포츠 등급분류는 선수 간 공정한 경쟁을 보장하기 위해 장애 유형과 기능 수준에 따라 스포츠 등급을 부여하는 제도로 일반 스포츠와 구별되는 장애인체육의 핵심 요소다. 그동안 각 종목별로 등급분류 관련 규정과 교육이 개별적으로 운영되고 있어 일반 국민이 관련 정보를 한 곳에서 확인하는 데에는 한계가 있었다.이에 대한장애인체육</content:encoded>
-    </item>
-    <item>
-      <title>[라운지]박제균 前동아일보 논설주간 상무 등 3인, 관훈정신영기금교수 임명</title>
-      <link>https://www.donga.com/news/Culture/article/all/20260227/133435379/1</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20260227/133435379/1</guid>
-      <pubDate>2026-02-27T14:27:00.000Z</pubDate>
-      <content:encoded>◇관훈클럽정신영기금(이사장 이강덕)은 박제균 전 동아일보 논설주간 상무와 박승규 전 KBS비즈니스 대표이사, 고철종 전 SBS 대외협력실장을 ‘관훈정신영기금교수’로 선정했다. 이들은 각각 서울대 언론정보학과, 고려대 미디어학부, 연세대 언론홍보영상학부에서 올해 3월부터 1년간 강의한다.</content:encoded>
-    </item>
-    <item>
-      <title>‘국내 최초 루게릭요양병원 건립 기여’ 션,  복지부장관 표창</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133436427/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133436427/1</guid>
-      <pubDate>2026-02-27T14:50:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/27/133436612.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 최초의 루게릭요양병원 건립을 이끈 가수 션이 보건복지부 장관 표창을 받았다. 질병관리청은 27일 제10주년 ‘희귀질환 극복의 날’ 기념식을 열고 션 등 31명에게 복지부 장관·질병관리청장 표창을 수여했다. 션은 루게릭병으로 투병하다 별세한 박승일 전 울산모비스 코치와 함께 ‘승일희망재단’을 설립하고 각종 모금 활동과 기부를 통해 루게릭요양병원 건립을 주도한 공로를 인정 받았다.</content:encoded>
-    </item>
-    <item>
-      <title>한국인의 땀과 살과 주름을 그린 화가 황재형 별세</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133436891/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133436891/1</guid>
-      <pubDate>2026-02-27T16:21:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/27/133436899.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국인의 땀과 살과 주름을 그린 ‘광부 화가’ 황재형 씨가 27일 별세했다. 향년 74세.1952년 전남 보성에서 태어난 고인은 중앙대 회화과를 다니던 1981년 미술 그룹 ‘임술년’을 결성하고 활동하던 중, 황지 탄광 매몰 사고로 사망한 광부의 작업복을 그린 ‘황지 330’으로 미술계의 주목을 받았다.1982년 현대인이 놓인 노동의 조건을 몸으로 경험하겠다며 강원 태백 탄광촌으로 이주했다. 2020년 동아일보 인터뷰에서 작가는 그 이유를 이렇게 설명했다.“1980년대 사회나 현실에 대한 절망감이 너무 깊었다.…서울에서는 밤낮 술만 먹으면 세상 뒤집어지는 이야기를 했지만 바뀌는 것은 없었다. 4∙19 세대들의 변절도 봤다. 가장 뜨거운 진실은 현장에 있다고 하니 그것을 찾겠다고 직접 호랑이 굴에 갔다.”태백에서 광부가 된 작가는 갱도에 내려가 일하면서 몸으로 겪은 바를 ‘식사’, ‘광부초상’ 등의 그림으로 남겼다. 신경림 시인은 1991년 가나아트센터에서 열린 작가의 개인전에서 “황</content:encoded>
-    </item>
-    <item>
-      <title>KBCSD 언론상 공로상에 동아일보 이승헌 편집국장</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133437263/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133437263/1</guid>
-      <pubDate>2026-02-27T16:53:00.000Z</pubDate>
-      <content:encoded>한국지속가능발전기업협의회(KBCSD)는 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 ‘제20회 KBCSD 언론상’ 시상식을 열고 동아일보 이승헌 편집국장에게 공로상을 수여했다. KBCSD는 이날 시상식에서 지속가능한 사회발전에 기여한 우수 보도 및 언론인을 선정해 시상했다고 밝혔다. 언론상 대상은 연합뉴스의 ‘전기화 시대 도전’ 시리즈가 받았다.  신문 보도 부문 우수상은 조선일보의 ‘기후 위기의 한반도, 기후 적응의 한반도’ 연중 기획과 아시아경제의 ‘정의로운 전환의 길’ 기획 연재가 선정됐다. TV 영상 부문 우수상은 YTN 사이언스 ‘다시 끓는 용광로, AI를 만난 철강’, cpbc 특집다큐 ‘낭비미식회’, EBS ‘3조 쓰던 CEO, 쓰레기로 부자 되다’가 각각 수상했다.이날 시상식에는 이경호 KBCSD 회장과 허명수 명예회장, 김명자 심사위원장(카이스트 이사장·전 환경부 장관) 등이 참석했다.</content:encoded>
-    </item>
-    <item>
       <title>“연필 놓지 않을 것” 학사모 쓴 85세 할머니</title>
       <link>https://www.donga.com/news/People/article/all/20260227/133439884/2</link>
       <guid>https://www.donga.com/news/People/article/all/20260227/133439884/2</guid>
@@ -402,13 +269,6 @@
       <guid>https://www.donga.com/news/People/article/all/20260227/133439878/2</guid>
       <pubDate>2026-02-28T01:40:00.000Z</pubDate>
       <content:encoded>◇재정경제부 〈전보〉 ▽과장급 △산업관세과장 하광식 ◇산업통상부 〈승진〉 ▽국장급 △제조산업정책관 김의중 △중견기업정책관 이규봉 △통상협정정책관 박근오 ▽과장급 △산업환경과장 강은구 △조선해양플랜트과장 이디도 △미주통상과장 구진경 〈전보〉 ▽과장급 △반도체과장 안홍상 △원전수출진흥과장 이상은 △무역구제정책과장 김종주 △지역경제총괄과장 이재석 ◇TV조선 △상무 윤정호 △보도본부장 겸 보도국장 이재홍 △특임본부장 김동욱</content:encoded>
-    </item>
-    <item>
-      <title>[부고]김경순 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260227/133439876/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260227/133439876/2</guid>
-      <pubDate>2026-02-28T01:40:00.000Z</pubDate>
-      <content:encoded>◇김경순 씨 별세·김종언 종근 종애 종수 씨 종철 연합뉴스 시스템운영부 부장 종란 씨 모친상·윤이선 장서현 씨 시모상·김동성 씨 장모상=27일 경기 이천 효자원장례식장, 발인 3월 1일 오전 6시 031-631-4411 ◇이영재 한국거래소 코넥스시장운영팀장 별세·김재희 씨 남편상·주혜 수현 씨 부친상=27일, 서울 이대목동병원, 발인 3월 1일 오전 6시 02-2650-2760  ◇최원식 씨 별세·석호 TV조선 전국부 차장 부친상·이하람 씨 시부상=27일 서울 세브란스병원, 발인 3월 1일 오전 8시 02-2227-7500</content:encoded>
     </item>
     <item>
       <title>‘도움 2개·퇴장 유도 2번’ 손흥민의 완벽한 하루</title>
@@ -586,48 +446,6 @@
       <content:encoded>◇강정희 씨 별세·이광수 전 한국와이퍼 회장 부인상·주흥 삼성서울병원 교수 겸 성균관대 의대 교수 주경 IMF 시니어 이코노미스트 모친상=1일 삼성서울병원, 발인 4일 오전 7시 반 02-3410-6920 ◇김명선 씨 별세·백준호 프로야구 두산 베어스 전무 모친상=2일 서울 중앙대병원, 발인 4일 오전 8시 02-860-3500 ◇김연대 씨 별세·이해숙 씨 남편상·미영 서울시설공단 과장 진영 씨 부친상·윤승원 신한카드 테크그룹장 유중도 씨 장인상=2일 서울 건국대병원, 발인 4일 오전 9시 02-2030-7900 ◇고길순 씨 별세·김광택 숙희 인숙 현숙 씨 모친상·이낙연 전 국무총리 조주연 윤영민 씨 장모상·정안숙 씨 시모상=1일 서울성모병원, 발인 3일 오전 5시 02-2258-5940 ◇김영일 씨 별세·제환 광주 북구 홍보실장 부친상=2일 광주 구호전장례식장, 발인 4일 오전 8시 반 062-960-4444 ◇김영자 씨 별세·주낙윤 씨 부인상·성식 아시아투데이 편집국 부</content:encoded>
     </item>
     <item>
-      <title>서울장애인근로자지원센터, ‘2026년 제1차 수어와 함께’ 교육 수강생 모집</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229133</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229133</guid>
-      <pubDate>2026-03-03T08:55:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 서울장애인근로자지원센터(센터장 김태양, 이하 서울센터)는 오는 13일까지 2026년 제1차 근로자를 대상으로 ‘수어와 함께’ 교육 과정 수강생을 모집한다.이번 교육은 직장 내 의사소통 역량을 높이고 다양성과 포용의 가치를 실천하는 직장문화를 조성하기 위해 마련됐다. 특히 청각장애인 동료와의 상호 이해를 높이고 배려하는 근로환경 조성에 도움이 될 것으로 기대된다.교육은 2026년 3월 23일부터 4월 22일까지 총 10회 과정(매주 월·수, 저녁 7시~9시)으로 진행되며 서울·강원 지역 장애인·비장애인 근로자</content:encoded>
-    </item>
-    <item>
-      <title>사회복지사 꿈꾼 박채연 양, 뇌사장기기증으로 6명의 생명 살리고 떠나</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229139</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229139</guid>
-      <pubDate>2026-03-03T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장기조직기증원은 지난해 12월 16일 아주대학교병원에서 박채연(16세, 2009년 2월생) 님이 뇌사 장기기증으로 6명의 소중한 생명을 살리고 하늘의 별이 되어 떠났다고 3일 밝혔다.박 양은 작년 12월 14일, 친척 결혼식에 가기 위해 가족과 함께 이동 중 졸음운전 차량과 사고가 나서 병원으로 이송했지만, 끝내 의식을 회복하지 못하고 뇌사 판정을 받았다. 이후 박 양은 가족의 동의로 심장, 폐장, 간장, 신장, 안구(양측)를 기증해 6명의 소중한 생명을 살렸다.가족들은 어린 나이의 박 양을 이대로 떠나</content:encoded>
-    </item>
-    <item>
-      <title>메이저리거 이정후, 장애아동 돕는 ‘네이버 해피빈 우리저금통’ 캠페인 나서</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229138</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229138</guid>
-      <pubDate>2026-03-03T09:37:29.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】메이저리거 이정후(27·샌프란시스코 자이언츠)가 2026 정규시즌 개막을 앞두고 푸르메재단과 장애어린이를 돕는 네이버 해피빈 우리저금통 캠페인에 참여하며 선한 영향력을 펼쳤다.푸르메재단은 재단 홍보대사인 이정후 선수와 함께 장애어린이 재활치료비 지원을 위한 ‘네이버 해피빈 우리저금통’을 오픈했다고 3일 밝혔다.‘함께하는 마음이 만들어가는 변화’를 슬로건으로 한 이번 캠페인은 국내 최초의 통합형 어린이재활병원인 푸르메재단 넥슨어린이재활병원 개원 10주년을 기념하며 기획됐다. 이정후 홍보대사를 통해 어린이 재활</content:encoded>
-    </item>
-    <item>
-      <title>이영석 장총련 상임대표 연임 성공‥“장총련 고유 역할 강화”</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229146</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229146</guid>
-      <pubDate>2026-03-03T11:24:23.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인단체총연합회(장총련)가 지난 2월 26일 이룸센터에서 2026년 정기총회를 개최, 제15대 상임대표로 이영석 한국장애인연맹(DPIKOREA) 회장을 선출했다고 3일 밝혔다.이번 제15대 상임대표로 선출된 이영석 상임대표는 지난 14대에 이어 다시 한번 장총련을 이끌게 되었다.이 상임대표는 수락연설을 통해 “지난 임기 동안 젊은 장총련을 위해 달려왔다면, 이번 임기에는 그 변화의 물결을 더 확산시켜 현장에서 피부로 느끼는 실효성 있는 정책을 제안하고, 회원단체 간의 결집을 통해 장총련의 대표성을 더욱</content:encoded>
-    </item>
-    <item>
-      <title>제20대 광주시각장애인연합회 김성중 회장 취임</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229166</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229166</guid>
-      <pubDate>2026-03-03T12:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 김성중 광주광역시시각장애인연합회 제20대 회장이 공식 취임했다.광주광역시시각장애인연합회는 지난달 27일 광주광역시시각장애인복지관에서 제20대 광주광역시시각장애인연합회장 취임식을 개최했다.이날 취임식에는 광주광역시 장애인복지과 박영숙 과장, 광주광역시장애인총연합회 김영순 이사장을 비롯한 장애인 단체장과 지역주민 등 100명이 참석했다.새로 취임하는 김성중 회장은 대한안마사협회 광주지부장, 광주서구장애인협회장 등을 역임하였고, 현재까지도 서구청 장애인복지위원회 운영위원과 사회복지법인 금정 이사로 활동하고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>방송인 안선영, ‘장애청소년 예체능 교육지원’ 바자회 수익금 기부</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229152</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229152</guid>
-      <pubDate>2026-03-03T14:00:35.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】방송인 안선영이 3일 장애 청소년 예체능 교육지원을 위해 한국장애인재단에 바자회 수익금 500만원을 전달했다.이번 기부는 지난 연말, 안선영이 지인들과 뜻을 모아 진행한 바자회 ‘신안요권(신스타, 안선영, 요리요정, 권감각)’의 수익금으로 마련됐다.전달된 기부금은 한국장애인재단의 장애 청소년 장학사업 &apos;봄꿈&apos;의 기금으로 조성돼 예체능 분야에 재능과 꿈이 있는 장애 청소년의 교육지원을 위해 사용될 예정이다.안선영은 “지난해 8월 동계스포츠 선수단 지원에 이어, 장애 청소년의 꿈을 응원할 수 있어 기쁘다.”라며</content:encoded>
-    </item>
-    <item>
       <title>오늘의 부고-조남각 머니투데이 편집부 부장 부친상 외</title>
       <link>https://www.khan.co.kr/article/202603031526001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202603031526001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -712,39 +530,11 @@
       <content:encoded>◇변천수 씨 별세·김태섭 씨 부인상·원기 하이닉스 NAND FA 현 씨 모친상·이종훈 SBS 보도본부 네트워크팀 부장 장모상·김현주 씨 시모상=3일 삼성서울병원, 발인 5일 오전 8시 반 02-3410-3151 ◇유분선 씨 별세·도석구 LS네트웍스 부회장 혁구 씨 순구 한국동서발전 당진발전본부장 용구 정구 씨 모친상·배복환 이현주 씨 장모상·신인주 신정희 신윤자 씨 시모상=2일 대구 계명대동산병원, 발인 4일 오전 7시 053-258-4444 ◇이언년 씨 별세·고영주 경기 안산소방서장 모친상=2일 충남 금산군 새금산병원, 발인 4일 오전 7시 041-754-4474 ◇이효원 씨 별세·조성은 씨 남편상·현수 SK브로드밴드 매니저 필수 하나증권 부장 경숙 씨 부친상·나준호 LX세미콘 부사장 장인상·권수진 씨 문경숙 하나은행 신중동역 지점장 시부상=3일 서울 세브란스병원, 발인 5일 오전 9시 20분 02-2227-7500 ◇정성해 씨 별세·윤병건 씨 남편상·동익 동일 씨 부친상·</content:encoded>
     </item>
     <item>
-      <title>&apos;시청각장애인 특화&apos; 손잡다IL센터, 센터 이전 개소식 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229192</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229192</guid>
-      <pubDate>2026-03-04T08:50:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】손잡다장애인자립생활센터(이하 손잡다센터)가 지난 2월 27일 서울시 동작구 상도로 93 4층에 위치한 신규 사무실에서 이전 개소식을 열고 시청각장애인 자립 지원을 위한 새로운 출발을 알렸다.이번 개소식은 국내에서 유일하게 시청각장애인 특화 자립생활서비스를 제공하는 손잡다센터가 새로운 공간에서 지역사회 시청각장애인의 자립과 연대의 기반을 공고히 하기 위해 개최됐다.이날 개소식은 손잡다센터의 운영법인인 사단법인 윌 강윤택 대표의 환영사를 시작으로 동작구의회 변종득·송동석·장순욱·이미연·김영림 의원의 축사와 조원</content:encoded>
-    </item>
-    <item>
-      <title>한국토요타자동차, 2026 동계패럴림픽대회 대한민국 선수단에 1억원 후원</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229183</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229183</guid>
-      <pubDate>2026-03-04T09:07:10.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완) 공식 파트너인 한국토요타자동차(대표이사 사장 콘야마 마나부)가 지난 3일 대한장애인체육회를 통해 2026 밀라노-코르티나 동계패럴림픽대회 대한민국 선수단에 후원금 1억 원을 전달했다.이번 후원금은 2026 밀라노-코르티나 동계패럴림픽 등 종합국제대회 선수단 사기 진작과 격려를 위해 활용될 예정이다.한국토요타자동차는 ‘한계를 뛰어넘고, 불가능에 도전하자’는 의미인 ‘Start Your Impossible’ 캠페인의 일환으로 2023년부터 대한장애인체육회와 업무협약을 맺고 대한민국</content:encoded>
-    </item>
-    <item>
-      <title>페퍼톤스 이장원, &apos;청각장애인 인식개선&apos; 사랑의달팽이 홍보대사 위촉</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229189</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229189</guid>
-      <pubDate>2026-03-04T09:41:27.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】사랑의달팽이가 지난 2월 26일 ‘페퍼톤스’의 멤버 이장원을 사랑의달팽이 홍보대사로 위촉했다고 4일 밝혔다. 이장원은 앞으로 사랑의달팽이 홍보대사로서 청각장애인 지원 사업과 인식 개선 활동에 참여하며, 대중과 소통하는 다양한 홍보 활동을 이어갈 예정이다.특히 이장원의 아내이자 가수 겸 뮤지컬 배우인 배다해 역시 현재 사랑의달팽이 홍보대사로 활동 중으로, 이번 위촉을 통해 함께 청각장애인을 위한 나눔 활동에 동참하게 됐다.이장원은 위촉 소감을 통해 “이미 사랑의달팽이 홍보대사로 활동하고 있던 아내 배다해로부터</content:encoded>
-    </item>
-    <item>
       <title>[인사]경희대학교</title>
       <link>https://www.donga.com/news/People/article/all/20260304/133460176/1</link>
       <guid>https://www.donga.com/news/People/article/all/20260304/133460176/1</guid>
       <pubDate>2026-03-04T11:19:09.000Z</pubDate>
       <content:encoded>◇경희대학교 △학무부총장(국제) 이은열 △교육대학원장 우정길 △공공대학원장 손혁상 △경영대학장 박용승 △약학대학장 김남중 △음악대학장 이아경 △외국어대학장 권세은 △기획조정처장 박하일 △입학처장 최진무 △정보처장 겸 DX추진단장 이성원 △커뮤니케이션센터장 박세환</content:encoded>
-    </item>
-    <item>
-      <title>재활협회, ‘모두를 위한 관광! 접근성 개선을 위한 토론회’ 11일 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229194</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229194</guid>
-      <pubDate>2026-03-04T13:03:40.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 한국장애인재활협회(회장 나운환, 이하 RI Korea)는 오는 11일 오후 2시 국회의원회관 제1세미나실에서 한국접근가능한관광네트워크(대표 전윤선)는 최보윤 국회의원(국민의힘)과 함께 ‘모두를 위한 관광! 접근성 개선을 위한 토론회’를 개최한다.이번 토론회에는 정부, 국회, 시민사회(학계, 여행업계, 장애계)가 모두 참여하는 가운데 지난해 10월 시행된 무장애 관광 4법(관광기본법, 관광진흥개발기금법, 관광진흥법, 장애인복지법)이 실효성을 가지기 위한 제도 개선 방안을 모색한다. 또한 장애인 관광 접근성 개</content:encoded>
     </item>
     <item>
       <title>오늘의 인사-국무조정실·국무총리비서실 외</title>
@@ -761,25 +551,11 @@
       <content:encoded>■정우섭 전 네티션닷컴 전무 별세, 동수 라인플러스 사원·은경씨 부친상, 장지호 LG전자 차장 장인상=3일 분당서울대병원. 발인 5일 (031)787-1500■박효민 정치컨설팅민 이사 별세, 다연·다빈씨 부친상, 박성민 정치컨설팅민 대표 형제상=3일 이대서울병원. 발인 5일 (02)6986-4440</content:encoded>
     </item>
     <item>
-      <title>강동대 사회복지학과, ‘느린학습자 고등교육 기대효과와 부모 역할’ 초청특강 실시</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229219</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229219</guid>
-      <pubDate>2026-03-04T16:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 강동대학교(총장 서석해) 드림라이프사회복지학과(학과장 김주환)는 지난 3일 2026학년도 신입생 입학을 맞이해 발달장애인 등 ‘느린학습자의 고등교육 기대효과와 부모의 역할’이라는 주제로 초청 특강을 실시했다.강동대학교 드림라이프사회복지학과는 2021학년도부터 발달장애인, 경계선지능인 등 느린학습자를 위한 특성화 학과로서 이들을 위한 맞춤형 교육체계를 마련하여 고등교육을 실시하는 전국 최초의 사회복지학과이다.이번 특강은 새내기 느린학습자 대학생과 학부모를 대상으로 이들의 성공적인 대학생활을 위한 학과 차원 교</content:encoded>
-    </item>
-    <item>
       <title>한국외대 강기훈 교수, 6일 제13대 총장으로 취임</title>
       <link>https://www.donga.com/news/People/article/all/20260304/133462313/1</link>
       <guid>https://www.donga.com/news/People/article/all/20260304/133462313/1</guid>
       <pubDate>2026-03-04T16:08:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/04/133463334.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국외국어대는 강기훈 통계학과 교수(사진)가 제13대 총장에 취임한다고 4일 밝혔다. 강 신임 총장은 서울대 계산통계학과를 졸업하고 한국외대 교수, 산학연계 부총장 등을 지냈다. 취임식은 6일 오후 3시 서울캠퍼스에서 열린다.</content:encoded>
-    </item>
-    <item>
-      <title>한근협, ‘2026년 장애유형 맞춤형 특화일자리사업’ 참여자 모집</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=229214</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=229214</guid>
-      <pubDate>2026-03-04T16:26:58.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국근육장애인협회(이하 협회)가 ‘2026년 장애유형 맞춤형 특화일자리사업’ 참여자를 오는 9일까지 모집한다.협회는 서울시에서 진행하는 2026년 장애유형 맞춤형 특화일자리사업 수행기관으로 선정됐다. 장애인일자리사업은 취업 취약계층인 장애인에게 일자리 제공을 통한 사회참여 확대 및 소득보장 지원을 목적으로 한다.모집 대상은 만 18세 이상 장애인복지법에 따라 등록된 미취업장애인으로, 자세한 모집요강은 협회 공식 홈페이지(www.kmda.or.kr)에서 확인할 수 있다.-장애인 곁을 든든하게 지켜주는 대안언론</content:encoded>
     </item>
     <item>
       <title>평생 못 걸은 캄보디아 환자, 순천향대 부천병원이 ‘건강한 발’ 선물</title>
@@ -843,6 +619,90 @@
       <guid>https://www.donga.com/news/People/article/all/20260304/133466122/2</guid>
       <pubDate>2026-03-05T04:30:00.000Z</pubDate>
       <content:encoded>◇박효민 정치컨설팅민 이사 별세·안영란 씨 남편상·다연 다빈 씨 부친상·성민 정치컨설팅민 대표 형제상·정하영 씨 시부상=3일 이대서울병원, 발인 5일 오전 9시 반 02-6986-4440 ◇정우섭 전 네티션닷컴 전무 별세·장순 씨 남편상·동수(라인플러스) 은경 씨 부친상·장지호 LG전자 차장 장인상·변수영 씨 시부상=3일 경기 성남시 분당서울대병원, 발인 5일 오전 6시 반 031-787-1500</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사-우정사업본부 외</title>
+      <link>https://www.khan.co.kr/article/202603051507001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202603051507001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-03-05T15:07:00.000Z</pubDate>
+      <content:encoded>■우정사업본부 &amp;#9671;국장급 전보 &amp;#9651;우정사업본부 경영기획실장 최병택 &amp;#9651;예금사업단장 김동주 &amp;#9651;충청지방우정청장 곽병진■한국경제신문 &amp;lt;한국경제신문&amp;gt; &amp;#9651;전무이사 주필·논설위원실장 현승윤 &amp;#9651;상무이사 경영지원실장 이건호 &amp;#9651;&amp;#12291; 아르떼사업본부장 김홍열 &amp;#9651;상무보 미디어마···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고-이서영 목원대 경영학부 교수 모친상 외</title>
+      <link>https://www.khan.co.kr/article/202603051508001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202603051508001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-03-05T15:08:00.000Z</pubDate>
+      <content:encoded>■박귀심씨 별세, 권은남 더불어민주당 대전시당 공보국장·은성씨·은용 HDC 현대산업개발 부장·은임씨 모친상, 임정환 한국에너지기술연구원 책임기술원 장모상=5일 충남대병원. 발인 7일 (042)280-8181■이건의씨 별세, 이서영 목원대 경영학부 교수 모친상=4일 쉴낙원 당진장례식장. 발인 6일 (041)354-4444■조점애씨 별세, 김부동·귀동·미숙·숙···</content:encoded>
+    </item>
+    <item>
+      <title>신순심 무용가 향년 89세로 4일 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20260305/133471098/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20260305/133471098/1</guid>
+      <pubDate>2026-03-05T16:18:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/05/133471265.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;어린이 무용수 육성에 힘쓴 신순심 무용가가 4일 별세했다. 향년 89세.이화여대에서 발레를 전공한 고인은 1962년 초·중등생으로 구성된 리틀엔젤스예술단을 창단하고 초대 단장을 맡아 문훈숙 유니버설발레단장 등 무용계 인재를 배출했다. 1966년 미국 백악관 특별공연 ‘꼭두각시’를 포함해 여러 레퍼토리를 개발했다. 빈소는 이대서울병원, 발인은 7일 오전 5시. 02-6986-4440</content:encoded>
+    </item>
+    <item>
+      <title>경향신문 차기 사장 후보에 박종성 전 논설위원</title>
+      <link>https://www.khan.co.kr/article/202603051929001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202603051929001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-03-05T19:29:00.000Z</pubDate>
+      <content:encoded>경향신문사는 5일 사원주주회 임시 회원총회를 열어 차기 대표이사 사장 후보자로 박종성 전 논설위원(64·사진)을 선출했다.박종성 경향신문 사장 후보박 사장 후보자는 1990년 경향신문사에 입사해 편집국 산업부장, 경제에디터와 미디어전략실장, 논설위원 겸 사회경제연구원장을 지냈다.경향신문사는 이달 하순 주주총회를 열어 박 후보자를 사장으로 공식 추인할 예정이···</content:encoded>
+    </item>
+    <item>
+      <title>경향신문사 차기 사장 후보 박종성 전 논설위원 선출</title>
+      <link>https://www.khan.co.kr/article/202603052040005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202603052040005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-03-05T20:40:00.000Z</pubDate>
+      <content:encoded>경향신문사는 5일 사원주주회 임시 회원총회를 열어 차기 대표이사 사장 후보자로 박종성 전 논설위원(64·사진)을 선출했다.박 사장 후보자는 1990년 경향신문사에 입사해 편집국 산업부장, 경제에디터와 미디어전략실장, 논설위원 겸 사회경제연구원장 등을 지냈다.경향신문사는 이달 하순 주주총회를 열어 박 후보자를 사장으로 공식 추인할 예정이다.</content:encoded>
+    </item>
+    <item>
+      <title>“BTS가 돌아온다” 광화문광장 컴백공연 예고편 영상 공개</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260306/133474485/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260306/133474485/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/06/133474972.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;21일 서울 광화문에서 컴백 공연을 여는 방탄소년단(BTS)이 5일 공연 예고편 영상(사진)을 공개했다. 해당 영상엔 광화문 앞에 선 멤버들의 실루엣과 ‘세계 최고의 그룹이 돌아온다’ 등의 영문 문구가 담겼다. BTS는 이날 소셜미디어를 통해 “멤버 7명이 함께 이 길을 계속 걸어갈 수 있고, 계속 헤엄쳐 나갈 수 있다고 생각한다”고 소감을 전했다.</content:encoded>
+    </item>
+    <item>
+      <title>[부고]신순심 리틀엔젤스예술단 초대 단장</title>
+      <link>https://www.donga.com/news/People/article/all/20260306/133474463/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260306/133474463/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/06/133472306.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;어린이 무용수 육성에 힘쓴 신순심 무용가(사진)가 4일 별세했다. 향년 89세. 이화여대에서 발레를 전공한 고인은 1962년 초·중등생으로 구성된 리틀엔젤스예술단을 창단하고 초대 단장을 맡아 문훈숙 유니버설발레단장 등 무용계 인재를 배출했다. 1966년 미국 백악관 특별공연 ‘꼭두각시’를 포함해 여러 레퍼토리를 개발했다. 빈소는 이대서울병원, 발인은 7일 오전 5시. 02-6986-4440</content:encoded>
+    </item>
+    <item>
+      <title>[부고]박귀심 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260306/133474461/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260306/133474461/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>◇박귀심 씨 별세·권은남 더불어민주당 대전시당 공보국장 은성 씨 은용 HDC 현대산업개발 부장 은임 씨 모친상·임정환 한국에너지기술연구원 책임기술원 장모상=5일 대전 충남대병원, 발인 7일 오전 9시 반 042-280-8181 ◇서홍석 씨 별세·지원 프로야구 두산 베어스 육성팀 수석 부친상=4일 서울 건국대병원, 발인 6일 오전 10시 02-2030-7940 ◇이건의 씨 별세·이서영 목원대 경영학부 교수 모친상=4일 충남 쉴낙원 당진장례식장, 발인 6일 오전 7시 041-354-4444</content:encoded>
+    </item>
+    <item>
+      <title>[인사]교육부 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260306/133474465/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260306/133474465/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>◇교육부 △교육행정체제통합지원단 부단장 지혜진 ◇한국경제신문 △전무이사 주필·논설위원실장 현승윤 △상무이사 경영지원실장 이건호 △〃 아르떼사업본부장 김홍열 △상무보 미디어마케팅국장 전우형 △기획조정실장 겸 준법경영지원실장 안재석 △기획조정실 기획부장 박동휘 ▽논설위원실 △논설위원 양준영 김동욱 이정호 안정락 ▽편집국 △부국장 이상열 조재길 △정치부장 조진형 △금융〃 정인설 △사회〃 임도원 △국제〃 노경목 △산업〃 장창민 △중소기업〃 좌동욱 △테크&amp;사이언스〃 김재후 △바이오헬스〃 이태호 △증권〃 김동윤 △마켓인사이트〃 송형석 △문화〃 박종서 △오피니언〃 이호기 △독자서비스국장 김양진 △아르떼사업본부 문화전시사업국장 박해영 △경제교육연구소장 유병연 △상임고문(윤리경영위원장) 정규재 ◇한국경제TV △대표 정종태 △콘텐츠본부장 김형호 ◇한경닷컴 △대표 박수진 △상무 송종현 △뉴스국장 오상헌 ◇TV조선 △취재에디터 겸 팩트체크장 강상구 △선거기획단장 안석호 △사회정책부장 배태호</content:encoded>
+    </item>
+    <item>
+      <title>고려대 개교 120년 기념… ‘기부자 감사의 밤’ 개최</title>
+      <link>https://www.donga.com/news/Society/article/all/20260306/133474483/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260306/133474483/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>고려대가 4일 서울 강남구 그랜드인터컨티넨탈호텔에서 개교 120주년 기념 기부자 감사의 밤 행사를 개최했다. ‘당신의 헌신으로 밝혀 온 배움의 길’을 주제로 열린 이날 행사에는 대학 발전에 기여한 고액 기부자와 교우 등 700여 명이 참석했다. 행사는 고려대 교훈인 ‘자유·정의·진리’를 축으로 꾸려졌다. 개교 120주년 연혁 전시와 기부자 스토리 영상 상영이 진행됐고, 누적 기부금 3200억 원 달성을 기념하는 ‘라이트 볼’ 퍼포먼스도 펼쳐졌다. 고려대는 이번 누적 기부금이 역대 총장 재임 기간 중 최대 규모라고 설명했다. 김동원 총장은 “고려대가 120년간 시대를 넘어설 수 있었던 것은 기부자 여러분의 헌신 덕분”이라며 “국가와 인류의 미래를 선도하는 ‘세상에 없어서는 안 될 대학’으로 힘차게 나아가겠다”고 밝혔다.</content:encoded>
+    </item>
+    <item>
+      <title>바이올리니스트 정주은, 佛 국립 명문악단 악장 발탁</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260306/133474455/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260306/133474455/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/06/133474964.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;바이올리니스트 정주은(30·사진)이 프랑스 서부의 명문 악단인 페이 드 라 루아르 국립 오케스트라 악장에 발탁됐다. 5일 소속사 스테이지원에 따르면 정주은은 최근 네 차례 오디션을 거쳐 이 악단 악장에 선발됐다. 9월부터 악장 활동을 시작하고, 1년간의 연수 기간을 거친 뒤 종신 임용 여부가 결정된다. 정주은은 2018년 서울국제음악콩쿠르에서 4위를 차지했고, 2023년 면사랑 신진 유망 연주자상을 수상했다. 2021년 윤이상국제음악콩쿠르에선 2위 및 청중상을 수상했다. 현악사중주단 ‘이든 콰르텟’ 멤버로도 활동한 그는 2024년 이탈리아 프레미오 파올로 보르치아니 국제 현악 사중주 콩쿠르에서 한국팀 최초로 2위를 차지했다. 1971년 설립된 페이 드 라 루아르 국립 오케스트라는 바이올리니스트 박지윤이 악장으로, 첼리스트 이원해가 첼로 부수석으로 활동한 바 있다. 현재 윤성영이 오보에 수석을 맡고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>“암환자 위해” 세쌍둥이 딸과 함께 머리카락 기부</title>
+      <link>https://www.donga.com/news/Society/article/all/20260306/133474457/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260306/133474457/2</guid>
+      <pubDate>2026-03-06T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/06/133472348.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;해군 제8전투훈련단 소속 이은주 상사(37)가 소아암 아동을 돕기 위해 세쌍둥이 딸 장은진·유진·소진 양(5)과 함께 모발을 기부했다고 해군이 5일 밝혔다. 이 상사와 세쌍둥이는 3일 1년 반 동안 기른 머리카락 각 25cm, 총길이 1m를 대한민국사회공헌재단 ‘어머나 운동본부’에 전달했다. ‘어머나’는 ‘어린 암 환자를 위한 머리카락 나눔’의 줄임말이다. 이 재단은 기부받은 25cm 이상의 건강한 모발로 제작한 맞춤형 가발을 소아암 환자들에게 무상으로 제공하고 있다. 국내에선 매년 1500여 명의 소아암 환자가 발생하는 것으로 알려졌다. 이 상사와 세쌍둥이의 모발 기부는 처음이 아니다. 이 상사는 2024년에도 세쌍둥이와 함께 1년 반 동안 기른 머리카락 105cm(이 상사 30cm, 세쌍둥이 각 25cm)를 기부한 바 있다. 2020년 세쌍둥이를 임신 중이었던 이 상사는 소아암 환자들이 항암 치료 과정에서 탈모로 어려움을 겪는다는 소식을 접한 뒤 모발 기부를 결심했다고 한다</content:encoded>
     </item>
   </channel>
 </rss>
