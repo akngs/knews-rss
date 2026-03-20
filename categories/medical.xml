@@ -3,231 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-03-19T00:19:05.261Z</lastBuildDate>
-    <item>
-      <title>극한호우 1시간 전 예측 AI모델 국내서 개발</title>
-      <link>https://www.donga.com/news/People/article/all/20260318/133551692/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260318/133551692/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>국지성 집중호우가 잦아지는 가운데, 국내 연구진이 인공지능(AI)으로 극한 기상 상황을 정밀 예측하는 길을 열었다. 한국연구재단은 서울대 수리과학부 홍영준 교수팀이 한국 기상 환경에 최적화된 초단기 강수 예측 AI 모델을 개발했다고 17일 밝혔다. 레이더 영상만으로 극한 강수를 포함한 다양한 기상 상황을 예측하는 이 모델은 급변하는 강수 패턴에만 ‘계산 자원’을 집중하는 메커니즘을 적용해 불필요한 연산을 줄였다. 강수 예측은 비가 언제 어디서 얼마나 내릴지 미리 계산하는 기술로, 특히 초단기 강수 예측은 수십 분에서 몇 시간 사이에 일어나는 비의 이동과 발달을 예측해야 한다. 그동안 해외 기술로 만든 예측 모델은 연산량이 방대해 실시간 대처가 어렵거나, 세밀한 예측이 불가능해 한국 지형의 폭우 예측에 한계가 있었다. 이번 모델은 고성능을 유지하면서도 계산 효율을 20배 이상 높였으며, 2023년 오송 폭우에 적용해 위험 상황을 1시간 전 포착하는 데 성공했다. 홍 교수는 “수학</content:encoded>
-    </item>
-    <item>
-      <title>엔비디아 AI칩 ‘학습 → 추론’ 진화… 핵심부품 삼성이 공급</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260318/133551990/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260318/133551990/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133552280.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“삼성에 감사를 전하고 싶습니다.” 16일(현지 시간) 미국 캘리포니아 새너제이 SAP센터에서 열린 엔비디아의 연례 개발자 회의 ‘GTC 2026’ 현장. 기조연설에 나선 젠슨 황 엔비디아 최고경영자(CEO)는 엔비디아의 최신 인공지능(AI) 가속기 ‘베라 루빈’의 성능을 공개하는 자리에서 이례적으로 삼성전자에 대한 감사의 뜻을 밝혔다. 그는 “삼성이 우리를 위해 ‘그록(Groq)3’ 언어처리장치(LPU·Language Processing Unit)를 만들고 있다”며 “올 3분기(7∼9월)쯤 출하가 시작될 것”이라고 말했다. 그록3 LPU는 엔비디아가 현 AI 가속기의 핵심인 그래픽처리장치(GPU) 이후 새로운 시장을 열 것으로 기대하는 추론형 AI 칩이다. 엔비디아가 차세대 추론형 AI 칩 생산을 삼성전자에 맡겼다는 사실이 이날 처음 공개되면서, 삼성전자와 엔비디아의 ‘AI 반도체 동맹’이 기존 메모리 공급을 넘어 반도체 위탁 생산인 파운드리까지 확장됐다는 해석이 나온다.●</content:encoded>
-    </item>
-    <item>
-      <title>AMD 리사 수 오늘 첫 방한, 엔비디아 이어 K칩 협력 논의</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260318/133551984/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260318/133551984/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133551743.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;18일 방한하는 리사 수 AMD 최고경영자(CEO·사진)가 이재용 삼성전자 회장을 만난다. AMD는 엔비디아와 인공지능(AI) 가속기 시장을 두고 경쟁하는 미국 반도체 팹리스 기업이다. 엔비디아가 미국 현지에서 연례 개발자회의 ‘GTC 2026’을 열며 최신 AI 칩을 발표하는 동안 경쟁사 AMD의 수 CEO는 삼성과의 협업에 나선 것이다. 17일 재계에 따르면 수 CEO는 18일 삼성전자 평택캠퍼스를 방문해 전영현 디바이스솔루션(DS)부문장(부회장) 등 반도체 관련 주요 경영진을 만날 예정이다. 2014년 CEO 취임 이후 처음 한국을 찾는 수 CEO는 삼성전자 주요 경영진과 생산 라인을 둘러본 뒤, 이 회장과 만찬을 겸한 회동을 가질 것으로 알려졌다.  이번 방한의 핵심 의제는 단연 ‘AI 칩 파트너십 강화’다. 양사는 지난해부터 AMD의 최신 AI 가속기에 HBM3E를 공급하며 협력해 왔다. 특히 삼성전자가 지난달 6세대 제품인 HBM4를 세계 최초로 양산 출하하며 시장 선</content:encoded>
-    </item>
-    <item>
-      <title>현대차-기아-엔비디아, 로보택시 공동개발… 운전자 없는 ‘레벨4 자율주행’ 앞당기기로</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260318/133551986/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260318/133551986/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/28/133051027.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 10월 서울에서 정의선 현대자동차그룹 회장과 이재용 삼성전자 회장, 젠슨 황 엔비디아 최고경영자(CEO)가 ‘깐부 회동’을 가진 이후 현대차그룹과 엔비디아의 ‘자율주행 기술 동맹’도 한층 견고해지고 있다.  현대차와 기아는 16일(현지 시간) 미국 캘리포니아 새너제이에서 열린 엔비디아 개발자 콘퍼런스(GTC)에서 소프트웨어중심자동차(SDV) 등 미래 모빌리티 분야에 대한 엔비디아와의 전략적 협업을 확대한다고 밝혔다. 황 CEO도 GTC 2026에서 현대차를 BYD(비야디), 닛산, 지리자동차 등과 함께 “로보택시 파트너”라고 언급했다. 두 회사는 각자의 강점을 융합해 차세대 자율주행 체계를 공동 개발한다는 방침이다. 현대차와 기아는 SDV 기술력을 앞세워 품질과 안전에 방점을 둔 SDV 차량을 개발하고 여기에 엔비디아가 보유한 레벨2(사람이 책임자로 탑승한 채 자동 운전) 이상 자율주행 기술을 적용하려는 것.  장기적으로는 레벨4(사람이 탑승하지 않고 원격으로 관리하는</content:encoded>
-    </item>
-    <item>
-      <title>환절기에 더 심해지는 배뇨장애… 온열 좌욕 후 82% “좋아졌다”</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542282/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542282/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542280.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“일교차가 커질수록 소변이 더 자주 마려워요.” “밤에 서너 번 깨는 건 기본이고 아침에 일어나면 소변이 시원하게 나오지 않아 답답합니다.” 날이 따뜻해지면 배뇨 장애가 좀 나아질 거라 기대하지만 더 심해진 탓에 당황하는 중장년이 적지 않다. 일교차가 큰 환절기에는 몸이 적정 체온을 유지하느라 긴장 상태에 놓인다. 이때 방광과 전립선 주변 근육도 함께 수축하면서 소변 줄기가 약해지고 잔뇨감이 더 심해지게 된다.잔뇨 쌓이면 방광 압력 높아지고 신장으로 역류할 수도 초기에는 단순히 소변이 자주 마렵거나 불편한 정도로 느끼기 쉽다. 하지만 방광 안에 소변이 완전히 비워지지 않는 상태가 반복되면 염증이 생기거나 방광 내 결석이 생길 위험이 증가한다. 이후 점차 방광 기능이 떨어지면 방광 압력이 높아지고 심한 경우 신장에서 내려온 소변이 원활히 배출되지 못하거나 역류하는 수신증(요로 폐색으로 소변이 배출되지 못하고 신장에 고여 붓는 질환)으로 이어질 수 있다. 더 위험한 것은 이런 감염</content:encoded>
-    </item>
-    <item>
-      <title>콕콕 쑤시는 관절… 콘드로이친 섭취 후 통증 지수 36% 줄어</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542265/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542265/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542262.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“비 올 때 무릎 아프다는 소리는 들어봤어도 환절기에 아프기는 처음이에요.” 관절은 관절낭이라는 주머니에 싸여 있고 그 안은 관절액으로 채워져 있다. 일교차가 크고 기압 변화가 큰 환절기에는 관절 내부의 압력이 증가해 통증이 심해진다.  연골은 한 번 손상되면 자연 회복이 어렵기 때문에 초기부터 관리하는 것이 중요하다. 콘드로이친은 연골의 약 3분의 1을 차지하는 핵심 성분으로 관절의 마찰을 줄이고 탄성을 유지시켜 연골 손상을 늦춰준다. 특히 소 연골에서 추출한 콘드로이친은 사람 연골과 구조가 유사해 체내에서 더 잘 인식되고 흡수도 빠르다. 실제 소 유래 콘드로이친은 평균 2.4시간 만에 체내 흡수돼 상어 유래(8.7시간)보다 약 4배 더 빠른 흡수 속도를 보였다. 무릎 골관절염 환자를 대상으로 1년간 섭취하게 한 연구에서도 무릎 통증 지수가 36% 감소했고 3개월 섭취 후에도 통증 감소와 무릎 기능 개선 효과가 지속됐다. 뮤코다당단백에는 연골 염증을 줄여주는 글루코사민, 윤활유</content:encoded>
-    </item>
-    <item>
-      <title>옷 껴입어도 추운 수족냉증 ‘심부열’로 잡는다</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542275/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542275/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542267.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;따뜻한 봄 날씨에도 손발이 얼음장처럼 찬 사람이 많다. 집 안에서도 맨발로 다닐 수 없어 두꺼운 양말에 슬리퍼를 신어야 하고 가만히 있으면 손이 시려 허벅지 아래나 겨드랑이에 넣어야 한다. 손발이 시려 움츠리고 있다 보니 온몸의 근육까지 긴장돼 허리가 뻣뻣하게 굳고 어깨까지 결린다. 증상이 더 심해지면 자다가도 손발이 시려 깨 잠을 설치기도 한다. 이런 수족냉증은 기온이 올라가도 말초 혈관이 충분히 확장되지 않아 손발에 혈액이 잘 돌지 않을 때 나타난다. 특히 혈관 탄력이 떨어지고 근육량이 줄어드는 노년층에서 발병률이 높다.옷을 껴입어도 해결 안되는 수족냉증, 혈류부터 개선해야 수족냉증을 앓고 있는 노년층 대부분은 옷을 몇 겹씩 껴입고 양말도 두 개 이상 신으면서 체온을 유지하려 노력한다. 온열기구도 항상 곁에 두고 사용하지만 피부 온도만 조금 오를 뿐 차가운 손발은 변화가 거의 없다. 냉기를 이겨내려면 열이 아니라 혈액순환부터 원활해져야 한다. 외부에서 아무리 피부 온도를 높이</content:encoded>
-    </item>
-    <item>
-      <title>국내 생산 ‘최대 순도’ 포스파티딜세린… 은행잎 추출물 더해 기억-인지력 케어</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542539/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542539/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542532.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;CJ웰케어의 ‘닥터뉴트리 메모리메이트’가 중장년층을 위한 두뇌 건강기능식품으로 인기를 얻고 있다. 과학적으로 검증된 두뇌 건강 기능성 원료인 포스파티딜세린과 은행잎 추출물의 효능으로 인정받은 결과다.메모리메이트는 인지력 개선 기능성 원료인 포스파티딜세린과 기억력·혈행 개선 기능성 원료인 은행잎 추출물을 함유하고 있어 노화로 감소되는 인지력과 기억력 개선에 도움을 준다. 여기에 항산화 작용을 하는 비타민 E까지 더해 인지력, 기억력, 혈행, 항산화를 동시에 케어할 수 있다.닥터뉴트리 메모리메이트에 사용된 포스파티딜세린은 100% 식물성 원료에서 추출한 것으로 식약처로부터 노화로 인해 저하된 인지력 개선에 도움을 줄 수 있는 기능성 원료로 인정받았다. 대두에 단 0.001%만 존재하는 극소량의 핵심 성분을 국내 유일(2025년 11월 기준)의 제조 공법으로 추출해 지표 성분 손실을 최소화했다. 국내에서 생산되는 포스파티딜세린 중 가장 높은 최대 순도를 자랑한다.포스파티딜세린은 뇌세</content:encoded>
-    </item>
-    <item>
-      <title>내 기억력 저하가 자식에 큰 짐… 뇌 건강 미리미리 챙기세요</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542548/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542548/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542543.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;자식에게 물려줄 마지막 유산이 평생의 ‘빚’과 ‘절망’이 돼서는 안 된다. 하지만 준비되지 않은 노년의 기억·인지력 저하는 본인의 의지와 상관없이 자녀의 미래를 송두리째 앗아가는 시한폭탄이 된다. 중앙치매센터의 최근 통계에 따르면 인지 기능 저하 환자 한 명을 관리하는 데 드는 비용은 연간 약 2600만 원에 달한다. 이는 대한민국 평균 연간 가구 소득의 44%에 달하는 수치로 평범한 가정이 감당할 수 있는 한계치를 이미 넘어섰음을 시사한다.더욱 가혹한 것은 자녀가 마주해야 할 선택지다. 사설 간병인을 고용할 경우 의료비를 제외한 순수 간병비만 월 400만 원 이상을 지출해야 한다. 웬만한 직장인의 월급보다 많은 간병비를 감당하지 못한 자녀들은 결국 부모를 직접 돌보기 위해 생업을 포기하는 ‘간병 실직’의 길로 내몰린다. 결국 수입이 끊긴 상황은 가정경제의 파탄과 ‘간병 파산’의 악순환을 거듭한다.이 비극은 경제적 몰락에서 그치지 않고 자녀의 정신마저 잠식한다. 국내 연구 결과에</content:encoded>
-    </item>
-    <item>
-      <title>발효 알부민 복합물이 한 병에 3만2769mg… 간-신장 건강 도우미</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542522/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542522/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542489.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;주변 사람들로부터 “항상 피곤해 보인다”거나 “기운이 없어 보인다”는 말을 자주 듣는다면 단순한 휴식 부족이 아닌 간과 신장의 건강 상태를 점검해 볼 필요가 있다. 간과 신장은 우리 몸의 독소를 제거하고 체액의 균형을 유지하는 중추적인 역할을 담당하기 때문이다. 특히 간에서 생성되는 필수 단백질인 ‘알부민’은 간 기능이 손상될 경우 생성이 저하돼 체액 균형이 깨지고 혈관 밖 조직으로 수분이 빠져나가는 등의 문제를 유발할 수 있다. 또한 신장은 알부민이 소변으로 배출되지 않도록 유지하는 역할을 하기에 두 장기의 기능이 저하되면 외부에서 알부민 보충이 필요해진다.  ‘국민 사위’ 남재현 원장이 직접 배합 설계한 ‘알부민 2090 울트라맥스’가 압도적인 함량으로 소비자 사이에서 큰 주목을 받고 있다.이 제품의 가장 큰 특징은 기존 제품보다 한층 진화한 성분이다. 한 병(30㎖)당 발효 알부민 복합물 99.3%를 함유하고 있으며 무려 3만2769㎎이라는 최대 함량을 자랑한다. 현대인의</content:encoded>
-    </item>
-    <item>
-      <title>관절 보호-자세 교정… 차세대 건강슈즈</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542513/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542513/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542501.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘백세 시대’를 맞아 걷기 운동의 중요성이 커지면서 기능성 건강슈즈에 대한 소비자의 관심이 뜨겁다. 이에 글로벌 브랜드 에버라스트가 인체공학적 설계와 최고급 소재를 결합한 ‘건강슈즈’ 새 라인업을 선보이며 시장 공략에 나섰다.‘세상에서 가장 편한 발’을 위한 과학적 설계 에버라스트 건강슈즈의 가장 큰 특징은 ‘분리형 바닥창(아웃솔)’ 구조를 채택했다는 점이다. 신발의 앞뒤가 독립적으로 움직이도록 설계된 이 구조는 발바닥 전체가 지면에 닿을 때 발생하는 충격을 효율적으로 흡수한다. 발의 굴곡을 따라 신발이 유연하게 구부러지기 때문에 마치 맨발로 걷는 듯한 편안함을 제공하며 장시간 보행 시에도 발의 피로도를 획기적으로 낮춰준다.무릎관절 보호와 체중 분산의 핵심 기술 건강슈즈의 핵심은 단순히 편안함을 넘어 ‘신체 균형’을 잡아주는 데 있다. 에버라스트는 자체 개발한 고탄력 미드솔을 통해 다음과 같은 건강 혜택을 제공한다. △관절 무리 최소화: 걸을 때 무릎과 허리에 전달되는 하중을</content:encoded>
-    </item>
-    <item>
-      <title>‘냉장고 섬유’ 인견 속옷… 열 많은 男에 딱</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542518/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542518/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542515.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;알몸으로 자면 건강해진다는 말이 있다. 팬티를 벗는 순간 몸을 압박하던 허리 밴드가 사라지면서 골반과 하복부의 긴장이 풀어지기 때문이다. 체온도 쾌적하게 낮춰지고 피부는 편안하게 호흡할 수 있다. 그러나 막상 알몸으로 누워 있자면 뭔가 허전하고 쑥스러운 느낌이 든다.벗고 잘 수 없다면 입었는데도 벗은 듯이 홀가분하고 시원하게 통풍이 되는 ‘인견 팬티’를 입자. 냉장고 섬유라는 별명을 가진 자연섬유 인견으로 만든 팬티는 4계절 내내 하체를 쾌적한 상태로 만들어준다. 남자는 특히 서늘한 하체 환경이 중요하다. 하체 온도가 남성 생식 건강과 직결되기 때문이다. 사람의 평균 체온은 36.5도지만 정자는 체온보다 2∼3도 낮은 33.5도에서 가장 활동이 왕성해진다. 그래서 답답하고 공기가 잘 통하지 않는 팬티를 입으면 남성 건강에 문제가 생길 수 있다. 통기성이 떨어지는 팬티를 오래 입다 보면 습진으로 고생하기도 한다. 팬티 내부가 축축한 상태로 유지될 경우 세균이 번식하기 쉬워 가려워진다</content:encoded>
-    </item>
-    <item>
-      <title>1등급 한우로 만든 수제육포… 부드러워 선물용으로 제격</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542313/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542313/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542312.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;단백질 바만큼 훌륭한 단백질 공급원 우리나라 전통 음식 ‘육포’는 소고기를 말리거나 구워 썰어서 만든다. 조선 시대에는 귀한 고기를 오래 먹기 위한 보존식품이었다면 지금은 술안주나 간식으로 사랑받는다. 특히 우리가 건강을 위해 자주 찾는 단백질 바만큼 훌륭한 단백질 공급원이다. 육포는 다른 음식에 비해 칼로리도 낮고 특유의 씹는 식감으로 누구나 즐기는 제품이다. 편의점이나 슈퍼에서 한 번쯤은 사봤던 육포지만 ‘한우’를 주재료로 사용한 제품은 흔하지 않다. 한우 육포는 한우 정육 부위를 말려 만든 제품으로 필수영양소인 단백질이 풍부히 함유됐다.불포화지방산인 ‘올레인산’이 많은 한우 한우는 단백질뿐만 아니라 철분, 비타민 등 다양한 영양소를 함유해 야외 활동 시 소모된 체력 회복과 에너지 보충에 도움이 된다. 올레인산은 혈중 유해 콜레스테롤은 낮추고 좋은 콜레스테롤을 높여 동맥경화 및 심장병 예방에 도움을 주는 것으로 알려져 있다.  ‘미향포 한우 육포’는 육우도, 수입도 아닌</content:encoded>
-    </item>
-    <item>
-      <title>걷기만 해도 숨이 헐떡거리면, 폐를 보살피라는 신호</title>
-      <link>https://www.donga.com/news/It/article/all/20260317/133542305/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260317/133542305/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542302.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;청혈(淸血)로 맑게 흐르고, 기(氣)를 다스려 몸을 골고루 채우며, 폐(肺)를 보(補)하여 숨결이 깊어진다. 폐 기능이 나빠지면 신체 활동 시 숨이 차고 힘들어져 운동 능력이 떨어진다. 이는 운동량 부족 현상을 일으킬 수도 있다. 걷고 뛸 때 숨쉬기 편한 건강한 폐는 신체 활동 능력을 유지하고 중장년층의 전반적인 삶의 질을 높이는 데 필수적이다. 폐 건강은 단순히 숨쉬기 편한 것만을 의미하지 않는다. 건강한 폐는 신체에 충분한 산소를 공급해 모든 장기가 원활하게 기능하도록 돕는다. 폐 기능이 저하되면 쉽게 피로해지고, 운동 능력이 떨어지며, 다른 질환의 위험까지 증가한다. 지속적인 기침, 재채기, 가래는 일상생활을 심각하게 방해하고 삶의 질을 현저히 떨어뜨린다. 늦었다고 생각할 때가 가장 빠르다. 중년의 폐 건강을 지키기 위해서는 적극적인 노력이 필요하다. 담배 연기는 폐암, 만성기관지염, 폐기종 등 다양한 폐 질환의 주요 원인이므로 반드시 금연해야 한다. 규칙적인 운동도 폐활</content:encoded>
-    </item>
-    <item>
-      <title>AI가 유해 이미지-문자 차단… 부모 마음 놓이는 키즈폰</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260317/133542707/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260317/133542707/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542705.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG유플러스(LG U+)가 AI가 유해 이미지·문자를 감지하는 ‘U+키즈폰 무너에디션2’로 ‘2026 한국소비자 평가 최고의 브랜드’ AI키즈폰 부문 대상에 선정됐다. LG유플러스는 자체 캐릭터 ‘무너’를 적용한 키즈 전용 스마트폰 U+키즈폰 무너에디션2(이하 무너폰2)를 지난 1월 출시했다. 무너폰2는 미취학 아동과 초등학생을 위해 선보인 9번째 키즈폰으로 삼성 갤럭시 A17을 기반으로 제작됐다. LG유플러스 캐릭터 무너 테마가 적용됐으며 골전도 이어폰과 무너 파우치, 케이스, 넥스트랩, 스티커 등 다양한 전용 액세서리 패키지가 함께 제공된다. 무너폰2의 가장 큰 특징은 AI가 유해 이미지와 문자를 감지하는 ‘AI 유해 콘텐츠 차단 기능’이다. 자녀가 유해 이미지를 촬영하거나 캡처·다운로드할 경우 AI가 즉시 경고 알림을 보내 삭제를 안내한다. 또 비속어 등 유해 키워드가 포함된 문자메시지를 수신하면 보호자에게 알림을 보내 신속한 대응이 가능하도록 했다. 기존 키즈폰의 보</content:encoded>
-    </item>
-    <item>
-      <title>데이터 분석해 개인 맞춤형 건강관리 가이드 제공</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260317/133542431/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260317/133542431/2</guid>
-      <pubDate>2026-03-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/17/133542420.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대상웰라이프의 ‘당프로(DiabetesPro)’가 ‘2026 한국소비자 평가 최고의 브랜드’ 디지털 헬스케어 플랫폼 부문 대상을 차지했다. 당프로의 핵심 경쟁력은 사용자 중심의 데이터 분석 기반 ‘초개인화 건강관리’ 서비스다. 단순히 건강 지표를 기록하는 기능을 넘어 연속 혈당 측정(CGM) 등 다양한 데이터를 분석해 개인별 맞춤형 건강관리 솔루션을 제공한다. 특히 전문가 분석과 IT를 결합해 복잡한 건강 정보를 직관적으로 전달하고 사용자가 스스로 건강을 관리할 수 있도록 돕는 점이 특징이다. 또 대상웰라이프의 건강기능식품과 연계한 맞춤형 가이드를 제공하며 통합적인 건강관리 경험을 지원한다. 서훈교 대상웰라이프 대표는 “데이터로 만드는 더 건강한 세상, 당프로가 그 중심이 될 것”이라며 “이번 수상은 소비자가 직접 선정한 상이라는 점에서 당프로의 가치를 인정받아 의미가 크다”고 말했다. 대상웰라이프는 CES 2026 등 글로벌 무대에서 확인된 혁신적 디지털 솔루션을 당프로에</content:encoded>
-    </item>
-    <item>
-      <title>“술·담배·비만…임신 전 예비 아빠 건강이 태아발달에 영향”</title>
-      <link>https://www.donga.com/news/Society/article/all/20260318/133552435/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260318/133552435/1</guid>
-      <pubDate>2026-03-18T06:07:26.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133552436.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;임신 전 남성의 건강 상태가 자녀의 발달과 장기적인 건강에까지 영향을 미칠 수 있다는 연구 결과가 나왔다.지난 16일(현지시각) 영국 데일리메일, 호주 ABC뉴스 등은 국제 의학 학술지 ‘랜싯’(The Lancet)에 발표된 연구를 인용해 임신 전 남성의 흡연과 음주, 체중, 정신 건강, 식습관 등 다양한 요인이 임신 결과와 자녀의 장기적인 건강에 영향을 줄 수 있다고 보도했다.조너선 Y 황 박사(미국 하와이대 마노아 캠퍼스 공중보건학과)를 비롯한 연구진은 “남성은 미래 세대 건강에 중요한 기여자임에도 연구와 정책에서 여전히 부차적으로 다뤄지고 있다”고 지적했다.연구에 따르면, 임신 전 남성의 음주는 선천적 결함 위험 증가와 관련이 있으며, 흡연 등 생활 습관은 정자에 변화를 일으켜 태아 발달에 영향을 줄 수 있는 것으로 나타났다.또 식습관, 비만, 운동, 환경 노출, 심리적 스트레스 등은 정자의 질에도 영향을 미쳐 생식 능력뿐 아니라 자녀의 건강에도 영향을 줄 수 있는 것으</content:encoded>
-    </item>
-    <item>
-      <title>K-디지털헬스케어 40개사 얼라이언스 출범 선언…글로벌 공동 진출 본격화</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133553263/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133553263/1</guid>
-      <pubDate>2026-03-18T09:34:33.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133553251.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 디지털헬스케어 분야 기업 40개사는 지난 17일 서울 여의도 글래드 호텔에서 공동 협약(MoU)을 체결하고 ‘K-디지털헬스케어 얼라이언스’ 출범을 선언했다. 이번 협약을 통해 인공지능(AI), 유전체, 디지털 치료제, 병원 IT, 헬스케어 플랫폼 등 디지털헬스케어 전 분야에 경쟁력을 보유한 기업들이 결집해 해외 거점 병원을 중심으로 글로벌 의료시장에 공동 진출하는 새로운 의료수출 모델을 추진한다. 이번 얼라이언스 출범은 정부가 추진 중인 ‘초혁신경제 15대 선도 프로젝트’ 정책 기조에 발맞춰 민간 기업들이 주도적으로 글로벌 디지털헬스케어 시장 공략에 나섰다는 점에서 의미가 있다. 정부는 지난해 8월 22일 발표한 경제성장 전략에서 디지털헬스케어를 미래 핵심 수출 산업으로 육성하고 새로운 의료수출 모델을 구축하겠다는 전략을 제시한 바 있다. 이번 얼라이언스는 이러한 정책 방향에 맞춰 민간 기업 중심으로 글로벌 시장 진출 모델을 구체화한 첫 사례로 평가된다. 그동안 국내 디</content:encoded>
-    </item>
-    <item>
-      <title>배경훈 부총리 “AI는 국가 안보”…LG·SK·네이버 등에 독자 AI 개발 독려</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260318/133553621/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260318/133553621/1</guid>
-      <pubDate>2026-03-18T10:06:47.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133553622.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 독자 인공지능(AI) 역량 강화를 위해 국내 주요 기업들과 협력 방안을 논의했다.과학기술정보통신부는 배경훈 부총리가 독자 AI 관계 기업과의 간담회를 주재했다고 18일 밝혔다. 현장에는 LG AI연구원, 업스테이지, SK텔레콤, 모티프테크놀로지스 등 독자 AI 파운데이션 모델 프로젝트에 참여 중인 4개사를 비롯해 네이버, 카카오, NC AI 등 국내 대표 AI 기업이 참여했다. 이날 간담회는 국가 안보를 위한 독자 AI 확보와 모두의 AI 실현을 위한 독자 AI 기반의 대국민 AI 서비스 촉진 방안을 논의하기 위해 마련됐다. 배 부총리는 “짧은 기간에도 불구, 세계적 수준의 우리 AI 기업들이 독자 AI 모델을 잇달아 출시하며 세계가 주목하는 AI 생태계를 구축하는 등 고무적인 성과를 거두고 있다”며 “최근 중동 상황 등과 관련하여 국가 전략자산으로서 자주적 통제와 균형을 위한 독자 AI 확보 필요성이 더욱 강조되고 있다”고 언급했다. 이어 “독자 AI 개발의 궁극적</content:encoded>
-    </item>
-    <item>
-      <title>“장시간 업무엔 커피 대신 이것?”…집중력 높인다는 의외의 음료</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133553643/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133553643/2</guid>
-      <pubDate>2026-03-18T10:09:38.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133553559.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;탄산수가 집중력 유지와 인지 피로 완화에 도움이 될 수 있다는 연구 결과가 나왔다. 일본 츠쿠바대 연구진의 실험을 통해 카페인 없이도 각성 효과가 나타나는 가능성을 살펴본다.</content:encoded>
-    </item>
-    <item>
-      <title>부모·자식은 노화 부르는 관계…배우자는 예외, 왜?</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133553564/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133553564/2</guid>
-      <pubDate>2026-03-18T10:09:48.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133553490.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;주변에 ‘스트레스 유발자’가 있다면 노화가 앞당겨질 수 있다는 연구 결과가 최근 나와 관심을 끌고 있다. 부모나 자식처럼 관계망의 중심에 있는 인물일수록 생물학적 노화에 미치는 영향이 더 클 수 있는 반면, 배우자는 건강에 미치는 부정적인 영향이 크지 않을 수 있다는 점이 특히 주목받았다. 연구진이 ‘골칫거리 인물(hasslers)’로 규정한, 인생을 불편하게 만드는 인간관계는 단순히 에너지를 소모시키는 데 그치지 않고, 생물학적 노화를 가속할 가능성이 있는 것으로 나타났다.주요 원인으로는 만성 스트레스가 꼽힌다. 이러한 관계는 삶에 지지를 더하기보다 스트레스를 증가시킨다. 만성 스트레스는 생물학적 노화의 핵심 요인이다. 염증을 유발하고 면역 기능을 약화시키며, 심근경색 등 심혈관질환 위험을 높이는 것으로 알려졌다.권위 있는 학술지 ‘미국 국립과학원회보(PNAS)’에 게재된 이번 연구는 미국 인디애나주에서 이뤄진 ‘개인 간 건강 인터뷰 연구(Person-to-Person He</content:encoded>
-    </item>
-    <item>
-      <title>먹는 비만약 더 세졌다…“부작용 줄고 체중 16.3% 감소”</title>
-      <link>https://www.donga.com/news/Society/article/all/20260318/133554189/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260318/133554189/1</guid>
-      <pubDate>2026-03-18T11:09:42.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133554190.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;경구용 비만약으로 체중감소 효과를 최대 16.3%까지 보였다는 새로운 연구 결과가 발표됐다. 주사제가 아닌 먹는 약으로는 최대 효과다. 18일 로이터 등 외신에 따르면, 미국 바이오기업 스트럭처 테라퓨틱스(Structure Therapeutics, 이하 스트럭처)는 최근 먹는 비만약으로 개발 중인 GLP-1 수용체 작용제 ‘알레니글리프론’의 임상 2상 결과를 발표했다.임상 2상은 비만 또는 과체중이면서 체중과 관련된 동반 질환을 하나 이상 앓고 있는 환자 85명을 대상으로, 44주간(약 10개월) 진행됐다. 그 결과, 알레니글리프론은 44주 시점에서 180㎎ 용량군에서 위약 대비 16.3%(약 17.7㎏), 240㎎ 용량군에서는 16.0%(약 16.8㎏)의 체중 감소를 보였다. 36주부터 지속적인 체중 감소를 보였으며, 연장연구로 실시된 56주 시점에서는 120㎎ 용량 투여 시 최대 16.2%의 체중 감소를 달성한 것으로 나타났다. 체중 감소도 정체없이 꾸준히 빠지는 추세를</content:encoded>
-    </item>
-    <item>
-      <title>젠슨 황 키노트에 등장한 ‘K-피지컬 AI’…디든·슈퍼브, GTC 무대 활약</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133554274/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133554274/1</guid>
-      <pubDate>2026-03-18T11:15:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133554275.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엔비디아가 세계 최대 인공지능(AI) 콘퍼런스 ‘GTC 2026’ 무대에서 한국의 ‘피지컬 AI’(Physical AI) 로봇을 대표 사례로 소개하면서 글로벌 AI 전환 중심에서 한국 스타트업들의 활약이 주목된다. 디든로보틱스, 카이스트 출신 공동 설립…“대형 조선사 납품·매출 발생”18일 업계에 따르면 16일(현지시간) 미국 새너제이에서 개막한 GTC 2026 첫날 진행된 젠슨 황 CEO 키노트 세션에서 디든로보틱스의 산업 특화 사족보행 로봇이 소개됐다.젠슨 황의 키노영상엔 디든로보틱스의 ‘디든 스파이더’(DIDEN Spider)가 철제 벽면을 오르내리며 용접 작업을 수행하는 장면이 담겼다.디든 스파이더는 전자기 영구자석(EPM) 기술을 이용해 수직 벽면과 천장을 이동하며 △용접 △검사 △정비 등 위험한 고소(高所) 작업을 대신 수행한다.디든로보틱스는 한국의 대형 조선사에 로봇을 납품해 매출을 내고 있으며, 추가 프로젝트(계약)도 협의 중인 것으로 알려졌다.디든로보틱스는</content:encoded>
-    </item>
-    <item>
-      <title>日, 호주 따라 ‘청소년 SNS 제한’ 검토…표현의 자유 논란 불가피</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260318/133554314/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260318/133554314/1</guid>
-      <pubDate>2026-03-18T11:20:27.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133554315.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본이 호주의 사례를 참고해 아동·청소년의 소셜미디어 이용을 제한하는 방안을 검토하기 시작했다.18일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 지난 1월 일본 아동가정청은 전문가 패널을 구성해 청소년의 온라인 이용 실태를 분석하고 소셜미디어 장시간 노출이 미치는 영향을 검토하고 있다.현재 일본은 유해 사이트 접근을 차단하는 필터링을 법률로 규정하고 있으며, 소셜미디어 기업에도 미성년자의 성인용 콘텐츠 접근을 막기 위한 ‘최선의 노력’을 요구하고 있다. 비키 스코르지 도쿄 상담기관 텔 라이프라인(TELL Lifeline) 수석 고문은 이러한 지침의 필요성은 인정하면서도 “실효성에 한계가 있다”고 평가했다.특히 최근 챗GPT 등 생성형 AI를 통해 자살 방법을 묻는 청소년이 늘고 있다는 점에서 우려의 목소리도 커지고 있다.2025년 일본에서는 532명의 아동이 스스로 목숨을 끊어 2년 연속 역대 최고치를 기록했다. 스코르지는 “스마트폰과 소셜미디어에 대한 무제한 접근이</content:encoded>
-    </item>
-    <item>
-      <title>“열쇠가~” 나이들면 느는 ‘혼잣말’ 꼭 필요한 이유 [노화설계]</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133554131/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133554131/2</guid>
-      <pubDate>2026-03-18T11:33:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133554340.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;물건을 찾거나 집안일을 할 때 나지막이 혼잣말을 중얼거리는 어르신들을 쉽게 볼 수 있다. 젊은 시절에는 이해 못하던 혼잣말을 어느덧 본인도 내뱉는 모습에 당혹감을 느끼기도 한다.전문가의 연구를 종합해보면 나이가 들면서 혼잣말이 늘어나는 현상은 심리적, 인지적 변화와 밀접한 관련이 있다.노화로 인해 기억의 기능이 쇠퇴하면, 뇌는 정보를 시각적·청각적으로 동시에 확인하려는 본능이 생긴다. 즉, 눈으로 보고 입으로 말하며 귀로 다시 들음으로써 정보를 더 확실히 각인시키는 것이다.또한 은퇴나 자녀의 독립 등으로 타인과의 대화 기회가 줄어들면, 인간은 본능적으로 적막을 깨고 소통의 욕구를 충족시키려 할 수 있다. 혼잣말은 스스로에게 건네는 일종의 ‘사회적 위안’인 셈이다.● 찾는 물건 입으로 말하면 더 잘 찾는다미국 위스콘신메디슨대학교의 게리 루피안 심리학 교수 연구에 따르면, 혼잣말은 문제 해결 능력을 향상시키고 과제 수행 능력을 개선하는 데 도움을 준다. 연구팀은 참가자들에게</content:encoded>
-    </item>
-    <item>
-      <title>서울대학교 공과대학, 제2회 ‘서울대 로보틱스 데이’ 성료</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133554346/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133554346/1</guid>
-      <pubDate>2026-03-18T11:50:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133554322.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울대학교 공과대학(이하 서울공대)은 최근 관악캠퍼스에서 제2회 ‘서울대학교 로보틱스 데이(SNU Robotics Day)’를 성황리에 개최했다고 밝혔다.  재작년 12월에 이어 올해 두 번째로 열린 로보틱스 데이는 서울대 로봇 연구자들이 한자리에 모여 최신 로봇 기술을 공유하는 공개 행사다.   오전에는 서울대에서 로봇을 제작·연구·활용하는 공학자들이 로보틱스(Robotics, 로봇의 설계와 작동에 소요되는 모든 과학적 요소) 연구 성과와 로봇 데모를 발표했으며, 오후에는 한·미 로봇 석학들이 강연과 대담을 펼치는 ‘로보틱스 글로벌 포럼’이 열렸다. 서울대 연구자 81명은 이날 발표와 포스터, 데모를 통해 개발 중인 다양한 로봇을 선보였다. 방학 기간임에도 학생과 기업인, 일반인 등 250여 명이 참석해 최신 로봇 기술에 관심을 보였다.  행사의 특별 연사로 참석한 미국의 로봇 석학 헨릭 크리스텐슨(Henrik Christensen) UC샌디에이고(UC San Diego)</content:encoded>
-    </item>
-    <item>
-      <title>통신사기피해환급법 개정···거래소에 보이스피싱 상시 감시 의무 부여</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133555362/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133555362/1</guid>
-      <pubDate>2026-03-18T14:21:33.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133555348.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;디지털자산(가상자산) 거래소에도 보이스피싱 감시 의무가 부여된다. 지난 3월 12일 국회 본회의를 통과한 ‘전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법(통신사기피해환급법)’ 개정안에 따라 디지털자산 거래소는 보이스피싱 의심 거래를 상시 모니터링하고, 범죄가 의심될 경우 즉시 계정을 지급정지해야 한다. 피해구제 대상 자산 범위도 기존 금전에서 디지털자산까지 확대돼 디지털자산을 직접 탈취당하거나 현금이 디지털자산으로 전환된 경우에도 구제받을 수 있다. 디지털자산 악용 보이스피싱 대응 위한 법 개정보이스피싱은 전화나 문자 등 통신 수단을 이용해 피해자를 속이고 금전을 가로채는 범죄다. 검찰, 경찰, 금융감독원 등 공공기관을 사칭하거나 대출을 미끼로 접근하는 것이 보이스피싱의 대표적인 수법이다. 보이스피싱 피해는 갈수록 심각해지고 있다. 경찰청에 따르면 2025년 1~3월 기준 보이스피싱 범죄 발생 건수는 전년 동기 대비 17% 증가한 5878건으로 집계됐으며, 피해액은</content:encoded>
-    </item>
-    <item>
-      <title>산후 후유증 오래 간다 싶었거만…‘대장암 3기’였던 美 여성</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260318/133555543/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260318/133555543/1</guid>
-      <pubDate>2026-03-18T14:35:29.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133555544.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;출산 후 겪은 증상을 단순한 산후 후유증으로 여겼던 미국 여성이 5년 후 대장암 판정을 받았다.지난 14일(현지시각) 미국 폭스뉴스는 44세 여성 마리사 피터스가 과거 화장실을 이용할 때 출혈이 발생하는 증상을 겪었다고 보도했다. 그는 세 아이를 낳았으며, 첫째 아들을 낳은 후 처음으로 증상을 발견했다.피터스는 “증상이 심해져서 변기가 피로 가득 찰 정도였다. 화장실을 긴급하게 가야 하는 상황도 늘었다”면서 “대변의 크기, 형태, 질감도 달라졌다”고 말했다. 증상이 악화되자, 피터스는 의료진에게 우려를 표했다. 그러나 의사들은 “출산을 하면 몸이 변하는 것이 당연하다”면서 대수롭지 않은 반응을 보였다.첫 증상이 나타난 후 5년 동안 피터스의 상태는 계속 변화했다. 두 아이를 더 낳은 그는 증상이 호전됐다가 악화되기를 반복했다. 마지막 1년은 대변에 항상 피가 섞여서 나올 정도였다.지속적인 출혈을 겪던 피터스는 결국 내과 전문의를 찾았다. 피터스의 상황은 생각보다 심각했다. 그</content:encoded>
-    </item>
-    <item>
-      <title>집에서 해도 된다…근력운동 새 지침, 핵심은 ‘꾸준함’ [노화설계]</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133555566/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133555566/2</guid>
-      <pubDate>2026-03-18T14:57:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133555301.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;근력운동의 중요성이 점점 더 강조되고 있다. 하지만 실제 실천율은 낮은 편이다. 질병관리청의 국민건강영양조사를 기반으로 한 국민건강통계에 따르면, 19세 이상 성인 가운데 2022년 기준 ‘주 2회 이상’ 지침을 충족하는 비율은 26.1%에 불과하다. 남성(34.7%)보다 여성(17.3%)의 참여율이 특히 저조하다.반면 유산소 운동(주당 150~300분의 중등도 또는 75~150분의 고강도 활동) 실천율은 53.1%에 달한다. 남성(55.4%)과 여성(50.7%) 모두 둘 중 하나는 하루 약 20~40분 동안 걷거나 뛰거나 자전거를 탄다는 의미다. 유산소 운동은 심혈관 건강 유지에 중요하다. 하지만 나이가 들수록 근력 강화 운동의 중요성이 더욱 커진다. 근력은 일상생활 수행 능력과 신체적 독립성을 유지하는 핵심 요소이기 때문이다. 근력 저하는 낙상 위험 증가와 직결되며, 이는 노년기 기능 저하의 주요 원인 중 하나다. 근육량은 나이가 들수록 자연스럽게 감소한다. 이 과정에서</content:encoded>
-    </item>
-    <item>
-      <title>엔비디아 서버 CPU 공세에 인텔은 ‘동맹’ AMD는 ‘정면승부’…일반 PC 가격까지 영향?</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133555789/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133555789/1</guid>
-      <pubDate>2026-03-18T14:57:42.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133555780.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 데이터센터 시장을 둘러싼 글로벌 반도체 공룡들의 총성 없는 전쟁이 새로운 국면을 맞이했다. 그동안 그래픽처리장치(GPU) 패권을 바탕으로 독주를 이어오던 엔비디아(NVIDIA)가 이제는 중앙처리장치(CPU) 시장의 왕좌까지 정조준하고 나섰기 때문이다.기존 서버 및 데이터센터 시장의 일반적인 공식은 인텔이나 AMD가 내놓은 x86 아키텍처 기반의 CPU에 엔비디아의 GPU를 조합하는 형태였다. 하지만 엔비디아는 지난 2023년 하반기 ARM 아키텍처 기반의 자체 CPU ‘그레이스(Grace)’를 본격 출시하며 시장에 파란을 일으켰고, 지난 3월 16일(현지시간 기준) 개최된 연례 기술 행사 ‘GTC 2026’에서는 한층 강력해진 차세대 CPU ‘베라(Vera)’를 발표하며 서버/데이터센터 CPU 시장 잠식을 본격화했다.이러한 엔비디아의 거침없는 영토 확장에 직면한 기존 x86 진영의 두 축, 인텔과 AMD의 대응 전략은 극명하게 엇갈리고 있다.인텔의 선택: 현실적</content:encoded>
-    </item>
-    <item>
-      <title>“LG 피지컬AI 내년 현장 투입…제조업 AI선 韓 승산 있어”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260318/133553838/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260318/133553838/1</guid>
-      <pubDate>2026-03-18T15:14:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133553928.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“LG의 피지컬 인공지능(AI)이 2027년에는 현장에서 ‘임팩트’를 내는 것이 목표입니다.”9일 서울 강서구 LG AI연구원에서 만난 김승환 LG AI연구원 피지컬인텔리전스랩장(상무)이 동아일보 인터뷰에서 강조한 말이다. LG AI연구원은 개발 중인 피지컬AI를 내년 중 계열사 제조 현장에 투입해 생산 비용 절감과 수율 향상 등 성과를 낼 수 있도록 관련 연구를 진행하고 있다.●속도 내는 LG그룹 피지컬 AILG는 그룹의 AI 연구를 총괄하는 LG AI연구원의 ‘비전랩’을 올 1월 ‘피지컬인텔리전스랩’으로 개편했다. 기존 비전랩 인력에 데이터인텔리전스랩에서 강화학습(AI가 시행착오를 겪으며 경험을 쌓는 학습 방법)을 담당하던 인력을 더해 조직을 확대했다. 기존 이미지·영상 인식 AI를 연구하던 조직을 로봇과 스마트팩토리를 연구하는 ‘행동모델’ 개발 전담 조직으로 재정비한 것이다. 김 상무는 “로봇 기술의 출발점은 로봇의 눈을 만들어 주는 것”이라며 “이미지를 공간으로, 이를</content:encoded>
-    </item>
-    <item>
-      <title>정부, AI 응용제품 상용화에 7540억 원 투자</title>
-      <link>https://www.donga.com/news/It/article/all/20260318/133555929/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260318/133555929/1</guid>
-      <pubDate>2026-03-18T16:07:29.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133556627.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 내년까지 인공지능(AI) 응용제품 상용화에 7540억 원을 투자한다. 향후 2년 내 출시 가능한 상품과 서비스를 집중 지원해 일상생활과 산업 내 AI 전환 속도를 앞당기는 취지다. 기획예산처는 18일 정부서울청사에서 열린 ‘비상경제장관회의 겸 공급망안정화위원회’에서 AI 응용제품 신속 상용화 지원사업(AX-Sprint) 추진계획을 의결했다고 밝혔다. 11개 부처가 참여하는 협의체를 중심으로 AI 응용 제품과 서비스의 개발과 출시를 지원한다. 올해 6135억 원, 내년에 1405억 원 등 2년간 7540억 원의 예산이 투입된다.1, 2년 내 출시될 가능성이 큰 제품과 서비스의 상용화가 집중 지원 대상이다. 여기에는 고숙련 작업자의 노하우를 스마트안경으로 알려주는 작업 시스템, 도로 작업 중인 근로자에게 차량이 접근하는 등의 위험 상황을 경고하는 로봇, 고령자의 낙상 위험을 줄이는 보행보조차 등이 포함된다.우수 제품으로 선정되면 공공조달 혁신제품으로 지정하고 필요한 규제를 개선하</content:encoded>
-    </item>
+    <lastBuildDate>2026-03-20T00:17:42.661Z</lastBuildDate>
     <item>
       <title>삼성·SK “엔비디아의 디지털트윈 활용해 ‘가상공장’ 구축”</title>
       <link>https://www.donga.com/news/Economy/article/all/20260318/133556816/1</link>
@@ -292,6 +68,13 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133559778.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 인공지능(AI) 반도체 시장을 주도하는 엔비디아를 추격하는 AMD의 리사 수 최고경영자(CEO)도 한국을 찾아 삼성, 네이버 등과 ‘AI 동맹’을 맺었다. 젠슨 황 엔비디아 CEO, 샘 올트먼 오픈AI CEO 등 글로벌 AI 패권을 쥔 빅테크 수장들이 연이어 한국을 찾으며, 한국이 글로벌 AI 경쟁에서 대체 불가능한 핵심 거점으로 부상했다는 평가가 나온다.18일 재계에 따르면 수 CEO는 이날 오후 삼성전자 평택캠퍼스를 찾아 전영현 디바이스솔루션(DS)부문장(부회장) 등 주요 경영진과 차세대 AI 메모리·컴퓨팅 기술 분야 협력 확대를 위한 양해각서(MOU)를 체결했다.  이번 협약을 통해 삼성전자는 AMD의 차세대 가속기 ‘인스팅트 MI455X’에 탑재될 고대역폭메모리 HBM4의 우선 공급 업체로 지정됐다. 6세대 제품인 HBM4는 엔비디아가 최근 공개한 차세대 AI 가속기 ‘베라 루빈’에도 탑재되는 제품이다. AMD와 삼성전자는 메모리 공급을 넘어 첨단 위탁생산(파운드리</content:encoded>
     </item>
     <item>
+      <title>젠슨 황 “中수출용 AI칩 ‘H200’ 생산 재개”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260318/133559776/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260318/133559776/2</guid>
+      <pubDate>2026-03-19T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133558137.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엔비디아가 회사의 고성능 인공지능(AI) 칩인 ‘H200’ 중국 수출을 재개한다고 밝혔다. 젠슨 황 엔비디아 최고경영자(CEO·사진)는 17일(현지 시간) 미국 캘리포니아주 새너제이에서 열린 엔비디아의 연례 개발자 회의 ‘GTC 2026’ 현장에서 열린 기자간담회에서 “중국에 수출하기 위해 (H200) 생산을 재개했다”고 밝혔다. 황 CEO는 “많은 중국 고객사에서 H200 칩의 구매 주문을 받았다”며 “불과 2주 전과도 상황이 다를 만큼 공급망이 급변하고 있다”고 덧붙였다. 이날 로이터통신은 소식통을 인용해 엔비디아가 중국 시장을 타깃으로 한 그록의 추론용 칩을 만들고 있다고도 보도했다. 엔비디아가 중국 시장용으로 준비 중인 그록의 칩은 성능을 낮추는 등 중국 수출을 위해 특별히 사양을 바꾼 제품이 아닌 것으로 전해졌다. 황 CEO는 이날 기자간담회에서 삼성과의 협력도 다시 한번 강조했다. 황 CEO는 급증하는 AI 인프라 수요에 대응해 제조 역량을 확보하고 있는지를 묻는 질문</content:encoded>
+    </item>
+    <item>
       <title>생각만으로 기계 조종… ‘뇌-컴퓨터 연결’ 국가사업 닻 올려</title>
       <link>https://www.donga.com/news/Economy/article/all/20260318/133558731/2</link>
       <guid>https://www.donga.com/news/Economy/article/all/20260318/133558731/2</guid>
@@ -304,6 +87,13 @@
       <guid>https://www.donga.com/news/Economy/article/all/20260318/133558637/2</guid>
       <pubDate>2026-03-19T00:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133560714.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 내년까지 인공지능(AI) 응용제품 상용화에 7540억 원을 투자한다. 향후 2년 내 출시 가능한 상품과 서비스를 집중 지원해 일상생활과 산업 내 AI 전환 속도를 앞당긴다는 취지다.  기획예산처는 18일 정부서울청사에서 열린 ‘비상경제장관회의 겸 공급망안정화위원회’에서 AI 응용 제품 신속 상용화 지원사업(AX-Sprint) 추진계획을 의결했다고 밝혔다. 11개 부처가 참여하는 협의체를 중심으로 AI 응용 제품과 서비스의 개발과 출시를 지원한다. 올해 6135억 원, 내년에 1405억 원 등 2년간 7540억 원의 예산이 투입된다. 1, 2년 내 출시될 가능성이 큰 제품과 서비스의 상용화가 집중 지원 대상이다. 여기에는 고숙련 작업자의 노하우를 스마트안경으로 알려주는 작업 시스템, 도로 작업 중인 근로자에게 차량이 접근하는 등의 위험 상황을 경고하는 로봇, 고령자의 낙상 위험을 줄이는 보행보조차 등이 포함된다. 우수 제품으로 선정되면 공공조달 혁신제품으로 지정하고 필요한</content:encoded>
+    </item>
+    <item>
+      <title>“LG 피지컬AI 내년 현장 투입… 제조업 AI선 韓 승산 있어”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260318/133558509/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260318/133558509/2</guid>
+      <pubDate>2026-03-19T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/18/133557954.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“LG의 피지컬 인공지능(AI)이 2027년에는 현장에서 ‘임팩트’를 내는 것이 목표입니다.” 9일 서울 강서구 LG AI연구원에서 만난 김승환 LG AI연구원 피지컬인텔리전스랩장(상무)이 동아일보 인터뷰에서 강조한 말이다. LG AI연구원은 개발 중인 피지컬AI를 내년 중 계열사 제조 현장에 투입해 생산비용 절감과 수율 향상 등 성과를 낼 수 있도록 관련 연구를 진행하고 있다.● 속도 내는 LG그룹 피지컬AI LG는 그룹의 AI 연구를 총괄하는 LG AI연구원의 ‘비전랩’을 올 1월 ‘피지컬인텔리전스랩’으로 개편했다. 기존 비전랩 인력에 데이터인텔리전스랩에서 강화학습(AI가 시행착오를 겪으며 경험을 쌓는 학습 방법)을 담당하던 인력을 더해 조직을 확대했다. 기존 이미지·영상 인식 AI를 연구하던 조직을 로봇과 스마트팩토리를 연구하는 ‘행동모델’ 개발 전담 조직으로 재정비한 것이다. 김 상무는 “로봇 기술의 출발점은 로봇의 눈을 만들어 주는 것”이라며 “이미지를 공간으로, 이를</content:encoded>
     </item>
     <item>
       <title>“AI가 초급 개발자 대체 비상상황” 일자리 직격탄 맞은 청년들</title>
@@ -353,6 +143,216 @@
       <guid>https://www.donga.com/news/It/article/all/20260319/133560826/1</guid>
       <pubDate>2026-03-19T06:30:51.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133560827.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;아몬드를 꾸준히 섭취하면 비만 성인의 염증 지표가 개선될 수 있다는 연구 결과가 나왔다.미국 미주리대 의대 연구진은 이 같은 내용을 최근 국제 학술지 ‘뉴트리언츠’Nutrients)에 게재했다. 연구진은 체질량지수(BMI) 30~45kg/㎡에 해당하는 30~45세 비만 성인 69명을 대상으로 무작위 대조시험을 실시했다. 참가자들은 비만을 제외하면 전반적으로 건강한 상태였다.연구는 두 그룹으로 나뉘어 6주간 진행됐다. 한 그룹은 매일 57g(약 46알)의 통아몬드를 섭취했고, 다른 그룹은 동일 열량의 쿠키를 먹었다. 단일맹검 방식으로 진행돼 참가자들은 자신이 속한 그룹을 알 수 없었으며, 별도의 식단 상담은 제공되지 않았다.그 결과, 체중과 허리·엉덩이 둘레, 혈압, 혈당, 인슐린, 인슐린 감수성, 혈중 지질 등 주요 건강 지표에서는 두 그룹 간 유의미한 차이가 나타나지 않았다. 다만 HDL(고밀도) 콜레스테롤 수치는 아몬드 섭취 그룹에서 상대적으로 높게 나타났다.또한 아몬드</content:encoded>
+    </item>
+    <item>
+      <title>“전립선비대증 약, 실명 유발 녹내장 발병 위험 52% 높여”</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133561826/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133561826/1</guid>
+      <pubDate>2026-03-19T10:12:57.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133561827.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전립선비대증 환자에게 가장 흔하게 처방되고 있는 치료제 ‘알파차단제’가 실명을 유발하는 녹내장 발생 위험을 높인다는 연구 결과가 나왔다.서울대병원 안과 김영국 교수팀은 전립선비대증 환자의 알파차단제 사용과 급성 폐쇄각 녹내장 발생 간의 연관성을 분석한 결과 알파차단제를 복용할 경우 급성 폐쇄각 녹내장 발생 위험이 약 52% 증가했다고 19일 밝혔다. 알파차단제는 전립선 평활근을 이완시켜 소변 흐름을 개선하는 효과가 있어 전립선비대증의 1차 치료제로 널리 처방되고 있다.하지만 알파차단제는 눈의 홍채 확대근에 존재하는 α-1 수용체에도 작용해 동공 확장 능력을 저하하고 홍채를 이완시키는 부작용이 있다.문제는 이 부작용이 급성 폐쇄각 녹내장을 유발할 수 있다는 점이다. 급성 폐쇄각 녹내장은 눈 안의 방수 배출구가 갑자기 막히면서 안압이 급격히 상승하는 안과 응급 질환으로 제때 치료하지 않으면 영구적인 시신경 손상과 실명을 초래할 수 있다.그동안 의학계에서는 알파차단제가 급성 폐쇄</content:encoded>
+    </item>
+    <item>
+      <title>먹는 비만약 나왔지만…“주사보다 효과 낮아, 대체 아닌 ‘보완’”[바디플랜]</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133562093/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133562093/2</guid>
+      <pubDate>2026-03-19T10:58:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133562023.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;몇 년 전 등장해 전 세계적으로 큰 인기를 끈 비만 치료제는 한 가지 큰 단점이 있다. 매주 주사를 맞아야 한다는 점이다. 일부 연구에 따르면 각국 성인 인구의 약 10%가 주사 공포증을 앓고 있다.이러한 한계를 극복하기 위해 제약사들은 주사 대신 입으로 먹는 비만 치료제 알약 개발 경쟁을 벌여왔다. 그 결과 일부 제품이 시장에 나왔거나 출시를 앞두고 있다.GLP-1 ‘먹는 비만약’ 시대 열리나위고비를 만드는 덴마크 노보 노디스크(Novo Nordisk)가 개발한 세마글루타이드(semaglutide) 기반 경구 제형은 미국에서 이미 승인돼 사용되고 있으며, 비만 치료 용도로의 적용 확대도 진행되고 있다. 미국 일라이 릴리(Eli Lilly)가 개발한 경구용 비만 치료제 오르포글리프론(orforglipron)은 미 식품의약청(FDA)의 승인을 조만간 받을 가능성이 높은 것으로 분석된다. 두 약물 모두 GLP-1(글루카곤 유사 펩타이드-1) 수용체 작용제 계열이다. GLP-1</content:encoded>
+    </item>
+    <item>
+      <title>리사 수, 김성훈 업스테이지 대표와 만났다…AMD 최신 GPU 공급 약속</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133562561/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133562561/1</guid>
+      <pubDate>2026-03-19T11:56:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133562573.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;리사 수 AMD 최고경영자(CEO)는 19일 서울 종로구 포시즌스 호텔에서 김성훈 업스테이지 대표와 만나 차세대 인공지능(AI) 개발 가속화를 위한 협력 방안을 논의했다.수 CEO는 “업스테이지는 훌륭한 파트너”라며 “현재 협업을 즐겁게 이어가고 있으며, 앞으로도 양사가 협력을 더욱 확대해 나가길 기대한다”고 말했다. 양사는 이날 회동에서 AMD의 ‘인스팅트 MI355’ 그래픽처리장치(GPU)를 도입해 업스테이지의 자체 거대언어모델(LLM) ‘솔라(SOLAR)’와 문서 처리 AI 솔루션 개발에 활용하기로 했다.AMD와 업스테이지의 인연은 지난해 8월부터 시작됐다. AMD가 620억 원 규모의 업스테이지 시리즈B 브릿지 투자에 신규 투자자로 참여하면서다. AI 인프라 생태계 확장에 나선 AMD가 AI 모델 파트너사로 업스테이지를 선택한 것은 예견된 수순이었다는 평가가 나온다. 업스테이지는 이번 리사 수 방한 일정에 포함된 유일한 AI 스타트업이다. 김 대표는 “1만 장 규모의 AMD</content:encoded>
+    </item>
+    <item>
+      <title>폐어구 얽힌 제주 돌고래 ‘쌘돌이’, 스스로 그물 제거</title>
+      <link>https://www.donga.com/news/Society/article/all/20260319/133563563/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260319/133563563/1</guid>
+      <pubDate>2026-03-19T13:59:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133564126.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;페어구에 얽혀 신체 일부가 잘려나간 제주 남방큰돌고래 ‘쌘돌이’가 스스로 어구를 제거해 자유를 찾았다.19일 다큐제주 오승목 감독과 제주대학교 고래·해양생물보전연구센터에 따르면 이날 오전 서귀포시 대정읍 해상에서 이뤄진 남방큰돌고래 모니터링에서 ‘쌘돌이’ 신체에 얽혀 있던 폐어구가 사라진 것으로 확인됐다.다큐제주 측은 쌘돌이가 스스로 폐그물 등을 제거한 것으로 보고 있다. 폐어구에 얽힌지 87일 만이다.새끼 남방큰돌고래인 쎈돌이는 지난해 12월23일 발견 당시 신체 곳곳에 그물이 감겨 있었다.쌘돌이는 제주도 돌고래 긴급구조 목록에 올랐다. 다만 유영하는 속도가 빨라 구조에 난항이 빚어졌다.특히 지난 달 22일께 관찰됐을 땐 폐어구에 의해 등지느러미 대부분이 잘려나간 채 발견됐다.쌘돌이는 등지느러미를 잃었으나 모니터링 결과 건강에 큰 문제는 없는 것으로 파악됐다.다큐제주 측은 “쌘돌이는 스스로 폐어구를 끊어내고 소중한 생명을 스스로 지켜냈다”며 “인간에 의해 오염된 바다에</content:encoded>
+    </item>
+    <item>
+      <title>‘탑건 아이스맨’ 발 킬머, AI로 부활…영화 출연한다</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260319/133563268/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260319/133563268/1</guid>
+      <pubDate>2026-03-19T14:44:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133563441.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 세상을 떠난 할리우드 배우 발 킬머가 인공지능(AI) 기술로 되살아나 영화에 출연한다.AP통신은 18일(현지 시간) “독립영화 ‘무덤만큼 깊은’(As Deep as the Grave)에 AI로 만든 킬머가 출연한다”고 전했다.고인은 원래 생전에 이 영화에 출연하기로 약속했었다고 한다. 하지만 건강이 나빠져 힘들어졌고, 결국 세상을 떠났다. 그런데 연출을 맡은 코에르테 보어히스 감독은 킬머가 타계한 뒤 유족으로부터 디지털 복제 허가를 받아 출연을 성사시켰다. 고인의 딸인 메르세데스는 “아버지가 새로운 기술로 스토리텔링의 가능성을 넓히는 일을 긍정적으로 봐왔기 때문에 AI 재현에 동의했다”고 밝혔다.AP통신 등에 따르면 영화 ‘무덤만큼 깊은’은 20세기 초 미국의 한 고고학자 부부를 다룬 실화를 바탕으로 한다.  AI로 재현된 킬머는 가톨릭 사제인 핀탄 신부 역을 맡는 것으로 알려졌다.킬머는 2022년 우정 출연했던 영화 ‘탑건: 매버릭’에서도 목소리를 AI로 재현됐다.</content:encoded>
+    </item>
+    <item>
+      <title>[주간스타트업동향] 인포플라 ‘셀토(Selto)’, iF 디자인 어워드 2026 본상 수상 外</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133564536/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133564536/1</guid>
+      <pubDate>2026-03-19T15:20:57.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133564494.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스타트업이 선보인 새 상품이나 서비스, IPO 준비와 해외 진출, 투자 유치와 수상 소식 등 최신 동정을 한 눈에 보기 쉽게 전해드립니다.인포플라 ‘셀토(Selto)’, iF 디자인 어워드 2026 본상 수상인포플라(대표 최인묵)는 자사의 비전(Vision·시각) 기반 AI 자동화 플랫폼 ‘셀토(Selto)’가 세계 3대 디자인 어워드 중 하나인 ‘iF 디자인 어워드 2026’에서 산업 생산성 및 유지보수 시스템 부문 본상을 수상했다고 3월 16일 밝혔다.인포플라는 AI IT 기반 서비스 전문기업으로 기업 및 개인의 업무 자동화 혁신을 위해 자체 개발한 비전(Vision·시각) 기반 에이전트 플랫폼 셀토(Selto)를 중심으로 사업을 전개하고 있다. 제조 및 설비 관리 분야로의 확장을 위해 스마트 자동화 플랫폼 개발과 적용 영역 확대를 추진하고 있다고 회사 측은 밝혔다.iF 디자인 어워드는 1953년 독일에서 시작된 세계 디자인 상 중 하나로, 제품·UX·서비스·커뮤니케이션</content:encoded>
+    </item>
+    <item>
+      <title>SK AX, 통합 브랜드 ‘엑스젠틱와이어’ 공개…“에이전틱 AI로 기업 혁신”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133564545/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133564545/1</guid>
+      <pubDate>2026-03-19T15:45:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133564777.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기업 AI 전환(AX) 전문기업 SK AX(옛 SK C&amp;C)가 통합 브랜드 ‘엑스젠틱와이어(AXgenticWire)’를 공개하고 에이전틱 AI 기반 운영 혁신에 나선다고 19일 밝혔다. 스스로 판단·실행하는 에이전틱 AI로 기업 운영 구조를 근본적으로 바꾸겠다는 구상이다.엑스젠틱와이어는 ﻿스스로 판단하고 실행하는 ‘에이전틱 AI’와 기업 구조 재설계를 뜻하는 ‘리와이어(Rewire)’를 합친 이름이다. SK AX는 다수의 AI 에이전트(비서)가 협업해  의사결정부터 실행까지 함께 처리하는 멀티 에이전트 환경을 구축할 계획이다.차지원 SK AX 최고AI혁신책임자(CAIO)는  “AI의 판단이 실제 기업 운영에서 작동하는 구조가 경쟁력을 좌우한다”며 “기업의 의사결정과 운영 효율을 끌어올리겠다”고 말했다.</content:encoded>
+    </item>
+    <item>
+      <title>[스타트업-ing] 브리즘 “3D 프린팅 맞춤형 안경 세계로”</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133565121/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133565121/1</guid>
+      <pubDate>2026-03-19T16:06:30.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133565077.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;새로 산 안경이 얼굴에 잘 맞지 않아 흘러내리거나 불편하게 느끼는 일은 안경 사용자라면 대부분 경험했을 것이다. 안경 다리가 관자놀이를 조이거나 코, 귀에 제대로 걸리지 않아 자꾸 비뚤어지는 경우도 그렇다. 그렇기에 안경을 쓰는 사람은 또한 대부분 여러 번 생각했을 것이다. 내 얼굴에 딱 맞는, 나를 위한 맞춤형 안경은 없을까. 퍼스널 아이웨어 스타트업 브리즘은 이 생각에 답을 제시한다.브리즘은 정교한 3D 기술로 개인 맞춤형 안경을 만든다. 3D 스캔 기술로 사람마다 다른 얼굴의 윤곽, 이목구비를 정밀하게 조사하고 이를 토대로 가장 알맞은 모양의 안경을 3D 프린팅하는 원리다.브리즘은 ▲가산 ▲마곡 ▲삼성 ▲서울시청 ▲여의도 ▲역삼 ▲을지로 ▲성수 ▲잠실롯데월드(이상 서울) ▲광교 ▲동탄 ▲판교 ▲평촌(이상 경기도) ▲인천 송도 ▲부산 해운대 등 우리나라 열 다섯 곳에 브리즘 스토어를 세워 서비스와 상품을 제공한다. 미국 뉴욕 맨해튼에도 브리즘 스토어가 있다. 이 가운데 서울</content:encoded>
+    </item>
+    <item>
+      <title>57세에 치매 환자 된 내과 의사 “답은 ‘조기 진단’ 강화”[노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133565050/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133565050/2</guid>
+      <pubDate>2026-03-19T16:06:58.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133564909.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;치매 환자를 치료하던 내과 의사가 57세에 알츠하이머병(치매의 가장 흔한 유형) 진단을 받았다. 하루아침에 직장과 회사에서 제공하던 건강보험을 잃은 그는 가족을 돌보던 보호자에서 돌봄이 필요한 환자가 됐다. 다행히 그는 새로운 치료법 덕에 인지 기능 저하 속도가 늦춰지고 일부 기능이 호전돼 일상에 복귀했다. 완전하지는 않지만 과거에 근접한 생활을 하고 있다. 조기발병 알츠하이머 환자인 그는 3년간의 경험을 묵히지 않았다. 31년간 노인 환자들을 돌본 전문 지식을 더해 ‘더욱 적극적인 조기 진단’의 필요성과 이를 뒷받침할 정책 마련을 제안했다. 사연의 주인공은 미국인이다. 한국과 미국은 의료 현실이 다르다. 그럼에도 공감되는 부분이 많아 소개한다. 월스트리트저널과 폭스 뉴스에 자신의 사례를 기고한 이는 오클라호마대학교 의대에서 내과 전문의를 따고 존스 홉킨스에서 추가 전문 수련(펠로우십)을 마친 브렌트 비즐리(Brent Beasley)다. 올해 60세인 그는 알츠하이머병으로 은</content:encoded>
+    </item>
+    <item>
+      <title>마이크론 분기 매출 전년의 3배로…‘메모리 기업 훈풍’ 예고</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133564358/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133564358/1</guid>
+      <pubDate>2026-03-19T16:14:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133565180.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 3위 메모리 반도체 기업 미국 마이크론테크놀로지가 인공지능(AI) 발 메모리 수요 폭발에 힘입어 사상 최대 분기 실적을 냈다. 전년 동기 대비 매출이 3배 가까이 급증하며 시장 전망치를 크게 웃돌았다. 18일(현지시간) 마이크론은 공시를 통해서 2026 회계연도 2분기(2025년 12월~2026년 2월) 매출 238억6000만 달러(약 35조8000억 원), 영업이익 161억3500만 달러(약 24조2000억 원)를 기록했다고 밝혔다. 전년 동기 대비 매출은 196%, 영업이익은 810% 불어나 역대 최대치다. 영업이익률은 67.6%로 치솟았다.마이크론은 삼성전자, SK하이닉스 등 주요 메모리 기업 중 가장 먼저 실적을 발표해 전 세계 반도체 업황을 미리 가늠하는 ‘풍향계’로 불린다. 최근 D램과 낸드플래시 등 메모리 반도체 가격 상승세가 가파른 가운데, 이러한 가격 폭등세가 마이크론의 압도적 실적으로 증명됐다는 평가다.특히 AI 가속기용 메모리가 마이크론 실적 상승을 견</content:encoded>
+    </item>
+    <item>
+      <title>매출 4억인데 시총 1조원…이틀새 주가 10배 뛴 기업 정체는?</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133565177/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133565177/2</guid>
+      <pubDate>2026-03-19T16:20:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133565210.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI 드론 소프트웨어 기업 스와머가 상장 직후 이틀 만에 1000% 급등했다. 매출 4억 원 대비 시총 1조 원 괴리와 전쟁·AI 테마가 만든 과열 논란을 분석한다.</content:encoded>
+    </item>
+    <item>
+      <title>정부, 리사 수 AMD CEO와 협력 논의…AI인프라 공급망 확대</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133564616/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133564616/1</guid>
+      <pubDate>2026-03-19T16:34:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133565373.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전 세계 ‘인공지능(AI) 3강’ 도약을 추진 중인 정부가 AI 인프라 공급망 확대를 위해 리사 수 AMD 최고경영자(CEO)를 만나 협력 방안을 논의했다. 19일 과학기술정보통신부는 임문영 국가AI전략위원회 부위원장과 하정우 청와대 AI미래기획수석이 이날 오전 수 CEO과 회담을 가졌다고 밝혔다. 임 부위원장과 하 수석은 정부가 추진 중인 ‘AI 고속도로 구축’ 사업을 소개하며, 글로벌 AI 생태계에서 협력을 강조했다. 수 CEO 역시 이번 방한을 통해 국내 AI 기업과의 협력에 만족한다고 밝혔다. 수 CEO는 18일 이재용 삼성전자 회장과 최수연 네이버 대표, 19일 AI 스타트업인 업스테이지 김성훈 대표와 정부 인사들까지 연쇄 회동을 이어갔다. 이번 회동은 한국 정부 및 국내 기업들이 글로벌 AI 생태계에서 주권을 확보하는 데 중요한 의미를 지닌다. 엔비디아가 글로벌 AI 반도체 시장을 독식하는 상황에서 AMD는 ‘인스팅트’ 시리즈를 출시하며 유일한 대항마로 떠올랐다. AI반도</content:encoded>
+    </item>
+    <item>
+      <title>[반려동물 20세 시대]﻿ 고양이 ‘건강 수명’ 연장, 줄기세포 치료가 열쇠 될까?</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133565381/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133565381/1</guid>
+      <pubDate>2026-03-19T17:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133565238.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;반려묘 보호자들의 가장 큰 소망은 우리 아이들이  ‘오래도록 아프지 않고 곁에 있어 주는 것’일 겁니다. 최근 수의학계에서 화두가 되고 있는 줄기세포 치료(Stem Cell Therapy)는 단순히 생명을 연장하는 것을 넘어, 고양이의 ‘건강 수명’을 20세 이상으로 끌어올릴 핵심 기술로 주목받고 있습니다. 불과 몇 년 전까지만 해도 실험적인 단계로 여겨졌던 이 치료법은 이제 수많은 임상 데이터를 통해 안전성을 입증하며 만성 질환 관리의 새로운 패러다임을 제시하고 있습니다.고양이 질환의 난제, ‘염증과 섬유화’고양이는 개와 비교했을 때 유독 면역 매개성 질환과 만성 염증성 질환이 흔한 편입니다. 대표적인 예가 만성 신장질환(CKD), 난치성 구내염, 만성 췌장염입니다. 이러한 질환들의 공통점은 단순히 장기가 손상되는 것에 그치지 않고, 반복되는 염증으로 인해 조직이 딱딱하게 변하는 ‘섬유화(Fibrosis)’가 진행된다는 점입니다. 한 번 섬유화된 조직은 기존의 약물치료만으로는</content:encoded>
+    </item>
+    <item>
+      <title>암환자 85% 5년이상 생존…“대장내시경 조기진단 효과 커”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133565250/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133565250/1</guid>
+      <pubDate>2026-03-19T17:15:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133568286.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 인구 10만 명당 암 발생자 수가 576.7명으로 5년 전에 비해 35.9% 늘어났다. 암으로 진단받은 환자 10명 중 8명가량은 5년 이상 생존하는 것으로 나타났다.삼성화재는 3월 21일 ‘암 예방의 날’을 앞두고 건강정보 통합플랫폼으로 암 관련 데이터를 분석했다고 19일 밝혔다. 2015년부터 축적된 정기 검진, 암 생존율, 치료 부담액 등의 고객 데이터를 바탕으로 분석했다.삼성화재에 따르면 인구 10만명당 암 발생자 수는 2020년 424.5명에서 지난해 576.7명으로 35.9% 증가했다.암 진단 후 5년 이상 생존한 고객의 비중은 2015년 84.8%에서 2021년 85.4%로 소폭 늘었다. 고령화로 암 환자가 증가하고 있지만 조기 발견 및 치료, 꾸준한 건강관리 등으로 생존율이 높아진 것이다. 특히 대장 내시경으로 용종을 떼어낸 고객들의 조기 발견 효과가 큰 것으로 보인다. 용종 절제 이력이 있는 고객들이 대장암 진단을 받은 후 병원 방문 일수는 평균 26일</content:encoded>
+    </item>
+    <item>
+      <title>“러닝 기록 깨볼까”…채널A ‘하트시그널 러닝 페스타’ 참가자 모집</title>
+      <link>https://www.donga.com/news/Sports/article/all/20260319/133565778/2</link>
+      <guid>https://www.donga.com/news/Sports/article/all/20260319/133565778/2</guid>
+      <pubDate>2026-03-19T17:26:30.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133565797.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;올봄 서울 마포구 문화비축기지에서 러닝과 페스티벌을 결합한 ‘하트시그널 러닝 페스타’가 개최된다. 채널A는 5월 3일 열리는 ‘하트시그널 러닝 페스타’ 참가자를 모집 중이라고 19일 밝혔다. 이번 대회는 러닝과 페스티벌을 결합한 것이 가장 큰 특징이다. 먼저, 도로교통 통제 속에 한강 위를 달릴 수 있는 10km(문화비축기지∼가양대교 왕복) 코스 러닝이 마련돼 있다. 1등에게는 900만 원 상당의 시몬스 N32 매트리스가 제공된다. 행사 참가자 전원에게는 완주 메달은 물론 △마르디 메크르디 특별 제작 티셔츠 △아미노바이탈 에너지젤(1박스) △베로카 멀티비타민&amp;미네랄 △바티스트 드라이샴푸 △밸런스밀 프로틴쉐이크&amp;프로틴바 △메디힐 토너패드 샘플링 파우치 △어테이션 마스크팩 △일동제약 케어리브 등으로 구성된 풍성한 러닝 키트가 제공(물품 변경 가능)될 예정이다.〈사진2〉 ‘기록’을 중시하는 러너들을 고려해 기록 경신 이벤트 ‘넘어봐, 너의 PB를!(Personal B</content:encoded>
+    </item>
+    <item>
+      <title>‘누구나 생활 속 위험 신고’ 안전신문고, 직접 써보니</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133566418/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133566418/1</guid>
+      <pubDate>2026-03-19T17:34:04.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133566181.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;소화전 앞을 점령한 불법 주차, 아파트 놀이터의 망가진 기구. 일상에서 마주치는 안전 위험 요소는 하루에도 수없이 눈에 밟힌다. 하지만 신고에서 막막함을 느끼게 된다. 112에 연락하기엔 경미하고, 구청에 전화하자니 번거롭다.이 문제를 해결하기 위해 행정안전부가 ‘안전신문고’를 운영하고 있다. 안전신문고는 누구나 생활 주변의 안전 위험 요소를 발견하면 언제 어디서나 손쉽게 신고할 수 있도록 구축한 시스템이다. 단순한 민원 접수 창구를 넘어, 단속 공무원 없이도 과태료 부과까지 이어지는 ‘시민 참여형 안전망’이라는 점에서 주목할 만하다.불법주정차부터 생활불편까지 신고 가능안전신문고는 안전 신고, 불법주정차, 자동차·교통위반, 생활불편 등 4대 분야를 아우른다. 2020년 12월에는 ‘생활불편신고’가, 2024년 2월에는 ‘스마트국민제보’가 안전신문고로 흡수된 바 있다. 과거에 제각각이던 신고 창구가 하나의 앱으로 통합된 셈이다.안전신문고의 4대 분야에서도 유형을 선택할 수 있다</content:encoded>
+    </item>
+    <item>
+      <title>동국대학교, 동아닷컴, 아이티동아, ‘스타트업 글로벌 홍보 프로그램’ MOU 체결… 우수 스타트업 해외진출 돕는다</title>
+      <link>https://www.donga.com/news/It/article/all/20260319/133566503/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260319/133566503/1</guid>
+      <pubDate>2026-03-19T17:40:48.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133566494.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아닷컴 및 아이티동아와 동국대학교 서울RISE사업단 캠퍼스타운센터가 19일, 스타트업 글로벌 홍보 활성화를 위한 업무협약(MOU)을 체결했다. 협약식은 동아일보 충정로 사옥에서 진행됐으며, 신석호 동아닷컴 대표, 강덕원 아이티동아 대표, 전병훈 동국대 서울RISE사업단 부단장 외 주요 관계자가 참석했다.유망한 국내 스타트업의 해외시장 진출을 돕는 이 프로그램은, 국내 스타트업의 최신 정보나 소식 등을 취재, 보도 및 영문번역 후 개재하여, 전 세계 독자가 각 국의 검색엔진(구글 등)을 통해 해당 영문 뉴스를 검색, 열람할 수 있도록 한다.동아닷컴과 아이티동아는 이 프로그램을 지난 2024년부터 운영하며, 전국 스타트업/창업 지원 유관기관을 비롯해, 액셀러레이터(AC) 및 벤처캐피탈(VC), 각 대학 창업지원단 등과 업무 협약을 맺었다. 현재까지 서울경제진흥원(SBA), 전국 창조경제혁신센터협의회, 엔슬파트너, 킬사글로벌, 서울과학기술대학교 등이 참여하고 있다.한편, 동국대학교</content:encoded>
+    </item>
+    <item>
+      <title>서울대병원 환자 1만6000명 정보, 직원에 유출…“메일 열진 않아”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260319/133566616/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260319/133566616/1</guid>
+      <pubDate>2026-03-19T18:34:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133566881.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울대병원에서 환자 약 1만6000명의 개인정보가 유출되는 사고가 발생했다. 서울대병원은 19일 홈페이지를 통해 “이달 14일 오후 2시 7분경, 병원 직원 간 이메일을 주고받는 과정에서 수신자 주소를 잘못 입력해 1만6000여 명의 환자 정보가 담긴 이메일이 수신자 1명에게 잘못 발송됐다”고 밝혔다. 유출된 정보에는 산모 이름과 생년월일, 산모 신체 정보와 출산 이력,  태아 및 신생아 관련 정보, 산모와 신생아의 의학적 검사 결과 등이 포함됐다. 주민등록번호와 휴대전화 번호를 제외한 거의 모든 개인정보가 유출된 셈이다. 병원 측은 “해당 메일은 아직 열어보지 않은 미수신 상태로 확인된다”고 설명했다. 병원은 메일 수신자와 운영자에게 해당 이메일 삭제를 요청했고, 개인정보보호위원회와 소관 부처인 교육부에 유출 사실을 신고했다. 다만 19일 오후 6시 현재 메일 수신자와 운영자에게 답변을 받지 못했다. 병원 측은 “앞으로 유사 사고가 재발하지 않도록 전 직원을 대상으로 개인정보보</content:encoded>
+    </item>
+    <item>
+      <title>“풀코스, 울트라… 거리 길수록 달리는 재미도 달라요”[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260319/133567601/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260319/133567601/2</guid>
+      <pubDate>2026-03-19T23:13:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/19/133566291.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;김휘율 건국대 수의학과 교수(64)는 2008년 가을 건국체육회에서 단체로 출전한 10km 단축마라톤 대회 참가를 계기로 달리기에 빠져들었다. 그때부터 지금까지 마라톤 풀코스와 울트라마라톤을 98회 완주한 ‘철각’이 됐다. 15일 열린 2026 서울마라톤 겸 제96회 동아마라톤까지 풀코스만 73회, 100km 이상 울트라마라톤을 25회 완주했다.“과거에는 스포츠를 즐겼지만 달리는 것엔 약간 두려움이 있었어요. 스노보드 타다 발목을 크게 다쳐, 등산은 했지만 달리기는 하지 않던 때였죠. 그런데 (건국)체육회 임원 모두 10km 마라톤에 참가하기로 한 겁니다. 저도 이사라 어쩔 수 없이 참가할 수밖에 없었고, 걷기부터 시작해 천천히 달리며 약 6개월 연습했어요. 대회 날 너무 힘들어 중간에 포기하려고 했죠. 그런데 건국체육회 조끼를 입고 있다는 자존심 때문에 끝까지 달렸죠.” 55분42초에 완주했다. 10km이지만 마라톤 첫 완주의 기쁨은 컸다. 꾸준히 달리니 발목 통증도 없었다.</content:encoded>
+    </item>
+    <item>
+      <title>‘방탄 통신단’, AI로 26만 인파 통신망 지킨다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260320/133566841/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260320/133566841/2</guid>
+      <pubDate>2026-03-20T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133568358.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;18일 오전 서울 종로구 중학동. 21일 방탄소년단(BTS) 공연이 열리는 광화문광장 무대에서 도보로 약 2분(115m) 거리에 SK텔레콤 이동기지국 차량이 멈춰 섰다. 현장 직원 5명이 안전 수칙을 확인한 뒤 기지국 차량 상단에 5세대(5G)·4세대(LTE) 안테나 4개를 올리느라 분주히 움직였다. 예전에는 엔지니어들이 수치를 일일이 대조하며 기지국 자리를 잡았지만, 이날 이동기지국이 멈춘 지점은 인공지능(AI)이 몇 초 만에 짚어낸 최적의 위치였다. SK텔레콤뿐 아니라 KT, LG유플러스까지 이동통신 3사가 약 26만 명이 몰릴 21일 대규모 K팝 공연을 앞두고 아날로그식 망 관리 대신 AI를 전면에 내세웠다. 광화문광장이 K팝 무대인 동시에 이통 3사의 통신망 관리를 위한 AI 기술의 경연장이 된 셈이다.●SKT, 수작업에서 AI로 통신망 뚫는다 SK텔레콤은 이번 공연에 사내 보안망과 연동한 AI 기반 네트워크 운영 시스템 ‘에이원(A-ONE)’을 처음 투입한다. 에이원은</content:encoded>
+    </item>
+    <item>
+      <title>AMD 리사 수-하정우 AI수석 회동… ‘AI 3강’ 도약 협력 논의</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260319/133566413/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260319/133566413/2</guid>
+      <pubDate>2026-03-20T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133568407.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전 세계 ‘인공지능(AI) 3강’ 도약을 추진 중인 정부가 AI 인프라 공급망 확대를 위해 리사 수 AMD 최고경영자(CEO)를 만나 협력 방안을 논의했다.  19일 과학기술정보통신부는 임문영 국가AI전략위원회 부위원장과 하정우 청와대 AI미래기획수석이 이날 오전 수 CEO와 회담을 가졌다고 밝혔다. 임 부위원장과 하 수석은 정부가 추진 중인 ‘AI 고속도로 구축’ 사업을 소개하며, 글로벌 AI 생태계에서 협력을 강조했다. 수 CEO 역시 이번 방한을 통해 국내 AI 기업과의 협력에 만족한다고 밝혔다. 수 CEO는 18일 이재용 삼성전자 회장과 최수연 네이버 대표, 19일 AI 스타트업인 업스테이지 김성훈 대표와 정부 인사들까지 연쇄 회동을 이어갔다. 이번 회동은 한국 정부 및 국내 기업들이 글로벌 AI 생태계에서 주권을 확보하는 데 중요한 의미를 지닌다. 엔비디아가 글로벌 AI 반도체 시장을 독식하는 상황에서 AMD는 ‘인스팅트’ 시리즈를 출시하며 유일한 대항마로 떠올랐다. A</content:encoded>
+    </item>
+    <item>
+      <title>불량 검사에 생성형 AI 도입하니, ‘가짜 불량’ 판정률 10%→0%</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260320/133567594/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260320/133567594/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133568562.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 찾은 LS일렉트릭 충북 청주 공장. 카메라를 탑재한 로봇팔이 완성된 전력차단기 제품을 상하좌우 곳곳에서 찍고 있었다. 로봇이 찍은 제품 사진은 인공지능(AI)이 실시간으로 분석해 하자가 없는지 체크한다. LS일렉트릭은 2023년 제품 검수 과정에 생성형 AI를 도입해 작업 효율을 크게 개선했다. 회사 관계자는 “불량이 아닌 제품을 불량으로 판독할 확률이 이전에는 10%였지만 이제는 0%”라고 말했다. 전 세계 전력망 시장을 공략하는 LS일렉트릭은 제조 현장에 최첨단 AI를 활용해 생산성 확대와 품질 혁신에 나섰다. 단순한 설비 자동화를 넘어 AI가 스스로 판단하고 진화하는 지능형 스마트팩토리로 탈바꿈하는 것이다.● AI 도입 이후 불량률 ‘0.0007%’ AI 로봇팔이 도입된 LS일렉트릭 청주 공장 G동은 부품 공급부터 조립, 시험, 포장 등 전 라인에 걸쳐 자동화 시스템이 구축됐다. 이곳에서는 산업용 차단기와 전자개폐기를 각각 연 2600만 대와 1200만 대 생산한다.</content:encoded>
+    </item>
+    <item>
+      <title>“리더가 먼저 AI 혁신 선도”… 전 계열사 AI 전환 나선 LS그룹</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260320/133567591/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260320/133567591/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>LS그룹은 전통 제조 분야에 인공지능(AI)과 빅데이터, 스마트에너지 등 첨단 기술을 접목해 제조 현장을 바꾸고 있다. 구자은 LS그룹 회장은 올해 신년사에서 주요 경영 방침 중 하나로 AI를 활용한 ‘혁신 기반 구축’을 제시하면서 “리더들이 앞장서 AI 기반 업무 혁신을 선도해 달라”고 주문했다. LS전선은 2024년부터 스마트 팩토리 구축에 나서 강원 동해시 해저케이블 공장에 제조운영관리(MOM) 시스템을 도입했다. 원료 입고부터 제품 출하까지 디지털로 기록하는 시스템이다. 또 동해 공장의 성공 사례를 표본으로 삼아 전 사업부에 스마트팩토리 구축 노하우를 전수해 기업 전반의 디지털 전환(DX)을 가속화하고 있다. 지금까지 해저케이블 중심으로 활용하던 MOM을 지중케이블, 자동차전선 등 각종 라인에 적용한 것이다. 최근에는 소재 분야까지 스마트 시스템을 도입해 생산성과 품질을 높이고 있다. LS전선은 여기서 더 나아가 디지털 트윈과 AI 등 최신 기술을 도입해 실시간 불량 예측</content:encoded>
+    </item>
+    <item>
+      <title>남녀 모두 부작용 없는 탈모약 나온다</title>
+      <link>https://www.donga.com/news/People/article/all/20260320/133567966/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260320/133567966/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133568549.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대구경북과학기술원(DGIST) 연구팀이 부작용 없이 모발 성장을 촉진하는 신규 펩타이드를 세계 최초로 개발했다고 19일 밝혔다. 남녀 모두 안전하게 사용할 수 있는 차세대 탈모 치료제 개발의 길이 열렸다는 평가가 나온다.DGIST 뇌과학과 문제일 김소연 교수와 뉴바이올로지학과 이창훈 교수 연구팀은 경북대 의대면역학교실 성영관 교수, 곽미희 박사 연구팀과 공동으로 컴퓨터 모델링을 활용해 모발 성장을 촉진하는 신규 펩타이드 ‘MLPH’를 개발했다. 현재 미국 식품의약국(FDA) 승인을 받은 탈모 치료제는 미녹시딜과 피나스테리드뿐이다. 하지만 바르는 약인 미녹시딜은 피부 자극을 유발할 수 있다. 먹는 약인 피나스테리드는 남성 호르몬을 조절하는 방식 탓에 남성에게는 성기능 장애를 유발할 수 있으며, 가임기 여성에게는 사용이 제한된다는 단점이 있다. 연구팀은 이를 극복하기 위해 성호르몬 대신 피를 만드는 조혈호르몬인 에리스로포이에틴(EPO)을 이용했다. 그간 학계에서는 EPO가 모낭 세</content:encoded>
+    </item>
+    <item>
+      <title>‘탑건’ 발 킬머, AI로 부활해 관객과 만나</title>
+      <link>https://www.donga.com/news/People/article/all/20260320/133567958/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260320/133567958/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133565960.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 세상을 떠난 할리우드 배우 발 킬머(사진)가 인공지능(AI) 기술로 되살아나 영화에 출연한다. AP통신은 18일(현지 시간) “독립영화 ‘무덤만큼 깊은(As Deep as the Grave)’에 AI로 만든 킬머가 출연한다”고 전했다. 고인은 원래 생전에 이 영화에 출연하기로 약속했었다고 한다. 하지만 건강이 나빠져 힘들어졌고, 결국 세상을 떠났다. 그런데 연출을 맡은 코트 보어히스 감독은 킬머가 타계한 뒤 유족으로부터 디지털 복제 허가를 받아 출연을 성사시켰다. 고인의 딸인 머세이디스는 “아버지가 새로운 기술로 스토리텔링의 가능성을 넓히는 일을 긍정적으로 봐왔기 때문에 AI 재현에 동의했다”고 밝혔다. AP통신 등에 따르면 영화 ‘무덤만큼 깊은’은 20세기 초 미국의 한 고고학자 부부의 실화를 바탕으로 한다. AI로 재현된 킬머는 가톨릭 사제인 핀탄 신부 역을 맡는 것으로 알려졌다. 킬머는 2022년 우정 출연했던 영화 ‘탑건: 매버릭’에서도 목소리를 AI로 재현했다</content:encoded>
+    </item>
+    <item>
+      <title>백신 기여 ‘박만훈상’ 美오렌스타인 교수</title>
+      <link>https://www.donga.com/news/People/article/all/20260320/133567962/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260320/133567962/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133568525.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 예방접종 정책 발전과 백신 생산 역량 확대에 기여한 인물 및 기관에 수여하는 ‘박만훈상’의 수상자로 월터 오렌스타인 미국 에머리대 의대 교수(사진)와 개발도상국 백신생산 기업 네트워크(DCVMN)가 19일 선정됐다. SK바이오사이언스가 후원하고 국제백신연구소(IVI)가 주최하는 박만훈상은 국내 세포배양 백신의 선구자인 고 박만훈 SK바이오사이언스 부회장의 업적을 기리고자 2021년 제정됐다. 올해 개인 수상자로 선정된 오렌스타인 교수는 1988년부터 2004년까지 미국 질병통제예방센터(CDC) 산하 국가 면역 프로그램 책임자를 맡았다. 당시 아동 예방접종률을 크게 높여 이 기간 동안 토착 홍역 전파가 사실상 사라졌다. DCVMN 회원사들은 매년 60억 도즈(투여분) 이상의 백신을 공급하며 중·저소득국의 백신 접근성 확보에 중요한 역할을 하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>국내 세번째 신종 토종 공룡 발견… 백악기에 살던 ‘둘리사우루스’</title>
+      <link>https://www.donga.com/news/It/article/all/20260320/133566879/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260320/133566879/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133566130.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전남 신안 압해도에서 한반도 세 번째 신종 공룡인 ‘둘리사우루스 허미나이(Doolysaurus huhmini·이하 둘리사우루스)’가 발견됐다. 전남대 한국공룡연구센터 연구팀은 둘리사우루스를 발견한 연구 결과를 19일(현지 시간) 국제학술지 ‘화석 기록(Fossil Record)’에 발표했다. 한반도에서 발견된 신종 공룡이 학계에 보고된 건 이번이 세 번째다. 전남 보성에서 발견된 ‘코리아노사우루스 보성엔시스’가 2010년 공개됐고 이듬해인 2011년에는 경기 화성에서 발견된 ‘코리아케라톱스 화성엔시스’가 학계에 보고됐다. 둘리사우루스는 한반도에서 15년 만에 발견된 세 번째 토종 공룡이다. 둘리사우루스는 1억1300만 년 전∼9700만 년 전 중생대 백악기에 살았던 원시 신조반류 공룡이다. 연구팀은 암석 속에 묻힌 뼈의 발달 상태를 컴퓨터단층촬영(CT)을 통해 확인한 후 이 공룡이 대략 2세 미만의 어린 개체라고 추정했다. 이에 한국의 만화가 김수정 작가의 대표 캐릭터 ‘아기공룡</content:encoded>
+    </item>
+    <item>
+      <title>‘AI 눈’이 고속도로 21만㎞ 훑었더니… 사망자 역대 최저</title>
+      <link>https://www.donga.com/news/Society/article/all/20260320/133567017/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260320/133567017/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133566116.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 고속도로 사망자가 관련 집계를 발표한 2000년 이래 처음으로 140명대에 진입하며 역대 최저치를 기록한 것으로 19일 확인됐다. 교통안전 캠페인이나 단속 위주의 과거 방식에서 탈피해 인공지능(AI)과 디지털 기술을 도로 안전 관리 전반에 도입 등이 영향을 미친 것으로 보인다. ● 3주 걸리던 도로 분석, 레이저로 1시간 만에한국도로공사에 따르면 지난해 고속도로 교통사고 사망자는 147명으로 집계됐다. 이는 2021년 171명이었던 사망자 수와 비교해 4년 만에 약 14% 감소한 수치다. 고속도로 주행거리 10억 km당 사망률도 2021년 1.85명에서 지난해 1.42명으로 낮아졌다. 이는 경제협력개발기구(OECD) 회원국 중 6번째로 낮은 수준이다. 한국도로공사는 이런 변화의 가장 큰 배경으로 도로 점검 방식의 과학화를 꼽았다. ‘수막현상’ 분석이 대표적이다. 비가 올 때 도로 위에 얇은 수막이 생겨 자동차의 접지력이 사라지는 이 현상은 빗길 사고의 주원인이다. 최근</content:encoded>
+    </item>
+    <item>
+      <title>우주 ‘방사선 폭격’ 견디는 AI 반도체 국내서 개발</title>
+      <link>https://www.donga.com/news/It/article/all/20260320/133566877/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260320/133566877/2</guid>
+      <pubDate>2026-03-20T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133566125.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 연구팀이 인공지능(AI) 구동에 적합한 AI 반도체 소자의 내방사선 성능을 지상에서 처음으로 검증했다. 우주 환경에서 쓰일 수 있는 국산 내방사선 반도체 개발의 초석을 닦은 것으로 평가된다. 과학기술정보통신부는 한국원자력연구원 강창구 책임연구원, 이용수 선임연구원 연구팀이 조병진 충북대 교수팀과 공동연구를 통해 우주국방용 차세대 뉴로모픽 AI 반도체를 개발하고 가혹한 방사선 환경에 노출된 후에도 기능이 유지된다는 사실을 확인했다고 19일 밝혔다. 연구 결과는 국제학술지 ‘머티리얼스 사이언스 인 세미컨덕터 프로세싱’ 3월호에 발표됐다. 항공우주 기술의 경쟁력은 가혹한 환경에서 전자 시스템이 얼마나 안정적으로 성능을 유지하는지가 관건이다. 특히 데이터 수집 및 분석 능력을 높이기 위해 인공위성이나 우주 탐사선에 도입되는 AI, 사물인터넷(IoT) 구현에는 고성능 반도체 소자가 필수적이다. 우주 공간에서 전자 장비는 고에너지 우주 방사선에 노출된다. 지구에서 멀어질수록 방사선을</content:encoded>
+    </item>
+    <item>
+      <title>시큰시큰한 잇몸, 원인은 수면부족… “이렇게 예방해요”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260320/133568668/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260320/133568668/1</guid>
+      <pubDate>2026-03-20T05:20:28.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/03/20/133568669.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;매년 3월 20일은 세계치과의사연맹(FDI)이 전 세계인들에게 구강 건강의 중요성과 예방 의식을 알리기 위해 제정한 ‘세계 구강보건의 날’(World Oral Health Day)이다. 올해 캠페인 주제는 ‘행복한 구강은 행복한 삶’(A Happy Mouth Is A Happy Life)으로, 건강한 구강이 삶의 질과 전반적인 건강에 중요한 영향을 미친다는 점을 강조하고 있다.   20일 의료계에 따르면 건강한 구강을 유지하기 위해서는 올바른 방법으로 꾸준히 관리하는 것이 중요하다. 하지만 바쁜 일상 속에서는 이를 실천하기가 쉽지 않다. 특히 직장인은 잦은 야근과 업무 스트레스로 생활 패턴이 불규칙해지면서 구강 관리에 소홀해지기 쉽고, 수면 부족과 스트레스가 반복되면 잇몸 건강이 악화될 위험도 커진다. 연구에 따르면, 수면 부족과 스트레스가 지속되면 코르티솔 분비가 증가해 면역 기능이 약해지고 잇몸 조직의 염증 반응이 커질 수 있다. 이때 쉽게 노출되는 단순 포진 바이러스</content:encoded>
     </item>
   </channel>
 </rss>
