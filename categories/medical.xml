@@ -3,63 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-04-11T00:22:17.636Z</lastBuildDate>
-    <item>
-      <title>ARPI, 메이요 클리닉 주관  헬스케어 쇼케이스에 한국 기업 유일 참가</title>
-      <link>https://www.donga.com/news/It/article/all/20260409/133707066/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260409/133707066/1</guid>
-      <pubDate>2026-04-09T14:39:51.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133707045.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;의료 AI 기업 ARPI(대표 김중희)가 지난 7일부터 8일까지 미국 미네소타주 로체스터에서 열린 ‘메이요 클리닉 플랫폼 엑셀러레이트 쇼케이스(Mayo Clinic Platform_Accelerate Showcase)’에 참가했다고 밝혔다. ARPI는 이번 행사에 참가한 25개 글로벌 헬스케어 기업 중 유일한 한국 기업으로, AI 심전도 분석 솔루션 ‘ECG Buddy’를 선보였다. 메이요 클리닉은 미국 최고 권위의 의료기관으로 손꼽히며, 메이요 클리닉 플랫폼 엑셀러레이트는 차세대 디지털 헬스케어 혁신 기업을 발굴·육성하는 글로벌 프로그램이다. 이번 쇼케이스에는 메이요 클리닉 주요 임상과 책임자, 경영진, 투자자, 미네소타 헬스케어 생태계 관계자 등 의료 분야 핵심 인사들이 대거 참석했다. ARPI는 이틀에 걸친 행사 기간 동안 부스를 운영하며 ECG Buddy를 소개했으며,  김중희 대표를 비롯한 ARPI 대표단이 직접 참석해 글로벌 의료 혁신 관계자들과 심도 있는 네트워킹을</content:encoded>
-    </item>
-    <item>
-      <title>알리바바, AI 데이터센터 구축…자체 칩 1만개 투입</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260409/133707434/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260409/133707434/1</guid>
-      <pubDate>2026-04-09T15:05:48.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133707435.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국 최대 전자상거래 기업 알리바바가 국영 통신사 차이나텔레콤과 협력해 자체 개발 인공지능(AI) 칩을 활용한 대규모 데이터센터 구축에 나선다.9일 CNBC 등에 따르면 양사는 광둥성 사오관에 AI 데이터센터를 설립하고, 알리바바가 자체 개발한 ‘전우(眞武)’ 반도체 약 1만 개를 투입할 계획이다.해당 칩은 AI 학습과 추론을 동시에 지원하며, 수천억개 매개변수 규모의 대형 AI 모델 구동이 가능한 것으로 알려졌다.차이나텔레콤이 이 데이터센터의 운영을 맡는다. 아울러 이 데이터센터는 향후 최대 10만개 칩 수준으로 확장되고 의료, 첨단 소재 등 다양한 산업 분야에서도 활용될 전망이다.이번 프로젝트는 미국이 엔비디아 등 주요 기업의 AI 반도체 대중 수출을 제한하는 가운데 추진돼 중국의 기술 자립 전략을 반영한 사례로 평가된다.알리바바는 2018년 반도체 자회사 ‘핑터우거’를 설립하며 관련 사업에 본격 진출했고, 2019년부터 AI 모델 연구도 병행해왔다.또한 알리바바는 지</content:encoded>
-    </item>
-    <item>
-      <title>[AI써봄] “전문가와 영상통화하는 느낌” 구글 서치 라이브, 검색 판도 바꿀까</title>
-      <link>https://www.donga.com/news/It/article/all/20260409/133707768/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260409/133707768/1</guid>
-      <pubDate>2026-04-09T15:35:45.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133707743.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;궁금한 것이 생겼을 때 대부분 검색창을 연다. 하지만 막상 뭘 검색해야 할지 모를 때는 막막해진다. 키우는 식물의 잎이 갑자기 노랗게 변했거나, 처음 보는 전자기기 단자가 뭔지 모르거나, 낯선 여행지에서 주변 건물이 무엇인지 알고 싶을 때가 대표적이다. 상황을 텍스트로 옮기는 것 자체가 번거롭고, 설명을 잘해야 원하는 답이 나온다는 부담도 크다. 결국 웹 링크 여러 개를 열어보고 나서야 원하는 정보를 찾는 과정이 반복된다.글로벌 빅테크 기업 구글이 이 문제를 일부 해소할 수 있는 기능을 선보였다. 3월 26일(현지 시간) 한국을 포함한 전 세계 200개 이상의 국가에 공식 출시된 ‘서치 라이브(Search Live)’다. 이 기능은 카메라로 상황을 보여주고 말로 물어보면 AI가 맥락을 읽고 바로 답해준다. 기자가 직접 써보니 단순한 검색이 아닌 ‘전문가와의 영상통화’에 가까웠다.텍스트 검색 한계 해소, 자연스러운 소통 환경 제공일반적인 텍스트 검색의 한계는 오래전부터 지적돼 왔</content:encoded>
-    </item>
-    <item>
-      <title>자율주행이면 ‘로드킬’ 해도 되나…미국서 불 붙은 ‘오리 교통사고’ 논란</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260409/133707203/2</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260409/133707203/2</guid>
-      <pubDate>2026-04-09T15:55:25.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133707319.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 텍사스에서 자율주행차가 정지 신호를 무시하고 오리를 치어 숨지게 해 논란입니다. 업체는 결함을 부인했으나 주민과 누리꾼 사이에서 안전성 우려가 커지고 있습니다.</content:encoded>
-    </item>
-    <item>
-      <title>LG AI연구원, 멀티모달 AI ‘엑사원 4.5’ 공개</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260409/133707317/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260409/133707317/1</guid>
-      <pubDate>2026-04-09T15:57:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133708032.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG AI연구원이 텍스트와 이미지를 동시에 이해하고 추론할 수 있는 멀티모달 인공지능(AI) 모델 ‘엑사원 4.5’를 공개했다고 9일 밝혔다. 멀티모달은 텍스트, 이미지, 음성, 영상 등 다양한 형태의 데이터를 동시에 이해하고 처리하는 AI다.엑사원 4.5는 자체 개발한 비전 인코더와 거대언어모델(LLM)을 결합해 글과 이미지를 함께 이해할 수 있다. 계약서나 기술 도면, 재무제표처럼 실제 산업 현장에서 쓰이는 복잡한 자료를 읽고 분석하는 데 강점이 있다. LG AI연구원은 이번 모델이 독자 파운데이션 모델인 ‘K-엑사원’이 향후 더 다양한 형태의 데이터를 처리할 수 있도록 하는 발전 단계라고 설명했다.성능 측면에서도 경쟁력을 입증했다. 과학·기술·공학·수학(STEM) 분야 5개 지표 평균 점수는 77.3점으로, 오픈AI ‘GPT-5 미니’(73.5점)와 앤트로픽 ‘클로드 소넷 4.5’(74.6점), 알리바바 ‘큐웬3’(77.0점)를 웃돌았다. 13개 시각 능력 평가 지표 평균</content:encoded>
-    </item>
-    <item>
-      <title>[기고] 연간 391만 건 중고차 이전등록…민관 협력으로 여는 비대면 전환</title>
-      <link>https://www.donga.com/news/It/article/all/20260409/133708199/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260409/133708199/1</guid>
-      <pubDate>2026-04-09T16:13:56.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133708189.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국토교통부 통계누리의 ‘2025년 자동차 등록자료 통계’를 보면 흥미로운 지점이 드러난다. 2025년 한 해 신규 등록 차량은 169만9781대인 반면, 소유권 변경에 따른 명의이전 등록 건수는 391만2276대에 달했다. 신규 등록의 약 2.3배 수준이다. 이는 중고차 거래가 이미 보조 시장이 아닌, 자동차 유통의 중심축으로 자리 잡았음을 보여주는 지표다.하지만 중고차 거래가 이처럼 활발한데도, 여전히 일반 소비자가 이전등록 절차를 직접 처리하기는 쉽지 않은 상황이다. 양도·양수인이 각각 준비해야 할 서류가 복잡하고, 차량 종류와 용도에 따라 취득세 등 세금 산출 방식도 달라지기 때문이다. 많은 소비자가 중고차 거래 후 비용을 지불하고 대리인을 통해 명의이전 등록을 진행한 이유다.문제는 이 과정에서 단순한 수수료 부담을 넘어, 인감증명서나 신분증 사본 등 민감한 개인정보가 타인을 통해 전달되는 구조가 반복됐다는 점이다. 편의를 위해 선택한 방식이 또 다른 사회적 비용과 위험을</content:encoded>
-    </item>
-    <item>
-      <title>사람 코 안에 파리 유충 ‘득시글’…의사도 경악한 50대女, 무슨일?</title>
-      <link>https://www.donga.com/news/It/article/all/20260409/133708023/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260409/133708023/2</guid>
-      <pubDate>2026-04-09T16:16:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133707931.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;재채기를 하는 순간, 코에서 살아 있는 벌레가 튀어나왔다. 검사 결과 사람의 코 안에서 기생충 유충이 번데기 단계까지 자란 매우 이례적인 사례로 확인됐다. 공상과학영화에서나 볼 법한 일이 실제로 벌어지자 의료진도 놀랐다.이 사례는 미국 질병통제예방센터(CDC) 학술지 ‘Emerging Infectious Diseases’에 보고됐다.사건이 벌어진 곳은 그리스의 한 섬. 50대 여성은 코 안에서 자라던 유충이 밖으로 튀어나오면서 병원을 찾았다. 검사 결과 코 양옆과 위턱 사이 공간인 상악동에서 서로 다른 성장 단계의 유충 10마리와 번데기 1개가 발견됐다.이 기생충의 정체는 ‘양파리(Oestrus ovis)’다. 보통 양이나 염소의 콧속에서 기생하는 파리로 사람 감염은 드문 편이다. 양파리의 생활사는 잘 알려져 있다.암컷이 동물의 콧속에 유충을 낳으면, 유충은 비강과 부비동에서 자라다가몸 밖으로 나와 땅속에서 번데기가 된다.즉, 번데기 단계는 반드시 ‘몸 밖’에서 진행</content:encoded>
-    </item>
-    <item>
-      <title>거래소 2025년 성적표 ‘업비트 실적 감소, 빗썸 2년 연속 흑자’</title>
-      <link>https://www.donga.com/news/It/article/all/20260409/133708457/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260409/133708457/1</guid>
-      <pubDate>2026-04-09T16:42:55.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/09/133708445.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;디지털자산(가상자산) 거래소 업비트와 빗썸이 2025년 연간 실적을 각각 공시했다. 업비트는 글로벌 경기 둔화에 따른 디지털자산 시장 위축으로 매출과 영업이익이 모두 감소했다. 반면 빗썸은 매출과 영업이익이 모두 증가하며 2024년에 이어 2년 연속 흑자를 기록했다. 이들 거래소는 올해 법인 투자자 디지털자산 시장 참여 허용과 규제 환경 변화에 맞춰 규제 준수, 안정적인 서비스 운영에 집중할 계획이다. 업비트·빗썸, 엇갈린 2025년 성적표금융감독원 전자공시시스템에 따르면 두나무의 2025년 매출(영업수익)은 1조 5578억 원으로 2024년 1조 7316억 원 대비 10.0% 감소했다. 영업이익도 8693억 원으로 전년 1조 1863억 원 대비 26.7% 줄었다. 당기순이익은 7089억 원으로 전년 9838억 원보다 27.9% 감소했다.업비트는 매출 및 영업이익 감소 원인으로 글로벌 경기 둔화에 따른 디지털자산 시장 거래량 감소를 꼽았다. 2024년에는 미국 비트코인 현물 상</content:encoded>
-    </item>
+    <lastBuildDate>2026-04-12T00:22:20.311Z</lastBuildDate>
     <item>
       <title>靑 “초지능, 국가핵심전략자산 규정…연구 생태계 조성”</title>
       <link>https://www.donga.com/news/Politics/article/all/20260409/133709390/2</link>
@@ -353,6 +297,62 @@
       <guid>https://www.donga.com/news/It/article/all/20260410/133713634/2</guid>
       <pubDate>2026-04-11T09:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/10/133713690.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;GLP-1 계열 비만 치료제 사용 후 담석 발생 사례가 확산되고 있다. 전문가들은 담낭 기능 저하와 급격한 체중 감량 과정의 복합 작용을 주요 원인으로 지목한다.</content:encoded>
+    </item>
+    <item>
+      <title>아르테미스 2호 10일 달 탐사 임무 마치고 귀환</title>
+      <link>https://www.donga.com/news/Inter/article/all/20260411/133719299/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20260411/133719299/1</guid>
+      <pubDate>2026-04-11T09:41:37.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/11/133719300.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미 항공우주국(NASA)의 달탐사 아르테미스 2호 임무를 수행한 우주비행사들이 10일(현지시각) 10일 동안의 우주 비행을 마치고 태평양에 안착했다. 반세기 만의 인류 달 탐사 여정이 막을 내린 것이다.기록을 깬 달 근접 비행에서 인간의 눈으로 이전에 본 적 없는 달의 뒷면 광대한 풍경은 물론 개기일식까지 포착한 비행사 4명의 승리로운 귀환이었다.지휘관 리드 와이즈먼, 조종사 빅터 글로버, 크리스티나 코흐, 캐나다의 제러미 핸슨은 음속 33배로 대기권에 진입했다.1960~70년대 NASA의 아폴로 달 탐사 이후 볼 수 없었던 눈부신 속도였다. ‘인테그리티’라는 이름이 붙은 오리온 캡슐은 자동 조종으로 돌입했다.캡슐이 대기와 마찰로 붉게 달아오른 플라스마에 휩싸이면서 통신이 두절되자 통제 센터에 긴장감이 고조됐다.모든 시선은 재진입 과정에서 수천 도의 열을 견뎌야 했던 캡슐의 생명 보호용 열 차폐막에 쏠렸다. 우주선의 유일한 다른 시험 비행이었던 2022년 무인 비행에서</content:encoded>
+    </item>
+    <item>
+      <title>‘달’ 돌고 온 아르테미스 2호, 지구 귀환…아폴로 17호 이래 첫 성과</title>
+      <link>https://www.donga.com/news/It/article/all/20260411/133719327/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260411/133719327/2</guid>
+      <pubDate>2026-04-11T11:03:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/11/133719324.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국항공우주국(NASA)의 유인 달 탐사선 ‘아르테미스 2호’가 탐사를 마치고 지구로 돌아왔다. 우주비행사들은 미국 해군 함정에서 건강 상태를 확인한 후 우주센터로 귀환할 예정이다.NASA는 10일(현지 시간) 생중계를 통해 “이날 오후 8시 7분경 아르테미스 2호의 오리온 유인 캡슐이 미국 샌디에이고 인근 바다에 착수했다”고 밝혔다. 1일 플로리다주 케네디 우주센터에서 발사된 지 열흘만이다.아르테미스 2호는 발사된 이후 달 뒤편을 돌아 지구에서는 관측이 되지 않던 달 뒤편을 관측했다. 이번 탐사로 NASA는 앞으로 이어질 심우주 탐사의 기반을 다졌다는 평가를 얻었다.아르테미스 2호의 귀환으로 승무원들은 아폴로 17호 이후 처음으로 달에 갔다 온 인류라는 기록을 갖게 됐다.현재 우주비행사들의 건강 상태는 확인되지 않았다. 미국 해군은 오리온 캡슐에 MH-60 시호크 헬기를 파견해 우주비행사들을 존 P. 머사 상륙함(USS John P. Murtha·LPD-26)으로 데려올 예</content:encoded>
+    </item>
+    <item>
+      <title>“50살 넘어 한의원 개원… 근육 키우며 재활 전문 한의사 꿈꿔요”[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20260411/133711425/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260411/133711425/1</guid>
+      <pubDate>2026-04-11T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/11/133719657.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“저는 이번 생을 여러 번 사는 사람 같아요. 20세 후반 일본에 살면서, 40세 들어가면서, 그리고 45세에 한의대 붙으면서, 제게 전환기가 찾아왔습니다. 그때마다 아팠고, 어려운 고비가 찾아왔는데 많은 사람의 도움으로 잘 넘겼습니다. 한의사가 된 지금은 아픈 사람들 보면 다 제 얘긴 거 같아서, 꼭 낫게 해 드리고 싶습니다.” 황지영 서울 성북구 제일한의원 원장(51)은 매우 다채로운 경력의 소유자다. 서울과학고를 거쳐 서울대 화공학과에서 학사 석사 과정을 마쳤다. 외국계 회사에서 20년 가까이 근무했다. 그런데 전공과는 전혀 다른 파이낸스, 내부감사, 원가회계, 전략 재무, 인사 등 분야에서 일했다. 해외 주재원으로 일본과 태국, 네팔에 가기도 했다. 그리고 2024년 한의사가 됐고, 지난해엔 문화체육관광부 생활체육 보디빌딩지도사 2급 자격증을 획득했다.“다른 한의원에서 일할 때인 2024년 3월부터 웨이트트레이닝을 시작했습니다. 운동을 하지 않으면 버티지 못하겠다는 생각이</content:encoded>
+    </item>
+    <item>
+      <title>‘갱년기’ 붙으면 가격 껑충…“비싼 건기식, 맹신은 금물”</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260410/133700382/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260410/133700382/2</guid>
+      <pubDate>2026-04-11T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/10/133699974.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;&quot;갱년기&quot; 이름표만 붙으면 가격이 몇 배로 뛴다? 885조 원 규모로 커진 갱년기 시장의 &amp;apos;불편한 진실&amp;apos;. 유명 스타들이 광고하는 비싼 영양제가 사실은 근거 부족? 전문가들이 경고하는 &amp;apos;갱년기 세금&amp;apos;의 실태와 내 지갑 지키는 법을 지금 확인하세요.</content:encoded>
+    </item>
+    <item>
+      <title>“어제 먹다 남은 피자 먹었는데”…실온에 ‘2시간’만 둬도 식중독 위험↑</title>
+      <link>https://www.donga.com/news/It/article/all/20260411/133719670/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260411/133719670/1</guid>
+      <pubDate>2026-04-11T18:09:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/11/133719671.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;먹다 남은 음식을 실온에 오래 두면 식중독 위험이 커질 수 있어 주의가 필요하다는 전문가 경고가 나왔다.6일(현지시각) 영국 인디펜던트에 따르면 식중독에 걸리지 않기 위해서는 먹다 남은 음식을 보관할 때도 각별한 주의가 필요하다. 미생물학자 프림로즈 프리스톤은 “식중독은 병원성 세균이나 곰팡이, 바이러스에 오염된 음식을 먹었을 때 발생한다”며 “조리 과정뿐만 아니라 먹고 남은 음식을 부적절하게 보관하는 것도 주요 원인 중 하나”라고 설명했다.먹다 남은 피자의 경우 조리 또는 배달 후 2시간 이내 냉장 보관하는 것이 권장된다. 갓 구운 피자의 열기로 살균되더라도 상온에 방치하면 세균이 다시 증식하기 좋은 환경이 된다. 피자 토핑으로 쓰는 말린 허브와 향신료도 살모넬라나 바실러스 세레우스균 등 식중독균에 오염될 가능성이 높다. 냉장 보관 시에는 뚜껑을 덮어서 보관하고 2일 이내 섭취하는 것이 바람직하다.닭고기 요리는 수분과 영양분이 많고 산도가 낮아 세균 번식에 더욱 취약하다. 충</content:encoded>
+    </item>
+    <item>
+      <title>“하루에 한 스푼 먹었을 뿐인데”…땅콩버터, 급격한 혈당 상승 막아줘</title>
+      <link>https://www.donga.com/news/It/article/all/20260411/133719675/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260411/133719675/1</guid>
+      <pubDate>2026-04-11T18:11:37.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/11/133719676.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;땅콩버터가 1형 당뇨병 환자의 혈당 변화에 긍정적인 효과를 준다는 실험 결과가 나왔다.지난 2월 7일 미 건강 매체 프리벤션에 따르면 1형 당뇨병을 앓고 있는 에밀리 골드먼 에디터는 혈당 관리를 위해 일주일간 땅콩버터를 매일 섭취하는 실험을 진행했다.1형 당뇨병은 췌장의 인슐린 생성 세포가 파괴돼 인슐린을 거의 또는 전혀 생성하지 못하는 자가면역질환으로, 인슐린 투여가 필수적이다. 주로 생활 습관과 관련된 2형 당뇨병과는 구분된다.골드먼은 실험 기간 동안 하루 한 스푼의 땅콩버터를 단독으로 섭취하거나 요거트, 그래놀라, 과일 등과 함께 먹으며 혈당 변화를 관찰했다. 그는 연속혈당측정기(CGM)를 통해 음식 섭취 후 혈당 변동을 실시간으로 확인했다. 그 결과 땅콩버터를 단독으로 섭취했을 때 혈당은 비교적 완만한 변화를 보였고, 급격한 상승은 나타나지 않은 것으로 전해졌다. 또한 빵이나 과일 등 탄수화물 식품과 함께 섭취할 경우에도 혈당 상승 폭이 완화되는 경향이 관찰됐다. 아</content:encoded>
+    </item>
+    <item>
+      <title>“거의 나았네” 항생제 연고 중단…그러다 ‘내성’ 생긴다</title>
+      <link>https://www.donga.com/news/It/article/all/20260411/133719698/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260411/133719698/1</guid>
+      <pubDate>2026-04-11T19:12:15.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/11/133719699.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;먹지 않고 바르는 항생제를 사용할 때는 용법·용량을 지켜야 내성균 출현을 막을 수 있다.11일 식품의약품안전처에 따르면, 항생제 성분을 함유한 피부에 바르는 연고 또는 크림제인 바르는 항생제는 주로 베인 상처, 긁힌 상처, (경미한) 화상 등으로 인한 피부 감염증의 예방 및 치료에 사용된다. 무피로신(성분명)은 그람 양성균(포도상구균 등)에 효과적이며, 세균성 피부 감염증(모낭염, 황색포도상구균 감염)에 주로 사용된다. 푸시딘산은 침투력이 좋아 딱지가 앉은 상처에 효과가 있으며, 초기 상처 감염 예방에 많이 쓰인다. 바시트라신은 여러 균주를 동시에 잡기 위해 항생제 성분 2~3가지를 섞은 형태이며, 클린다마이신은 주로 여드름균 억제에 특화돼있어 여드름 치료제로 많이 쓰인다. 바르는 항생제는 사용 전·후 손을 깨끗이 씻어야 하며, 사용 전 상처 부위를 깨끗하게 해야 한다. 상처 부위에 1일 1~3회 소량 바르고, 눈 주위·안과용에는 사용하지 말아야 한다. 꼭 필요한 곳에 용</content:encoded>
+    </item>
+    <item>
+      <title>사우나 30분, 몸은 ‘운동’ 상태…백혈구·심박수 동시에 변화[바디플랜]</title>
+      <link>https://www.donga.com/news/It/article/all/20260410/133713875/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260410/133713875/2</guid>
+      <pubDate>2026-04-12T06:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/10/133713830.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사우나에 들어가면 몸이 뜨거워지고 땀이 흐른다. 일부에서는 이를 운동과 다른 단순 ‘수분 배출’로 본다,하지만 최근 연구에 따르면 사우나는 심장과 혈관을 자극해 실제 운동과 비슷한 반응을 유도하는 ‘수동적 운동(passive exercise)’에 가깝다는 결과가 나왔다. 열역학 분야 국제 학술지 ‘온도(Temperature)’에 발표한 이번 연구는 핀란드 과학자들이 수행했다.주요 결과를 살펴보면,30분간 사우나를 하고 중간에 찬물 샤워로 잠시 몸을 식힐 때 혈액 속 백혈구 수가 증가하는 것으로 나타났다.특히 면역 방어의 핵심인 호중구와 림프구가 일시적으로 늘었다가, 사우나 종료 후 약 30분 이내 다시 정상으로 돌아왔다.이는 운동할 때 나타나는 반응과 매우 유사하다.● 몸속 면역세포, 운동처럼 혈류로 나와 ‘순찰’ 나서핀란드 투르쿠대학교의 연구자 일카 헤이노넨 박사는 “사우나가 조직에 머물던 백혈구를 더 많이 혈액으로 이동시키고, 사우나가 끝나면 다시 되돌려 보내는</content:encoded>
     </item>
   </channel>
 </rss>
