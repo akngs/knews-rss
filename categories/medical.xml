@@ -3,49 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-04-18T00:22:59.808Z</lastBuildDate>
-    <item>
-      <title>“AI기반 블록버스터 신약 개발 선점을”… 글로벌 빅파마-빅테크 ‘짝짓기’ 러시</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260416/133755809/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260416/133755809/2</guid>
-      <pubDate>2026-04-17T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133753218.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)이 신약 개발에도 활용되며 글로벌 빅파마와 빅테크 간 합종연횡이 본격화되고 있다. 빅파마, 빅테크 각자의 경쟁에서 이제는 ‘연합전’의 형태로 경쟁의 양상이 더욱 복잡하고 치열해지는 모양새다. 특히 비만치료제 영역에서 각축전을 벌이고 있는 노보노디스크와 일라이릴리가 각각 AI 기업들과 맞손을 잡으며 더 관심이 쏠리고 있다. ‘위고비’ 개발사인 노보노디스크는 14일(현지 시간) 신약 개발부터 제조 및 상업 운영까지 사업 전반에 AI를 도입하기 위해 오픈AI와 파트너십을 맺었다. 올해 1월 ‘먹는 위고비’인 ‘위고비필’을 출시한 노보노디스크는 4월 경쟁사인 일라이릴리가 경구용 비만치료제 ‘파운다요’를 재빨리 출시함에 따라 진검승부를 벌이고 있다. 업계에서는 노보노디스크가 AI를 통해 새로운 돌파구를 찾고 있는 것으로 분석한다. 업계 관계자는 “체중 감량에 효과가 있다고 알려진 여러 호르몬의 최적 조합을 찾는 데 AI를 활용할 가능성이 크다”며 “AI 도입이 단기간 내 큰</content:encoded>
-    </item>
-    <item>
-      <title>[단독]네이버, AI 학습용 데이터 직접 만든다… EBS-두산백과와 협력</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260416/133755820/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260416/133755820/2</guid>
-      <pubDate>2026-04-17T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133757166.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;네이버가 인공지능(AI) 성능을 고도화하기 위해 ‘AI레디데이터(AI-Ready Data·즉시 학습에 쓸 수 있는 데이터) 확보’를 핵심 과제로 설정하고 관련 사업을 확대하고 있다. AI가 곧바로 학습할 수 있는 양질의 데이터를 선별하고 부족한 데이터는 직접 만들어 채워 넣겠다는 구상이다.  네이버뿐만이 아니다. 구글, 메타, 오픈AI 등 빅테크들도 저작권 분쟁을 피하면서 정제된 데이터를 확보하려 언론사, 소셜미디어 플랫폼과 수조 원에 달하는 대규모 유료 계약을 맺고 있다. 이렇듯 빅테크들이 데이터에 공을 들이는 것은 그간 방대한 텍스트와 이미지를 학습시켜 대규모언어모델(LLM)의 성능을 높여 왔으나 ‘고품질 데이터’가 점차 고갈되어 가고 있기 때문이다. 양질의 데이터가 AI의 정확도를 좌우하는 만큼 경쟁에서 앞서 나가기 위해 더 좋은 ‘연료’, 즉 고품질 레디데이터 확보에 사활을 걸고 있는 셈이다. ● 승부처 된 레디데이터 AI레디데이터란 AI가 즉시 학습·추론에 쓸 수 있도</content:encoded>
-    </item>
-    <item>
-      <title>자체 AI칩 양산 앞둔 머스크 “생큐, 삼성”… 차세대 칩은 삼성 독점</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260417/133756832/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260417/133756832/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133757425.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“이 칩을 양산할 수 있게 도와준 삼성전자에 감사를 전한다.” 15일(현지 시간) 일론 머스크 테슬라 최고경영자(CEO)가 테슬라의 자체 개발 인공지능(AI) 칩 ‘AI5’의 설계를 마쳤다고 밝히며 삼성전자를 언급했다. AI5는 삼성전자 파운드리와 세계 최대 파운드리(반도체 위탁 생산) 업체인 대만 TSMC가 나눠 생산한다. 삼성전자 파운드리는 AI5의 차기작인 AI6도 독점 생산할 예정이다.  지난달 젠슨 황 엔비디아 CEO도 삼성이 새 추론용 칩 생산을 맡기로 했다며 “삼성에 감사하다”고 밝힌 바 있다. AI 생태계에서 K반도체 위상이 높아지자 빅테크 업체들이 잇달아 협력을 요청해 오는 것이다. ● “자체 AI 칩 설계 끝내… 삼성에 감사” 이날 머스크 CEO는 자신의 X(옛 트위터)에 글을 올려 “테슬라의 AI 칩 디자인 팀의 AI5 ‘테이프아웃’을 축하한다”고 전했다. 테이프아웃은 반도체 설계를 마치고 본격적인 위탁 생산을 위해 파운드리 측에 설계도를 넘기는 단계다.</content:encoded>
-    </item>
-    <item>
-      <title>‘피 한 방울’로 알츠하이머 예측, 치매 단계도 분석</title>
-      <link>https://www.donga.com/news/It/article/all/20260417/133755854/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260417/133755854/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133755324.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘피 한 방울’로 치매의 대표 질환인 알츠하이머 발병 가능성을 증상이 나타나기 전에 감지하고 얼마나 진행됐는지까지 확인할 수 있다는 연구 결과가 나오고 있다. 조기 검진에 대한 관심도 높아지고 있다는 분석결과도 제시됐다. 인류가 치매를 아직 완전히 정복하지는 못했지만 예측 가능하고 관리할 수 있는 질환이 될 수 있는 토대가 서서히 마련되고 있다는 평가다.● 혈액검사로 알츠하이머 진행 단계까지 구분 앙현식 미국 매스제너럴브리검 교수팀은 인지 기능이 정상인 고령자도 혈액 속 단백질 수치 하나로 향후 알츠하이머 진행 여부를 예측할 수 있다는 연구결과를 14일 국제학술지 ‘네이처 커뮤니케이션스’에 공개했다.  주목한 물질은 ‘인산화 타우 단백질 217(pTau217)’이다. pTau217은 알츠하이머가 진행될수록 혈액 내 수치가 올라가는 변형 타우 단백질의 일종으로 뇌 신경세포에 엉겨 붙어 세포를 손상시키는 특성이 있다. 연구팀은 인지 기능이 정상인 고령자를 장기 추적한 하버드 노화</content:encoded>
-    </item>
-    <item>
-      <title>10대 후반~20대에 ‘확찐자’, 조기 사망 위험 70%↑[노화설계]</title>
-      <link>https://www.donga.com/news/It/article/all/20260416/133753610/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260416/133753610/2</guid>
-      <pubDate>2026-04-17T07:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133753569.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;20대에 비만이 시작되면 조기 사망 위험이 약 70% 높아진다는 대규모 연구 결과가 나왔다. 단순히 체중이 얼마나 늘었는지가 아니라, 어느 시기에 살이 찌기 시작했는지가 더 중요할 수 있다는 것이다.이번 연구는 국제 학술지 ‘e임상의학(eClinicalMedicine)’에 게재됐다.비만이 여러 만성 질환 위험을 높인다는 사실은 잘 알려져 있다. 1996년 세계보건기구(WHO)가 비만을 질병으로 규정한 이후 비만 퇴치는 각국 보건 당국의 주요 과제가 됐다.스웨덴 룬드대학교 연구진은 ‘비만은 만병의 근원’이라는 시각에서 한 걸음 더 나아가 성인기 전체의 체중 변화가 건강에 어떤 영향을 미치는지를 분석했다.연구를 이끈 룬드대 역학자 타냐 스톡스(Tanja Stocks) 교수는 “젊은 시기에 체중이 많이 증가한 사람일수록, 체중 증가가 적은 사람보다 조기 사망 위험이 더 높다는 것이 일관된 결과였다”고 밝혔다.이번 연구는 60만 명 이상을 장기가 추적한 대규모 분석이다.참가자들</content:encoded>
-    </item>
-    <item>
-      <title>서울과학기술대학교, “대한민국 제조 창업의 지속성 위해 끝까지 지원한다”</title>
-      <link>https://www.donga.com/news/It/article/all/20260417/133757695/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260417/133757695/1</guid>
-      <pubDate>2026-04-17T08:08:33.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133757688.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울과학기술대학교(서울과기대) 창업지원단이 지난 14일, ‘2026 제조창업 네트워킹 데이 - 메이커스페이스 창업 지원 설명회’를 개최했다. 현장에는 제조 분야 예비 또는 기창업자를 비롯해, 창업지원단 및 메이커스케이스 관계자 등 70여 명이 참석했다.서울과기대 메이커스페이스는 중소벤처기업부 메이커스페이스 구축 및 운영사업 전문 시설로, 올해로 운영 5년 차를 맞았다. 교내 유일한 메이커/창업지원 통합 전담조직으로, 센터장 포함 9명의 관계자가 센터를 운영한다. 지원 체계는 메이커스페이스를 중심으로 창업보육센터, 예비창업패키지/모두의 창업, 초기창업패키지로 이어지는 4단계 연속 구조로 짜여 있다. 아이디어 구현부터 시제품 제작, 사업화 자금 지원, 투자유치 IR데이까지 한 곳에서 연결된다.주요 시설은 지원 수준과 용도에 따라 4단계로 구성되며, 전면 개방(일부 24시간)으로 운영된다. 상상관 1층은 1단계 아이디어 공간으로 디자인씽킹룸, 코워크 카페, 세미나실, 3D 프린터, 수</content:encoded>
-    </item>
+    <lastBuildDate>2026-04-19T00:24:12.642Z</lastBuildDate>
     <item>
       <title>“바다가 계속 뜨거워지면… 참치, 극지방에서 살아야”</title>
       <link>https://www.donga.com/news/It/article/all/20260417/133755852/2</link>
@@ -152,11 +110,11 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133759457.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본 정부는 전국 지방자치단체가 정부 인증을 받은 IT기기만 조달하도록 의무화할 방침을 굳혔다고 17일 요미우리신문이 보도했다. 사실상 중국산 제품 배제를 위해서다.신문은 복수의 일본 정부 관계자를 인용해 이같이 전했다. 지자체가 사이버 보안상 위험한 제품을 조달하는 것을 방지하고, 국가 전체 보안 안전성을 높일 목적이 있다. 일본 정부 평가제도 대상은 통신장비, 개인용 컴퓨터(PC), 서버, 클라우드 기반 소프트웨어 등이다. 총무성은 오는 6월 시행령을 개정해 국가사이버총괄실, 경제산업성 평가제도의 인증을 받은 이들 장비만을 조달하도록 의무화할 계획이다. 내년 여름에 운용이 시작된다. 총무성은 상담 창구를 개설해 지자체의 조달 지원도 시작할 방침이다. 지자체가 이미 조달한 IT 장비에 대한 안전성 조사에도 나선다. 일본 정부는 안보상 위험성이 지적되고 있는 중국산 제품에 주목하고 있다. 미국과 유럽은 중국 통신 대기업 화웨이와 ZTE 제품이 개인정보 탈취 및 사이버 공격</content:encoded>
     </item>
     <item>
-      <title>“뺀 지방만큼 소고기로 바꿔드려요” 中 이색 다이어트 캠페인</title>
+      <title>“살 1kg 빼면 소고기 1kg 드려요”…1000명 몰린 中 다이어트 캠페인</title>
       <link>https://www.donga.com/news/It/article/all/20260417/133759245/2</link>
       <guid>https://www.donga.com/news/It/article/all/20260417/133759245/2</guid>
-      <pubDate>2026-04-17T13:48:22.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133759244.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국 장쑤성 우시시의 한 커뮤니티센터에서 “지방을 소고기로 교환하는” 체중 감량 캠페인이 지역민들의 인기를 끌고 있다. 방식은 말 그대로다. 참가자들은 체중 0.5kg을 감량할 때마다 같은 무게의 뼈 없는 소고기, 혹은 1.5kg의 뼈 있는 소고기를 받을 수 있다.</content:encoded>
+      <pubDate>2026-04-17T13:48:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133759244.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국 장쑤성 우시시(市)에서 체중을 감량한 만큼 소고기로 보상하는 이색 체중 감량 캠페인이 등장해 눈길을 끌고 있다.최근 인민일보, AFP 등 보도에 따르면 우시시의 한 커뮤니티센터에서 “지방을 소고기로 교환하는” 체중 감량 캠페인이 지역민들의 인기를 끌고 있다. 방식은 말 그대로다. 참가자들이 감량한 지방 무게에 비례해 실제 소고기를 지급한다.중국 내 비만율이 급증함에 따라 중국 전역의 지방 당국에서 주민 체중 감량 및 생활 습관 개선을 위한 지원에 나선 것이다. 주최 측은 우시시에서 진행하는 캠페인에만 1000명 이상이 등록했다고 밝혔다.참가자들은 체중 0.5kg을 감량할 때마다 같은 무게의 뼈 없는 소고기, 혹은 1.5kg의 뼈 있는 소고기를 받을 수 있다. 총 교환량은 10kg으로 제한되며 체중을 많이 감량하면 소꼬리 등 비싼 부위를 받을 수 있다.장쑤성 뿐 아니라 산시성에서도 소고기 교환 캠페인이 시행되고 있으며, 윈난성에서는 소고기 대신 “지방을 감자로 교환하는”</content:encoded>
     </item>
     <item>
       <title>구찌·구글 ‘스마트 안경’ 내년 출시…메타·레이밴과 정면 승부</title>
@@ -353,6 +311,48 @@
       <guid>https://www.donga.com/news/Economy/article/all/20260417/133744609/2</guid>
       <pubDate>2026-04-18T09:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133744746.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 기술 고도화로 에이전트 도입이 늘자 마이크로소프트 등 주요 기업들은 사용자 수 대신 에이전트 개수나 성과를 기준으로 하는 새로운 과금 모델을 검토하고 있습니다.</content:encoded>
+    </item>
+    <item>
+      <title>간단한 생활 습관만  바꿔도 치매 위험 ‘25%↓’[노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20260417/133745714/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260417/133745714/2</guid>
+      <pubDate>2026-04-18T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133745536.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;규칙적인 운동과 하루 7~8시간의 수면을 유지하면 치매 위험을 낮추는 데 도움이 될 수 있다는 대규모 연구 결과가 나왔다. 반대로 하루 대부분을 앉아서 보내는 ‘좌식 생활’은 치매 위험을 높이는 요인으로 지목됐다.캐나다 요크대학교(York University) 연구진이 수행한 이번 연구는 국제 학술지 ‘플로스 원(PLOS One)’에 최근 게재됐다. 연구진은 약 300만 명을 대상으로 수행한 69개 코호트 연구의 데이터를 통합 분석해 신체활동, 좌식 생활, 수면 시간이 치매 발생과 어떻게 연관되는지를 평가했다.치매는 전 세계 약 5500만 명이 앓고 있는 대표적인 신경퇴행성 질환이다. 고령화가 빠르게 진행되면서 환자 수가 급증하는 추세다. 근본적인 치료제가 아직 없어, 생활 습관 개선을 통한 예방 전략의 중요성이 커지고 있다.꾸준히 운동하면 치매 위험 25% 감소연구의 핵심 결과 중 하나는 신체활동과 치매 위험 감소 간의 강한 연관성이다.49개 연구를 분석한 결과, 규칙적</content:encoded>
+    </item>
+    <item>
+      <title>트럼프 “UFO 관련 흥미로운 문서 찾아…조만간 첫 공개”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20260418/133764806/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20260418/133764806/2</guid>
+      <pubDate>2026-04-18T11:03:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/18/133764818.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 대통령은 17일(현지 시간) 미확인비행물체(UFO)와 관련해 “매우 흥미로운 문서들을 많이 찾았다”며 조만간 공개하겠다고 밝혔다.로이터 통신에 따르면 트럼프 대통령은 이날 애리조나주에서 열린 보수 성향 단체 ‘터닝포인트 USA’ 행사에 참석해 “조만간 첫 공개가 시작되면 여러분들이 직접 그 현상이 사실인지 여부를 확인할 수 있을 것”이라며 이같이 말했다.트럼프 대통령은 지난 2월 UFO, 외계생명체, 미확인 이상현상(UAP)와 관련한 문서를 확인해서 공개하라고 연방정부에 지시했다. 이 같은 지시는 같은 달 버락 오바마 전 미국 대통령의 팟캐스트 인터뷰 발언이 나온 직후 이뤄졌다. 오바마 전 대통령은 팟 캐스트에 출연해 “외계인이 진짜 있는가?”라는 질문을 받고 “존재하지만 나는 본 적이 없다”고 답했다. 그는 “외계인은 ‘51 구역’에 있지 않다”며 “미국 대통령에게까지 숨겨진 엄청난 음모가 있지 않은 한 지하시설 같은 곳은 존재하지 않는다”고 설명했다.이</content:encoded>
+    </item>
+    <item>
+      <title>심장 스텐트 넣고 산길 160km 완주…“비결은 같이 달려준 동호회”[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20260417/133762908/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260417/133762908/1</guid>
+      <pubDate>2026-04-18T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133762916.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사람들이 달리는 이유는 다양하다. 원윤식 네이버클라우드 전무(56)는 악몽 같았던 심근경색 덕분에 지금은 매일 달리며 건강한 삶을 살고 있다.원 전무는 30대 초반에 심근경색으로 쓰러져 심장에 스텐트를 삽입했다. 깜짝 놀랐다. 배는 조금 나왔지만 살면서 비만이라고 단 한 번도 생각 안 했기 때문이다. 회사 다니며 고기에 튀김류를 즐기고 술을 마셨던 게 화근이었다. 그때부터 건강을 위해 혼자 달리기 시작했고, 지금은 산을 달리는 트레일러닝 160km까지 완주하는 ‘철각’이 됐다. “사실상 죽음 문턱까지 갔다 온 경험은 제 삶을 완전히 바꿔 놓았습니다. 당시엔 젊은 나이라 살 수 있었고, 지금 나이에 그런 일이 벌어졌으면 어떻게 됐을지 모르겠습니다. 죽고 사는 문제에 대해 많이 생각했고, 이렇게 살아서는 안 되겠다 싶었죠. 그래서 음식도 조절하면서 혼자서 달리기 시작했습니다.”주 3~4회 한 번에 7~8km를 가볍게 달렸다. 그렇게 10여 년을 혼자 달리다 2015년 경기 성남시</content:encoded>
+    </item>
+    <item>
+      <title>제로 탄산음료 ≠ 제로 위험…이 수준 넘으면 ‘과음’ [건강팩트체크]</title>
+      <link>https://www.donga.com/news/It/article/all/20260417/133760732/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260417/133760732/2</guid>
+      <pubDate>2026-04-19T06:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133760639.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“다이어트 콜라가 잔디를 죽이니 암세포도 죽일 수 있을 것.”도널드 트럼프 미국 대통령이 최근 전용기 에어포스원에서 이런 말을 했다는 보도가 나왔다. 트럼프 대통령의 발언을 전한 미 메디케어·메디케이드 서비스센터(CMS) 책임자 메흐메트 오즈 박사는 “지금은 이 문제를 논쟁하고 싶지 않다”며 말을 아꼈다. 미국의 대표 암 전문기관인 메모리얼 슬론 케터링 암센터 역시 논평을 내지 않았다.이런 반응만 봐도 해당 주장에 과학적 근거가 없다는 점을 짐작할 수 있다.그렇다면 설탕 대체 감미료를 첨가한 ‘제로 탄산음료’는 하루에 어느 정도 마셔도 비교적 안전할까. 결론부터 말하면 하루 한 캔(약 330~355mL) 정도다.  대부분의 전문가들은 이 수준을 넘지 않는 것이 좋다고 입을 모은다.칼로리 없는데 왜 문제일까많은 사람이 “설탕도 없고 칼로리도 없는데, 뭐가 문제지?”라고 생각할 수 있다.실제로 제로 탄산음료는 혈당을 급격히 올리는 설탕이나 고과당 옥수수시럽이 들어 있지 않</content:encoded>
+    </item>
+    <item>
+      <title>‘미토스 쇼크’에 사이버 기능 제한한 앤트로픽…“안전성 검증부터”</title>
+      <link>https://www.donga.com/news/It/article/all/20260419/133765446/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260419/133765446/1</guid>
+      <pubDate>2026-04-19T07:19:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/19/133765578.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 인공지능(AI) 기업 앤트로픽이 최신 모델 ‘클로드 오퍼스 4.7’을 공개했다. 기존 오퍼스 4.6 모델은 물론 경쟁사인 오픈AI의 챗GPT나 구글 제미나이보다 성능이 크게 개선됐지만 더 눈길이 가는 대목은 일부 ‘사이버 기능’을 제한했다는 점이다. 앤트로픽의 최상위 모델인 ‘클로드 미토스 프리뷰’가 알려지지 않은 취약점을 자동으로 탐지하고 이를 해킹까지 할 수 있는 수준의 지능을 갖추면서 세계적으로 ‘사이버 안보’ 위기감이 조성되자 우선 ‘안정성’부터 확보하자는 차원으로 풀이된다. 앤트로픽은 지난 16일(현지시간) 기존 공개형 최상위 모델 ‘클로드 오퍼스 4.6’의 개선판인 ‘오퍼스 4.7’을 출시했다.오퍼스 4.7은 소프트웨어 개발 능력을 평가하는 ‘SWE-벤치 프로’에서 64.3%를 기록해 57.7%를 기록한 GPT-5.4와 54.2%를 기록한 제미나이 3.1 프로를 모두 앞섰다. ‘SWE-벤치 베리파이드’에서도 87.6%로 전작과 경쟁 모델보다 높은 수치를 보였다.</content:encoded>
+    </item>
+    <item>
+      <title>“구급차가 50m 뒤서 접근 중”…내비게이션에 긴급차량 정보 뜬다</title>
+      <link>https://www.donga.com/news/Society/article/all/20260419/133765731/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260419/133765731/1</guid>
+      <pubDate>2026-04-19T09:09:19.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/19/133765732.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;응급 환자를 이송하는 구급차가 뒤에서 접근할 경우 내비게이션에 긴급자동차의 위치와 이동 경로가 자동으로 표시돼 운전자가 신속히 길을 양보할 수 있는 서비스가 생겼다.경찰청은 한국도로교통공단, 경남소방본부, 대전시, 카카오모빌리티와 협력해 차량 뒤에서 접근하는 긴급자동차의 위치·경로 정보 등을 운전자 내비게이션에 제공하는 ‘긴급자동차 접근 정보 안내 서비스’를 개시한다고 19일 밝혔다.경찰은 현재 긴급자동차의 신속한 출동을 돕기 위한 ‘긴급자동차 우선 신호시스템’을 운영 중이다. 교차로에 긴급자동차가 접근하면 즉시 녹색 신호를 부여한다.하지만 앞서가는 차량은 긴급자동차의 접근 여부를 미리 알 수 없어, 운전자 양보를 폭넓게 끌어내는 데엔 한계가 있었다는 것이 경찰의 설명이다.이에 경찰은 각 지방자치단체 교통정보센터의 우선 신호정보를 경찰청 도시교통정보센터를 거쳐 내비게이션 기업에 제공하도록 시스템을 연계했다.이를 통해 운전자는 차량 뒤에 긴급자동차가 접근하면, 내비게이션을 통</content:encoded>
     </item>
   </channel>
 </rss>
