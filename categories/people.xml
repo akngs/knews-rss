@@ -1,51 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>경향신문 - 인물</title>
-    <link>https://www.khan.co.kr/rss/rssdata/people_news.xml</link>
-    <description>경향신문 - 인물</description>
-    <lastBuildDate>2026-04-23T00:26:40.009Z</lastBuildDate>
-    <item>
-      <title>오늘의 인사-과기부, 복지부, 국토부, 방위사업청 외</title>
-      <link>https://www.khan.co.kr/article/202604131504001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202604131504001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-04-13T15:04:00.000Z</pubDate>
-      <content:encoded>■국무조정실·국무총리비서실 &amp;#9671;국장급 &amp;#9651;재정금융정책관 김민■보건복지부 &amp;#9671;책임운영기관장 채용 &amp;#9651;국립재활원장 김동아■국토교통부 &amp;#9671;국장급 전보 &amp;#9651;도로국장 김효정 &amp;#9651;부산지방국토관리청장 이우제 &amp;#9651;서울지방항공청장 전형필■과학기술정보통신부 &amp;#9671;서기관(4급) 승진 &amp;#9651;부···</content:encoded>
-    </item>
-    <item>
-      <title>화물차 바퀴에 쓰러진 버스기사 대신 운전대 잡아 2차 사고 막은 의인 ‘경찰 표창’</title>
-      <link>https://www.khan.co.kr/article/202604141141011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202604141141011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-04-14T11:41:01.000Z</pubDate>
-      <content:encoded>문도균씨, 버스 중심 잃자 뛰어들어 갓길 정차 경찰 “용기 있는 의인 모습”···문씨 “당연한 일”화물차 바퀴가 관통해 통제불능 상태에 빠진 버스를 멈춰 세운 의인 문도균씨(가운데)가 14일 경기 수원시 경기남부경찰청에서 진행된 표창장 수여식에 참석해 기념촬영을 하고 있다.주행 중 갑자기 날라 온 화물차 바퀴가 운전석을 관통해 통제불능 상태에 빠진 버스를 ···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고-조진호 스포츠경향 편집국장 모친상 외</title>
-      <link>https://www.khan.co.kr/article/202604141455001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202604141455001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-04-14T14:55:00.000Z</pubDate>
-      <content:encoded>■경영선씨 별세, 조진호 스포츠경향 편집국장·건호 몽고DB 상무·정미·정주(주한미군사령부 근무)·정임(미국 아마존 근무)씨 모친상, 유창연 강원대 명예교수·조규백(국세청 근무)씨·이규정 미국 구글 부사장 장모상, 오새리 한스경제 차장·최원정(제이쿠 근무)시모상=14일 강원대병원. 발인 16일 (033)254-5611■정수일씨 별세, 경민·미영·미애·태은·주···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-국가데이터, 식약처, 노동부</title>
-      <link>https://www.khan.co.kr/article/202604141459001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202604141459001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-04-14T14:59:00.000Z</pubDate>
-      <content:encoded>■고용노동부 &amp;#9671;과장급 전보 &amp;#9651;고용서비스기반과장 박보현 &amp;#9651;안전보건격차개선과장 용윤서■중소벤처기업부 &amp;#9671;국장급 전보 &amp;#9651;정책기획관 이순배■식품의약품안전처 &amp;#9671;전보 &amp;#9651;대구지방식품의약품안전청장 보건연구관 신영민■국가데이터처 &amp;#9671;과장급 전보 &amp;#9651;소속특수법인설립추진단장 윤은경■리버···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고-최희주 경향신문 문화사업국 부장 장인상</title>
-      <link>https://www.khan.co.kr/article/202604141652001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202604141652001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-04-14T16:52:00.000Z</pubDate>
-      <content:encoded>■김북규씨 별세, 최희주 경향신문 문화사업국 사업2팀 부장 장인상=14일 쉴낙원 당진장례식장. 16일 (041)354-4444</content:encoded>
-    </item>
-    <item>
-      <title>통제불능 버스 세워 고속도로 참사 막아…문도균씨 ‘경찰 표창’</title>
-      <link>https://www.khan.co.kr/article/202604142105005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202604142105005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-04-14T21:05:00.000Z</pubDate>
-      <content:encoded>날아온 바퀴 맞아 운전기사 사망사고 위험에도 운전대 잡고 정차화물차 바퀴가 관통해 통제불능 상태에 빠진 버스를 멈춰 세운 의인 문도균씨(가운데)가 14일 경기 수원시 경기남부경찰청에서 진행된 표창장 수여식에 참석해 기념촬영을 하고 있다.고속도로 주행 중 갑작스러운 사고로 통제불능 상태에 빠진 버스를 멈춰 세운 시민이 경찰 표창을 받았다.경기남부경찰청은 14···</content:encoded>
-    </item>
+    <title>에이블뉴스 - 인물/단체</title>
+    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
+    <description>에이블뉴스 - 인물/단체</description>
+    <lastBuildDate>2026-04-24T00:26:07.427Z</lastBuildDate>
     <item>
       <title>‘여성법학 개척자’ 배경숙 인하대 명예교수 별세</title>
       <link>https://www.khan.co.kr/article/202604142105015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -82,13 +40,6 @@
       <content:encoded>한국외국어대학교(총장 강기훈)는 올해 ‘HUFS AWARD’ 수상자로 김세원 방송인·한국외대 여성동문회장(프랑스어 63·왼쪽 사진), 백창호 이백 장학회 이사장·한국외대 뉴욕동문회 이사장(영어 72·오른쪽 )을 뽑았다. ‘HUFS AWARD’는 “국가와 사회 발전에 기여하고 모교의 명예를 드높인 동문”에게 주는 상이다.</content:encoded>
     </item>
     <item>
-      <title>교황, 트럼프 겨냥 “민주주의 폭정 전락 위험”</title>
-      <link>https://www.donga.com/news/People/article/all/20260416/133748301/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260416/133748301/2</guid>
-      <pubDate>2026-04-16T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133745977.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국·이스라엘과 이란의 전쟁을 놓고 도널드 트럼프 미 대통령과 공개 설전을 벌이고 있는 레오 14세 교황이 14일(현지 시간) “민주주의는 도덕적 가치에 뿌리를 둘 때만 건전성을 유지할 수 있다”고 밝혔다. 그러면서 “이런 토대가 없으면 민주주의는 다수의 폭정이나 경제·기술 엘리트의 지배를 정당화하는 허울로 전락할 위험이 있다”고 했다. 미국이나 트럼프 대통령을 직접 지칭하진 않았지만, 이번 전쟁 등에서 나타난 트럼프 행정부의 권력 남용을 비판한 것이란 해석이 나온다. 로이터통신에 따르면 12일 트럼프 대통령이 트루스소셜을 통해 교황을 맹비난한 뒤인 14일 교황청은 레오 14세의 이 같은 메시지를 발표했다. 이날 메시지에서 교황은 “권력 그 자체는 목적이 되면 안 된다는 게 가톨릭 교회의 가르침”이라며 “권력은 공동선을 향한 수단이 돼야 한다”고 강조했다. 이어 “절제는 정당한 권위 사용의 필수”라며 “진정한 절제는 과도한 자기 예찬을 통제하고, 권력 남용을 막는 울타리 역할을 하</content:encoded>
-    </item>
-    <item>
       <title>‘혼밥·혼술 예찬’ 쇼지 사다오 별세···직장인의 일상 담은 만화·수필 대가</title>
       <link>https://www.khan.co.kr/article/202604161121001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202604161121001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -108,20 +59,6 @@
       <guid>https://www.khan.co.kr/article/202604161449001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-04-16T14:49:00.000Z</pubDate>
       <content:encoded>■국토교통부 &amp;#9671;과장급 인사 &amp;#9651;제주지방항공청장 강성습 &amp;#9651;국무조정실 국토공간대전환 실무추진단 성장기반과장 한명희 &amp;#9651;기본사회위원회 기본사회기획단 연구전략과장 오한영■해양수산부 &amp;#9671;부이사관 승진 &amp;#9651;세월호 후속대책추진단 기획총괄과장 정준호 &amp;#9651;외부 파견 구도형 &amp;#9651;감사담당관 김태경 &amp;#···</content:encoded>
-    </item>
-    <item>
-      <title>보훈부, 4·19혁명 유공자 70명에 건국포장 수여</title>
-      <link>https://www.donga.com/news/People/article/all/20260416/133753441/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260416/133753441/1</guid>
-      <pubDate>2026-04-16T16:17:39.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133753700.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국가보훈부는 제66주년 4·19혁명 기념일을 맞아 4·19혁명을 주도하고 대한민국 민주주의 발전에 기여한 70명에게 건국포장을 수여한다고 16일 밝혔다. 4·19혁명 유공자 포상은 2023년(31명)이후 3년 만이자 이재명 정부 들어 첫 포상이다.포상자 70명(여성 11명)의 당시 신분은 고등학생 32명, 대학생 25명, 일반인 13명 등이다. 시위 유형별로는 4·19혁명이 36명으로 가장 많고, 마산 3·15의거 24명, 대구 2·28민주운동 8명, 대전 3·8민주의거 및 광주 3·15의거 각 1명 순이다.주요 포상자로는 1960년 2월 대구 경북고 재학 중 2·28민주운동을 계획하고 시위대 행렬 보호를 맡았던 김영갑 선생을 비롯해 1960년 마산 제일여고 3학년으로 3·15의거와 2차 마산 시위에 참여한 김송자 선생 등이 포함됐다.</content:encoded>
-    </item>
-    <item>
-      <title>제니, K팝 유일 타임 ‘영향력 100인’…“모든 소음 뚫는 존재감”</title>
-      <link>https://www.donga.com/news/Culture/article/all/20260416/133753245/1</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20260416/133753245/1</guid>
-      <pubDate>2026-04-16T16:21:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133753757.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;걸그룹 블랙핑크의 제니가 미국 시사주간지 타임이 선정한 ‘올해의 가장 영향력 있는 인물 100인’(타임 100)에 15일(현지 시간) 포함됐다.15일(현지 시간) 타임 100에는 미 싱어송라이터인 그레이시 에이브럼스가 제니를 소개하며 “본론만 말하자면, 그녀는 스타”라며 “제니를 스타로 만드는 건 어떤 순간에도 모든 소음을 뚫고 나오는 듯한, 부정할 수 없는 존재감”이라고 설명했다. 또 그는 제니를 “그 존재감과 함께 친절함과 따뜻함도 갖추고 있다”고도 했다. 제니는 올해 타임 100 명단에 K팝 아티스트 중 유일하게 이름을 올렸다. 제니가 지난해 발매한 첫 솔로 정규 앨범 ‘루비(Ruby)’는 미 음악전문지 롤링스톤의 ‘최고의 앨범 100장’에 선정되기도 했다.타임 100은 2004년부터 타임이 해마다 세계에서 가장 영향력 있는 인물들을 선정해 발표하는 명단이다. 예술가와 아이콘, 지도자, 거물, 개척자, 혁신가 등 6개 부문으로 이뤄져 있다. 제니가 이름을 올린 아티스트 부</content:encoded>
     </item>
     <item>
       <title>어린이 눈 건강 평생 헌신한 구본술 한국실명예방재단 설립자 별세</title>
@@ -164,55 +101,6 @@
       <guid>https://www.donga.com/news/People/article/all/20260417/133756967/2</guid>
       <pubDate>2026-04-17T04:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133756966.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 오클라호마주의 한 고등학교 교장이 총기를 들고 난입한 남성을 맨몸으로 제압했다. 15일(현지 시간) NBC방송, USA투데이 등에 따르면 7일 오후 2시경 오클라호마주 교외의 폴스밸리 고교에 반자동 권총 두 정을 소지한 남성이 침입했다. 이 남성은 학교 로비에서 한 학생을 향해 권총을 쏘려고 했으나 총기가 오작동해 실패했다. 이후 다른 학생을 향해 다시 발포했으나 빗나갔다. 이때 교장 커크 무어가 교무실에서 뛰쳐나와 남성을 향해 정면으로 돌진했다. 그는 순식간에 남성을 넘어뜨려 제압한 뒤 남성의 손을 쥐고 흔들어 총을 떨어뜨렸다. 뒤이어 나타난 교감이 총을 발로 멀리 차 상황이 마무리됐다. 범인은 지난해 이 학교를 졸업한 빅터 리 호킨스(20)로 확인됐다. 호킨스는 경찰에 “(1999년 발생한) 콜럼바인 고교 총기 난사 사건처럼 교직원과 학생들을 모두 살해하고 스스로 목숨을 끊으려 했다”고 진술했다. 오른쪽 다리에 총상을 입고 병원에서 치료를 받고 있는 무어는 30년 넘</content:encoded>
-    </item>
-    <item>
-      <title>4·19혁명 기여 70명에 건국포장</title>
-      <link>https://www.donga.com/news/People/article/all/20260417/133757234/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260417/133757234/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/16/133753700.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국가보훈부는 제66주년 4·19혁명 기념일을 맞아 4·19혁명을 주도하고 대한민국 민주주의 발전에 기여한 70명에게 건국포장을 수여한다고 16일 밝혔다. 4·19혁명 유공자 포상은 2023년(31명) 이후 3년 만이자 이재명 정부 들어 첫 포상이다. 포상자 70명(여성 11명)의 당시 신분은 고등학생 32명, 대학생 25명, 일반인 13명 등이다. 시위 유형별로는 4·19혁명이 36명으로 가장 많고, 마산 3·15의거 24명, 대구 2·28민주운동 8명, 대전 3·8민주의거 및 광주 3·15의거 각 1명 순이다.</content:encoded>
-    </item>
-    <item>
-      <title>[인사]해양수산부 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260417/133757228/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260417/133757228/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>◇해양수산부 〈승진〉 △부이사관 정준호 구도형 김태경 신재영 장묘인 지정훈 이민중 황상호 ◇경향신문 △편집국 뉴스총괄 겸 정치·국제에디터 박영환 △기획콘텐츠총괄 이주영 △영상·콘텐츠랩〃 이용균 △정치·국제〃 손제민 △사회〃 홍진수 △문화·오피니언〃 최민영 △콘텐츠편집·유통〃 장용석</content:encoded>
-    </item>
-    <item>
-      <title>“공직사회엔 대학 ‘팀플’식 협업 왜 안되나요”</title>
-      <link>https://www.donga.com/news/People/article/all/20260417/133757226/3</link>
-      <guid>https://www.donga.com/news/People/article/all/20260417/133757226/3</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133754508.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“대학 ‘팀플’(조별 과제) 땐 공동 문서 편집 플랫폼으로 협업하니 편했는데, 공직에 오니 그런 게 없더라고요.” 2024년 행정안전부 사무관으로 임용된 임도영 혁신행정 플러스 심의위원장(33·사진)은 16일 공직사회의 비효율적 업무 환경에 대해 이렇게 말했다. 임 사무관은 최근 출범한 ‘혁신행정 플러스 심의위원회’ 초대 위원장을 맡았다. 위원회는 행안부 내 저연차 공무원들이 중심이 돼 조직 내 비생산적인 업무 관행을 발굴하고 개선 과제를 심의, 의결하는 기구다. 총 7명으로 구성된 위원 가운데 5명이 경력 3년 차 이내다. 행안부 관계자는 “주변 추천을 통해 임 사무관이 위원장으로 낙점됐다”며 “중앙행정기관에서 MZ세대(밀레니얼+Z세대) 사무관이 위원장을 맡은 건 이례적”이라고 말했다. 위원회는 지난 2개월간 익명 게시판을 통해 공무원들이 체감하는 비효율 업무를 수집해 실행 가능성이 높은 11개 과제를 선정했다. 14일 열린 첫 회의에서는 공동 문서 편집 기능을 활용한 자료 취</content:encoded>
-    </item>
-    <item>
-      <title>블핑 제니, 타임 ‘영향력 있는 100인’</title>
-      <link>https://www.donga.com/news/People/article/all/20260417/133757232/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260417/133757232/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133756973.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;걸그룹 블랙핑크의 제니(사진)가 미국 시사주간지 타임이 선정한 ‘올해의 가장 영향력 있는 인물 100인’(타임 100)에 포함됐다. 15일(현지 시간) ‘타임 100’에는 미 싱어송라이터인 그레이시 에이브럼스가 제니를 소개하며 “본론만 말하자면, 그녀는 스타”라며 “모든 소음을 뚫고 나오는 듯한, 부정할 수 없는 존재감과 함께 친절함과 따뜻함도 갖추고 있다”고도 했다. 제니는 올해 타임 100 명단에 K팝 아티스트 중 유일하게 이름을 올렸다. 타임 100은 2004년부터 타임이 해마다 세계에서 가장 영향력 있는 인물들을 선정해 발표하는 명단이다. 도널드 트럼프 미국 대통령과 교황 레오 14세 등도 선정됐다.</content:encoded>
-    </item>
-    <item>
-      <title>국외소재문화재재단 이사장 박정혜씨</title>
-      <link>https://www.donga.com/news/People/article/all/20260417/133757230/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260417/133757230/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133754513.5.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국외소재문화재재단 이사장으로 박정혜 한국학중앙연구원 한국학대학원 교수(65·사진)가 16일 임명됐다. 박 신임 이사장은 한국미술사학회장, 국사편찬위원회 위원 등을 지냈다. 임기는 3년.</content:encoded>
-    </item>
-    <item>
-      <title>[부고]구본술 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260417/133757222/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260417/133757222/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>◇구본술 한국실명예방재단 명예회장 별세·윤모 인하대 명예교수 한모 서울 성모안과의원 원장 은모 씨 부친상·안재현 KAIST 명예교수 장인상·백계선 석경미 이현미 씨 시부상=14일 서울성모병원, 발인 17일 오전 7시 40분 02-2258-5940 ◇박연규 정동 이화골프존파크 대표(전 경향신문 차장) 별세·민정해 씨 남편상·종현(SK하이닉스) 종엽(삼성카드) 씨 부친상=15일 서울 세브란스병원, 발인 18일 오전 7시 20분 02-2227-7500 ◇이명희 씨 별세·이정희 씨 용희 우리영상미디어 대표 성희 씨 모친상·재환 앳스타일 대표(뉴스엔미디어 이사) 조모상=16일 서울 고려대 구로병원, 발인 18일 오전 6시 20분 02-857-0444 ◇이승희 씨 별세·신범수 한국무역보험공사 감사 모친상=16일 서울 세브란스병원, 발인 18일 오전 5시 02-2227-7500 ◇조기찬 씨 별세·정현 은희 수정 윤주 씨 부친상·김윤구 김관흥 씨 김성환 한국투자증권 사장 장인상·신재분 씨</content:encoded>
-    </item>
-    <item>
-      <title>배영 스타 이주호, 자유형 50m 銅… “초심 찾고 자신감 충전”</title>
-      <link>https://www.donga.com/news/Sports/article/all/20260417/133756802/2</link>
-      <guid>https://www.donga.com/news/Sports/article/all/20260417/133756802/2</guid>
-      <pubDate>2026-04-17T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/17/133756799.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“생각하지 못했는데 (입상까지 해) 기분이 좋다. 자신감이 생긴다.” 한국 남자 배영의 간판 이주호(31·서귀포시청·사진)는 16일 경북 김천실내수영장에서 개막한 제98회 동아수영대회 남자 일반부 자유형 50m 결선에서 깜짝 동메달을 목에 건 후 만면에 미소를 감추지 못했다. 이주호는 23초39의 기록으로 조재우(21·서귀포시청·23초11), 윤인서(23·전주시청·23초25)에 이어 3위로 터치패드를 찍었다. 국가대표 선수 점검차 현장을 찾은 김효열 수영 대표팀 총감독(45)도 이주호의 등을 두드리면서 “앞으로 자유형도 뛰어도 되겠다”며 격려했다. 이주호의 주 종목은 배영 100m, 200m다. 2017년부터 지금까지 10년 동안 대표 선발전을 포함한 국내 대회에서 한 번도 1등을 놓친 적이 없다. 2018년 자카르타-팔렘방 아시안게임 남자 배영 100m 동메달로 국제대회에서 개인종목 첫 입상을 했고, 2023년 항저우 아시안게임에서는 배영 200m에서 은메달을 획득했다. 특히</content:encoded>
     </item>
     <item>
       <title>‘OTT 제국’ 일군 넷플릭스 설립자 떠난다</title>
@@ -395,34 +283,6 @@
       <guid>https://www.donga.com/news/People/article/all/20260420/133769913/2</guid>
       <pubDate>2026-04-20T04:30:00.000Z</pubDate>
       <content:encoded>◇한국일보 △논설위원 안아람 ◇연합뉴스 △디지털콘텐츠국장 이충원 △한민족센터 본부장 이동칠 △기획조정실 부실장 류지복 △디지털콘텐츠국 부국장 이상헌 △편집국 콘텐츠융합실장 안승섭 △〃 정치담당 부국장 송수경 △〃 경제담당 〃 강영두 △〃 전국·사회담당 〃 임주영 △〃 국제담당 〃 이윤영 △〃 외국어담당 〃 이광철 △〃 콘텐츠혁신담당 〃 조재영</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 패럴림피언과 함께하는 장애인스포츠 페스티벌’ 풍경</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230414</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230414</guid>
-      <pubDate>2026-04-20T10:42:19.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 ‘2026 패럴림피언과 함께하는 장애인스포츠 페스티벌’이 지난 18일 서울월드컵경기장에서 열린 성황리에 마무리됐다.제46회 장애인의 날(4월 20일)을 기념해 마련된 이번 행사는 대한장애인체육회(회장 정진완)와 프로축구단 FC서울 및 대한장애인체육회 스포츠의류 공식 후원사이자 FC서울 스폰서인 프로-스펙스가 협력해 지난해에 이어 더욱 풍성하게 진행됐다.맑고 따뜻한 날씨 속에 많은 시민이 행사장을 찾아 다양한 장애인스포츠 체험 프로그램에 참여했다. 행사에서는 휠체어농구, 시각축구 등 장애인스포츠를 직접 체험할</content:encoded>
-    </item>
-    <item>
-      <title>무의 “지하철 교통약자 길찾기 표지 붙였더니 환승시간 40%까지 줄어”</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230411</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230411</guid>
-      <pubDate>2026-04-20T10:43:23.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】“시청역에 교통약자 안내표지를 붙였더니 휠체어 이용 시민 환승 시간이 6분 단축됐다.” “환승 경로에서 이탈해 헤매는 횟수가 5.7회에서 0.9회로 줄었다.”&quot;장애를 무의미하게&quot; 턱없는 세상을 만드는 사단법인 무의가 20일 교통약자 지하철 이동편의 개선을 위한 공공디자인 프로젝트 ‘모두의 지하철’ 시청역 실증조사 결과를 발표하고 지하철 휠체어길 안내 디자인 가이드라인을 무의 홈페이지를 통해 배포한다.지하철 환승 환경 안내 정보의 구조와 배치 원칙을 제시하고, 색채 규정, 서체 및 픽토그램 체계, 표지판 규격</content:encoded>
-    </item>
-    <item>
-      <title>배우 박정민, 장애인의 날 맞아 보건복지부 장관 표창 수상</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230419</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230419</guid>
-      <pubDate>2026-04-20T11:11:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 배우 박정민이 제46회 장애인의 날을 맞아 보건복지부 장관 표창을 받았다.20일 한국장애인재단에 따르면 이번 장관 표창은 장애인의 인권 신장과 복지 증진을 위해 헌신해온 이에게 수여되는 상으로 박정민은 장애인의 문화 접근권 향상 및 기부 활동에 대한 공로를 인정받았다.박정민은 소외된 목소리를 사회에 알리고자 출판사 ‘무제’를 설립하고 시각장애인의 독서 편의를 위해 듣는 소설 ‘첫 여름, 완주’(김금희 지음)를 제작, 오디오북과 함께 수익금을 기부한 것으로 알려졌다.또한 자신이 출연한 뮤지컬 ‘라이프 오브 파</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 오티즘 슈퍼스타K’ 참가자 모집‥5월 18일부터 29일까지</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230418</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230418</guid>
-      <pubDate>2026-04-20T11:12:55.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 발달장애인의 꿈과 재능을 응원하는 무대 ‘2026 오티즘 슈퍼스타K’ 참가자를 오는 5월 18일부터 5월 29일까지 모집한다.이번 행사는 함께웃는재단과 한국자폐인사랑협회가 주관하며 7월 10일 서울 양재동 aT센터 제2전시장에서 진행된다.오티즘 슈퍼스타K는 발달장애인이 자신만의 끼와 재능을 무대에서 마음껏 펼칠 수 있도록 마련된 프로그램이다. 올해 선발된 참가자는 7월 10일 열리는 제4회 오티즘엑스포 현장 무대에 올라 관람객들과 만날 예정이다.모집 분야는 노래, 악기연주, 댄스, 퍼포먼스, 마술, 스포츠,</content:encoded>
     </item>
     <item>
       <title>오늘의 인사-법무부, 외교부, 개인정보보호위, KBS</title>
@@ -807,7 +667,7 @@
       <link>https://www.khan.co.kr/article/202604222020005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202604222020005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-04-22T20:20:00.000Z</pubDate>
-      <content:encoded>입단 때 “두산 내야 20년 책임질 선수” 평가대로 타격 전 부문 두각  씩씩한 ‘멘털’ 큰 장점…“내 플레이에 집중, 건강한 시즌 완주 목표”프로야구 두산 타선에서 가장 뜨거운 방망이를 휘두르는 선수는 단연 박준순(20)이다. 2년 차 내야수 박준순은 2025 신인 드래프트에서 ‘야수 최대어’로 평가받으며 1라운드 전체 6순위로 지명됐다. 당시 김태룡 ···</content:encoded>
+      <content:encoded>입단 때 “두산 내야 20년 책임질 선수” 평가대로 타격 전 부문 두각  씩씩한 ‘멘털’ 큰 장점…“내 플레이에 집중, 건강한 시즌 완주 목표”프로야구 두산 타선에서 가장 뜨거운 방망이를 휘두르는 선수는 단연 박준순(20)이다. 2년 차 내야수 박준순은 2025 신인 드래프트에서 ‘야수 최대어’로 평가받으며 1라운드 전체 6순위로 지명됐다. 당시 김태룡 두···</content:encoded>
     </item>
     <item>
       <title>‘임신 22주’ 영국 여자 마라토너, 42.195㎞ 풀코스 극적 완주</title>
@@ -838,11 +698,151 @@
       <content:encoded>◇김규화 씨 별세·우윤걸 이종선 종희 씨 모친상·엄태영 국회의원(국민의힘) 장모상·김동임 씨 시모상=21일 충북 제천서울병원, 발인 24일 오전 9시 043-644-4422 ◇박준성 씨 별세·강래 kt HCN충북방송 선임 영상취재기자 부친상=22일 충북 청주시 충북대병원, 발인 24일 오전 6시 반 043-269-6969 ◇박찬원 전 코리아나화장품 사장 별세·유창희 씨 남편상·형지 상우 씨 부친상·황윤정 씨 시부상=21일 서울 보라매병원, 발인 24일 오전 6시 반 02-836-6900 ◇신경숙 씨 별세·박광훈 전 무학여고 교장 은미 목원대 교수 모친상·김진한 한국항공우주연구원 수석연구원 장모상·김민선 씨 시모상=22일 서울대병원, 발인 24일 오전 5시 10분 02-2072-2021 ◇오승현 씨 별세·미영 한국주택금융공사 홍보실 부실장 형제상=22일 서울성모병원, 발인 24일 오전 8시 02-2258-5940 ◇이계순 씨 별세·최경규 전 부산고등검찰청 검사장 모친상·백명지</content:encoded>
     </item>
     <item>
+      <title>이재용 아나운서, ‘장애인 인식개선 활동 공로’ 복지부장관 표창</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230527</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230527</guid>
+      <pubDate>2026-04-23T08:59:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】이재용 아나운서가 제46회 장애인의 날(4월 20일)을 맞아 보건복지부 장관 표창을 받았다.이번 장관 표창은 장애인의 인권 신장과 복지 증진을 위해 헌신해 온 이에게 수여되는 상으로 이재용은 꾸준히 이어온 장애인 인식개선 활동의 공로를 인정받았다.2009년 한국장애인재단 홍보대사로 위촉된 이재용은 장애 공감 공모전 시상식 사회, ‘미디어 속 장애인 다시보기’ 목소리 나눔, ‘다같음 챌린지’ 캠페인 촬영 등 장애인 인식개선 활동에 참여하며 재능기부를 이어오고 있다.표창장 전수는 지난 22일 오후 한국장애인재단</content:encoded>
+    </item>
+    <item>
       <title>한양사이버대, 비교과 프로그램 우수 운영학과 7곳 시상</title>
       <link>https://www.khan.co.kr/article/202604230920001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202604230920001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-04-23T09:20:00.000Z</pubDate>
       <content:encoded>한양사이버대학교(총장 이기정)는 지난 14일 교내 HIT 2층 총장실에서 ‘2025학년도 비교과 프로그램 우수 운영학과 시상 및 간담회’를 개최했다.한양사이버대학교는 지난 14일 총장실에서 2025학년도 비교과 프로그램 우수 운영학과 시상식을 진행했다.  이지은 스푸마토학부장(왼쪽부터), 황영희 일본어학과장, 함남혁 건축도시공학과장, 박상현 항공운항.관광항···</content:encoded>
+    </item>
+    <item>
+      <title>국립국어원, 점자 문서 제작 편의성 개선 ‘점사랑 7.0’ 공개</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230530</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230530</guid>
+      <pubDate>2026-04-23T10:09:14.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 국립국어원은 23일 점자 문서 제작의 편의성을 획기적으로 개선한 점역 소프트웨어 ‘점사랑 7.0’을 공개했다.‘점사랑’은 묵자 문서를 점자로 변환하거나 점자 문서를 묵자로 변환하는 프로그램으로 이번에 공개되는 ‘점사랑 7.0’은 외부 문서와의 호환성을 크게 강화해 더욱 편리하고 정확하게 점자 문서를 제작할 수 있도록 했다.HWPX, DOCX 등 일반 문서의 서식을 정교하게 해석하고 점역할 수 있도록 점역 엔진을 개선해 표, 글머리표, 각주, 그림 캡션 등을 포함한 복잡한 문서도 정확하게 점역할 수 있다.또한</content:encoded>
+    </item>
+    <item>
+      <title>소소한소통, ‘쉬운정보 제작 교육’ 온라인 강의 추가 개설‥5월 8일까지 신청</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230544</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230544</guid>
+      <pubDate>2026-04-23T14:06:23.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】사회적기업 소소한소통이 오는 5월 14일 실시하는 ‘쉬운정보 제작 교육(기초)’ 온라인 강의 참여자를 모집한다. 이번 교육은 지난 4월 진행된 오프라인 교육이 신청 개시 이틀 만에 조기 마감됨에 따라, 추가 교육을 요청하는 현장 수요를 반영해 마련됐다. 신청은 5월 8일까지 소소한소통 홈페이지를 통해 선착순 50명(교육비 1인 4만원)을 대상으로 진행된다.이번 온라인 교육은 소소한소통이 축적한 2000건 이상의 제작 사례와 400회 이상의 교육 노하우를 집약한 실무 중심 과정이다.20건 이상의 실제 사례를</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고-전병남 전 황지중학교장 별세 외</title>
+      <link>https://www.khan.co.kr/article/202604231503001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202604231503001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-04-23T15:03:00.000Z</pubDate>
+      <content:encoded>■전병남 전 황지중학교장 별세, 수진 전 SBS미디어넷 엔터채널 대표·현진씨(방송작가) 부친상, 김성호 바텍이우홀딩스 경영지원실장·홍창수 대구대 교수 장인상=23일 신촌세브란스병원. 발인 25일 (02)2227-7500■양귀자씨 별세, 김예원 연합뉴스 기획지원팀 차장 모친상=23일 중앙대병원. 발인 25일 (02)860-3500■조영해씨 별세, 대희 SK증···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사-방송미디어통신위, 재정경제부, 경찰청</title>
+      <link>https://www.khan.co.kr/article/202604231503021/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202604231503021/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-04-23T15:03:02.000Z</pubDate>
+      <content:encoded>■방송미디어통신위원회 &amp;#9671;과장급 전보 &amp;#9651;지상파방송정책과장 이기훈■재정경제부 &amp;#9671;과장급 &amp;#9651;규제개혁법무담당관 김재중 &amp;#9651;국제조세협력과장 정지원 &amp;#9651;관세협력과장 오미영 &amp;#9651;자유무역협정관세이행과장 김창화 &amp;#9651;공공혁신기획과장 김동진■경찰청 &amp;#9671;총경 승진 예정 &amp;#9651;경기남부청 ···</content:encoded>
+    </item>
+    <item>
+      <title>한시련, 화면해설작가 민간자격 등록 완료·전문인력 양성 체계화</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230545</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230545</guid>
+      <pubDate>2026-04-23T15:11:22.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국시각장애인연합회(이하 한시련)가 화면해설작가 민간자격 운영위원회를 통해 운영규정 제62조에 의거 기존 화면해설 작가를 대상으로 ‘화면해설작가’ 민간자격 부여를 확정했다고 23일 밝혔다.이는 시각장애인의 미디어 접근권 확대와 화면해설 전문 인력 양성 체계의 제도화를 본격화하는 뜻깊은 진전이다.한시련은 1999년 국내에 화면해설을 처음 도입한 이후, 27년간 현장 경험과 교육 노하우를 축적해 왔다. 그동안 화면해설작가 양성과정을 운영할 때마다 250시간 이상의 교육을 통해 전문인력을 길러왔으며, 현재까지 1</content:encoded>
+    </item>
+    <item>
+      <title>‘천재 공격수’ 18세 야말 부상…스페인도 FC바르샤도 ‘비상’</title>
+      <link>https://www.khan.co.kr/article/202604232016005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202604232016005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-04-23T20:16:00.000Z</pubDate>
+      <content:encoded>셀타 비고전 결승골 넣고 쓰러져프리메라리가 우승 경쟁 빨간불첫 출전 앞둔 월드컵에도 차질18세에 스페인 명문 FC바르셀로나의 간판 공격수로 자리 잡은 라민 야말(사진)이 생애 첫 월드컵을 앞두고 햄스트링 부상이라는 악재를 맞았다.야말은 23일 바르셀로나 스포티파이 캄노우에서 열린 셀타 비고와의 2025~2026시즌 스페인 프리메라리가 32라운드 홈경기에 선···</content:encoded>
+    </item>
+    <item>
+      <title>2022년이 문제라고?…이다연 ‘울상’</title>
+      <link>https://www.khan.co.kr/article/202604232019005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202604232019005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-04-23T20:19:00.000Z</pubDate>
+      <content:encoded>11시즌 연속 시드 유지했는데 ‘K-10 클럽’ 가입 불가10년간 꾸준히 활약한 선수 특권 3년 전 부상에 10개 대회만 나서 시즌 절반 이상 출전 규정 ‘발목’‘작은 거인’ 이다연(사진)은 한국여자프로골프(KLPGA) 정규투어에서 통산 9승을 기록하고 있다. 2016년 KLPGA 정규투어에 데뷔해 한 번도 시드를 잃지 않고 올해 11번째 시즌을 보내고 있···</content:encoded>
+    </item>
+    <item>
+      <title>미국 민주당 연방 하원의원 데이비드 스콧 별세</title>
+      <link>https://www.khan.co.kr/article/202604232136015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202604232136015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-04-23T21:36:01.000Z</pubDate>
+      <content:encoded>데이비드 스콧 미국 연방 하원의원(조지아주·민주당)이 22일(현지시간) 별세했다고 AP통신 등 미국 언론이 의원실 발표를 인용해 보도했다. 향년 80세.2003년부터 하원에서 활동해온 고인은 사망 전 민주당 우세 지역구에서 13선에 도전 중이었다. 의원실은 사인을 밝히지 않았다. 예상치 못한 죽음이었다고만 전했다.고인은 1945년 6월27일 사우스캐롤라이나···</content:encoded>
+    </item>
+    <item>
+      <title>한양사이버대, 비교과 프로그램 우수 운영학과 7곳 시상</title>
+      <link>https://www.khan.co.kr/article/202604232136025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202604232136025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-04-23T21:36:02.000Z</pubDate>
+      <content:encoded>한양사이버대학교(총장 이기정)는 지난 14일 교내 HIT 2층 총장실에서 ‘2025학년도 비교과 프로그램 우수 운영학과 시상 및 간담회’를 개최했다.“지난 한 해 동안 우수한 성과를 거둔 학과를 격려하고, 대표 사례를 학교 전체로 확산해 학생 역량 강화를 체계적으로 지원하기 위해 마련”한 행사다. 프로그램 수, 회차 수, 참여율, 만족도 등 정량 지표와 운···</content:encoded>
+    </item>
+    <item>
+      <title>[경제계 인사]한국에너지공단</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260423/133802069/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260423/133802069/2</guid>
+      <pubDate>2026-04-24T00:30:00.000Z</pubDate>
+      <content:encoded>◇한국에너지공단 〈신임〉 ▽임원 △ 부이사장 박영호 △상임이사 유기호 김회철 ▽부서장 △인재경영처장 이재용 △재생에너지소통처장 정군모</content:encoded>
+    </item>
+    <item>
+      <title>[인사]경찰청</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802844/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802844/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>◇경찰청 〈승진〉 ▽총경 △본청 길민성 박현준 김홍기 이종학 이승운 김정민 백민욱 박진우 조정미 박준현 천문영 박상구 이재환 이성재 임희진 이희상 강길범 김재영 정대일 최연석 △서울경찰청 이규탁 정균수 송현건 송천호 장보은 정용우 김경태 정형은 이상일 조응현 문태호 김정태 고태완 이교진 윤지숙 신승렬 이승하 김하철 한승일 오종호 김양수 김남균 도영호 정한용 김호덕 △부산〃 임홍란 박명철 신찬욱 심재준 표준영 김한국 정태운 △대구〃 이대헌 김천우 최홍열 △인천〃 최지혜 최상욱 소완선 이정준 장현필 △광주〃 한정민 최윤석 한희주 박의경 △대전〃 김항수 신승주 김재춘 △세종〃 이강범 △울산〃 정지원 △경기남부〃 이용주 이정호 박웅 김준 서영남 송경호 김종성 △경기북부〃 한상민 서민석 조은철 △강원〃 최우영 박경흠 △충북〃 장성재 차상학 △충남〃 조상규 이권수 류근실 서창선 △전북〃 박병연 김명겸 이만석 △전남〃 고성민 김석진 최현 서명준 △경북〃 정선중 박철민 한재웅 △경남〃 김상일 이경</content:encoded>
+    </item>
+    <item>
+      <title>트럼프 특사 FIFA에 “월드컵, 이란 빼고 伊 넣자”</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802848/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802848/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/24/133800827.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 대통령이 지난해 3월 글로벌 파트너십 특사로 임명한 이탈리아 사업가 파올로 참폴리(56·사진)가 2026년 북중미 월드컵에 미국과 전쟁 중인 이란 대신 예선에서 떨어진 모국 이탈리아를 출전시키는 방안을 국제축구연맹(FIFA)에 제안했다고 영국 파이낸셜타임스(FT) 등이 22일(현지 시간) 보도했다. 전쟁 여파로 월드컵 참가가 불투명한 이란 대신 전통적인 축구 강국으로 세계적인 선수도 대거 보유했지만 이번 월드컵을 포함해 최근 3회 연속 본선 진출이 좌절된 이탈리아를 출전시키자는 주장이다. 참폴리는 최근 트럼프 대통령과 잔니 인판티노 FIFA 회장에게 이 같은 내용을 직접 제안하며 “네 차례 월드컵 우승 경력이 있는 이탈리아 대표팀은 이란을 대체해 출전할 만한 자격이 있다”는 취지의 주장을 폈다. 밀라노 출신 참폴리는 미국 뉴욕 사교계와 패션업계를 중심으로 활동하던 모델 에이전트였다. 1990년대 후반 그가 담당하던 모델 멜라니아 트럼프 여사를 트럼프 대통령에게</content:encoded>
+    </item>
+    <item>
+      <title>노인 일자리로 모은 100만원 성금</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802842/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802842/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>강원 횡성군의 한 80대 할머니가 노인 일자리 사업 참여로 모은 100만 원을 “더 어려운 이웃에게 써달라”며 익명으로 기탁했다. 23일 횡성군에 따르면 이 할머니는 전날 지인을 통해 군 복지정책과에 현금 100만 원을 전달했다. 그는 홀몸노인으로 쓰레기 수거, 화단 정리 등 횡성군의 노인 일자리 사업을 통해 돈을 마련했다. “절대 신분을 밝히지 말아 달라”며 “소액이라 부끄럽지만 나보다 더 어려운 이웃이 있을 테니 그들을 위해 써달라”는 말을 전했다고 한다. 횡성군은 이 성금을 저소득 취약계층 지원에 사용할 예정이다.</content:encoded>
+    </item>
+    <item>
+      <title>[부고]양귀자 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802851/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802851/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>◇양귀자 씨 별세·김예원 연합뉴스 기획지원팀 차장 모친상=23일 서울 중앙대병원, 발인 25일 오전 10시 02-860-3500 ◇전병남 전 황지중학교장 별세·수진 전 SBS미디어넷 엔터채널 대표 현진 방송작가 부친상·김성호 바텍이우홀딩스 경영지원실장 홍창수 대구대 교수 장인상=23일 서울 세브란스병원, 발인 25일 오전 6시 20분 02-2227-7500 ◇조영해 씨 별세·대희 SK증권 대구금융센터장 성희 진희 연우 씨 부친상·이종영 씨 장인상·권민정 씨 시부상=22일 대구가톨릭대병원, 발인 25일 오전 9시 053-650-4444</content:encoded>
+    </item>
+    <item>
+      <title>“내 사례가 동료들에 영향줬으면”… SK하이닉스 40대 직원, 1억 기부</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802833/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802833/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>SK하이닉스 직원이 충북 아너소사이어티에 직장인 최초로 이름을 올린 사실이 뒤늦게 알려졌다. 23일 충북사회복지공동모금회에 따르면 40대인 기부자가 올 1월 모금회를 찾아 1억 원을 전달했다. 아너소사이어티는 사회복지공동모금회가 운영하는 1억 원 이상 고액 기부자 모임으로, 급여생활자 가입은 처음이라고 모금회는 밝혔다. 기부자는 당초 직장 공개를 꺼렸지만 “사례가 알려지면 동료들에게 선한 영향력을 줄 수 있을 것 같다”며 공개를 허용한 것으로 전해졌다. 그는 “적금 만기를 계기로 버킷리스트를 실천했다”며 “어려운 환경의 아동·청소년을 위해 쓰이길 바란다”고 밝혔다.</content:encoded>
+    </item>
+    <item>
+      <title>경주 선방사 역사 품은 탑지석 100년 만에 첫 공개</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802846/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802846/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/24/133803722.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“선방사의 탑을 수리한 기록이다. 불사리(佛舍利)는 23과이고, 금 1푼을 혜중이 넣고, 은 15푼을 도여가 넣었다.” 경북 경주 선방사(禪房寺) 탑지석(塔誌石·탑을 조성한 내력이나 봉안된 유물을 기록한 돌·사진)에 담긴 내용의 일부다. 오랫동안 학계에 자료로만 알려져 왔던 이 탑지석의 실물이 뒤늦게 확인돼 발견 100년 만에 처음 일반에 공개됐다. 국립경주박물관은 “신라 불교 문화를 소개하는 상설전시관 ‘신라미술관’에서 9세기 후반 신라의 조탑(造塔) 신앙과 사리장엄 의례를 이해하는 데 중요한 자료로 꼽히는 선방사 탑지석을 선보인다”고 23일 밝혔다. 선방사는 과거 경주 남산 선방곡에 있던 사찰로, 오늘날 삼불사 자리에 있었던 것으로 추정된다. 탑지석은 1926년 경주 배동 석조여래삼존입상 인근에서 발견됐고, 1938년 구로다 간이치(黑田幹一)란 인물이 사진과 탁본으로 돌에 적힌 내용을 공개한 적이 있다. 이후 ‘소재 불명’으로 알려져 있었으나, 2017년 e뮤지엄에 ‘탑지석’</content:encoded>
+    </item>
+    <item>
+      <title>전주 임신부, 병원 못찾아 인천까지 360km 헬기 이송</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802840/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802840/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/23/133800542.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전북 전주시의 임신부가 조기 진통을 호소했지만 가까운 병원을 찾기 어려워 360km를 헬기로 비행해 인천에 있는 병원에서 치료받았다. 23일 소방청에 따르면 20일 오전 8시 18분경 임신 24주 차 임신부가 조기 진통 증상을 호소하는 긴급 신고가 접수됐다. 해당 임신부는 과거 자궁경부 결찰술을 받은 이력이 있어 조산 위험이 컸다. 현장에 도착한 구급대는 즉시 수용 가능한 병원을 수배했지만 찾는 데 어려움을 겪었다. 전북 119구급상황관리센터는 근처는 물론이고 수도권까지 범위를 넓혀 총 14개 병원에 수용 가능 여부를 확인한 끝에 인천에 있는 가천대 길병원으로부터 수용 확답을 받았다. 이후 전북 1호 소방헬기가 약 360km를 비행해 임신부를 이송했다. 현재 임신부는 안정을 취하며 치료받고 있다고 소방청은 밝혔다. 소방청은 “광역 대응을 할 수 있었던 것은 전국 단위 소방헬기 통합출동 체계 덕분”이라고 설명했다. 통합출동은 지역 관할 구분 없이 사고 발생 지점과 가장 가깝고 임무</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다]만성폐쇄성폐질환과 폐고혈압</title>
+      <link>https://www.donga.com/news/People/article/all/20260424/133802836/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260424/133802836/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/24/133800812.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아일보와 서울아산병원이 준비한 4월 온라인 건강강좌 영상이 23일(목) 업로드됐습니다. 서울아산병원 호흡기내과 이장호 교수가 ‘만성폐쇄성폐질환과 폐고혈압’에 대해 일반인의 궁금증을 알기 쉽게 풀어줍니다. 건강강좌 영상은 동아일보와 서울아산병원 공식 홈페이지 및 유튜브 채널에 올라갑니다. QR코드를 스캔하면 영상으로 자동 연결됩니다. 많은 관심 바랍니다. ●링크: 동아일보 유튜브 youtube.com/c/dongamediagroup, 서울아산병원 유튜브 youtube.com/asanmedicalcenter●문의: 서울아산병원 홍보팀(02-3010-8141)</content:encoded>
+    </item>
+    <item>
+      <title>“박형준 하면 엑스포만 떠올라, 샤이보수 결집론 지금은 안맞아”</title>
+      <link>https://www.donga.com/news/Politics/article/all/20260424/133803399/2</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20260424/133803399/2</guid>
+      <pubDate>2026-04-24T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/24/133801133.7.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“박형준 부산시장 하면 부산 엑스포만 떠오른다는 게 부산 시민들의 평가다.” 더불어민주당 전재수 부산시장 후보는 23일 국회에서 가진 동아일보 인터뷰에서 국민의힘 부산시장 후보인 박 시장을 겨냥해 “이명박 전 서울시장 하면 청계천, 오세훈 서울시장 하면 한강버스라도 떠오르는데 박 시장은 아무것도 없다”며 이렇게 말했다. 2023년 11월 윤석열 정부가 유치 총력전을 펼쳤지만 사우디아라비아에 29표 대 119표로 참패한 부산 엑스포 사례를 거론하면서 박 시장과 달리 자신은 성과를 내겠다고 강조한 것. 다음은 일문일답.―2024년 총선 당시 민주당 후보로는 유일하게 부산에서 승리했는데…. “지역구인 부산 북갑 유권자가 15만 명 정도인데 선거 때 쓰는 명함만 20만 장이다. 하루 10∼15시간씩 120일을 다녀야 쓸 수 있는 양이다. 국민의힘 지지자와도 형님 동생으로 지낸다. 부산에서 민주당 간판으로 당선되려면 사람만 좋아선 안 되고 죽어라 일해서 성과를 내야 한다.”―통일교 금</content:encoded>
     </item>
   </channel>
 </rss>
