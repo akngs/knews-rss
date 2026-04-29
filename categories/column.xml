@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>미디어오늘 - 오피니언</title>
-    <link>https://www.mediatoday.co.kr/rss/S1N8.xml</link>
-    <description>미디어오늘 - 오피니언</description>
-    <lastBuildDate>2026-04-28T00:29:31.342Z</lastBuildDate>
+    <title>경향신문 - 오피니언</title>
+    <link>https://www.khan.co.kr/rss/rssdata/opinion_news.xml</link>
+    <description>경향신문 - 오피니언</description>
+    <lastBuildDate>2026-04-29T00:29:24.479Z</lastBuildDate>
     <item>
       <title>한국 출산율은 어쩌다 0.78명이 되었을까 [편집국장의 편지]</title>
       <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=49842</link>
@@ -143,13 +143,6 @@
       <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=49899</guid>
       <pubDate>2023-03-22T06:33:00.000Z</pubDate>
       <content:encoded>제14기 〈시사IN〉 독자위원회 마지막 모임에서 가장 오래 나눈 대화 주제는 ‘학폭’이었다. 야구선수 추신수가 학교폭력에 연루된 안우진 선수를 두둔한 내용을 담은 기사에 대해 이야기를 나누면서였다. 기사 자체보다 평소 학교폭력에 대한 각자의 생각으로 이야기가 흘러가는 바람에 지면에 담지는 못했지만 잇단 학폭 관련 뉴스를 보며 대화를 곱씹게 되었다.한 독자가 다양한 폭력 중에서도 사람들이 유독 학교폭력에 민감한 이유가 궁금하다고 하자 교사로 근무했던 또 다른 독자가 말했다. 감정이 해소되지 못했기 때문이라고. 피해자는 가해자에게 진정</content:encoded>
-    </item>
-    <item>
-      <title>민주당 ‘허위조작정보 근절법’ 숙의해야</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=330807</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=330807</guid>
-      <pubDate>2025-12-16T13:33:31.000Z</pubDate>
-      <content:encoded>지난 10일 국회 상임위를 통과한 정보통신망법 개정안을 두고 언론계에선 ‘일단 최악은 피했다’는 평가가 나온다. 기존 최민희 더불어민주당 의원 안에서 가장 큰 논란이었던 ‘타인을 해할 의도의 추정’ 요건이 빠졌고, 위법성 조각사유도 원안보다 구체적으로 명시했으며 ‘전략적 봉쇄소송’ 방지 특칙도 보완했다. 방송미디어통신위원회가 유튜브 등 대규모 정보통신서비스 제공자에게 과징금을 부과할 수 있는 조항도 삭제했다. 하지만 우려를 말끔히 해소하진 못했다. 법안의 핵심은 ‘손해액의 최대 5배 배액배상’ 기준이 되는 ‘허위조작정보’를 어떻게</content:encoded>
     </item>
     <item>
       <title>이 대통령 “방송 정상화” 발언 아쉽다</title>
@@ -297,6 +290,13 @@
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=332610</guid>
       <pubDate>2026-02-24T14:08:58.000Z</pubDate>
       <content:encoded>법원이 내란우두머리 혐의로 재판을 받은 윤석열 전 대통령에게 지난 19일 무기징역을 선고했다. 관련 사건을 담당한 재판부들은 일관되게 12·3 비상계엄을 ‘내란’으로 규정했고, 이로 인한 사회적 갈등이 야기돼 아직 봉합되지 못한 사실을 짚었다.이런 상황에서도 내란을 인정하지 않고, 윤석열 전 대통령 및 ‘윤 어게인’ 세력과 거리를 두지 않는 장동혁 체제의 국민의힘에 대한 언론의 비판이 거세다. 그러나 이와 같은 비판에서 일부 언론도 자유롭지 않다.특히 내란 사태 이후 유튜브 저널리즘의 문제가 두드러졌다. 신문 지면과 TV방송에선 비</content:encoded>
+    </item>
+    <item>
+      <title>[정우상 칼럼] 김어준 방식대로 김어준 공격하는 ‘뉴이재명’</title>
+      <link>https://www.chosun.com/opinion/column/2026/02/24/HEXKUYVF7VAJ7PW7IFJQEFNC2Q/</link>
+      <guid>https://www.chosun.com/opinion/column/2026/02/24/HEXKUYVF7VAJ7PW7IFJQEFNC2Q/</guid>
+      <pubDate>2026-02-24T14:55:00.000Z</pubDate>
+      <content:encoded></content:encoded>
     </item>
     <item>
       <title>사법 3법 개정, 국민 눈높이에서 다시 숙고해야 한다</title>
@@ -610,13 +610,6 @@
       <content:encoded>정해랑 / 주권자전국회의 상임대표, 21세기 민족주의포럼 대표 ‘노동자 신돌석씨의 하루’가 어느덧 병오년을 맞이하면서 100화가 되었습니다. 이것을 ‘온째 이야기’라고 표현했습니다. ‘온’은 100의 순우리말입니다.내란의 완전 종식과 내란 세력의 청산은 민주주의운동의 확고한 진전입니다. 그것을 바탕으로 오랜 질곡이었던 외세, 특히 미국에 대해 자주화를 확실하게 이루어야 합니다. 우리에게 이 문제가 대두되는 것은, 국제정세의 변화나 미국의 변화도 있지만, 이제 우리 사회가 이 문제를 정면에서 거론할 시기에 이르렀다는 것을 뜻하기도 합</content:encoded>
     </item>
     <item>
-      <title>당연한 1등도, 영원한 1등도 없어… 늘 정직하게 이기고 싶었다</title>
-      <link>https://www.chosun.com/opinion/2026/04/19/66HEGT33XZDATFNYJMOM5CIRD4/</link>
-      <guid>https://www.chosun.com/opinion/2026/04/19/66HEGT33XZDATFNYJMOM5CIRD4/</guid>
-      <pubDate>2026-04-19T14:31:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
       <title>[여성논단] ‘꼰대’에서 ‘영포티’로: 기성세대 남성성 멸칭의 변화가 말해주는 것</title>
       <link>https://www.womennews.co.kr/news/articleView.html?idxno=276441</link>
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=276441</guid>
@@ -624,101 +617,10 @@
       <content:encoded>‘꼰대’의 뉘앙스는 ‘가르치려 든다’는 것이다. ‘꼰대’는 특정 연령층만 지칭하지는 않는다. ‘젊은 꼰대’라는 말도 있다. 그러나 이 말은 과거 586 남성을 특정하는 말로 많이 사용되었다. 그들이 ‘가르치려 드는’ 아비투스를 과시할 뿐만 아니라, 그럴 자격 역시 가진 위치에 있던, 즉 아버지, 선생님, 직장 상사, 기성세대를 대표하던 때의 이야기이다. 그런데 이제 그들이 은퇴하기 시작하고 과거의 ‘X세대’가 새로운 기성세대로 진입하면서, 기성세대 남성에 대한 멸칭이 ‘영포티’로 바뀌었다. 과거 ‘꼰대’는 청년 남녀 모두가 기성세대</content:encoded>
     </item>
     <item>
-      <title>[만물상] 늑구 신드롬</title>
-      <link>https://www.chosun.com/opinion/manmulsang/2026/04/20/ZSTTFC7KGJER5PQXEZAAY7W7BY/</link>
-      <guid>https://www.chosun.com/opinion/manmulsang/2026/04/20/ZSTTFC7KGJER5PQXEZAAY7W7BY/</guid>
-      <pubDate>2026-04-20T12:03:58.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[유덕종의 아디스 레터] 풍요가 감사를 삼킨 시대, 가난이 행복일 수 있다</title>
-      <link>https://www.chosun.com/opinion/specialist_column/2026/04/20/UYIDG7NA7JBPPOC57XYMTS5IMY/</link>
-      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/20/UYIDG7NA7JBPPOC57XYMTS5IMY/</guid>
-      <pubDate>2026-04-20T14:33:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[윤희영의 News English] 호르무즈·홍해·지중해·흑해, 이름에 얽힌 사연</title>
-      <link>https://www.chosun.com/opinion/specialist_column/2026/04/20/OWJDHGHN4RAPXB54RQCFGR5JWY/</link>
-      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/20/OWJDHGHN4RAPXB54RQCFGR5JWY/</guid>
-      <pubDate>2026-04-20T14:34:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[신문 속 작은 창문] [14] 휠체어 위의 행복</title>
-      <link>https://www.chosun.com/opinion/column/2026/04/20/4O2XG57RGZEWTPCQIAAV76Z2XA/</link>
-      <guid>https://www.chosun.com/opinion/column/2026/04/20/4O2XG57RGZEWTPCQIAAV76Z2XA/</guid>
-      <pubDate>2026-04-20T14:35:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[기고] 고유가 피해 지원금은 민생 지키는 방파제</title>
-      <link>https://www.chosun.com/opinion/contribution/2026/04/20/FHROVA33FNDVJCQEEKLUPRHHDQ/</link>
-      <guid>https://www.chosun.com/opinion/contribution/2026/04/20/FHROVA33FNDVJCQEEKLUPRHHDQ/</guid>
-      <pubDate>2026-04-20T14:36:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[특파원 리포트] ‘나는 전능하다’는 망상</title>
-      <link>https://www.chosun.com/opinion/correspondent_column/2026/04/20/S56YX2UHRFGTXPMLEDBOWWUNHY/</link>
-      <guid>https://www.chosun.com/opinion/correspondent_column/2026/04/20/S56YX2UHRFGTXPMLEDBOWWUNHY/</guid>
-      <pubDate>2026-04-20T14:37:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[김국현의 과학기술 유행어 도감] [8] 딸깍 전쟁</title>
-      <link>https://www.chosun.com/opinion/specialist_column/2026/04/20/56YNIZCEBFCJ7GOIMFFWULRXOU/</link>
-      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/20/56YNIZCEBFCJ7GOIMFFWULRXOU/</guid>
-      <pubDate>2026-04-20T14:38:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
       <title>[태평로] 트럼프에 목을 내보였던 대통령의 외교술</title>
       <link>https://www.chosun.com/opinion/taepyeongro/2026/04/20/4PLIMJ7NG5C45FA62FGXRFIS3I/</link>
       <guid>https://www.chosun.com/opinion/taepyeongro/2026/04/20/4PLIMJ7NG5C45FA62FGXRFIS3I/</guid>
       <pubDate>2026-04-20T14:39:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[우정아의 아트 스토리] [628] 라부아지에의 빛과 그림자</title>
-      <link>https://www.chosun.com/opinion/specialist_column/2026/04/20/ZU7HN7EYU5FIVIUTDYH3BWPGQU/</link>
-      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/20/ZU7HN7EYU5FIVIUTDYH3BWPGQU/</guid>
-      <pubDate>2026-04-20T14:40:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[朝鮮칼럼] 아파트는 죄가 없다</title>
-      <link>https://www.chosun.com/opinion/chosun_column/2026/04/20/K7YUK3CRKJGFBHBE77N76WHGCA/</link>
-      <guid>https://www.chosun.com/opinion/chosun_column/2026/04/20/K7YUK3CRKJGFBHBE77N76WHGCA/</guid>
-      <pubDate>2026-04-20T14:55:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[사설] 10일 만에 귀국 장 대표, ‘관광객 사진’만 남아</title>
-      <link>https://www.chosun.com/opinion/editorial/2026/04/21/HKOMV6APF5GOZFCYAHZIXQPM3U/</link>
-      <guid>https://www.chosun.com/opinion/editorial/2026/04/21/HKOMV6APF5GOZFCYAHZIXQPM3U/</guid>
-      <pubDate>2026-04-20T15:00:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[팔면봉] 李 대통령이 던진 ‘장특공 단계적 폐지’, 與 “검토한 바 없다” 급히 수습. 외</title>
-      <link>https://www.chosun.com/opinion/palmyeonbong/2026/04/21/R6KK3SSDL5ARFE6UVKWM7Q5TGE/</link>
-      <guid>https://www.chosun.com/opinion/palmyeonbong/2026/04/21/R6KK3SSDL5ARFE6UVKWM7Q5TGE/</guid>
-      <pubDate>2026-04-20T15:10:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[사설] 노동자 사망 사고까지 부른 노란봉투법 갈등</title>
-      <link>https://www.chosun.com/opinion/editorial/2026/04/21/ONCB22Z6T5CR7CPNK3CNH3VASE/</link>
-      <guid>https://www.chosun.com/opinion/editorial/2026/04/21/ONCB22Z6T5CR7CPNK3CNH3VASE/</guid>
-      <pubDate>2026-04-20T15:10:00.000Z</pubDate>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[사설] 정부 정책이 대통령 휴대폰 문자로 계속 나와야 하나</title>
-      <link>https://www.chosun.com/opinion/editorial/2026/04/21/PLJMCWQPQFDNRAX6OYQWHRBG2U/</link>
-      <guid>https://www.chosun.com/opinion/editorial/2026/04/21/PLJMCWQPQFDNRAX6OYQWHRBG2U/</guid>
-      <pubDate>2026-04-20T15:20:00.000Z</pubDate>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -946,34 +848,6 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>[겨를]쇼트폼과 칼럼</title>
-      <link>https://www.khan.co.kr/article/202604222007015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604222007015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-22T20:07:01.000Z</pubDate>
-      <content:encoded>쇼트폼 중독이 사회 문제다. 쇼트폼은 이름처럼 짧은 영상이다. 인간의 주의를 빼앗아가도록 설계되었기 때문에 한번 들어가면 어이쿠, 그만 봐야지 하고 빠져나오기가 쉽지 않다. 과학기술정보통신부에서 발표한 ‘2025 스마트폰 과의존 실태조사’에 따르면 만 3~69세 한국인 중 스마트폰 과의존 위험군이 22.7%인데, 이들은 일반 사용자에 비해 유튜브 쇼츠, 틱···</content:encoded>
-    </item>
-    <item>
-      <title>[시론]우리는 ‘기후 유권자’다</title>
-      <link>https://www.khan.co.kr/article/202604222009005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604222009005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-22T20:09:00.000Z</pubDate>
-      <content:encoded>역대 최고 기온이 해마다 경신되고, 예측하기 어려운 폭우와 가뭄이 더 이상 뉴스 속 이야기가 아닌 우리의 일상이 되었다. 우리는 이제 여름이면 폭염에 지쳐 쓰러지는 이웃을 보고, 장마철이면 극한 호우로 하루아침에 삶의 터전을 잃는 사람들의 소식을 접한다. 이제 기후위기와 기후재난은 과학 잡지의 표지나 먼 미래 세대에게 떠넘길 숙제가 아니다. 그것은 바로 지···</content:encoded>
-    </item>
-    <item>
-      <title>[정동칼럼]이상한 나라의 노동자</title>
-      <link>https://www.khan.co.kr/article/202604222013005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604222013005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-22T20:13:00.000Z</pubDate>
-      <content:encoded>이재명 대통령이 말했다. “우리나라는 이상하게 불안정한 노동에 대해서는 더 많은 보상을 해야 하는데 불안정하면 덜 준다. 이게 근본적으로 잘못됐다.” 정규직이 더 받고 비정규직이 덜 받는 것이 당연해 보이는 사회에 대통령이 신선한 질문을 던졌다. 비정규직 노동자의 현실을 개선하려는 강한 의지로도 들린다. 하지만 어떤 질문은 사라졌다. 지금 받는 수준으로 정···</content:encoded>
-    </item>
-    <item>
-      <title>[문화와 삶]너무 현실적인 사람들</title>
-      <link>https://www.khan.co.kr/article/202604222013015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604222013015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-22T20:13:01.000Z</pubDate>
-      <content:encoded>얼마 전 한 비영리단체의 상근자 채용에 지원했다. 평일 오전에만 근무하는 조건이어서 작가 일을 병행하며 생활비를 벌기 위해서였다. 면접을 보면서 알게 된 것은 급여는 최저시급이고 오전만 근무하긴 하지만 사실상 하루 종일 해야 할 핵심 업무들을 오전에 집중적으로 끝내는 데 가깝다는 것이었다. 업무에 대한 자세한 설명이 기재되어 있지 않은 점에 관해 묻자, 면···</content:encoded>
-    </item>
-    <item>
       <title>우리의 근대는 이렇게도 나뉜다</title>
       <link>http://www.tongilnews.com/news/articleView.html?idxno=216320</link>
       <guid>http://www.tongilnews.com/news/articleView.html?idxno=216320</guid>
@@ -1107,27 +981,6 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>장애인권리 실현 새 시대 열 ‘장애인권리보장법’ 제정 환영</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230550</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230550</guid>
-      <pubDate>2026-04-23T17:14:22.000Z</pubDate>
-      <content:encoded>(사)한국장애인단체총연합회(이하 장총련, 상임대표 이영석)는 10년의 염원이었던 ‘장애인권리보장법(안)’이 마침내 23일 국회 본회의를 통과한 것을 500만 장애인과 함께 적극 환영한다. 이번 제정이 선언에 머물지 않고 실질적인 국가 책임 체계로 완성될 수 있는지가 향후 성패를 가를 것이다.이번 법은 단순한 개별 법률의 제정을 넘어, 장애인 정책 전반을 아우르는 기본법이자 이른바 ‘장애인 헌법’으로서의 의미를 지닌다. 그간 장애인 정책이 개별 법률 중심으로 분절적으로 운영되어 온 한계를 극복하고, 권리 중심의 통합적 정책 체계로 전</content:encoded>
-    </item>
-    <item>
-      <title>장애인권리보장법 국회 통과를 환영하며</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230553</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230553</guid>
-      <pubDate>2026-04-23T17:23:00.000Z</pubDate>
-      <content:encoded>(사)한국장애인연맹(이하 한국DPI, 회장 이영석)은 국회의「장애인권리보장법」본 회의 통과를 환영한다. 이번 입법은 대한민국 장애인 정책의 방향을 근본적으로 전환하는 중요한 계기로, 장애를 더 이상 보호나 시혜의 대상으로 보지 않고 권리의 문제로 재정의했다는 점에서 역사적 의미가 있다.그동안 한국 사회는「장애인복지법」 중심으로 제도적 기반을 구축해 왔지만, 여전히 많은 정책이 서비스 제공과 보호 중심에 머물러 있었다. 그 결과 이동권, 교육권, 노동권, 자립생활, 정보접근권 등 장애인의 기본적 권리는 법적 선언에 비해 현실에서 충분</content:encoded>
-    </item>
-    <item>
-      <title>무엇이 장애인을 자발적 고립으로 내모는가</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230506</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230506</guid>
-      <pubDate>2026-04-23T17:24:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 김경식 칼럼니스트】장애인이 사회 밖으로 밀려나는 현상을 두고 사람들은 쉽게 “자발적 고립”이라고 말한다. 밖에 잘 나오지 않고, 관계를 줄이고, 활동 반경을 좁히는 모습을 보면 마치 당사자가 스스로 세상과 거리를 두는 것처럼 보이기 때문이다.그러나 이 말은 대체로 결과만 보고 원인을 지워버린다. 장애인의 고립은 대개 개인의 선택이 아니라, 이동하기 어렵고 접근하기 어렵고 이용하기 어려운 사회가 오랜 시간에 걸쳐 만들어낸 구조적 결과다. 고립은 의지의 문제가 아니라 설계의 문제다.보건복지부의 2023년 장애인 실태조사 결</content:encoded>
-    </item>
-    <item>
       <title>잔혹한 드레스코드 : 법의 역설, 누구를 향한 장치인가 ep.3</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230255</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230255</guid>
@@ -1140,114 +993,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230478</guid>
       <pubDate>2026-04-23T17:31:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 권명길 칼럼니스트】태화강국가정원에 ‘울산마차’가 생겼다는 뉴스를 보고, 최근 지인들과 함께 마차를 타고 국가정원을 둘러보기로 했다. 모인 인원은 장애당사자 3명이었고, 그 중 2명은 전동휠체어 이용자였다. 워낙 넓은 곳이라 길이 엇갈리지 않도록 태화강국가정원 안내센터 앞에서 만났다.​울산마차 매표소는 안내센터에서 10분 정도 거리인 자전거 대여소 근처에 있었다. 다 함께 걸어서 이동했고, 전동휠체어를 이용하는 A씨가 발권을 했다. 당시 시간은 오후 2시 7분이었다. 바로 다음 타임인 2시 20분을 원했으나, 매표소에서는</content:encoded>
-    </item>
-    <item>
-      <title>[사설]전작권 전환 시점 제시한 브런슨, ‘희망고문’ 아니길</title>
-      <link>https://www.khan.co.kr/article/202604231810001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604231810001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T18:10:00.000Z</pubDate>
-      <content:encoded>제이비어 브런슨 주한미군사령관이 2025년 8월 경기 평택시 캠프 험프리스에서 기자간담회를 하고 있다. 주한미군 사령부 제공  제이비어 브런슨 한미연합사령관 겸 주한미군사령관이 22일(현지시간) 미 하원 군사위원회에 출석해 “2029회계연도 2분기(한국 기준 2029년 1~3월) 이전까지 전시작전통제권 전환의 조건을 달성하기 위한 로드맵을 국방부에 제출했다···</content:encoded>
-    </item>
-    <item>
-      <title>[여적]월드컵으로 번진 미·이란 전쟁</title>
-      <link>https://www.khan.co.kr/article/202604231810011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604231810011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T18:10:01.000Z</pubDate>
-      <content:encoded>도널드 트럼프 미국 대통령이 지난 21일(현지시간) 미 워싱턴DC 백악관 만찬장에서 연설하고 있다. EPA연합뉴스  축구의 기원을 둘러싼 여러 설 중 유력한 것이 고대 그리스의 하패스톤(상대진영 구역으로 공을 가져가면 득점하는 경기)에서 비롯되었다는 것이다. 이 경기가 침략자 로마인들을 거쳐 영국에 들어왔고, 11세기 덴마크가 영국을 점령했다가 물러난 뒤 ···</content:encoded>
-    </item>
-    <item>
-      <title>[사설] 중처법 무력화한 아리셀 감형 판결, 대법원서 바로잡아야</title>
-      <link>https://www.khan.co.kr/article/202604231815001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604231815001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T18:15:00.000Z</pubDate>
-      <content:encoded>아리셀 화재 참사 유족들과 지원단체 관계자들이 지난 22일 경기 수원고법 앞에서 기자회견을 하고 있다. 권도현 기자  23명이 목숨을 잃은 ‘아리셀 화재 참사’ 항소심에서 법원이 박순관 아리셀 대표의 형량을 대폭 깎아줬다. 중대재해처벌법 위반 등 혐의로 기소된 박 대표는 1심에서 징역 15년을 선고받았으나 2심에서 징역 4년으로 감형됐다. 박 대표 아들 박···</content:encoded>
-    </item>
-    <item>
-      <title>[시사칼럼] 침묵하는 사회</title>
-      <link>https://www.newscj.com/news/articleView.html?idxno=3395978</link>
-      <guid>https://www.newscj.com/news/articleView.html?idxno=3395978</guid>
-      <pubDate>2026-04-23T19:00:00.000Z</pubDate>
-      <content:encoded>
-        이문성 법학박사 / 논설위원
-        
-        &lt;img alt=&quot;&quot; src=&quot;https://www.newscj.com/news/photo/202604/3395978_3492128_2622.jpg&quot; /&gt;
-        
-        
-        
-        6월 지방선거가 끝나면 2028년 총선까지 큰 선거가 없다. 선거는 민주주의에서 가장 강력한 견제 장치다. 그 공백이 길어질수록 권력을 향한 즉각적 심판의 통로는 좁아진다. 여기에 입법권력과 행정권력을 민주당이 장악하고 사법권력마저 내리누르는 상황에서 지방권력까지 같은 방향으로 움직인다면 제도적 견제는 형식만 남을 수 있다.
-        
-        지난 대한상공회의소를 둘러싼 논쟁은 그 단면을 보여준다. 대한상의는 상속세 부담이 자산가의 해외 이주를 촉진하고 있다는 취지로, 실제로 한국을 떠난 고액 자산가 수가 증가했다는 자료를 제시했다.&amp;nbsp;
-        
-        상속세 부담이 다른 주요 국가 대비해 매우 높다는 점에서 경제계는 물론 일반 시민들 사이에서도 일정 부분 수긍할 만한 내용으로 받아들여졌다.
-        
-        대통령과 정부는 대한상의 자료에 대해 &amp;ldquo;근거도 불분명한 자료를 공식 단체가 퍼뜨린 것은 사실상 가짜뉴스에 가깝고 정책을 흔들려는 의도까지 의심되며, 국민 판단을 흐릴 수 있는 만큼 책임을 져야 한다&amp;rdquo;는 취지로 강하게 비판했다.
-        
-        물론 상속세로 인한 자산가 국적 이동을 둘러싼 자료의 신뢰성은 당연히 검증되어야 한다. 그러나 정부 측이 보다 투명한 통계와 설명으로 반박하면 될 문제를, 최고 권력과 부처가 동시에 강한 어조로 비판하는 방식은 다른 신호를 남긴다.
-        
-        &amp;ldquo;말하기는 위험해질 수 있다.&amp;rdquo;
-        
-        언론을 둘러싼 장면도 다르지 않다. 의혹 보도는 완결된 사실이 아니기에 더 엄격한 검증을 요구받지만, 동시에 공익적 감시의 출발점이기도 하다.&amp;nbsp;
-        
-        SBS의 정치인 이재명의 조직폭력배 연루 의혹 보도에 대한 대통령의 거친 발언과 사과 요구의 경우처럼, 언론은 법적 리스크에 더해 정치적 리스크까지 계산하게 된다. 그 결과는 종종 취재의 후퇴, 표현의 완화, 혹은 보도의 보류로 나타난다.&amp;nbsp;
-        
-        이런 변화가 실제로 감지된다는 주장도 나왔다. 국민의힘 구자근 의원은 주요 경제단체 활동을 분석한 자료에서 대한상의 보도자료가 1분기 9건으로 예년(20~40건)의 절반 이하로 감소했고, 경총과 한경협 역시 각각 12건, 19건 수준으로 줄었다고 밝혔다.
-        
-        정책 비판 대신 침묵 속의 활동이 늘었다는 말이 된다. 원인이 무엇이든, 중요한 것은 행동의 변화가 나타났다는 사실이다.
-        
-        이 흐름은 국제 평가와도 무관하지 않다. 국경없는기자회(RSF)의 세계 언론자유지수에서 한국은 2023년 47위(70.83점)였으나 2024년 62위(64.87점)로 크게 하락했고, 2025년에도 61위(64.06점)에 머물렀다. 불과 2년 사이 순위는 14~15계단 떨어졌고, 점수 역시 6점가량 낮아졌다.&amp;nbsp;
-        
-        더 중요한 변화는 등급이다. 한국은 오랫동안 &amp;lsquo;양호&amp;rsquo; 수준을 유지해 왔지만, 최근에는 &amp;lsquo;문제 있음(problematic)&amp;rsquo; 단계로 내려왔다. 정치적 양극화 속에서 특정 언론에 대한 공격, 공영방송 인사 구조, 경제적 압박 등은 국제기구가 지적한 위험 요인이다.&amp;nbsp;
-        
-        한국의 언론 환경은 분명 하락곡선 위에 있다. 권력을 비판할 때 감수해야 할 비용이 커졌다고 느끼는 순간, 사회는 스스로 톤을 낮추기 때문이다. 언론과 기업, 시민사회가 &amp;ldquo;굳이 말하지 않아도 되는&amp;rdquo; 선택을 하게 된다. 그렇게 쌓이는 침묵은 겉으로는 평온을 만들지만, 내부의 긴장을 키운다.
-        
-        지난 22일, 오세훈 서울시장은 이를 &amp;lsquo;공포사회&amp;rsquo;라는 말로 규정했다.&amp;nbsp;
-        
-        침묵이 깊어질수록 위험은 더 조용히 자란다. 정책의 오류는 초기에 드러나 수정되어야 피해를 줄일 수 있다. 그러나 비판이 늦어지고 정보가 축소되면, 작은 균열은 큰 비용으로 돌아온다.&amp;nbsp;
-        
-        문제는 이 과정이 대부분 보이지 않는다는 데 있다. 드러나지 않은 위험은 관리되지 않고, 관리되지 않은 위험은 어느 순간 통제 불가능한 수준으로 커진다. 정책 실패는 갑자기 발생하는 것이 아니라, 초기에 무시된 신호들이 축적된 결과로 나타난다.
-        
-        더구나 정보가 제한되고 비판이 위축된 환경에서는 정책 결정 자체의 질도 떨어질 수밖에 없다. 다양한 의견과 반론이 사라지면, 정책은 검증되지 않은 상태로 추진되기 마련이다. 이는 단순한 정책 오류를 넘어 사회 전체의 비용을 증가시키는 요인이 된다.&amp;nbsp;
-        
-        경제 정책에서는 시장 왜곡으로, 사회 정책에서는 갈등 증폭으로 이어질 수 있다. 결국 침묵은 갈등을 줄이는 것이 아니라, 갈등을 늦추고 더 크게 만드는 역할을 하게 된다.
-        
-        또 하나 간과할 수 없는 점은 권력이 남긴 폐해의 지속성이다. 오늘의 권력은 시간이 지나도 제도와 관행으로 남는다. 특정 시기에 형성된 &amp;lsquo;말하지 않는 문화&amp;rsquo;는 정권이 바뀌더라도 쉽게 사라지지 않는다. 한번 약해진 견제의 습관은 다시 회복하기까지 훨씬 더 긴 시간이 필요하다.&amp;nbsp;
-        
-        견제는 제도가 아니라 문화이기 때문이다. 질문하고 의심하며 비판하는 습관이 사라진 사회는 스스로를 교정할 능력을 잃게 된다.
-        
-        위험을 다루는 사회는 위험을 말할 수 있는 사회다. 이견을 제기할 수 있는 공간, 데이터를 놓고 다투는 절차, 반박을 사실로 되돌리는 습관이 있어야 한다.&amp;nbsp;
-        
-        6월 지방선거는 단순히 지역 일꾼을 뽑는 절차에 그치지 않는다. 시민 각자가 권력의 균형과 견제라는 기준을 가지고 선택해야 할 중요한 분기점이다.&amp;nbsp;
-        
-        중앙과 지방 권력이 어떤 관계를 형성해야 할지, 비판과 감시가 가능한 구조가 유지될지에 대한 충분한 고민이 함께 이루어져야 한다. 후보의 공약뿐 아니라 권력 분산과 견제 기능을 얼마나 충실히 수행할 수 있는지까지 살펴볼 수 있어야 한다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>[사설]4차 석유 최고가격 동결, 이젠 내실있는 출구전략 짜야</title>
-      <link>https://www.khan.co.kr/article/202604231952001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604231952001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T19:52:00.000Z</pubDate>
-      <content:encoded>4차 석유 최고가격제 시행을 하루 앞둔 23일 서울의 한 주유소에 유가 정보가 게시돼 있다.  연합뉴스  정부가 석유 최고가격제도를 그대로 유지하면서 24일부터 적용되는 4차 최고가격은 현 수준으로 동결키로 했다. 최고가격제는 고유가로 인한 서민경제의 부담을 덜어주겠다는 취지로 운영되고 있지만 임시방편적인 가격 통제가 가져오는 부작용에 대한 우려도 커지고 ···</content:encoded>
-    </item>
-    <item>
-      <title>[정동칼럼]‘셀럽 정치’ 이젠 끝내자</title>
-      <link>https://www.khan.co.kr/article/202604231958005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604231958005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T19:58:00.000Z</pubDate>
-      <content:encoded>아직 공개되지도 않은 인공지능(AI), 미국 앤트로픽의 미토스 사태가 일파만파로 확산되고 있다. 초강력 AI 모델 ‘클로드 미토스 프리뷰’가 수천개의 제로데이 취약점을 초고속 탐지 능력이 드러나자, 일반 공개는 전면 보류됐다. 이 모델이 실제로 활용될 경우, 미국 금융 시스템이 민간 기업의 제품에 의해 송두리째 무너질 수 있다는 우려가 제기된다.미 당국을 ···</content:encoded>
-    </item>
-    <item>
-      <title>[세상 읽기]미래와 현재를 구하는 숙의민주주의</title>
-      <link>https://www.khan.co.kr/article/202604231958015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604231958015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T19:58:01.000Z</pubDate>
-      <content:encoded>미래세대는 어떻게 정책 결정에 참여할 수 있을까. 짧지 않은 국회 기후특위 산하 ‘기후위기 대응 방안에 대한 공론화위원회’ 활동 중에 가장 큰 고민은 미래세대의 참여였다. 기후위기는 미래세대의 당면과제다. 어른의 시각과 현재의 기준으로 결정할 문제가 아니지만 정작 미래세대는 정책 결정에서 제외돼 있다.헌법재판소도 같은 판단으로 탄소중립기본법 제8조 제1항을···</content:encoded>
-    </item>
-    <item>
-      <title>[이갑수의 일생의 일상]야성이 부르는 소리 앞에서 멈춘 늑구</title>
-      <link>https://www.khan.co.kr/article/202604232001005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
-      <guid>https://www.khan.co.kr/article/202604232001005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
-      <pubDate>2026-04-23T20:01:00.000Z</pubDate>
-      <content:encoded>산에 갈 때, 내친김에 이대로 그냥 여기에 꽂힐까. 더러 마음먹어 보지만 아직 멀었다. 사납게 돌아다녀도 다 붙들지 못한 욕망. 그야말로 내 안에 내가 너무나 많다. 낙엽 밟는 소리. 삐그덕삐그덕, 나무가 야윈 팔 뻗어 하늘문 열려는 소리. 그 날카로운 소리 사이를 헤치고 깊숙이 들어간다. 내가 내는 소리. 내가 풍기는 냄새. 나도 모르게 우르르 골짜기로 ···</content:encoded>
     </item>
     <item>
       <title>[녹색세상]중동전쟁과 에너지 정책 전환</title>
@@ -1446,56 +1191,6 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>[기자수첩] 정원오 측, 유연근무제와 교통 체증 해소… 잘못 쓴 언론사 법적 조치 예고</title>
-      <link>https://www.newscj.com/news/articleView.html?idxno=3396213</link>
-      <guid>https://www.newscj.com/news/articleView.html?idxno=3396213</guid>
-      <pubDate>2026-04-24T16:19:33.000Z</pubDate>
-      <content:encoded>
-        &lt;img alt=&quot;더불어민주당 정원오 서울시장 후보. (제공: 정원오 캠프)&quot; src=&quot;https://www.newscj.com/news/photo/202604/3396213_3492504_1849.jpg&quot; /&gt;
-        더불어민주당 정원오 서울시장 후보. (제공: 정원오 캠프)
-        
-        
-        
-        [천지일보=이문성 기자] 최근 서울시장 선거를 앞두고 유연근무제와 교통정책을 둘러싼 논쟁이 정치권을 넘어 언론과의 갈등으로까지 확산되고 있다.
-        
-        더불어민주당 정원오 서울시장 후보의 발언을 계기로 국민의힘 김재섭 의원의 비판, 그리고 이를 둘러싼 언론 보도와 정 후보 측의 법적 대응 방침까지 이어지면서 단순 정책 논쟁을 넘어선 양상이다.
-        
-        논란의 출발점은 정 후보의 발언이다. 지난 22일, 그는 교통체증 해법으로 유연근무제 확대를 제시하며 &amp;ldquo;통행 수요를 분산&amp;middot;감축하면 도로 확장 필요성이 줄어든다&amp;rdquo;는 취지의 주장을 폈다.
-        
-        이에 대해 24일, 일부 언론은 &amp;lsquo;자동차 공급을 줄이자는 주장&amp;rsquo;으로 요약했고, 김재섭 의원은 이를 두고 &amp;ldquo;현실성 없는 발상&amp;rdquo;이라며 강하게 비판했다.
-        
-        정 후보 측은 즉각 반발했다. 발언 취지가 왜곡됐다는 주장과 함께 &amp;ldquo;유연근무제를 통한 통행량 분산이 핵심&amp;rdquo;이라며 정정보도를 요구했고, 최초 보도 언론사에 대해서는 언론중재위 및 선관위 제소 방침까지 밝혔다.
-        
-        특히 &amp;ldquo;이와 같은 제목으로 보도했어야 한다&amp;rdquo;는 예시까지 제시하며 언론 보도 방식에 문제를 제기한 점이 주목된다.
-        
-        유연근무제 자체는 낯선 정책이 아니다. 코로나19 시기를 거치며 재택근무와 시차 출퇴근이 확산됐고, 교통 혼잡 완화 효과에 대한 기대도 제기돼 왔다.
-        
-        실제로 출근 시간대를 분산하면 특정 시간대 교통량이 줄어드는 것은 교통공학적으로도 인정되는 부분이다.
-        
-        그러나 한계 역시 분명하다. 유연근무제는 모든 산업에 적용되기 어렵고, 기업의 자율적 선택에 맡겨진 제도라는 점에서 정책 강제력이 제한적이다.
-        
-        제조업, 서비스업 등 대면 중심 산업에서는 적용이 쉽지 않으며, 결국 전체 교통량 감소 효과는 제한적일 수밖에 없다. 즉, 교통체증 해소의 보조 수단일 수는 있어도 단독 해법으로 보기는 어렵다.
-        
-        도로망 확충 문제도 단순하지 않다. 도로를 넓히면 교통이 개선될 것이라는 기대와 달리, 차량 증가로 다시 혼잡이 발생하는 &amp;lsquo;유도 수요&amp;rsquo; 현상은 이미 잘 알려져 있다.
-        
-        그렇다고 도로 인프라 자체를 경시할 수도 없다. 물류 이동, 기업 활동, 도시 접근성 측면에서 도로는 여전히 중요한 기반시설이다. 결국 교통 문제는 도로 확충과 수요 관리, 대중교통 강화가 복합적으로 작동해야 풀리는 영역이다.
-        
-        도시 경쟁력 역시 같은 맥락에서 봐야 한다. 단순히 도로를 늘린다고 경쟁력이 높아지는 것도 아니고, 반대로 도로를 줄인다고 해결되는 문제도 아니다.
-        
-        기업 입지, 교통 접근성, 인재 이동, 생활 환경 등 다양한 요소가 결합된 결과다. 유연근무제 역시 이러한 요소 중 하나일 뿐, 전체를 대체할 수 있는 정책은 아니다.
-        
-        이 과정에서 또 하나 짚어볼 지점은 언론과 정치의 관계다. 정 후보 측이 보도 내용에 대해 문제를 제기하고 정정을 요구하는 것은 가능한 절차다.
-        
-        그러나 정 후보측이 바람직하다고 보는 &amp;lsquo;기사 제목안&amp;rsquo;을 예시하며 &amp;ldquo;이렇게 보도했어야 한다&amp;rdquo;고 밝히고, 이를 따르지 않은 언론에 대해 법적 대응을 예고하는 방식은 논란의 여지가 있다.
-        
-        언론의 제목과 해석은 편집권의 영역이다. 취재 대상이 이를 직접 제시하는 방식은 &amp;lsquo;설명&amp;rsquo;을 넘어 &amp;lsquo;지침&amp;rsquo;으로 받아들여질 가능성이 있다. 특히 선거 국면에서 이러한 접근이 반복될 경우, 언론이 위축될 수 있다는 우려도 제기된다.
-        
-        정책 논쟁은 활발할수록 바람직하다. 다만 정책의 취지를 둘러싼 해석 차이를 법적 대응으로 연결하기보다, 보다 명확한 설명과 설득을 통해 풀어가는 방식이 필요하다는 지적도 나온다.
-        
-        결국 이번 논쟁은 유연근무제와 교통정책을 넘어, 정책 해석과 전달, 그리고 언론과 정치의 관계까지 함께 보여주는 사례로 남을 가능성이 크다.
-      </content:encoded>
-    </item>
-    <item>
       <title>축적된 목소리, 아직 도착하지 못한 제도</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230533</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230533</guid>
@@ -1550,36 +1245,6 @@
       <guid>https://www.chosun.com/opinion/economic_focus/2026/04/26/OCKTXS3VFVEW3NOHIDRSQQQGH4/</guid>
       <pubDate>2026-04-26T08:59:10.000Z</pubDate>
       <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[기자수첩] 목사님, 양들은 안녕하십니까?… ‘계시록 성취’라는 시대적 외침 앞에 선 목회자의 사명</title>
-      <link>https://www.newscj.com/news/articleView.html?idxno=3396444</link>
-      <guid>https://www.newscj.com/news/articleView.html?idxno=3396444</guid>
-      <pubDate>2026-04-26T09:47:47.000Z</pubDate>
-      <content:encoded>
-        &lt;img alt=&quot;[천지일보=남승우 기자] 25일 경기 하남시 신천지 요한지파 강동교회에서 열린 ‘2026 신천지 말씀 대성회 계시 성취 실상 증거’에서 목회자를 포함한 참석자들이 이만희 총회장의 강연을 들은 뒤 박수치고 있다. ⓒ천지일보 2026.04.25.&quot; src=&quot;https://www.newscj.com/news/photo/202604/3396444_3492918_4732.jpg&quot; /&gt;
-        [천지일보=남승우 기자] 25일 경기 하남시 신천지 요한지파 강동교회에서 열린 &amp;lsquo;2026 신천지 말씀 대성회 계시 성취 실상 증거&amp;rsquo;에서 목회자를 포함한 참석자들이 이만희 총회장의 강연을 들은 뒤 박수치고 있다. ⓒ천지일보 2026.04.25.
-        
-        
-        
-        [천지일보=류지민&amp;nbsp;기자] ​지난 25일, 경기도 하남에서 열린 &amp;lsquo;2026 신천지 말씀대성회&amp;rsquo; 현장은 뜨거운 열기로 가득했다. 600여명의 참석자가 성전을 메운 가운데 단 위에 선 이만희 총회장의 메시지는 명료했다. &amp;ldquo;계시록을 알지 못하면 똑바로 가르칠 수 있겠느냐&amp;rdquo;는 물음은 오늘날 한국 교회 강단이 직면한 뼈아픈 현실을 정조준했다.
-        
-        ​현장에서 마주한 목회자들의 반응은 사뭇 대조적이었다. 신천지예수교회와의 MOU를 통해 직접 말씀을 확인하고 변화를 경험했다는 목회자들의 간증이 이어지는 한편, 여전히 대다수의 기성 교회는 &amp;lsquo;교인 단속&amp;rsquo;이라는 울타리 안에 갇혀 있는 모양새다.
-        
-        ​기자가 현장에서 느낀 가장 큰 모순은 바로 &amp;lsquo;두려움의 실체&amp;rsquo;였다. 기성 교단 목회자들은 &amp;ldquo;성경 말씀이 실상으로 이루어졌다&amp;rdquo;는 증거가 세상에 울려 퍼지고 있음에도, 이를 확인하려는 시도조차 하지 않는다. 대신 그들의 주된 관심사는 &amp;ldquo;우리 교인이 신천지로 넘어가지 않을까&amp;rdquo; 하는 전전긍긍하는 마음뿐이다. 성경을 통달하여 양들에게 참된 생명의 꼴을 먹여야 할 목자가, 정작 성도들의 눈과 귀를 막고 핍박에만 열을 올리고 있으니 이는 참으로 개탄스러운 노릇이다.
-        
-        ​초림 당시 예수님을 향해 &amp;ldquo;이단&amp;rdquo;이라며 핍박했던 유대 지도자들의 모습이 2026년 오늘, 우리 앞에 그대로 재현되고 있는 것은 아닌가. 당시 그들은 성경 예언이 성취된 실체를 눈앞에 두고도 기득권과 체면을 지키기 위해 눈을 감았다. 지금의 기성 교계가 신천지를 향해 쏟아내는 비난과 핍박 역시, 과연 성경적 근거에 기반한 것인지 스스로 되물어야 한다. &amp;ldquo;모르는 것은 모르는 것이고, 아는 것은 아는 것&amp;rdquo;이라는 이 총회장의 일갈은 종교인이라면 마땅히 갖추어야 할 정직함의 회복을 촉구하고 있다.
-        
-        ​목자의 사명은 무엇인가. 양떼에게 배부르게 먹일 &amp;lsquo;생명의 양식&amp;rsquo;을 준비하는 것이다. 그러나 지금의 많은 강단에서는 진리의 말씀 대신 교권과 사람의 생각이 섞인 &amp;lsquo;독초&amp;rsquo;가 제공되고 있지는 않은가 의문이다. 성도들이 말씀을 찾아 밖으로 발걸음을 옮길 때, 그 발길을 탓하기에 앞서 왜 내 강단에서 그들의 영혼이 갈급함을 느끼는지 깊이 반성해야 한다.
-        
-        ​이날 행사에 참석한 수원 지역의 한 목사는 &amp;ldquo;말로만 해서는 안 되며, 행동으로 실천해야 한다&amp;rdquo;고 고백했다. 이는 단순히 교류를 하자는 권면을 넘어 &amp;lsquo;말씀&amp;rsquo;이라는 진리 앞에 목회자가 가진 권위를 내려놓고 겸허히 배워야 한다는 시대적 요구다. 어린아이에게서라도 계시록의 실상을 들을 수 있다면 귀를 기울여야 한다는 원칙은 신앙의 본질을 되찾으려는 겸손함에서 시작된다.
-        
-        ​2026년, 계시록의 실체가 증거되고 있다. 이제 더 이상 비방과 핍박이라는 낡은 카드로 교인들을 묶어둘 수는 없다. 목회자들은 자신의 자리를 지키는 것에 급급할 것이 아니라, 성도들의 영혼을 살릴 참된 말씀을 찾아 나서는 &amp;lsquo;용기 있는 결단&amp;rsquo;을 내려야 할 때다. 그것이 바로 목자가 가져야 할 최소한의 사명이기 때문이다.
-        
-        ​참된 목자라면, 양떼를 두려움 속에 가둘 것이 아니라 진리 안에서 자유롭게 해야 한다. 그것이 교회가 다시 생명력을 얻는 유일한 길이다. 오늘날 한국 교회는 선택의 기로에 서 있다. 닫힌 문을 걸어 잠그고 쇠락의 길을 갈 것인가, 아니면 진리를 인정하고 하나 되어 부흥의 역사를 써 내려갈 것인가.
-        
-        &amp;quot;계시록 성취&amp;quot;를 힘있게 전하며 나홀로 성장하는 신천지의 말씀대성회를 다녀오는 목회자들의 발걸음은 결코 가볍지 않을 것이다. 돈과 명예를 붙잡을 것인지, &amp;quot;계시록을 가감하면 재앙을 받고 천국에 못 간다&amp;quot;는 성경의 기록을 믿고 &amp;#39;계시록 성취 확인&amp;#39;에 나설 것인지 고민 또한 깊을 듯싶다. 그러나 천국을 소망하는 양들을 위해 목자가 할 일이 무엇인지는 깊이 고민해보지 않아도 자명한 듯싶다.
-      </content:encoded>
     </item>
     <item>
       <title>[만물상] 강철 체력 6070의 등장</title>
@@ -1678,109 +1343,6 @@
       <guid>https://www.chosun.com/opinion/2026/04/27/Z6ZS2OJXFRDGBDIZXWBSUTI6RQ/</guid>
       <pubDate>2026-04-26T15:54:00.000Z</pubDate>
       <content:encoded></content:encoded>
-    </item>
-    <item>
-      <title>[이재준 문화칼럼] 고전 춘향전 저항의 교훈</title>
-      <link>https://www.newscj.com/news/articleView.html?idxno=3396522</link>
-      <guid>https://www.newscj.com/news/articleView.html?idxno=3396522</guid>
-      <pubDate>2026-04-26T17:48:49.000Z</pubDate>
-      <content:encoded>
-        이재준 역사연구가/칼럼니스트
-        
-        &lt;img alt=&quot;&quot; src=&quot;https://www.newscj.com/news/photo/202604/3396522_3493025_4351.jpg&quot; /&gt;
-        
-        
-        
-        고전문학 가운데 춘향전만큼 국민적 사랑을 받은 작품은 없다. 춘향전은 픽션이라고 하지만 남원에서는 실지 인물을 대상으로 엮었다고 주장하는 이들도 있다. 본래 춘향은 못생긴 얼굴의 처녀였는데 시집도 가지 못하고 죽은 한을 풀어주기 위해 소설로 만들었다는 것이다.
-        
-        실지 춘향의 아버지가 되는 성참판은 당시 실제 인물을 대상으로 한 것인지 남원에서 부사로 재직한 경우가 있다. 기녀출신 월매에서 태어난 춘향은 &amp;lsquo;천모계출&amp;rsquo;이라는 신분적 제약에서 남원부사 변학도의 희롱 대상이 된 것으로 그려진다.
-        
-        16세의 글방도령 이몽룡은 남원 광한루에서 춘향의 그네 타는 모습을 보고 상사병이 걸렸다. 이성에 대해 가장 호기심이 많은 나이로 옛날에는 이 나이에 대부분 장가 시집을 갔다. 춘향에 마음을 빼앗긴 이도령은 다짜고짜 방자를 앞세워 춘향의 집에 쳐들어간다. 호기 있게 심야에 월장(越墻)하는 용기를 보여준다.
-        
-        춘향전 뿐 아니라 여럿 한문소설에서는 글방도령들의 호기가 나타난다. &amp;lsquo;상사동전객기&amp;rsquo;를 보면 성균관에서 공부하는 학생이 당대 권력층인 대군의 담장을 넘어 총애하는 첩을 만나는 것으로 그렸다.
-        
-        월장한 이도령이 의젓하게 월매를 만나 딸을 달라고 하는 용기도 재미있다. 당시 남원의 최고위층인 남원부사 자제의 청이라 거역 할 수 없었던 월매는 약조를 받은 후 딸과 이도령의 백년가약을 허가한다.
-        
-        아무래도 이 작품이 통쾌한 것은 탐관오리 변학도에 대한 암행어사의 응징 아닌가. 사전에 생일잔치마당에 진입한 이도령은 암행어사라는 신분을 숨기고 즉석에서 시를 지어 잔치 상 면전에 집어던진다.
-        
-        &amp;ldquo;금술잔의 좋은 술은 백성의 피요(金樽美酒千人血, 금준미주천인혈) / 옥쟁반의 맛있는 안주는 만백성의 기름이라(玉盤佳肴萬姓膏, 옥반가효만성고) / 촛농이 떨어질 때 백성의 눈물이 떨어지고(燭淚落時民淚落, 촉루낙시민루락) / 노랫소리가 높을수록 원망의 소리도 높아진다(歌聲高處怨聲高, 가성고처원성고)&amp;rdquo;
-        
-        춘향전을 지은 작가는 이 시를 본래 당나라 시선인 이백의 시에서 따온 것이다. 원시는 이백의 애주습관을 빗댄 작품인데 조선 작가가 개작하여 춘향전에 넣은 것이다. 쑥대머리에 나오는 춘향의 애절한 소리도 중국의 명시에서 따와 개작한 것들이다. 이를 보면 작가는 한시공부를 많이 한 사류라 할 수 있다. 춘향 같은 민초들의 &amp;lsquo;무권유죄(無權有罪)&amp;rsquo; 억울함을 이 소설로 대변한 것이다.
-        
-        암행어사 출도 시 장면은 이 작품이 지닌 통쾌한 카타르시스다. 변학도를 위시한 양반층을 향한 어사 나졸들의 육모방망이가 통쾌하게 작열한다. 이들이 도망가는 모습을 보고 백성들은 얼마나 쾌재를 불렀을까.
-        
-        &amp;ldquo;(전략)&amp;hellip;어사또 거동 보고 벌떼 같이 달려든다. 육모방맹이 들어메고&amp;hellip; 삼문(三門)을 와닥 딱, &amp;lsquo;암행어사 출또여! 출또여! 암행어사 출또&amp;rsquo; 하옵신다. 두 세번 부르난 소리, 하날(하늘)이 덤쑥 무너지고 땅이 툭 꺼지난 둣, 수백명 구경꾼이 독담(돌담)을 무너지닷이 물결같이 흩어지니 항우(項羽)의 음아질타(叱咤) 이렇게 무섭던가? 장비(張飛)의 호통소리, 이렇게 놀랍던가? 유월의 서리 바람, 뉘 아니 떨겄느냐? 각읍 수령은 정신 잃고 이리저리 피신 헐 제, 하인 거동 장관이라&amp;hellip;(하략)&amp;rdquo;
-        
-        이달 말부터 약 한 달간 남원에서 제96회 춘향제가 열린다. 양반층의 불의와 전횡에 항거한 춘향전을 음미하면서 우리사회의 고칠 것은 없는지. 최근 야당으로부터 특검이나 경찰의 무리한 기소가 &amp;lsquo;무권유죄(無權有罪)&amp;rsquo;라는 비판을 받고 있다. 인권을 다루는 일은 신중에 신중을 기해야만 한다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>[로컬 탐방] 아픈 지구 보듬기</title>
-      <link>https://www.newscj.com/news/articleView.html?idxno=3396525</link>
-      <guid>https://www.newscj.com/news/articleView.html?idxno=3396525</guid>
-      <pubDate>2026-04-26T17:55:24.000Z</pubDate>
-      <content:encoded>
-        박희제 언론인
-        
-        &lt;img alt=&quot;&quot; src=&quot;https://www.newscj.com/news/photo/202604/3396525_3493030_548.jpg&quot; /&gt;
-        
-        
-        
-        &amp;ldquo;지구가 아파요.&amp;rdquo;&amp;nbsp;
-        
-        매년 4월이 오면 잠시나마 아픈 지구 행성을 돌아보게 된다. &amp;lsquo;지구의 날&amp;rsquo;이란 이름으로 우리가 발 딛고 사는 땅의 숨결을 느껴보고, 매일 마주하는 공기와 물의 소중함을 생각하면서 인간과 자연의 관계를 다시 묻게 된다. 올해 전국 곳곳에서 실내외 조명을 동시에 끄는 소등 행사가 이어졌다. 서울 남산타워, 숭례문, 부산 광안대교, 수원 화성행궁, 여수 돌산대교 같은 명소와 공공기관, 호텔, 상가, 대기업 본사, 아파트 등에서 10분간 전깃불을 껐다. 단순히 몇 분간 불을 끄는 행위를 넘어 일상에서 지구 치유에 필요한 &amp;lsquo;기후 행동&amp;rsquo;을 다짐하는 시간이다.
-        
-        22일 지구의 날을 전후로 한 기후변화주간에 소등 외에도 지구를 보듬는 다양한 행사가 이어진다. 15개 생태환경단체를 중심으로 꾸려진 &amp;lsquo;제56회 지구의 날 인천조직위원회&amp;rsquo;가 25일 인천 영종도 송산갯벌에서 &amp;lsquo;바람 따라 갯벌 따라 지구를 위한 그린 스텝&amp;rsquo;이란 탄소 중립 실천 프로그램을 운영했다. 각 단체의 체험 부스에서 마련한 &amp;lsquo;멸종 위기 생물 찾아라&amp;rsquo; &amp;lsquo;저어새랑 찰칵, 갯벌의 가치&amp;rsquo; &amp;lsquo;나만의 기후 행동 피켓 만들기&amp;rsquo; &amp;lsquo;녹색 소비로 내 지갑, 우리 지구 지키기&amp;rsquo; 등에 어린 자녀를 동반한 가족이 많이 왔다. 다음달 3일 서울 올림픽공원에선 건강한 지구의 미래를 열기 위한 &amp;lsquo;지구 시민 워크, 함께 걸어요&amp;rsquo;라는 행사가 열린다. 걸음 자체만으로도 환경을 생각하는 세상이 됐다.&amp;nbsp;
-        
-        요즘 중동 전쟁에 따른 국제 유가 상승으로 자발적인 에너지 절감 운동이 확산되고 있다. 차량 5부제 시행, 엘리베이터 축소 운행, 냉난방 온도 조정을 비롯해 탄소 절감을 위한 나무 심기 활동, 자원 순환을 위한 폐가전 수거 캠페인이 벌어지고 있다. 지구의 날이 하루로 끝나면 안 된다. 오늘의 다짐이 내일의 습관이 되고, 그 습관이 삶 전체로 이어질 때 인간과 지구 행성이 함께 살아갈 수 있다. 일회용 컵 하나를 줄이는 일, 가까운 거리를 걸어가는 선택, 불필요한 과잉 소비를 멈추고 지속 가능한 개념 소비 같은 행위는 작고 사소해 보이지만, 세계를 새롭게 구성하는 일이다.&amp;nbsp;
-        
-        갯벌로 날아드는 새를 관찰하다 보면 환경을 위한 작은 실천이 중요하다는 생각이 절로 든다. 며칠 전 밀물이 몰려드는 시간에 철새들의 놀이터인 영종도 송산갯벌 유수지를 찾았다. 쌍안경과 망원경을 들고 1시간 넘게 지켜보니 여러 새의 일거수일투족이 세세히 보인다. 자신의 머리 크기보다 6배 긴 부리가 45도 각도 정도로 휜 알락꼬리마도요, 넓적부리를 노 젓듯 휘이휘이 저어가며 물질하는 저어새, 참새 크기만큼 작은 민물도요가 물가에서 뒤섞여 노닐고 있었다. 종류별로 다른 음색을 내는 새 떼 합창 울음소리는 맑고 청아하기 그지없다. 창공에서 공명하는 소리가 마음과 머리를 맑게 씻어주는 자연 교향곡과 다름없다. 작은 민물도요 수백 마리가 갑자기 수면 위로 날아올라 공중 회전할 때 생선 비늘이 반짝이듯 은빛을 반사하는 멋진 군무를 선보였다. 새 떼들이 빠른 속도로 방향을 틀면서 갈색, 은색으로 바꾸는 변화무쌍한 장관을 연출할 때마다 탄성을 자아낸다.
-        
-        영종도 갯벌은 생명 다양성이 풍부한 철새도래지임이 틀림없다. 이날 관찰한 알락꼬리마도요, 민물도요는 뉴질랜드, 호주 등 남쪽 오세아니아에서 산란지인 북쪽 시베리아, 알래스카 지역으로 날아가는 사이 중간 기착지인 영종도에 1, 2개월 머물며 근력을 키우는 중이다. 멸종위기 야생생물 2급이자 해양보호생물인 알락꼬리마도요는 전 세계 추정 개체 수의 7(봄)~15%(가을)가량이 영종도를 찾는 것으로 조사됐다. 세계적으로 7000마리 정도 남은 멸종위기종 1급 저어새의 경우 주요 번식지인 영종도 일대에서 산란한 뒤 가을에 새끼와 함께 동남아시아 지역으로 이동하게 된다. 국제적 멸종위기생물의 주요 서식지인 영종도 갯벌을 생태자산으로 잘 보전하려면 습지보호구역 지정부터 이뤄져야 한다는 생각이 든다.&amp;nbsp;
-        
-        생태 환경보호는 특별한 누군가의 사명이 아니라, 평범한 하루를 살아가는 일상의 태도에서부터 시작되는 게 아닌가 싶다. 지구의 날을 맞아 생태 일상을 기록하게 해 등급을 정하는 &amp;lsquo;한국SGI&amp;times;SDGs&amp;rsquo;라는 앱을 스마트폰에 깔았다. 17개 유엔 지속가능발전목표를 늘 되새기며 분리수거, 다회용기 사용, 반찬 안 남기기, 대중교통 이용 등을 좀 더 확실히 실천해 보려 한다.
-      </content:encoded>
-    </item>
-    <item>
-      <title>[통일논단] 북한과 러시아 육로로 다가서는 밀착 관계</title>
-      <link>https://www.newscj.com/news/articleView.html?idxno=3396523</link>
-      <guid>https://www.newscj.com/news/articleView.html?idxno=3396523</guid>
-      <pubDate>2026-04-26T17:55:30.000Z</pubDate>
-      <content:encoded>
-        안찬일 ㈔세계북한연구센터 이사장
-        
-        &lt;img alt=&quot;&quot; src=&quot;https://www.newscj.com/news/photo/202604/3396523_3493029_5136.jpg&quot; /&gt;
-        
-        
-        
-        북한과 러시아가 두만강에 첫 전용 도로 교량 개통을 앞두며 양국 간 밀착 수위를 최대로 끌어올리고 있다. 대북 제재망을 뚫는 최초의 대외 관계 통로가 북-러 국경에 마련된 것이다.
-        
-        기존 철도망에 더해 대규모 화물 트럭과 관광객이 자유롭게 오갈 수 있는 아스팔트 육로를 확보함으로써 양국 간 물류&amp;middot;인적 교류 확대와 제재 집행 감시 부담을 키울 수 있다는 분석이 나온다.
-        
-        67년 만에 북한과 러시아는 급속도로 가까워진 모습을 공개하고 있다. 조선중앙통신(KCNA)과 북한 주재 러시아 대사관 발표 등에 따르면 북한과 러시아는 최근 두만강을 가로지르는 신규 도로교의 양측 상판 연결식을 성공적으로 마무리하고 조기 개통을 준비 중이다.
-        
-        이번 북러 두만강 다리 건설은 양국 국경의 물류 패러다임을 바꿀 핵심 인프라 사업으로 꼽힌다. 그동안 두만강을 통해 양국을 잇는 통로는 1959년에 개통된 조로친선철교가 유일했다.
-        
-        이는 기차를 통한 물동량 이동만 가능했던 철도 전용 교량이었던 탓에 일상적인 수송 능력과 유연성에 한계가 뚜렷했다. 서로 철로의 궤가 다른 점으로 북한과 러시아의 교통 교류는 신속성 등에서 많은 한계를 가지고 있었다. 하지만 이번에 새로운 자동차 교량이 열리면서 상황은 완전히 달라질 것으로 보인다.
-        
-        북한과 러시아를 자유롭게 오가는 대형 트럭 운행이 가능해짐에 따라 무역 물품의 대량 수송은 물론 양국 간 인적 교류와 관광 산업까지 폭발적으로 확대될 수 있는 기반이 마련됐기 때문이다. 보다 중요한 것이 있다.
-        
-        현재 북한은 미국과 UN 등으로부터 강력한 경제적 제재를 받고 있는데 북-러 교통 통로가 열리면서 그것을 피해갈 수 있는 새로운 활주로를 확보하게 된 것이다. 서방의 강도 높은 대북 제재 속에서도 자체적인 거대 물류 블록을 구축하려는 양국의 노골적인 행보라는 평가가 지배적이다.
-        
-        이번에 지어진 자동차 교량은 북한의 두만강역과 러시아의 하산역 인근을 직접 연결한다. 총사업비만 약 1억 1500만 달러(약 1500억원)가 투입된 대규모 국책 프로젝트다. 교량 전체 본체 길이는 약 850m~1㎞로 전해지며 폭 7m의 왕복 2차선으로 설계됐다. 본체 구간 중 북한 측이 581m를, 러시아 측이 424m를 각각 담당해 건설한 것으로 확인된다. 진입로 구간까지 합치면 전체 연장은 4.7㎞에 달한다.
-        
-        건설 진행 속도 역시 이례적으로 빠르다. 교량 건설은 지난 2024년 6월 양국 정상회담에서 정식 합의된 이후 본격적인 궤도에 올랐다. 이듬해인 2025년 4월 말 북한의 경제 총사령관 내각 총리 박태성이 직접 지휘하에 공식 착공식을 가졌으며 착공 약 1년 만인 지난 21일 양측 구간을 잇는 상판 연결식을 속전속결로 마쳤다.
-        
-        러시아 측은 6월 19일 완공 계획을 언급했다. 관련 기관 전문가들은 이 인프라가 단순한 교통로를 넘어 국경 장벽을 무력화하는 핵심 변수가 될 것으로 내다본다. 물리적인 제약을 허물고 대규모 육상 물류를 쏟아낼 수 있는 통로가 완성됨에 따라 국제사회의 대북 감시 시스템은 앞으로 더욱 큰 시험대에 오를 것으로 전망된다.
-        
-        알려진 대로 북한과 러시아는 러시아 우크라이나 전쟁에 북한이 군대를 보내면서 밀착시대가 개막됐지만 특히 2024년부터 러시아 극동지역인 연해주에서 단체 관광객이 북한을 방문하면서 더욱 강화되기 시작했다. 북러 간 군사협력에 이어 경제협력도 &amp;lsquo;합의 이행&amp;rsquo;이 이뤄지며 연내 북한의 국경 개방이 단계적으로 확대될 것으로 예상됐다.
-        
-        러시아 인테르팍스 통신에 따르면 러시아 연해주에서 2024년 2월 9일 단체 관광객을 북한으로 보낸다고 발표했다. 관광객은 닷새 동안 북한에 머물면서 평양 개선문과 주체사상탑, 김일성 광장, 마식령스키장 리조트 등을 방문했다.
-        
-        그뒤 러시아 관광단은 새로 오픈한 원산 갈마국제해양관광단지를 관광하였으며 그 외 평양과 지방의 명승지도 단체 관광했다. 이제 육로가 열림으로써 러시아 관광객들은 보다 많이 북한을 찾게 될 것이다.
-        
-        특히 북한이 그동안 라진항 등 해양으로 보내던 많은 재래식 무기들이 육로를 통해 빠르게 러시아로 수송될 것이어서 북러 밀착 시대는 보다 가속화될 전망이다.
-      </content:encoded>
     </item>
     <item>
       <title>[정치평론] 착한 전쟁은 없다</title>
@@ -1982,78 +1544,6 @@
       <guid>https://www.khan.co.kr/article/202604262009005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
       <pubDate>2026-04-26T20:09:00.000Z</pubDate>
       <content:encoded>봄나물 호들갑은 새봄 유통업의 판촉에서, 도시 소비자 사이에서, 매체에서 반짝하다 수그러진 느낌이다. 그러거나 말거나 새봄 나물은 새봄에, 한창 봄날의 나물은 한창 봄날에, 또 늦봄과 초여름 앞의 나물은 그때를 지킨다. 그뿐만이 아니다. 한국인에게 사철 채소가 있다. 사계절 나물거리가 있다. 무는 어떤가. 무는 한반도 곳곳에서 사철 난다. 한국인 누구나 한···</content:encoded>
-    </item>
-    <item>
-      <title>[WT논평] DHS has identified 24,000 potential noncitizens on the voter rolls</title>
-      <link>https://www.segye.com/newsView/20260426508412</link>
-      <guid>https://www.segye.com/newsView/20260426508412</guid>
-      <pubDate>2026-04-26T22:54:10.000Z</pubDate>
-      <content:encoded>
-        Homeland Security has flagged more than 24,000 names on U.S. voter rolls that may be noncitizens who are ineligible to vote, the department said Thursday.
-        
-        DHS said those are names it has run throug
-      </content:encoded>
-    </item>
-    <item>
-      <title>[심호섭의전쟁이야기] 설마리 전투의 전술적 패배와 작전적 승리</title>
-      <link>https://www.segye.com/newsView/20260426508413</link>
-      <guid>https://www.segye.com/newsView/20260426508413</guid>
-      <pubDate>2026-04-26T22:54:24.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426510485.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  영국군의 설마리(임진강) 전투가 올해로 75주년을 맞았다. 1951년 4월 22일 시작된 중공군 5차 공세는 수 주간 준비된 약 100만명 규모의 대공세였다. 제한적인 목표를 지녔던 이전 공세들과는 달리, 이번에는 서울 함락과 유엔군 주력의 포위 섬멸을 통해 전쟁을 단기간에 끝내려 했다.
-        
-        이 과정에서 영국군 29여단은 미 3사단과 국군 1사단 사이를
-      </content:encoded>
-    </item>
-    <item>
-      <title>[구정우칼럼] 늑구의 귀환에 안도할 수 없는 이유</title>
-      <link>https://www.segye.com/newsView/20260426508416</link>
-      <guid>https://www.segye.com/newsView/20260426508416</guid>
-      <pubDate>2026-04-26T22:54:29.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426510480.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  온 국민 속을 까맣게 태웠던 늑대 ‘늑구’가 집으로 돌아온 지 열흘이 됐다. 지난 17일 새벽, 9일간의 추적 끝에 기적적으로 포획되었고 대전 오월드로 무사히 귀환했다. 2018년 같은 시설에서 탈출했다가 결국 사살된 푸마 사례를 떠올리면, 이번 귀환은 큰 안도감을 준다.
-        
-        포획 과정에서 커진 사회적 관심 탓에 늑구는 하나의 ‘현상’이 되었다. 사람들은
-      </content:encoded>
-    </item>
-    <item>
-      <title>[특파원리포트] 대만해협에 출몰한 ‘시모노세키 망령’</title>
-      <link>https://www.segye.com/newsView/20260426508786</link>
-      <guid>https://www.segye.com/newsView/20260426508786</guid>
-      <pubDate>2026-04-26T22:57:05.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426510505.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  중국·일본 관계가 또다시 격랑에 휩싸이는 모양새다. 일본 다카이치 사나에 내각이 평화헌법의 상징이었던 살상무기 수출 금지 족쇄를 70여년 만에 완전히 풀어헤친 가운데 일본 구축함이 대만해협을 통과하며 중국의 역린을 건드렸다. 중국은 이를 ‘신형 군국주의의 망동’으로 규정하고 항공모함 랴오닝함을 투입하며 맞불을 놨다. 동북아의 긴장 수위가 단순한 대치를 넘어</content:encoded>
-    </item>
-    <item>
-      <title>[설왕설래] 헌혈 한파</title>
-      <link>https://www.segye.com/newsView/20260426508793</link>
-      <guid>https://www.segye.com/newsView/20260426508793</guid>
-      <pubDate>2026-04-26T22:57:10.000Z</pubDate>
-      <content:encoded>
-        &lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426510497.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  통상 방학을 낀 1∼2월은 혈액 수급이 어려운 ‘한파’ 기간으로 꼽힌다. 학생 등의 단체 헌혈이 줄고 설 연휴 해외로 떠나는 이들도 많다. 헌혈이 일시 제한되는 독감환자도 이 시기에 집중된다. 고령화와 헌혈인구 감소 등의 여파로 봄철까지 혈액 부족 상황이 해소되지 않을까 우려된다.
-        
-        7초마다 한 단위의 혈액제제가 수혈되는 우리나라의 지난해 헌혈률은 5.
-      </content:encoded>
-    </item>
-    <item>
-      <title>[사설] 잠재성장률 추락한다는데 삼전까지 파업이라니</title>
-      <link>https://www.segye.com/newsView/20260426508792</link>
-      <guid>https://www.segye.com/newsView/20260426508792</guid>
-      <pubDate>2026-04-26T22:57:20.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426511186.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  우리 경제의 잠재성장률이 내년 1% 중반으로 추락한다는 우울한 전망이 나왔다. 경제협력개발기구(OECD)에 따르면 한국의 잠재성장률은 지난해 1.92%에서 올해 1.71%, 내년 1.57%로 낮아질 것으로 예측됐다. 2012년 3.63% 이후 15년째 내리막길이다. 1분기 반도체 초호황 덕에 1.7% 깜짝 성장했지만, 기초체력은 갈수록 저하된다고 하니 우려</content:encoded>
-    </item>
-    <item>
-      <title>[사설] 당 대표·후보 따로 노는 국힘, 張 결단 시급하다</title>
-      <link>https://www.segye.com/newsView/20260426508791</link>
-      <guid>https://www.segye.com/newsView/20260426508791</guid>
-      <pubDate>2026-04-26T22:57:27.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426511190.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6·3 지방선거까지 40일도 안 남은 가운데 국민의힘이 어제 비로소 대구시장 후보를 결정했다. 최대 승부처인 경기지사 후보나 지방선거와 함께 치러질 국회의원 재보선 후보들 공천까지는 아직 갈 길이 멀다. 국민의힘 당 지지율은 15%(NBS 조사)까지 떨어졌다. 대구와 부산·울산·경남에서는 보수 결집 현상이 나타나고 있다는 분석이 있지만, 전체적인 판세는 당</content:encoded>
-    </item>
-    <item>
-      <title>[사설] 북·중·러 밀착 와중에 한·미는 삐걱… 고위 채널 가동해야</title>
-      <link>https://www.segye.com/newsView/20260426508787</link>
-      <guid>https://www.segye.com/newsView/20260426508787</guid>
-      <pubDate>2026-04-26T22:57:37.000Z</pubDate>
-      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/26/20260426511197.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  한·미 간 대북정보 공유 제한을 두고 논란이 이어지는 가운데 24일(현지시간) 정부의 북핵 외교 수석대표인 정연두 외교부 외교전략정보본부장이 앨리슨 후커 미 국무부 정무차관을 만나 신뢰 복원에 나섰다. 정 본부장은 회동 이후 “상황을 정상화하기 위해 노력 중”이라고 밝혔고, 미 국무부는 “비공개로 공유된 민감한 정보가 보호되길 기대한다”는 입장을 내놨다.</content:encoded>
     </item>
     <item>
       <title>기억[내가 만난 명문장/김민호]</title>
@@ -2266,16 +1756,16 @@
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>[사설] “작업 걸지 말라”더니 AI수석 출마, 국민 속이는 것</title>
-      <link>https://www.chosun.com/opinion/editorial/2026/04/28/REBQ7CHNYFH2NDG2ICA4CBYLOE/</link>
-      <guid>https://www.chosun.com/opinion/editorial/2026/04/28/REBQ7CHNYFH2NDG2ICA4CBYLOE/</guid>
+      <title>[팔면봉] 국힘, ‘컷오프 파동’ 피해자가 시도지사 후보로. 외</title>
+      <link>https://www.chosun.com/opinion/palmyeonbong/2026/04/28/B7RZCBOUBZECTBFQJZ2WT35TZI/</link>
+      <guid>https://www.chosun.com/opinion/palmyeonbong/2026/04/28/B7RZCBOUBZECTBFQJZ2WT35TZI/</guid>
       <pubDate>2026-04-27T15:10:00.000Z</pubDate>
       <content:encoded></content:encoded>
     </item>
     <item>
-      <title>[팔면봉] 국힘, ‘컷오프 파동’ 피해자가 시도지사 후보로. 외</title>
-      <link>https://www.chosun.com/opinion/palmyeonbong/2026/04/28/B7RZCBOUBZECTBFQJZ2WT35TZI/</link>
-      <guid>https://www.chosun.com/opinion/palmyeonbong/2026/04/28/B7RZCBOUBZECTBFQJZ2WT35TZI/</guid>
+      <title>[사설] “작업 걸지 말라”더니 AI수석 출마, 국민 속이는 것</title>
+      <link>https://www.chosun.com/opinion/editorial/2026/04/28/REBQ7CHNYFH2NDG2ICA4CBYLOE/</link>
+      <guid>https://www.chosun.com/opinion/editorial/2026/04/28/REBQ7CHNYFH2NDG2ICA4CBYLOE/</guid>
       <pubDate>2026-04-27T15:10:00.000Z</pubDate>
       <content:encoded></content:encoded>
     </item>
@@ -2697,7 +2187,7 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/27/133823140.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘폴리페서’라는 말은 그 자체로 멸칭이다. 대학에서 학생들을 가르치고 진리를 탐구해야 할 지식인들이 지저분한 정치권에서 이리저리 줄 서는 것을 곱게 봐줄 수는 없다. 그래서 심지어 다음과 같은 ‘폴리페서 방지 조항’도 있다. 2013년 개정된 국회법은 ‘정당의 당원이 될 수 있는 교원’-왜 그냥 ‘대학교수’라 하지 않았는지 모르겠다-의 경우에는 국회의원이 되려면 그 본직을 사임하도록 하고 있다(29조 2항). 국회의원 4년의 임시직을 마치고 나면 돌아갈 곳이 없도록 만든 것이다. 이 칼럼에서 ‘폴리페서’들을 옹호할 생각은 추호도 없다. 그러나 교육과 연구를 등한시하고 동료와 학생들의 희생 위에 개인의 영달을 꾀하는 자들을 욕하는 것은 너무나 쉬운 일이다. 내가 거론하고 싶은 것은 2013년 이후에 우리 국회의 역량이 압도적으로 좋아졌는지에 대한 의문이다. 2012년에 출범한 19대 국회를 마지막으로, 여의도에서 대학교수 출신 의원들을 찾아보기가 어려워졌다. 4년간의 국가에 대한</content:encoded>
     </item>
     <item>
-      <title>1시간59분30초[횡설수설/신광영]</title>
+      <title>[횡설수설/신광영]1시간59분30초</title>
       <link>https://www.donga.com/news/Opinion/article/all/20260427/133822654/2</link>
       <guid>https://www.donga.com/news/Opinion/article/all/20260427/133822654/2</guid>
       <pubDate>2026-04-27T23:18:00.000Z</pubDate>
@@ -2843,7 +2333,7 @@
         
         불교의 사찰은 언급했듯이 그저 하나의 구조물에 불과한 게 아니며 그 구조 속엔 신앙의 시작과 과정과 결과라는 깊고 놀라운 의미가 담겨있다. 이 사찰(寺刹)에 대해 가람 또는 도량이라고도 하며 사찰의 배열된 구조물에 대해 가람배치라고도 한다.
         
-        사찰에 들어서면 먼저 &amp;lsquo;일주문(一柱門)&amp;rsquo;이 있고, &amp;lsquo;천왕문(天王門)&amp;rsquo;이 있고, &amp;lsquo;불이문(不二門)&amp;rsquo;이 있고 이 불이문을 통과하면 우리가 잘 아는 &amp;lsquo;대웅전(大雄殿)&amp;rsquo;이 있으니 이를 일컬어 가람배치라고도 한다. 하지만 오늘날 대부분의 사찰엔 이같은 가람배치의 원칙은 파괴되고 그저 이것저것이 난립돼 있으니 작금의 종교의 현주소라 하겠다.
+        사찰에 들어서면 먼저 &amp;lsquo;일주문(一柱門)&amp;rsquo;이 있고, &amp;lsquo;천왕문(天王門)&amp;rsquo;이 있고, &amp;lsquo;불이문(不二門)&amp;rsquo;이 있고 이 불이문을 통과하면 우리가 잘 아는 &amp;lsquo;대웅전(大雄殿)&amp;rsquo;이 있으니 이를 일컬어 가람배치라&amp;nbsp;한다. 하지만 오늘날 대부분의 사찰엔 이같은 가람배치의 원칙은 파괴되고 그저 이것저것이 난립돼 있으니 작금의 종교의 현주소라 하겠다.
         
         사찰의 가람배치가 일주문, 천왕문, 불이문, 대웅전이라는 원칙이 필요했던 이유는 그 가람배치가 하나의 구조물을 넘어 그 배치 속에 신앙의 길이 있고 나아가 가람배치는 곧 자아(自我)라는 점을 깨달아야 한다.
         
@@ -2951,6 +2441,537 @@
         
         진정한 공용어란 법전의 문구가 아니라 삶의 현장에서 읽히고 쓰여야 한다. 관공서 창구에서&amp;nbsp;학교 복도에서&amp;nbsp;길거리에서 우리가 잊었던 &amp;lsquo;사랑합니다&amp;rsquo;라는 손 인사가 자연스럽게 오갈 수 있을 때 장 통역사의 꿈처럼 우리 곁에서 &amp;lsquo;장애&amp;rsquo;라는 단어가 비로소 자취를 감출 수 있을 것이다.
       </content:encoded>
+    </item>
+    <item>
+      <title>피해자의 진술신빙성 부정·성폭력 범죄 은폐 가해자 규탄한다</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230619</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230619</guid>
+      <pubDate>2026-04-28T09:00:00.000Z</pubDate>
+      <content:encoded>지난 4월 24일 색동원 성폭력 사건 2차 공판에서 가해자인 색동원 전 시설장은 피해자들이 장애가 있기 때문에 진술에 신빙성이 없다며 당사자들을 모욕했다.가해자는 “피해자들의 진술을 믿을 수 없다”며 성폭력 혐의를 전면 부인하고 있다. 이는 중증 장애를 가진 피해자를 ‘무능력한 존재’로 낙인찍어 재판 결과를 본인에게 유리한 방향으로 적용하기 위한 악의적인 시도다. 특히 가해자는 장애인 피해자의 권리를 보장하기 위한 공식적 의사소통 조력 제도인 진술조력인의 조력을 ‘답변을 유도’한 것이라고 왜곡했다.장애 특성에 기반한 정당한 지원의</content:encoded>
+    </item>
+    <item>
+      <title>[만물상] ‘레고 같은 차’ 시대</title>
+      <link>https://www.chosun.com/opinion/manmulsang/2026/04/28/3PPPVDBFUNFMRPEZFCNNYAT5O4/</link>
+      <guid>https://www.chosun.com/opinion/manmulsang/2026/04/28/3PPPVDBFUNFMRPEZFCNNYAT5O4/</guid>
+      <pubDate>2026-04-28T11:45:01.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>장윤경의 색연필 시선 &quot;집 떠나면 개고생&quot;</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230603</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230603</guid>
+      <pubDate>2026-04-28T13:48:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 장윤경 칼럼니스트】안동 예술의 전당 전시 오프닝 날!‘안녕하세요. 여러분! 저 누군지 다들 아시죠? 그림 엄마 공모전 딜리버리맘 양예준 맘입니다.제가 오늘 행사 소감발표 마지막 주자다 보니 지금 이 순간 너무 긴장되고 떨려서 멋진 소감은 떠오르진 않고요.네, 앞서 많은 분께서 안동 하회마을 하면 유네스코 세계문화 유산의 가치와 아름다움 또 전시 참여에 대한 감사함 등을 언급해 주셨는데, 저는 좀 솔직해져도 될까요?여러분도 다 아시다시피 제가 행사 전날부터 숙소 예약오류문제로 저희 그림 엄마 단톡방 이슈를 만들었던 거 다</content:encoded>
+    </item>
+    <item>
+      <title>[장강명의 근미래의 풍경] 인간 기자의 마지막 ‘뻗치기’, AI는 조용히 그 노하우를 삼켰다</title>
+      <link>https://www.chosun.com/opinion/specialist_column/2026/04/28/MTUI4DO5WVA6RJDVMKT2YZ2HUQ/</link>
+      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/28/MTUI4DO5WVA6RJDVMKT2YZ2HUQ/</guid>
+      <pubDate>2026-04-28T14:31:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[정옥희의 몸짓 탐구생활] [19] 김기민과 ‘볼레로’, 그 운명적인 만남</title>
+      <link>https://www.chosun.com/opinion/specialist_column/2026/04/28/QRWZHSCSKRDQVC6AOUILP3BTBA/</link>
+      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/28/QRWZHSCSKRDQVC6AOUILP3BTBA/</guid>
+      <pubDate>2026-04-28T14:32:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[기고] 복약 지도 없는 ‘창고형 약국’, 약물 오남용 부추길 수도</title>
+      <link>https://www.chosun.com/opinion/contribution/2026/04/28/HCVR4VK5CRGKHPF6ZXYQCHBNSI/</link>
+      <guid>https://www.chosun.com/opinion/contribution/2026/04/28/HCVR4VK5CRGKHPF6ZXYQCHBNSI/</guid>
+      <pubDate>2026-04-28T14:33:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[데스크에서] AI 수석 하정우의 씁쓸한 변신</title>
+      <link>https://www.chosun.com/opinion/desk/2026/04/28/2O7NTSDCINBXTNVD2OB5W26SBA/</link>
+      <guid>https://www.chosun.com/opinion/desk/2026/04/28/2O7NTSDCINBXTNVD2OB5W26SBA/</guid>
+      <pubDate>2026-04-28T14:36:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[김도훈의 엑스레이] [118] 감 놔라 배 놔라</title>
+      <link>https://www.chosun.com/opinion/specialist_column/2026/04/28/3PKP63OH2ZHZROKZ62AJYL3TNY/</link>
+      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/28/3PKP63OH2ZHZROKZ62AJYL3TNY/</guid>
+      <pubDate>2026-04-28T14:37:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[태평로] 이런 대북 송금 증거가 어떻게 조작인가</title>
+      <link>https://www.chosun.com/opinion/taepyeongro/2026/04/28/DFN2NMAWJFEYDKPWQHMV4IKVJA/</link>
+      <guid>https://www.chosun.com/opinion/taepyeongro/2026/04/28/DFN2NMAWJFEYDKPWQHMV4IKVJA/</guid>
+      <pubDate>2026-04-28T14:38:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[유재덕의 공유주방] [16] 수습 요리사 때 배운 것</title>
+      <link>https://www.chosun.com/opinion/specialist_column/2026/04/28/TP7BIEFJEFGE3E6IF6K445Y3E4/</link>
+      <guid>https://www.chosun.com/opinion/specialist_column/2026/04/28/TP7BIEFJEFGE3E6IF6K445Y3E4/</guid>
+      <pubDate>2026-04-28T14:39:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[정우상 칼럼] 자니윤이 국정농단이면 황교익·서승만은 뭔가</title>
+      <link>https://www.chosun.com/opinion/editorial/2026/04/28/JNPY3AQUU5E5HJ4ETHY3TBUXDA/</link>
+      <guid>https://www.chosun.com/opinion/editorial/2026/04/28/JNPY3AQUU5E5HJ4ETHY3TBUXDA/</guid>
+      <pubDate>2026-04-28T14:55:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[사설] 저질 난장판 교육감 경선, 학생들이 볼까 두렵다</title>
+      <link>https://www.chosun.com/opinion/editorial/2026/04/29/UPMDLW2SYVC7HEMZ7T6TDIKGFM/</link>
+      <guid>https://www.chosun.com/opinion/editorial/2026/04/29/UPMDLW2SYVC7HEMZ7T6TDIKGFM/</guid>
+      <pubDate>2026-04-28T15:00:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[사설] 국회 발언 野 의원을 ‘투명인간’ 취급한 與 의원들</title>
+      <link>https://www.chosun.com/opinion/editorial/2026/04/29/MECDCGSMBBBPTKZXETXGBVHFFA/</link>
+      <guid>https://www.chosun.com/opinion/editorial/2026/04/29/MECDCGSMBBBPTKZXETXGBVHFFA/</guid>
+      <pubDate>2026-04-28T15:10:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[팔면봉] 쌍방울 前 회장, ‘진술 회유·연어 술 파티’ 의혹에 與 원하는 대답 안 해. 외</title>
+      <link>https://www.chosun.com/opinion/palmyeonbong/2026/04/29/Y4UVJ4I3BZEXNPQKSF43LQLWWU/</link>
+      <guid>https://www.chosun.com/opinion/palmyeonbong/2026/04/29/Y4UVJ4I3BZEXNPQKSF43LQLWWU/</guid>
+      <pubDate>2026-04-28T15:10:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[사설] 국정조사로 드러난 건 ‘회유·조작’ 아닌 민주당 억지</title>
+      <link>https://www.chosun.com/opinion/editorial/2026/04/29/CDAYUHJY2JGVTMUQZPP5MYGY4M/</link>
+      <guid>https://www.chosun.com/opinion/editorial/2026/04/29/CDAYUHJY2JGVTMUQZPP5MYGY4M/</guid>
+      <pubDate>2026-04-28T15:20:00.000Z</pubDate>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <title>[어제보다 행복하기] 마음챙김</title>
+      <link>https://www.newscj.com/news/articleView.html?idxno=3397077</link>
+      <guid>https://www.newscj.com/news/articleView.html?idxno=3397077</guid>
+      <pubDate>2026-04-28T17:37:02.000Z</pubDate>
+      <content:encoded>
+        서은훤 행복플러스연구소 소장
+        
+        &lt;img alt=&quot;&quot; src=&quot;https://www.newscj.com/news/photo/202604/3397077_3493897_3520.jpg&quot; /&gt;
+        
+        
+        
+        옛날 같았다면 알지도 못했을 전쟁 뉴스, 정치가들이 아니면 관심도 없었을 국회 뉴스, 더구나 미래를 위협하는 AI 뉴스 등으로 하루나 한 시간도 마음 편할 일이 없다. 그럴수록 일상 속에서 &amp;lsquo;마음챙김&amp;rsquo;으로 내면의 평화를 찾고 삶의 질을 높이는 일은 무엇보다도 중요하다.
+        
+        &amp;lsquo;마음챙김&amp;rsquo;이란 현재 순간에 주의를 기울이고 그 순간의 감정이나 생각을 판단하지 않고 그대로 받아들이는 태도를 말한다. 과거의 후회나 미래에 대한 걱정에 휘둘리지 말고 &amp;lsquo;지금, 여기, 나&amp;rsquo;에 집중하는 것이다. 이를 통해서 우리는 자신을 더 잘 이해하고 내면의 소음을 줄이며 심리적 안정감을 키울 수 있다.
+        
+        미국의 실용주의 철학자이자 심리학자인 윌리엄 제임스는 다음과 같이 말했다.
+        
+        &amp;ldquo;방황하는 주의력을 자주적으로 계속 돌려세울 수 있는 능력이 바로 판단력, 인격 그리고 의지력의 뿌리다. 이 능력이 없는 사람은 자신의 주인이 될 수 없다. 이 능력을 키우는 것이야말로 최고의 교육이다.&amp;rdquo;
+        
+        마음챙김이 바로 방황하는 주의력을 자주적으로 회복할 수 있게 해주고 윌리엄 제임스의 말처럼 최고의 교육이자 우리가 배울 수 있는 최상의 가르침이 된다.
+        
+        우리는 좌선 명상(Sitting Meditation)을 통해서 어느 정도의 평온함이나 행복을 경험할 수 있다. 중요한 것은 그 마음을 바깥의 삶으로 연결시키는 것이다. 마음챙김으로 얻게 되는 좋은 영향을 명상 시간을 넘어 삶의 모든 영역으로 확대하는 것이다.
+        
+        마음챙김은 꼭 특별한 장소나 시간을 필요로 하지 않는다. 아침에 눈을 뜬 순간, 차 한잔을 마시는 시간, 산책길에서 나뭇가지에 걸린 구름을 바라보는 시간 등을 통해서 가능하다. 중요한 것은 자신의 호흡과 몸의 감각, 주변 환경에 잠시라도 집중하는 연습을 꾸준히 해 나가는 것이 중요하다.
+        
+        의학 연구들도 마음챙김은 현대인들의 스트레스를 줄이고 집중력을 높이며 불안과 우울을 완화하는 데 도움이 된다는 것을 입증하고 있다. 또한 마음챙김은 자기 자신에 대해서 너그러워지고 자기 비판에 시달리던 마음을 부드럽게 해 준다.
+        
+        제일 중요한 것은 자신의 마음을 둘 곳을 찾아야 한다. 마음을 두는 곳이 작은 물건, 다른 사람의 평판, 내가 처리할 수 없는 어떤 일 등이어서는 안 되는 것이다.
+        
+        특히 다른 사람의 마음을 바꾸려 하거나 이해시키거나 하려는 노력은 헛수고가 될 가능성이 많다. 우선 나의 마음을 잘 챙기는 것에서 다시 시작해 보아야 한다.
+        
+        마음챙김은 우리의 삶에 꼭 필요한 &amp;lsquo;작은 쉼표&amp;rsquo;이자 나아가 더 건강하고 행복한 일상의 시작이 된다. 더구나 거기서 그치지 않고 평화로운 마음이 이웃에게 전달된다. 상대나 심지어 제3자의 마음까지 편하게 만드는 마법의 효과가 있다.
+        
+        나보다 먼저 생각하던 가족, 이웃, 일 등을 잠시 미루고 스스로를 먼저 돌아보고 챙기는 하루가 되길 바란다. 행복전도사가 되는 지름길이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>강원도 ‘청년 재가 중증장애인을 위한 자산형성지원 사업’ 살펴보기</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230638</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230638</guid>
+      <pubDate>2026-04-28T17:39:24.000Z</pubDate>
+      <content:encoded>【에이블뉴스 신관식 칼럼니스트】[개요]=강원특별자치도(도내 시/군 단위로 신청을 받음)는 청년 재가 중증장애인의 성인기 준비와 자립자금 마련 등의 자산형성지원 사업을 하고 있습니다.해당 사업의 참가자가 매월 15만 원 이상을 저축하면 강원특별자치도가 매월 매칭 지원금 15만 원(단일 금액)을 적립해 줍니다. 2026년 공고자료에 따르면 청년 재가 중증장애인 중에서 강원특별자치도 도내 시·군별 배정인원에 부합하게 인원(총 80명 중 지역별 배정)을 선정하고, 이에 선정된 사람이 해당 사업에 약정기간(3년) 동안 매월 15만 원 이상을</content:encoded>
+    </item>
+    <item>
+      <title>[사설] 내란 피고 공천 비판에 발끈한 국힘, 반성이 먼저 아닌가</title>
+      <link>https://www.khan.co.kr/article/202604281807001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604281807001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T18:07:00.000Z</pubDate>
+      <content:encoded>지난 26일 MBC 뉴스데스크 방송에서 클로징 멘트를 하는 김초롱 앵커(오른쪽)와 김경호 앵커. MBC 유튜브 갈무리  국민의힘이 28일 추경호 의원의 대구시장 후보 공천을 비판한 MBC에 대해 “선거 개입”이라며 ‘법적·행정적 책임을 묻겠다’고 밝혔다. 지난 26일 MBC &amp;lt;뉴스데스크&amp;gt; 앵커의 “내란중요임무종사 혐의로 기소된 피고인을 광역시장 ···</content:encoded>
+    </item>
+    <item>
+      <title>[여적] 지정생존자</title>
+      <link>https://www.khan.co.kr/article/202604281810001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604281810001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T18:10:00.000Z</pubDate>
+      <content:encoded>드라마 &amp;lt;60일, 지정생존자&amp;gt;의 한 장면. tvN 제공  미국 드라마 &amp;lt;지정생존자(Designated Survivor)&amp;gt;는 테러로 미 대통령과 대통령직 승계 서열 상위 인사들이 모두 숨지자 주택도시개발부 장관 톰 커크먼(키퍼 서덜랜드)이 백악관 주인이 되는 스토리를 담고 있다. 승계 서열 13위 커크먼이 대통령직에 오른 것은 대통령 국···</content:encoded>
+    </item>
+    <item>
+      <title>[대중문화칼럼] 주류(酒類)는 왜 Z세대에게 비주류가 되었을까</title>
+      <link>https://www.newscj.com/news/articleView.html?idxno=3397090</link>
+      <guid>https://www.newscj.com/news/articleView.html?idxno=3397090</guid>
+      <pubDate>2026-04-28T18:27:59.000Z</pubDate>
+      <content:encoded>
+        김헌식 대중문화평론가
+        
+        &lt;img alt=&quot;&quot; src=&quot;https://www.newscj.com/news/photo/202604/3397090_3493908_2527.jpg&quot; /&gt;
+        
+        
+        
+        2000년대 후반부터 일본에서 유행한 초식남은 겉으로는 연애에 관심이 없는 젊은 남성을 가리키는 말이지만, 사실은 산업화 세대의 아픔이 배어 있었다. 자신의 아버지 세대가 젊은 날 가족을 위해 열심히 일하고 나서 노후에 황혼이혼이나 졸혼을 당한 이후 그 아들 세대들은 아예 연애나 결혼에 관심을 두지 않았다. 당연히 여자친구에게 돈을 쓰지 않았고 차라리 성매매 여성에게 지출하는 일까지 벌어졌다. 책임지는 일을 하지 않고 자신을 위해 살겠다고 선언한 것이다. 이렇게 앞선 세대의 경험은 뒷세대의 선택에 영향을 주는 법이다.&amp;nbsp;
+        
+        요즘 젊은 세대가 술을 먹지 않는 것도 같은 맥락이다. 대학가에는 호프집이 줄어들고 있고, 일반 고깃집의 술 소비량도 예전과 많이 달라졌다. 대학가 술집 자체가 썰렁하다. 회식하는 것 자체가 드물어졌으며 한다고 해도 술을 많이 먹지 않는다. 이러한 경향에는 코로나19 팬데믹을 거치면서 회식과 음주 문화의 변화가 결정적인 영향을 줬다. 사실 이전에도 회식과 음주 문화에 대한 문제의식은 있었지만 감염병 우려의 재난 상황이 결정적인 계기를 제공했다.
+        
+        여기에는 다른 요인도 있다. 이젠 술을 많이 마시기보다는 적게 먹더라도 분위기와 체험이 중요하다. 알코올을 의무적으로 주입하거나 취하기 위해 마시는 것보다 좀 더 즐기는 음주를 선호한다. 분위기 좋은 곳이나 이색적인 곳에서 체험의 차별성을 기할 수 있는 술자리를 원하는 것이다. SNS 인증샷이 가능할 수 있다면 더욱 선호될 수 있다. 이런 문화적 취향이나 차별성도 있지만 실용적인 측면도 있다. 소맥 대신 하이볼을 마신다고 하더니 이조차 시들하다. 와인족이 능히 되던 밀레니얼 세대와도 차이가 있다.&amp;nbsp;
+        
+        Z세대 그들이 주목하는 것은 실용주의이다. 건강을 해치도록 폭음을 해봤자 돌아오는 것은 질병과 신체 훼손이라는 것을 앞선 세대를 통해 깨달았다. 예전에는 음주 문화를 통해 대인 관계를 맺거나 사회생활을 성공적으로 영위할 수 있다고 생각하던 시절이 있었지만 지금은 상황이 충분히 달라졌다. 이를 JTBC 토일드라마 &amp;lsquo;서울 자가에 대기업 다니는 김부장 이야기&amp;rsquo;에서는 술자리로 모든 문제 해결을 하려 했던 김낙수(류승룡 분) 부장을 통해 잘 드러내 주었다. 직장과 고용 문화 자체가 바뀌었다. 술이 아니어도 커피 하나로 직원들을 사로잡는 상대적으로 젊은 송 부장에게는 실력에서 당할 수가 없었다.
+        
+        실제로 기업에서도 술을 잘 마시는 사람보다는 실적과 성과가 중요할 뿐이다. 직원들의 마음을 사로잡는 방법이나 수단은 다양하다. 술자리에서 비밀 정보를 공유하던 시절도 저물었다. 또한 유연 근무제를 통해 출퇴근 시간도 서로 달라졌다. 연차나 휴가를 쓰는 방식도 이전과는 많이 달라진 것은 분명하다. 평생직장이라는 개념은 더욱더 사라진 점이 작용하기도 한다. 개인의 취향이나 선택에 대해서 존중하는 풍토는 더 강해졌다.&amp;nbsp;
+        
+        인간관계 문화도 바뀌었다. 직장이나 학교가 아니어도 술이 아니어도 사람들과 어울릴 수 있는 방식은 SNS를 통해 훨씬 다양해졌다. 중고 플랫폼의 동네 모임을 통해 감자튀김 모임이나 경도 모임을 하는 것만 봐도 알 수가 있다. 언제든지 느슨하게 뭇사람들과 목적의식을 갖고 만나서 원하는 바를 충족하고 헤어질 수 있는 스마트모바일 환경이다. 그것이 더 쿨하고 힙해 보인다.
+        
+        건강과 자기 계발도 중요하다. 술을 마시지 못하거나 적게 마시는 것은 흠도 아니고 감출 일도 아니다. 아버지 세대인 X세대부터 술을 줄였다. 아울러 건강을 위해 술을 줄인다. 컨디션 관리를 하기 위해 술을 적게 마시거나 술을 마실 수 있는 날을 고르게 된다. 아무 때나 시간 나면 술자리를 갖는 이전 세대의 젊은 날과 달라졌다. 술을 많이 마시면 뒷날 스케줄 관리가 안 되기 때문에 학업이나 업무에 지장을 줄 수가 있다. 자신의 루틴에 지장을 주는 음주 행위는 배제된다.&amp;nbsp;
+        
+        폭음족이 되느니 카공족이 되는 게 훨씬 낫다. 술자리에서 할 말도 카페에서 아아(아이스아메리카노)를 마시며 대화하면 좋다. 이제 새로운 세대는 120살까지 살아야 한다는 예측도 있다. 따라서 젊은 나이부터 건강관리를 해야 한다. 그렇지 않으면 한참 나이라고 할 수 있는 50&amp;middot;60대에 당뇨와 고혈압 그리고 각종 암에 시달릴 수 있다. 알코올의 분위기를 느끼려 한다면 무알코올 음료를 마시며 소량의 알코올로 기분을 자극할 수 있다. 술이 목적이 아니라 자신의 쾌적한 행복감이 중요할 뿐이다.&amp;nbsp;
+        
+        이런 상황에서 술을 권하는 유튜브는 시대적 트렌드에 반한다고 할 수 있다. 오리려 지금 Z세대 아래에 해당하는 알파 세대에게 어필을 하는 형국이니 음주 문화가 10대들에게 무분별하게 선망의 대상이 될까 우려된다. 한편으로 술 소비를 하지 않는 젊은이들은 그만큼 할 일이 많고 경쟁이 치열해진 것을 의미한다. 산업 단지에서는 술 소비가 늘었다는 통계도 있다. 이러한 점은 여전히 노동의 강도는 높아지니 술을 통해 피로를 푸는 이들은 증가하고 있다는 것 아닐까 싶다. 이래저래 우리는 오늘도 해야 할 일이 많다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[천지만평] 2026년 4월 29일자</title>
+      <link>https://www.newscj.com/news/articleView.html?idxno=3397092</link>
+      <guid>https://www.newscj.com/news/articleView.html?idxno=3397092</guid>
+      <pubDate>2026-04-28T18:30:10.000Z</pubDate>
+      <content:encoded>
+        VOL. 2251
+        
+        
+        &lt;img alt=&quot;ⓒ천지일보 2026.04.28.&quot; src=&quot;https://www.newscj.com/news/photo/202604/3397092_3493910_2927.jpg&quot; /&gt;
+        ⓒ천지일보 2026.04.28.
+        
+        
+        
+        김진호 화백
+      </content:encoded>
+    </item>
+    <item>
+      <title>[IT칼럼] K의료 선진화의 길, 의료 AX</title>
+      <link>https://www.newscj.com/news/articleView.html?idxno=3397104</link>
+      <guid>https://www.newscj.com/news/articleView.html?idxno=3397104</guid>
+      <pubDate>2026-04-28T19:22:02.000Z</pubDate>
+      <content:encoded>
+        석호익 동북아공동체ICT포럼회장/한국디지털융합진흥원장
+        
+        &lt;img alt=&quot;&quot; height=&quot;188&quot; src=&quot;https://www.newscj.com/news/photo/202604/3397104_3493928_1915.jpg&quot; width=&quot;187&quot; /&gt;
+        
+        
+        
+        의료 AX는 단순한 비용 절감 차원을 넘어 의료의 질 향상과 접근성 개선까지 동시에 달성할 수 있다는 점에서 국가적 과제로 부상하고 있다.
+        
+        서울대 의과대학 의료빅데이터연구센터에 따르면 국내 의료계에 인공지능(AI)이 도입될 경우 국가 전체가 사용하는 의료비가 매년 5~10% 절감된다고 한다. 2024년 기준 국내 경상의료비 213조 1088억원을 기준으로 보면 AI 도입 시 해마다 최대 21조 3000억원 가량을 아낄 수 있다.
+        
+        환자와 의료인 모두를 위해 &amp;lsquo;AI를 통한 시스템 전환&amp;rsquo;이 시급하다. 무엇보다 의료 AX의 가장 큰 효과는 &amp;lsquo;정확성&amp;rsquo;과 &amp;lsquo;효율성&amp;rsquo;의 획기적 개선이다. AI는 방대한 의료 데이터를 기반으로 진단 정확도를 높이고 불필요한 검사와 중복 처방을 줄인다.
+        
+        현재 우리나라는 인구 대비 CT 촬영 건수가 세계 최고 수준으로 &amp;lsquo;혹시 모를 위험&amp;rsquo;을 대비한 과잉 진료가 적지 않은 상황이다. 그러나 AI 기반 진단 시스템이 도입되면 이러한 불확실성이 줄어들고 자연스럽게 의료비 절감으로 이어진다.
+        
+        또한 진단서 작성, 기록 정리, 보험 청구 등 의료 현장의 과중한 행정업무도 해결할 수 있다. 일부 연구에서는 진단서&amp;middot;소견서 작성만 AI로 대체해도 대형 병원에서 하루 수천 명의 환자를 추가로 진료할 수 있는 것으로 나타났다. 이는 의료 서비스 공급 확대와 대기시간 단축이라는 국민 체감 효과로 직결된다.
+        
+        환자 측면에서도 의료 AI는 의료 사각지대를 보완하는 역할을 한다. 야간이나 농어촌 지역에서도 AI를 통해 기본적인 의료 상담이 가능하며 짧은 진료시간으로 충분히 설명받지 못했던 부분을 보완해주는 &amp;lsquo;보조 의사&amp;rsquo; 역할을 수행한다. 나아가 AI는 위험 신호를 조기에 감지하는 데 강점이 있어 예방 중심 의료로의 전환을 촉진한다.
+        
+        선진국도 의료 AX 경쟁에 속도를 내고 있다. 미국은 전자의무기록(EHR) 도입 시 보조금을 지급하고 미도입 시 불이익을 주는 정책을 통해 시스템 혁신을 촉진하고 유럽은 대규모 연구개발 프로그램을 통해 AI 기반 질병 예측과 조기 진단을 한다. 중국은 국가 주도로 의료 AI와 수술 로봇 산업을 빠르게 육성하며 시장을 선점하고 있다.
+        
+        그러나 우리나라의 의료 AX 도입은 미미하다. 제도와 규제로 유망한 의료 AI 인재와 기술이 해외로 유출되고 있다. 의료 데이터는 AI의 핵심 자원임에도 개인정보보호법&amp;middot;의료법&amp;middot;생명윤리법 등에서 데이터 활용을 제한한다.
+        
+        연구개발을 위해 수차례의 동의와 허가 절차, 의료 AI 기술을 현장에 적용하기 위해 인허가와 보험 등재라는 높은 장벽, 기술의 안전성과 경제성까지 입증해야 하는 것은 혁신을 저해하는 대표적인 요인이다.
+        
+        또한 대부분 병원이 적자 구조에 놓여 있어 AI 도입을 위한 투자 여력이 부족하며 병원마다 상이한 전산 시스템은 AI 도입의 또 다른 장애물로 작용한다. 여기에 일부 의료인의 보수적인 인식도 AX 확산을 더디게 만드는 요인이다.
+        
+        앞으로 과감한 의료 AX 도입이 더 낮은 비용으로 더 높은 수준의 의료 서비스를 제공하는 &amp;lsquo;선진 의료국가&amp;rsquo;로 도약할 수 있다. 정부와 국회는 의료 데이터 활용을 위한 명확한 법적 기반을 조속히 마련해야 한다. 데이터의 안전한 활용과 보호를 동시에 달성할 수 있는 제도 정비가 시급하다.
+        
+        의료 AI 기술에 대한 인허가 및 보험 등재 절차를 합리적으로 개선해 혁신 기술이 시장에 빠르게 진입할 수 있도록 해야 한다. 병원의 AX 투자를 유도하기 위해 재정적 지원과 인센티브 정책을 병행할 필요가 있다.
+        
+        의료계 역시 변화의 주체로 나서야 한다. AI를 경쟁자가 아닌 &amp;lsquo;협력 도구&amp;rsquo;로 인식하고 적극적으로 활용하는 문화가 필요하다.
+        
+        환자 또한 의료 AI를 보조적 수단으로 이해하고 올바른 활용 역량을 갖추는 것이 중요하다. 궁극적으로 국민 모두가 의료 AX의 수혜자이자 참여자가 돼야 한다. 의료 AX는 단순한 기술 도입이 아니라 의료 시스템 전반을 선진화하는 패러다임 전환이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[천지일보 사설] 하정우 수석 선거 출마, 흔들리는 &apos;AI 강국&apos; 비전</title>
+      <link>https://www.newscj.com/news/articleView.html?idxno=3397105</link>
+      <guid>https://www.newscj.com/news/articleView.html?idxno=3397105</guid>
+      <pubDate>2026-04-28T19:25:42.000Z</pubDate>
+      <content:encoded>
+        하정우 청와대 AI미래기획수석의 사퇴와 부산 북구 국회의원 보궐선거 출마 계획은 단순한 개인의 진로 선택으로 보기 어렵다.
+        
+        이는 국가가 내세운 핵심 전략과 정치 일정이 충돌할 때 무엇이 우선되는지를 보여주는 상징적 사건이다. 특히 임명된 지 불과 10개월 만에 자리를 떠난다는 점에서 정책의 연속성과 책임성에 대한 의문이 제기된다.
+        
+        이재명 대통령은 대선 당시 &amp;lsquo;AI 3대 강국 도약&amp;rsquo;을 국가 비전으로 내세웠다. 이에 따라 청와대에 AI미래기획실을 신설하고 민간 전문가를 영입한 것은 전략적 선택이었다. 이는 단순한 구호가 아니라 실행을 전제로 한 정책 의지로 해석됐다.
+        
+        하 수석 역시 &amp;ldquo;3~5년이 AI 골든타임&amp;rdquo;이라며 지금이 국가 경쟁력을 좌우할 결정적 시기라고 강조해왔다. 그렇다면 그 골든타임의 한복판에서 정책을 총괄하던 인물이 자리를 비우는 상황은 그 자체로 모순을 안고 있다. 전략의 지속 가능성에 대한 의심이 커질 수밖에 없다.
+        
+        더불어민주당은 정책 설계자가 국회로 가 입법을 완성해야 한다고 주장한다. 그러나 이는 결과적으로 행정부와 입법부 간 역할 구분을 흐리는 논리다. 정책 설계와 실행, 입법은 각각의 자리에서 유기적으로 작동해야 한다.
+        
+        당 대표인 정청래 의원의 설득, 대통령의 만류, 그리고 당사자의 고심 끝 결단이라는 과정 역시 매끄럽지 않다. 이 과정은 정책적 판단이라기보다 정치적 연출로 비칠 여지를 남긴다. 메시지의 일관성 또한 크게 훼손됐다.
+        
+        문제는 단순히 한 자리의 공백이 아니다. AI 정책은 기술&amp;middot;산업&amp;middot;외교가 결합된 장기 전략이다. 이를 총괄하는 컨트롤타워의 공백은 곧 정책 추진력의 약화로 이어질 수 있다. 특히 글로벌 경쟁이 치열한 상황에서는 작은 지연도 큰 격차로 이어진다.
+        
+        현재 주요 국가들은 AI를 미래 산업의 핵심으로 보고 막대한 자원을 투입하고 있다. 이러한 경쟁 구도 속에서 정책 책임자의 잦은 교체는 일관된 전략 수립을 어렵게 만든다. 국가 경쟁력 차원에서도 결코 가볍게 볼 문제가 아니다.
+        
+        청와대 참모들의 잇따른 출마 역시 구조적 문제를 드러낸다. 정책을 설계하고 집행해야 할 자리가 정치 경력의 발판처럼 활용된다면 공직의 전문성과 책임성은 약화될 수밖에 없다. 이는 결국 국정 운영 전반에 대한 신뢰 하락으로 이어진다.
+        
+        정치는 선거를 중심으로 움직이지만 국정은 장기적 안목을 필요로 한다. 선거 일정에 따라 핵심 인재가 이동하는 구조가 반복된다면 어떤 국가 전략도 지속성을 확보하기 어렵다. 이는 정책이 아닌 이벤트 중심 운영이라는 비판을 피하기 어렵게 만든다.
+        
+        &amp;lsquo;AI 강국&amp;rsquo;이 진정한 국가 목표라면 이를 추진할 인재와 시스템 역시 그에 걸맞은 안정성을 가져야 한다. 지금 필요한 것은 정치의 속도가 아니라 미래 전략의 일관성이다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[천지일보 사설] 안전과 민원 사이, 멈춰버린 공교육</title>
+      <link>https://www.newscj.com/news/articleView.html?idxno=3397106</link>
+      <guid>https://www.newscj.com/news/articleView.html?idxno=3397106</guid>
+      <pubDate>2026-04-28T19:31:26.000Z</pubDate>
+      <content:encoded>
+        최근 초등학교에서 축구, 소풍, 운동회, 생일파티까지 잇따라 사라지는 현상은 단순한 학교 운영상의 변화가 아니라 공교육의 본질을 흔드는 심각한 문제다.
+        
+        안전사고에 대한 과도한 책임 부담과 학부모 민원&amp;middot;고소의 일상화 속에서 학교가 &amp;lsquo;아무것도 하지 않는 것&amp;rsquo;을 선택하는 현실은 이해할 수 있는 측면이 있다. 그러나 그 결과가 아이들의 경험 축소와 교육 불평등 심화로 이어진다면 결코 방치할 수 없다.
+        
+        학교는 지식만 전달하는 공간이 아니다. 또래와 어울리고 경쟁과 협력을 배우며 다양한 활동을 통해 사회성을 기르는 중요한 생활 공간이다.
+        
+        운동장에서 뛰놀고 소풍을 가고 행사에 참여하는 경험은 교과서로 대체할 수 없는 교육적 가치가 있다. 이러한 활동이 사라질 경우 아이들은 자연스럽게 관계 형성과 감정 조절 능력을 배울 기회를 잃게 된다.
+        
+        더 큰 문제는 이러한 변화가 계층 간 격차를 확대한다는 점이다. 경제적 여유가 있는 가정은 사설 스포츠 아카데미나 체험 프로그램을 통해 공백을 메울 수 있지만 그렇지 못한 가정의 아이들은 학교에서조차 경험의 기회를 박탈당한다. 이는 공교육이 지켜온 &amp;lsquo;경험의 평등&amp;rsquo;을 무너뜨리고 출발선부터 다른 교육 환경을 고착화할 위험이 크다.
+        
+        현재 상황의 근본 원인은 책임 구조의 왜곡에 있다. 사고 발생 시 모든 부담이 교사와 학교에 집중되면서 교육적 판단보다 법적 리스크 회피가 우선되는 구조가 형성됐다.
+        
+        여기에 일부 과도한 민원과 고소 문화가 더해지며 학교 현장은 더욱 위축되고 있다. 결국 누구도 책임지지 않으려는 분위기 속에서 가장 큰 피해를 보는 것은 학생들이다.
+        
+        이제는 방향을 바꿔야 한다. 교육활동 중 발생하는 사고에 대해 교사 개인에게 과도한 법적 책임을 묻는 구조를 개선해야 한다. 일정 범위 내에서는 국가와 교육청이 책임을 분담하는 제도적 장치가 필요하다.
+        
+        또한 학부모 역시 학교를 감시의 대상이 아니라 협력의 주체로 인식하는 문화가 자리 잡아야 한다. 교육은 학교만의 몫이 아니라 사회 전체의 공동 책임이다. 아울러 학교 활동의 교육적 가치를 재확인하고 이를 보장하기 위한 정책적 지원을 강화해야 한다.
+        
+        아이들에게서 &amp;lsquo;위험할 수 있다&amp;rsquo;는 이유로 모든 경험을 빼앗는 것은 안전을 위한 선택이 아니라 성장의 기회를 박탈하는 일이다. 위험을 완전히 제거하는 것이 아니라 감수 가능한 수준에서 관리하며 경험을 제공하는 것이 교육의 역할이다.
+        
+        지금 필요한 것은 금지가 아니라 균형이다. 공교육이 다시 아이들의 삶을 풍요롭게 하는 공간으로 기능하기 위해 사회 전체의 인식 전환과 제도 개선이 시급하다.
+      </content:encoded>
+    </item>
+    <item>
+      <title>[사설]항소심 김건희 주가조작 유죄, ‘봐주기’ 검찰 뼈저린 반성을</title>
+      <link>https://www.khan.co.kr/article/202604281943001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604281943001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T19:43:00.000Z</pubDate>
+      <content:encoded>도이치모터스 주가조작 등의 혐의로 재판에 넘겨진 김건희씨가 28일 서울 서초구 서울고법에서 열린 항소심 선고공판에서 재판장의 선고를 듣고 있다.                  연합뉴스  항소심 법원이 전직 대통령 윤석열의 부인 김건희씨의 도이치모터스 주가조작 혐의에 대해 유죄 판결을 내렸다. 혐의를 입증할 각종 증거들에도 불구하고 전부 무죄를 선고한 1심 ···</content:encoded>
+    </item>
+    <item>
+      <title>[공감]후회 길들이기</title>
+      <link>https://www.khan.co.kr/article/202604282039005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282039005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:39:00.000Z</pubDate>
+      <content:encoded>아침에 눈을 뜨자마자 이불킥을 했다. 전날 밤 술자리에서 괜히 남의 인생에 훈수를 둔 탓이다. 동이 트며 강해지는 아침 햇살은 눈을 찌르듯 마음을 후벼파더니, 잊고 있던 오래전 말실수까지 소환됐다. 가만히 입을 다물고 있었더라면 기분 좋은 아침을 맞이했을 텐데… 샤워하는 내내 혼잣말을 중얼거렸다.돌아보면 인생은 후회의 연속인 것 같다. 후회는 내가 저지른 ···</content:encoded>
+    </item>
+    <item>
+      <title>[경제직필]국가부채비율보다 중요한 것들</title>
+      <link>https://www.khan.co.kr/article/202604282040005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282040005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:40:00.000Z</pubDate>
+      <content:encoded>국제통화기금(IMF)이 재정 모니터(Fiscal Monitor)에서 한국의 중기 재정 전망을 제시하자, 국내 언론은 “한국 국가부채 급증” “비기축통화국 중 위험” 같은 제목을 쏟아냈다. 국제기구의 경고를 가볍게 넘겨서는 안 된다. 한국은 빠른 고령화를 겪고 있고, 연금·의료·돌봄 지출도 앞으로 늘어날 수밖에 없다. 그러나 국내총생산(GDP) 대비 부채비율···</content:encoded>
+    </item>
+    <item>
+      <title>[특파원 칼럼]AI 데이터센터 대신 토마토를!</title>
+      <link>https://www.khan.co.kr/article/202604282046005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282046005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:46:00.000Z</pubDate>
+      <content:encoded>“인공지능(AI) 데이터센터 말고, 토마토를 키워라!”지난 2월19일(현지시간) 미국 버지니아 중부 하노버 카운티의 도시계획위원회 공청회가 열린 강당 곳곳에는 이런 손팻말이 세워져 있었다. 매년 토마토 축제가 열리는 하노버 카운티는 적절한 산성도와 풍부한 미네랄이 함유된 토양 덕분에 크고 탐스러운 토마토가 자라기로 유명한 곳이다. 그러나 ‘세계 AI 데이터···</content:encoded>
+    </item>
+    <item>
+      <title>[송혁기의 책상물림]문학이 존재하는 이유</title>
+      <link>https://www.khan.co.kr/article/202604282046015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282046015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:46:01.000Z</pubDate>
+      <content:encoded>지난주, 스페인 말라가대학에 가서 한국어학과 저학년 학생들을 대상으로 조선시대 문학을 소개하는 강연을 할 기회가 있었다. 대부분 청중이 여학생이라는 점을 고려해 조선 여인의 삶과 죽음을 인상적으로 담은 작품들을 준비하긴 했지만, 한류 대중문화에 열광하는 젊은 친구들에게 지역과 언어, 시대를 뛰어넘어 지구 반대쪽 나라에서 한문으로 쓴 전근대의 문학을 어떻게 ···</content:encoded>
+    </item>
+    <item>
+      <title>[서의동 칼럼]남북관계 단절의 역설적 효능</title>
+      <link>https://www.khan.co.kr/article/202604282047005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282047005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:47:00.000Z</pubDate>
+      <content:encoded>2020년 1월 한국은 청해부대를 호르무즈 해협에 파병했다. 아덴만에 이미 파견한 부대의 작전 해역을 호르무즈 해협으로 넓히는 방식이었다. 트럼프 1기 행정부가 이란과의 핵 합의를 파기하고 제재를 가하면서 조성된 양국 간 긴장이 호르무즈 해협 유조선 피격·나포 사건으로 이어지자 ‘국민 보호, 선박 안전 항행’ 등을 명분으로 한 것이지만, 파병 결정에는 다른···</content:encoded>
+    </item>
+    <item>
+      <title>[기고]오세훈의 한강버스, 유정복의 F1…고통은 시민의 몫</title>
+      <link>https://www.khan.co.kr/article/202604282048005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282048005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:48:00.000Z</pubDate>
+      <content:encoded>말도 많고 탈도 많은 한강버스의 성적표는 참담하다. 오세훈 서울시장은 최근까지 방송에 나와 “완성 단계에 접어들었다” “대박 날 조짐이 보이자 정치적으로 공격한다”고 주장하고 있다. 하지만 여야를 막론한 다른 후보들의 평가는 대체로 비판 일색이다. 사업 시작 후 지난해 말까지 1487억원을 투입하고도 승선료와 부대수입 등으로 거둔 금액이 104억원에 그쳤다···</content:encoded>
+    </item>
+    <item>
+      <title>[정희진의 낯선 사이]1980년 광주, ‘그들’이 있었던 곳</title>
+      <link>https://www.khan.co.kr/article/202604282052005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604282052005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-28T20:52:00.000Z</pubDate>
+      <content:encoded>광주 공동체에서는 모두가 똑같은 존재였다.  그 공동체는 계급적 열망감으로 고통받았던 이들에게 지키고 싶었던 존재였다.  상대방의 기존 신분을 모를 때 새 공동체의 평등이 가능하다. 혁명은 ‘동지’를 모르는 상태에서만 가능하다. ‘진정한’ 연대는 죽은 자와 산 자 사이에서만 가능하지 않을까. 죽은 자와 대화를 위해 현재의 ‘성취’를 부정하는 상상력이 필요하···</content:encoded>
+    </item>
+    <item>
+      <title>[WT논평] Illegal immigrants and temporary visitors give  birth to 9% of U.S. babies(Ⅱ)</title>
+      <link>https://www.segye.com/newsView/20260428515269</link>
+      <guid>https://www.segye.com/newsView/20260428515269</guid>
+      <pubDate>2026-04-28T22:54:14.000Z</pubDate>
+      <content:encoded>
+        That was one of the issues that arose during oral arguments at the Supreme Court in March when the justices took up the case.
+        
+        Justice Amy Coney Barrett said U.S. Solicitor General John Sauer’s visi
+      </content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 시선] ‘종교의 자유’는 지켜져야 한다</title>
+      <link>https://www.segye.com/newsView/20260428515259</link>
+      <guid>https://www.segye.com/newsView/20260428515259</guid>
+      <pubDate>2026-04-28T22:54:22.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/28/20260428518870.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  국가가 특정 종교단체를 강제로 해산할 수 있는가. 보다 정확하게는 정부가 종교단체를 해산할 수 있는가. 최근 최혁진 의원이 대표 발의한 ‘민법 일부 개정 법률안’, 이른바 ‘종교단체 해산법’은 공익법인의 투명성과 공익성 강화를 명분으로 하지만, 그 이면에는 헌법이 보장하는 종교의 자유와 정교분리 원칙을 근본적으로 흔드는 독소 조항들이 포함되어 있다.</content:encoded>
+    </item>
+    <item>
+      <title>[김상미의감성엽서] 내 문학은 재즈</title>
+      <link>https://www.segye.com/newsView/20260428515267</link>
+      <guid>https://www.segye.com/newsView/20260428515267</guid>
+      <pubDate>2026-04-28T22:54:38.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/28/20260428518893.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  골목을 들어서니 담 아래 옹기종기 핀 노란 씀바귀꽃들이 바람결 따라 춤을 추고 있다. 예쁘다! 아무도 봐주는 사람 없어도 저희끼리 반짝반짝 빛을 발하며 춤을 추고 있다. 그 애틋함과 잔잔함이, 그 순정한 서정적 호소력이 보는 것만으로도 깊은 감동을 준다. 이런 키 작은 다년생 초본식물 꽃들을 바라보면 정말 사랑스럽고 애달픈 그 자연미만으로도 이 지구 위에</content:encoded>
+    </item>
+    <item>
+      <title>[데스크의눈] 북한의 집속탄, 군비 4200조원</title>
+      <link>https://www.segye.com/newsView/20260428516154</link>
+      <guid>https://www.segye.com/newsView/20260428516154</guid>
+      <pubDate>2026-04-28T22:54:46.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/03/03/20260303519674.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  김정은 북한 국무위원장이 지난 19일 딸 주애를 대동하고 시험발사를 참관한 뒤 “5년이라는 시간을 바친 것이 조금도 헛되지 않았다는 것을 명백히 보여준 귀중한 결과물”이라고 극찬한 건 집속탄 ‘화성포-11라’형 전술탄도미사일이었다. 북한 매체 보도에 따르면 136㎞ 정도를 날아가 12.5~13㏊ 면적(축구장 약 17~18개 규모)을 매우 높은 밀도로 강타했</content:encoded>
+    </item>
+    <item>
+      <title>[설왕설래] 하정우 수석의 출마를 보며</title>
+      <link>https://www.segye.com/newsView/20260428516249</link>
+      <guid>https://www.segye.com/newsView/20260428516249</guid>
+      <pubDate>2026-04-28T22:54:53.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/28/20260428518920.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  1996년 15대 총선을 앞두고 국민의힘 전신인 신한국당은 그해 1월 당시 서른 살인 이찬진 한글과컴퓨터사 사장을 국회의원 후보로 영입한다. 이씨는 서울대 기계공학과 재학 중 한글 워드프로세서 소프트웨어 ‘한글 1.0’을 개발하는 등 우리나라 컴퓨터산업을 선도하던 인물이다. ‘한국의 빌 게이츠’라는 별명이 잘 말해주듯 우리나라 정보기술 산업을 개척해 나갈</content:encoded>
+    </item>
+    <item>
+      <title>귀신보다 무서운 불신[정덕현의 그 영화 이 대사]〈104〉</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830670/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830670/2</guid>
+      <pubDate>2026-04-28T23:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133829041.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“거긴 살아서는 못 나와요.”―이상민 ‘살목지’“거긴 살아서는 못 나와요.” 어딘가 음산한 분위기의 아주머니가 살목지에 대해 이야기한다. 낚시꾼들의 잇단 사망 사고와 로드뷰 사진에 찍힌 정체불명의 얼굴 형상 때문에 재촬영을 하러 살목지에 간 PD 수인(김혜윤 분)과 촬영팀은 그 아주머니의 말처럼 벌어지는 갖가지 기이한 사건들을 마주한다. 로드뷰 촬영을 하는 카메라가 보내는 영상에 이상한 형상이 포착되기도 하고, 물수제비를 뜨며 날아갔던 돌이 되돌아오기도 하며, 야간에 움직임을 포착하는 모션 디텍터에 알 수 없는 존재가 보이기도 한다. 깜깜한 밤길에 내비게이션의 오작동은 차량을 저수지로 빠뜨리고, 살목지로부터 빠져나오려 해도 같은 장소를 계속 빙빙 돌게 되는 일이 벌어진다. 무서워도 너무 무섭다는 입소문이 나면서 영화 ‘살목지’는 그 실제 배경인 충남 예산의 저수지까지 들썩이게 만들었다. 차량이 몰리고 텐트를 치는 진풍경이 벌어졌고, ‘살목지 가는 길’이라는 표지판도 세워졌다.</content:encoded>
+    </item>
+    <item>
+      <title>[고양이 눈]나의 뱃살 나이</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830656/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830656/2</guid>
+      <pubDate>2026-04-28T23:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133829020.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사이를 비집고 통과하는 시설물 앞에서 살짝 고민이 듭니다. M, L, XL 중 어디를 선택할까. 웃으며 들어섰다가 멈칫하는 순간, 체중계보다 더 정확한 뱃살 나이가 드러납니다. ―경기 시흥시 연꽃테마파크에서</content:encoded>
+    </item>
+    <item>
+      <title>1위 부자의 비싼 취미? 21세기 인프라 길목 쥐고 “스리~ 투~ 원~”[최중혁의 월가를 흔드는 기업들]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830477/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830477/2</guid>
+      <pubDate>2026-04-28T23:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831043.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《“역사상 가장 큰 기업공개(IPO)가 다가오고 있다.” 최근 월가 IPO 전문 은행가들 입에 자주 오르는 말이다. 이 회사는 4월 1일(현지 시간) 비밀리에 미국 증권거래위원회(SEC)에 등록신고서(S-1)를 제출했다. 노리는 시가총액은 2조 달러(약 2940조 원). 모건스탠리, 골드만삭스, JP모건 등 월가 5대 투자은행이 주관사로 이름을 올렸고, 보조 인수단까지 더하면 은행 21곳이 줄을 섰다. 조달 예정 금액은 750억 달러로, 2019년 사우디아라비아 아람코가 세운 IPO 사상 최대 조달액(약 294억 달러)의 두 배를 넘는다. 주인공은 일론 머스크 테슬라 최고경영자 (CEO)가 이끄는 우주기업 스페이스X다.》스페이스X의 몸값 변화를 보면 입이 떡 벌어진다. 2024년 6월 약 2100억 달러였던 기업가치는 같은 해 12월 3500억 달러, 2025년 7월 4000억 달러로 오르다가 그해 12월 8000억 달러로 수직 상승했다. 올 2월 사모시장에서는 1조3100억 달러</content:encoded>
+    </item>
+    <item>
+      <title>LA 코리아타운에서 한국의 또 다른 시간을 걷다[안드레스 솔라노 한국 블로그]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830486/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830486/2</guid>
+      <pubDate>2026-04-28T23:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831018.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일주일 전, 나는 로스앤젤레스 타임스 도서상(Los Angeles Times Book Prize)의 초청으로 미국 로스앤젤레스(LA)를 방문했다. 지난해 발표한 소설이 픽션 부문 최종 후보에 올랐기 때문이다. 상도 상이지만, 8년 만에 미국을 다시 찾는다는 사실과 더불어 20세기의 신화들이 조립되고 부서져 온 도시를 방문한다는 생각에 몹시 설레었다. 태어나 처음으로 극장에서 본 영화가 바로 캘리포니아를 배경으로 한 ‘E.T.’였다는 것만으로도 충분한 설명이 될 것이다. 이번 여행은 예상대로 영화와 문학의 배경들을 마주하는 경험이었다. 첫날, 숙소였던 빌트모어 호텔에 도착해 체크인하고 방으로 들어가는 복도에서 나는 LA가 언제나 내 안에 살고 있었음을 깨달았다. 빌트모어 호텔은 영화 ‘고스트버스터즈’의 주인공들이 첫 유령을 잡으려 했던 곳이다. 이 외에도 ‘파이트 클럽’, ‘오션스 일레븐’, ‘보디가드’, ‘오펜하이머’ 등 유명 영화와 TV 시리즈의 단골 배경으로 등장한다. 시상식</content:encoded>
+    </item>
+    <item>
+      <title>기막힌 우연과 놀라운 능력[서광원의 자연과 삶]〈122〉</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830481/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830481/2</guid>
+      <pubDate>2026-04-28T23:06:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133828926.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 1000만 관객을 돌파한 영화 ‘왕과 사는 남자’의 흥행 덕분일까. 국민 대다수는 조선의 왕 단종이 어떻게 삶을 마감했는지 알고 있다. 단종이 16세라는 창창한 나이에 유배지 강원 영월에서 죽은 것은 1457년 음력 10월 24일이었다. 이날 영월에는 비가 왔다고 한다. 영월 사람들이 하늘도 슬퍼하며 내렸다고 믿는 ‘단종우(端宗雨)’다. 가을이면 곧잘 내리는 가을비가 우연하게 죽음과 맞아떨어져 슬픔의 상징이 된 것이다. 세상에는 이런 우연이 많다. 생명의 역사에도 과학자들조차 기막힐 정도라고 감탄하는 우연이 있다. 우리가 무언가를 눈으로 보는 것은 간단하지만, 이를 위한 과정은 그리 단순하지 않다. 복잡한 과정이 연속적으로 진행되는 정교한 연쇄 반응이 필요하다. 최대한 쉽게 설명하면 이렇다. 우리 눈에는 간상세포와 원추세포가 있다. 이들 세포막에는 옵신이라는 단백질이 겹겹이 박혀 있는데, 이 옵신들은 레티날이라는 작은 분자를 반지 속의 반지알처럼 품고 있다. 빛을 흡수하기</content:encoded>
+    </item>
+    <item>
+      <title>[글로벌 현장을 가다/임우선]‘센트럴 파크’부터 ‘포켓 파크’까지… 300개 공원 들어선 뉴욕 맨해튼</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830647/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830647/2</guid>
+      <pubDate>2026-04-28T23:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133828921.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《26일(현지 시간) 미국 뉴욕 맨해튼 센트럴 파크 내 ‘시프 메도’ 잔디밭. 축구장 9개 크기에 맞먹는 5만9500m²(약 1만8000평)가 넘는 광활한 이 잔디밭은 주말을 맞아 공원으로 나온 수천 명의 시민들로 가득했다. 캐리어를 끌고 나타난 관광객, 돗자리를 펴고 누운 커플들부터 수십 명의 친구들과 떼 지어 파티를 벌이는 젊은이들, 비키니를 입고 혼자 일광욕을 즐기는 할머니까지…. 다양한 연령대와 인종의 사람들이 각자의 방식으로 봄 햇살을 즐기는 모습이었다. 맨해튼은 초고층 빌딩이 가득한 마천루로 유명하다. 그럼에도 뉴욕 시민들은 이곳을 ‘콘크리트 숲’이라고만 느끼진 않는다. 세계적 규모의 센트럴 파크부터 작게는 동네 놀이터만 한 크기의 ‘포켓 파크’까지 도시 곳곳에 촘촘히 박혀 있는 수많은 공원 덕분이다. 22일 ‘지구의 날’을 계기로 도시 전역에서 다양한 행사가 열린 가운데 봄을 맞은 공원의 시민들은 자연을 만끽하는 모습이었다.》● “공원은 사회 융합 공간” 흔히 뉴욕을</content:encoded>
+    </item>
+    <item>
+      <title>[광화문에서/이설]신뢰 잃은 중고시장… 실효성 있는 안전망 마련해야</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830654/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830654/2</guid>
+      <pubDate>2026-04-28T23:13:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831132.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“내일 지방에 내려가서 직거래는 힘들어요. 절반만 선입금해 주시면 바로 퀵으로 보낼게요.” 평소 눈여겨보던 명품 브랜드 목걸이가 시세 대비 반값에 올라왔다. 누가 먼저 낚아챌까 봐 서둘러 125만 원을 입금했다. 판매자는 곧바로 퀵서비스 송장 사진을 보내왔다. 한데 반나절이 넘도록 물건이 오지 않았다. 채팅창을 확인하니 ‘탈퇴한 사용자’라는 문구가 떠 있었다. 최근 한 중고거래 플랫폼에서 사기를 당한 A 씨의 사연이다. 중고거래 시장의 몸집이 커지면서 사기 피해도 가파르게 늘고 있다. 경찰청 추산 사기 피해액은 2022년 1131억 원에서 지난해 3340억 원으로 3배 가까이 뛰었다. 귀금속, 전자제품 같은 고가품은 물론 과일즙, 그릇 세트 같은 생필품까지 품목을 가리지 않는다. 피해자들은 ‘말도 안 되는 헐값에 혹했다’며 스스로를 탓하곤 한다. 하지만 이를 오롯이 개인의 불찰로 돌리기엔 수법이 교묘하고 치밀하다. 선입금 유도 후 잠적, 가짜 안전결제 링크로 유도, 인공지능(A</content:encoded>
+    </item>
+    <item>
+      <title>[동아광장/허정]美주도 핵심광물 가격하한제를 방파제로 볼 수 없는 이유</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830650/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830650/2</guid>
+      <pubDate>2026-04-28T23:15:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831136.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;1973년 10월 중동 산유국들의 석유 수출 금지 조치로 한국 경제는 치명적인 오일쇼크를 겪었다. 기름 한 방울 나지 않는 나라에서 석유로 움직이던 공장들이 멈췄고, 물가는 폭등했으며 성장의 엔진마저 꺼질 뻔했다. 반세기가 지난 지금, 유사한 위기가 다른 얼굴로 다가오고 있다. 이번에는 핵심광물이다. 리튬, 코발트, 희토류, 갈륨, 흑연 등은 전기차 배터리, 반도체, 방산 장비, 풍력 터빈에 이르기까지 21세기 첨단산업 전반을 떠받치는 원료다. 현재 이 광물들의 채굴·정제·가공 시장은 중국이 사실상 독점하고 있다. 희토류 정제의 91%, 흑연 가공의 90%, 갈륨 생산의 98%가 중국에서 이뤄진다. 지금 미국이 이 공급망 구조를 강제로 재편하고 있다.  2026년 2월 미 국무부 청사에서 핵심광물의 글로벌 공급망 판도를 뒤집는 선언이 나왔다. J D 밴스 미 부통령은 54개국과 유럽연합(EU) 대표단을 핵심광물 장관급회의에 초청해 “생산 단계별(채굴·정제·가공) 기준가격을 설정하</content:encoded>
+    </item>
+    <item>
+      <title>“수능 잘 볼 걱정 말고 지원하세요” [오늘과 내일/장원재]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830668/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830668/2</guid>
+      <pubDate>2026-04-28T23:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831144.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중앙대는 이달 9일 서울 시내 대형 영화관을 빌려 새 입시전형을 공개했다. 기업의 신제품 발표회를 연상케 하는 무대에서 야심 차게 준비한 문구가 화면에 떴다. “이제 수능 잘 볼 걱정 없이 안심하고 지원하세요.” 요즘 입시 제도를 잘 모르면 시험 잘 볼 걱정을 왜 하느냐고 되물을 수 있다. 하지만 매년 대학수학능력시험(수능)이 끝나면 기대 이상의 점수를 받고 울지도 못하는 수험생이 적잖게 생긴다. 학생부 위주인 수시 전형에 먼저 합격하면 수능 위주인 정시 전형에 지원할 수 없기 때문이다. 이른바 ‘수시 납치’다.수시 납치 피하려 매년 눈치싸움 공교육 정상화가 필요하다는 지적에 따라 수시가 확대된 건 2002년경부터다. 이후 대학들이 우수 학생 선점을 위해 비중을 늘리면서 수시 납치 현상이 확산됐다. 여기에 대학마다 수시 일정이 제각각이다 보니 수험생이 체감하는 입시 난도는 상상 이상이다. 예를 들어 수능 전 수시를 치르는 A대와 수능 후 수시를 치르는 B대, 그리고 C대의 정</content:encoded>
+    </item>
+    <item>
+      <title>AI 자격증만 500종 [횡설수설/김창덕]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830658/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830658/2</guid>
+      <pubDate>2026-04-28T23:19:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831147.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;페이스북이나 인스타그램, 유튜브 같은 소셜네트워크서비스(SNS)에선 다양한 무료 강연이나, 유료 교육 프로그램 광고를 손쉽게 접한다. 최근 가장 많이 눈에 띄는 건 역시 인공지능(AI) 활용법이다. 3시간 강의를 들으면 남들만큼 챗GPT를 유려하게 활용할 수 있다, 이틀 교육 수료 후 AI 비즈니스 기회를 찾게 해 준다 등의 문구를 보면 클릭을 참기 힘들어진다. 취업 준비생부터 은퇴를 앞둔 직장인, 그리고 전업주부까지 수강생 면면도 다양하다. AI 시대에 나만 뒤처질까 두려워 모여든 이들인데, 정작 교육이 끝나도 막막하기는 마찬가지인 게 함정이다. ▷조급함이 가시지 않는 이들이 자연스럽게 기웃대는 다음 단계가 민간 자격증이다. 2000년대 들어 이력서에서 가장 많이 발견된 자격증 중 컴퓨터활용능력을 빼놓을 수 없다. 심지어 엑셀을 잘 다룬다는 인증만 받아도 뿌듯해하던 시절이 있었다. 그걸 기억하는 이들이 지금은 ‘AI 자격증’을 찾아보고 있다. 놀랍게도 한국직업능력연구원에 등록된</content:encoded>
+    </item>
+    <item>
+      <title>[사설]아동학대 반복신고 6800명… 한 번 당해도 끔찍할 텐데</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830663/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830663/2</guid>
+      <pubDate>2026-04-28T23:24:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/29/133831549.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난해 아동학대 의심 신고 대상이 된 아동 수는 4만3050명이며 이 중 두 차례 이상 반복 접수된 아동이 6795명으로 집계됐다. 6명 중 1명꼴로 재학대가 의심된다는 신고가 들어온 셈이다. 1년 새 세 차례 이상 신고가 접수된 아이가 2433명이고, 열 번 넘게 신고가 들어온 아동도 114명이나 됐다. 경찰이 지난해부터 피해 아동을 중심으로 아동학대 반복 신고를 체계적으로 관리하기 시작하면서 확인된 아동학대 재발 실태가 놀랍다. 아동학대 재신고율이 높다는 것은 학대 초기 당국의 개입 과정에서 근본적인 원인을 해결하지 못했거나 사후 모니터링 체계가 부실하다는 방증이다. 아동학대는 대부분 부모에 의해 의사표시가 서툰 아이를 상대로 이뤄지기 때문에 부모가 “훈육이었다”고 주장할 경우 객관적으로 입증하기가 어렵다. 설사 학대 정황이 발견돼도 아동을 최대한 원래 가정에서 보호한다는 ‘원가정 보호 원칙’에 따라 아이가 부모와 살고 싶다고 하면 아이 뜻을 따르게 된다. 여기에 집중적인 관찰</content:encoded>
+    </item>
+    <item>
+      <title>[사설]美 ‘북핵 정보 공유 제한’ 한 달… 이것부터 풀어야</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830665/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830665/2</guid>
+      <pubDate>2026-04-28T23:27:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831255.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정동영 통일부 장관의 북한 핵시설 발언을 문제 삼은 미국의 대북 정보 공유 제한이 벌써 한 달째 이어지고 있다. 미국은 평북 구성에 우라늄 농축 시설이 있다는 정 장관의 언급이 기밀 유출이라며 이달 초부터 자국 위성으로 포착한 북핵 시설 정보를 한국에 제공하는 것을 중단했다. 위성락 국가안보실장이 지난주 “한미가 정상적인 협력 상태로 조속히 돌아가야 한다”고 했지만 양국 간 불협화음이 장기화될 조짐을 보이고 있는 것이다. 이런 정보 단절이 길어지면 정부의 북핵 대응에도 차질이 빚어질 수밖에 없다. 그간 미국은 북한의 우라늄 농축과 플루토늄 생산 시설 등의 변화를 추적한 정보를 전달했고, 우리 정부는 이를 바탕으로 북한의 핵 능력을 평가해 비핵화 정책을 수립하거나 대북 억지 전략을 짜 왔다. 우리 군은 정찰 위성 5기를 운용하고 있지만 240기 이상의 군사 위성을 가동해 실시간으로 북핵 시설을 밀착 감시해 온 미국의 정보 수준을 당장 대체하기도 힘들다. 더욱이 북-러 밀착으로 북한의</content:encoded>
+    </item>
+    <item>
+      <title>[사설]‘33년 적자’ 공무원연금, 개혁 더는 못 미룬다</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260428/133830661/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260428/133830661/2</guid>
+      <pubDate>2026-04-28T23:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/04/28/133831177.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;공무원연금의 적자를 보전하기 위해 지난해에만 9조 원 안팎의 혈세가 투입된 것으로 추정된다. 연금 가입자가 내는 돈보다 퇴직자 등에게 지출한 금액이 훨씬 많아 막대한 적자를 냈기 때문이다. 정부 지출이 해마다 불어나는 상황에서 ‘밑 빠진 독’처럼 혈세를 축내는 공무원연금의 개혁을 더는 미룰 수 없다. 공무원연금은 1993년 적자를 낸 이후 30년 넘게 만성적 ‘적자 늪’에 빠져 있다. 공무원연금 가입자가 1982년부터 2024년까지 약 2배로 늘었지만, 연금을 타는 수급자는 같은 기간 약 186배로 뛰었기 때문이다. 수급자가 전체 가입자 대비 53.8%로 빠르게 불어난 것이다. 이는 막대한 적자로 돌아왔다. 결국 2001년부터 국가가 공무원연금 적자를 보전해 주고 있다. 국회 예산정책처에 따르면 2024년 결산 기준 공무원연금에 보전해 준 나랏돈이 7조4712억 원에 이른다. 그간 공무원연금 개혁 기회가 여러 번 있었다. 정부는 1990년대 들어 연금 수급자가 급격히 증가하자 1</content:encoded>
+    </item>
+    <item>
+      <title>[사설] 공공부문에 ‘공정수당’ 도입… 정책의 역설 경계해야</title>
+      <link>https://www.segye.com/newsView/20260428516251</link>
+      <guid>https://www.segye.com/newsView/20260428516251</guid>
+      <pubDate>2026-04-29T00:02:50.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/28/20260428519435.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  고용노동부는 내년부터 공공부문 2100곳에 종사하는 1년 미만 기간제 근로자에게 ‘공정수당’을 지급하겠다고 어제 국무회의에 보고했다. 계약기간이 1년 미만이면 퇴직금을 주지 않아도 되는 탓에 그간 공공부문에서도 364일, 11개월 등 ‘쪼개기’ 관행이 만연했다. 노동부 조사 결과 공공부문 기간제 중 1년 미만은 50.0%(7만3200명)에 달했고, 특히 쪼</content:encoded>
+    </item>
+    <item>
+      <title>[사설] 맹탕으로 끝난 국조특위, 이러고도 특검 운운하나</title>
+      <link>https://www.segye.com/newsView/20260428516155</link>
+      <guid>https://www.segye.com/newsView/20260428516155</guid>
+      <pubDate>2026-04-29T00:03:20.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/28/20260428519373.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  이른바 ‘정치검찰 조작기소 국정조사’(윤석열 정권 정치검찰 조작기소 의혹사건 진상규명 국정조사)가 어제 종합청문회를 끝으로 사실상 빈손으로 막을 내렸다. 여야는 어제까지 쌍방울 대북 송금 의혹 사건의 핵심 당사자 김성태 전 회장 등을 상대로 질의를 진행했으나 각자의 주장만 반복하며 정치 공방으로 일관했다. 문제는 맹탕으로 끝난 국조도 국조이지만, 여당이 특</content:encoded>
+    </item>
+    <item>
+      <title>[사설] 난장판 경선, 단일화 불복… 교육감 선거 이대론 안 돼</title>
+      <link>https://www.segye.com/newsView/20260428516156</link>
+      <guid>https://www.segye.com/newsView/20260428516156</guid>
+      <pubDate>2026-04-29T00:03:51.000Z</pubDate>
+      <content:encoded>&lt;img src=&quot;//img.segye.com/content/image/2026/04/28/20260428519359.jpg&quot; align=&quot;left&quot; vspace=&quot;10&quot; hspace=&quot;10&quot;&gt;  6·3 지방선거와 함께 치러지는 전국 시도교육감 선거가 이전투구 양상이다. 진보·보수 진영 단일화 과정에서 투표단 참가비 대납 정황이 포착되고, 경선 결과 불복 등의 잡음이 잇따르고 있어서다. 정작 교원이나 학생을 위한 교육정책과 비전은 찾아보기 어렵다. 교육감 선거의 고질적 문제가 올해도 어김없이 되풀이되고 있는 것이다. 교육을 책임지겠다고 나선 후보들이</content:encoded>
+    </item>
+    <item>
+      <title>[사설] 한·미 갈등, 일방주의 아닌 상호 존중 원칙으로 풀어야</title>
+      <link>https://www.khan.co.kr/article/202604290601011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</link>
+      <guid>https://www.khan.co.kr/article/202604290601011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=opinion_news</guid>
+      <pubDate>2026-04-29T06:01:01.000Z</pubDate>
+      <content:encoded>이재명 대통령이 28일 청와대에서 열린 국무회의 겸 비상경제점검회의에서 발언하고 있다. 연합뉴스북한 핵시설 대북정보 유출 논란, 쿠팡 사태 처리를 둘러싼 한·미 간 마찰이 해소되지 않고 있다. 그간 쌓였던 이견이 이들 사안을 계기로 표면화한 측면도 있을 것이다. 동맹인 양국이 상호 존중하는 자세로 소통한다면 이렇게 질질 끌어야 할 이유도 없다.미국 정부와 ···</content:encoded>
+    </item>
+    <item>
+      <title>MBC가 선거개입? 국힘 ‘절윤’ 했는지부터 자문해야</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=334085</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=334085</guid>
+      <pubDate>2026-04-29T08:18:47.000Z</pubDate>
+      <content:encoded>국민의힘이 MBC를 압박하고 나섰다. 국민의힘은 MBC를 향해 ‘선거개입’을 했다고 주장하며 법적·행정적 조치를 포함한 모든 수단으로 책임을 묻겠다고 밝혔다. 사과하지 않을 경우 MBC의 취재를 거부하겠다고도 했다. 발단은 지난 26일 추경호 의원의 국민의힘 대구시장 후보 선정에 관해 논평한 MBC ‘뉴스데스크’의 클로징멘트다. 이날 김초롱 앵커는 “12·3 비상계엄 당시 온 국민이 초조한 마음으로 국회의 계엄 해제 의결을 기다리던 그때 추경호 당시 국민의힘 원내대표가 보여준 모습은 계엄만큼이나 충격적이었다”고 했다. 이어 김경호</content:encoded>
     </item>
   </channel>
 </rss>
