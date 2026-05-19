@@ -3,42 +3,7 @@
     <title>동아일보 - 사람속으로</title>
     <link>https://rss.donga.com/inmul.xml</link>
     <description>동아일보 - 사람속으로</description>
-    <lastBuildDate>2026-05-18T00:32:11.660Z</lastBuildDate>
-    <item>
-      <title>중 ‘당구 신예’ 우이저, 세계스누커선수권 우승</title>
-      <link>https://www.khan.co.kr/article/202605052139015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202605052139015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-05-05T21:39:01.000Z</pubDate>
-      <content:encoded>접전 끝에 베테랑 숀 머피 꺾어중국의 신예 우이저(22·사진)가 세계스누커선수권 정상에 올랐다. 결승 마지막 한 프레임까지 가는 접전 끝에 베테랑 숀 머피를 꺾고 생애 첫 세계 챔피언에 등극했다. 지난해 자오신퉁에 이어 중국 선수의 2년 연속 우승이다.우이저는 5일 영국 셰필드 크루서블 시어터에서 열린 월드 스누커 챔피언십 결승에서 머피를 18-17로 꺾었···</content:encoded>
-    </item>
-    <item>
-      <title>반도체 회로 설계 ‘119시간 → 28.5시간’ 단축</title>
-      <link>https://www.khan.co.kr/article/202605052140005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202605052140005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-05-05T21:40:00.000Z</pubDate>
-      <content:encoded>윤희인·송대건 교수팀, AI 개발수개월씩 걸려 작업하던 고성능 통신 반도체 회로 설계 속도를 비약적으로 높일 수 있는 인공지능(AI) 기술이 개발됐다. 울산과학기술원(UNIST)은 윤희인 전기전자공학과 교수(왼쪽 사진)와 송대건 경북대 교수(오른쪽)팀이 통신 회로인 LC 전압제어 발진기(LC-VCO)를 회로 설계 단계부터 실제 칩에 넣는 물리적 레이아웃까지···</content:encoded>
-    </item>
-    <item>
-      <title>아이유·최강창민·한지민…어린이날 기부 릴레이</title>
-      <link>https://www.khan.co.kr/article/202605052140015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202605052140015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-05-05T21:40:01.000Z</pubDate>
-      <content:encoded>어린이날을 맞아 연예인들의 기부 릴레이가 이어졌다.이담엔터테인먼트는 5일 가수 겸 배우 아이유가 1억원을 기부했다고 밝혔다. 기부금은 ‘한국아동복지협회’ ‘사단법인 전국지역아동센터협의회’에 5000만원씩 전달됐다.아동복지시설에 거주하는 보호아동을 위한 물품 및 의료비 지원, 지역아동센터 아동들의 생일 선물과 문화 체험 지원 등에 사용될 예정이다. 아이유는 ···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고-박은하 경향신문 베이징 특파원 부친상</title>
-      <link>https://www.khan.co.kr/article/202605061017001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202605061017001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-05-06T10:17:00.000Z</pubDate>
-      <content:encoded>■박관봉 전 경기 안양 동안경찰서 평안파출소장 별세, 정맹선씨 배우자상, 박은하 경향신문 베이징 특파원·기훈 디에프에스컴퍼니 과장 부친상=6일 평촌한림대성심병원. 발인 8일 오전 7시 (031)382-5004</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-국토부, 법제처, 개인정보위, 경희의료원 외</title>
-      <link>https://www.khan.co.kr/article/202605061454001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202605061454001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-05-06T14:54:00.000Z</pubDate>
-      <content:encoded>■국토교통부 &amp;#9671;국장급 인사 &amp;#9651;도시정책관 이기봉 &amp;#9651;주거복지정책관 한성수 &amp;#9651;혁신도시발전추진단 부단장 김영한■법제처 &amp;#9671;고위공무원 전보 &amp;#9651;법령정비국장 김진 &amp;#9651;법제정책국장 양미향 &amp;#9651;법제정보지원국장 송상훈 &amp;#9651;법제자문조정관 최성희 &amp;#9651;행정법제국 법제심의관 정해성 &amp;···</content:encoded>
-    </item>
+    <lastBuildDate>2026-05-19T00:36:33.345Z</lastBuildDate>
     <item>
       <title>오늘의 부고-조창현 전 중앙인사위 위원장 별세 외</title>
       <link>https://www.khan.co.kr/article/202605061454011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -159,48 +124,6 @@
       <content:encoded>미국프로야구 애틀랜타 브레이브스의 황금기를 이끈 명장 보비 콕스가 별세했다. 향년 84세.애틀랜타 브레이브스는 10일 구단 성명을 통해 콕스 감독의 사망 소식을 공식 발표했다. 사인은 공개하지 않았다.애틀랜타 구단은 “우리의 소중한 사령탑을 잃었다”라며 “브레이브스 유니폼을 입은 최고의 감독이었다”고 애도했다.콕스 감독은 메이저리그 역사상 가장 꾸준하게 강···</content:encoded>
     </item>
     <item>
-      <title>美, ‘UFO 파일’ 대공개… “달 탐사중 섬광”</title>
-      <link>https://www.donga.com/news/People/article/all/20260511/133895070/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260511/133895070/2</guid>
-      <pubDate>2026-05-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/10/133892184.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 행정부가 8일(현지 시간) 미확인비행물체(UFO) 파일을 대거 공개했다. 다만 미국 정부가 UFO의 존재를 공식 확인한 것은 아니다. 미국 정부는 외계인의 느낌이 강한 UFO 대신 UAP(Unidentified Anomalous Phenomena·미확인 이상 현상)라는 용어를 쓰고 있다. AP통신 등에 따르면 이날 트럼프 행정부는 미 전쟁부(국방부) 웹사이트를 통해 ‘UAP’ 관련 문서 161건을 공개했다. 국방부, 국무부, 연방수사국(FBI), 미 항공우주국(NASA) 등이 수집한 관련 UFO 사진, 영상, 증언 등이 포함됐다. 국방부는 앞으로 몇 주 간격으로 추가 파일을 공개할 예정이다. 트럼프 대통령은 트루스소셜에 “대중의 검토와 연구를 위해 UFO·UAP 파일의 첫 번째 공개분을 내놓았다”고 밝혔다. 이어 “이전 행정부는 이 의제에 투명하지 못했지만, 새로운 문서와 영상들을 통해 국민들이 직접 판단할 수 있을 것”이라며 “즐겁게 감상하라”고 했다.이날</content:encoded>
-    </item>
-    <item>
-      <title>쾅 치자 소주잔 퐁당… 美토크쇼서 ‘소맥’ 건배</title>
-      <link>https://www.donga.com/news/People/article/all/20260511/133895060/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260511/133895060/2</guid>
-      <pubDate>2026-05-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/11/133895059.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국계 미국인 배우 대니얼 대 김(한국명 김대현·58)이 미 NBC방송의 유명 토크쇼 ‘지미 팰런 쇼’에서 소주와 맥주를 섞은 한국식 폭탄주 ‘소맥’을 만들어 마시며 “건배”를 외쳤다. 한국의 술 문화가 미국의 유명 토크쇼 무대에 등장한 것이다. 그는 8일(현지 시간) 이 쇼에 출연해 자신이 성우로 참여한 넷플릭스 애니메이션 ‘케이팝 데몬 헌터스’ 등에 대해 이야기했다. 특히 “내가 자랄 때만 해도 한국인이라는 사실이 지금처럼 ‘멋지게(cool)’ 받아들여지지 않았지만 이제는 완전히 달라졌다”고 강조했다. 한국 가요, 드라마, 음식, 미용 산업 등이 단순한 유행을 넘어 세계적인 문화 현상이 됐다고 덧붙였다. 팰런 또한 “김치를 정말 좋아한다”며 한국 식료품점 ‘H마트’를 자주 찾는다고 밝혔다.대니얼 대 김은 이날 양복 재킷을 벗고 소맥을 직접 제조했다. 특히 맥주잔 위 젓가락에 소주잔을 올린 뒤 테이블을 쳐 소주잔을 퐁당 떨어뜨리는 한국식 방식으로 소맥을 만들었다. 팰런도 이를</content:encoded>
-    </item>
-    <item>
-      <title>공포소설 ‘링’ 작가 스즈키 고지 별세</title>
-      <link>https://www.donga.com/news/People/article/all/20260511/133895064/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260511/133895064/2</guid>
-      <pubDate>2026-05-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/11/133893476.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계적인 인기를 끌었던 일본 공포영화 ‘링’의 원작소설을 쓴 작가 스즈키 고지(鈴木光司·사진)가 세상을 떠났다. 향년 69세. 일본 아시히신문은 “스즈키 작가가 이날 도쿄에 있는 한 병원에서 별세했다”고 8일 전했다. 1957년 시즈오카현에서 태어난 고인은 게이오대 불문과 졸업 뒤 1990년 소설 ‘낙원’으로 데뷔했다. 이듬해 발표한 ‘링’은 1998년 영화로 제작돼 엄청난 화제를 모았으며, 한국(1999년)과 미국(2002년)에서도 리메이크됐다. 특히 머리카락을 늘어뜨린 ‘사다코’가 TV 화면 밖으로 기어나오는 신은 세계 공포영화 사상 가장 충격적인 장면 중 하나로 꼽힌다. 링 3부작으로 불리는 후속작 ‘나선’(1995년)과 ‘링3: 루프’(1998년)도 큰 인기를 끌었다.</content:encoded>
-    </item>
-    <item>
-      <title>트럼프 SNS 업체, 비트코인 투자 등 6000억 손실</title>
-      <link>https://www.donga.com/news/People/article/all/20260511/133895066/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260511/133895066/2</guid>
-      <pubDate>2026-05-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/10/133892468.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 대통령이 만든 소셜미디어 ‘트루스소셜’의 모회사 트럼프미디어앤드테크놀로지그룹(TMTG)이 가상화폐 비트코인의 투자 실패로 막대한 손실을 입었다. 가상화폐 사업에 적극적으로 관여해 온 트럼프 대통령 일가가 하락장 와중에 무리하게 비트코인을 매입한 것이 화근이라는 평가가 나온다. 9일(현지 시간) 블룸버그통신 등에 따르면 TMTG의 올 1분기(1∼3월) 순손실은 4억590만 달러(약 5966억 원)로 집계됐다고 밝혔다. 이 회사는 지난해 비트코인 가격이 급등하던 시기에 대규모 매입에 나섰다. 특히 지난해 7월에는 비트코인을 개당 평균 10만8519달러(약 1억5995만 원)에 사들인 것으로 알려졌다. 하지만 이후 가상화폐 가격이 꾸준히 하락하면서 손실이 불어났다. 10일 오후 8시 기준 비트코인 가격은 8만 달러(약 1억1760만 원) 내외를 기록하고 있다. 올 2월에는 한때 7만 달러(약 1억290만 원) 이하로 떨어졌다. 이 여파로 당시 TMTG 또한 2000</content:encoded>
-    </item>
-    <item>
-      <title>‘블랙핑크’ 리사, 북중미 월드컵 개막식 무대 선다</title>
-      <link>https://www.donga.com/news/People/article/all/20260511/133895068/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260511/133895068/2</guid>
-      <pubDate>2026-05-11T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/11/133893483.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘블랙핑크’ 멤버 리사(사진)가 다음 달 열리는 2026 북중미 월드컵 개막식 무대에 오른다. 미국 뉴욕타임스(NYT) 산하 스포츠 전문 매체 디 애슬레틱은 8일(현지 시간) “리사가 국제축구연맹(FIFA)과 공연 계약을 맺고 6월 12일 월드컵 개막식 공연을 선보인다”고 전했다. 올해 미국과 캐나다, 멕시코 3개국에서 열리는 북중미 월드컵은 개막식도 세 곳에서 열린다. 리사는 미 로스앤젤레스(LA) 소파이 스타디움에서 열리는 미국과 파라과이 개막전에 앞서 케이티 페리와 퓨처, DJ 산조이 등과 함께 공연할 것으로 알려졌다. 캐나다 토론토 BMO필드에서 열리는 개막식엔 마이클 부블레와 얼래니스 모리셋 등이, 멕시코 멕시코시티에 있는 아스테카 스타디움 개막식엔 록밴드 마나와 타일러 등이 출연할 예정이다. K팝 가수가 월드컵 개막식 무대에 서는 건 방탄소년단(BTS) 정국에 이어 두 번째다. 정국은 2022 카타르 월드컵 개막식에서 공식 주제가 ‘드리머스(Dreamers)’를 카타</content:encoded>
-    </item>
-    <item>
-      <title>[부고]길명섭 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260511/133895062/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260511/133895062/2</guid>
-      <pubDate>2026-05-11T04:30:00.000Z</pubDate>
-      <content:encoded>◇길명섭 씨 별세·고영희 씨 남편상·기완 한국딜로이트그룹 총괄대표 기철 여의도성모병원 산부인과 교수 부친상=9일 삼성서울병원, 발인 11일 오전 7시 반 02-3410-3151 ◇김영희 씨 별세·최훈 전 동신대 경영학과 교수(전 한국해양관광학회 회장) 혁 남도역사포럼 대표(전 남도일보 주필) 헌 카자흐스탄 백인교역대표 승 전 카자흐스탄 미요젠 대표 진 전 롯데건설 상무 모친상=9일 광주 국빈장례문화원, 발인 12일 오전 9시 062-606-4000 ◇김화자 씨 별세·박진규 캉가루 대표이사 진우 영예 씨 모친상=10일 서울성모병원, 발인 12일 오전 6시 50분 02-2258-5940 ◇민경자 씨 별세·손영길 KBC 미래전략부장 창현 충북경찰청 경무관 모친상·이홍수 전 광주경찰청 보안과장 장모상=10일 광주 국빈장례문화원, 발인 12일 오전 7시 반 062-606-4000 ◇송자화 씨 별세·이방우 금융감독원 공보실 공보기획팀장 모친상=9일 제주 서귀포시 서광서리복지회관, 발인</content:encoded>
-    </item>
-    <item>
       <title>오늘의 인사-법제처 외</title>
       <link>https://www.khan.co.kr/article/202605111453001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202605111453001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -213,20 +136,6 @@
       <guid>https://www.khan.co.kr/article/202605111454001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-05-11T14:54:00.000Z</pubDate>
       <content:encoded>■송영욱 베트남전 참전 유공자 별세, 혜영씨·효창 LG헬로비전 북인천방송 취재부장 부친상=10일 인천기독병원. 발인 12일 (032)764-5036■김정년씨 별세, 건일 덕일건설 부장·구일 영주91스포츠아카데미 대표·은숙·희숙씨·정숙 KB손해보험KBK대리점 소장·경숙씨 부친상, 안선경 사랑어린이집 원장 시부상, 심기환 전 한국전력공사 경북지역본부 과장·김진···</content:encoded>
-    </item>
-    <item>
-      <title>‘제2회 여주시장배 전국장애인양궁대회‘ 21일 개막</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230853</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230853</guid>
-      <pubDate>2026-05-11T15:08:35.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 ‘제2회 여주시장배 전국장애인양궁대회 겸 2027년 국가대표 2차 선발전’이 오는 21일부터 23일까지 3일간 여주종합운동장에서 개최된다.대한장애인양궁협회와 여주시장애인체육회가 공동 주최하는 이번 대회에는 선수단 106명을 비롯해 임원 25명, 운영 요원 35명, 자원봉사자 50명 등 총 216여 명이 참가한다.참가 선수들은 리커브, 컴파운드, W1 종목에서 그동안 갈고닦은 실력을 바탕으로 치열한 경쟁을 펼칠 예정이다.특히 단순한 지역 스포츠 대회를 넘어 2027년 국가대표 2차 선발전을 겸해 진행되는 만큼</content:encoded>
-    </item>
-    <item>
-      <title>한인 최초 英지방의원 3선 권보라 “길가던 손흥민 팬이 반갑다 외쳐”</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260511/133898279/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260511/133898279/1</guid>
-      <pubDate>2026-05-11T15:26:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/11/133898071.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“풀뿌리 정치는 ‘이념’보다는 ‘문제해결(Problem solving)’이 핵심입니다.”최근 치러진 영국 지방선거에서 한인 출신으로 처음 영국 선출직 3선에 성공한 집권 노동당 소속 권보라 의원은 10일(현지 시간) 동아일보와의 전화 인터뷰에서 당선 비결에 대해 이 같이 말했다. 권 의원은 “항상 예산 부족 속에서 복잡한 문제들에 직면하지만, 최대한 적극적이며 창의적인 방법을 동원해 지역 주민들의 삶의 질 개선에 매달렸다”며 “이런 자세를 통해 영국 사람들의 마음을 얻을 수 있었다”고 말했다. 권 의원은 기업 주재원인 부친을 따라 영국으로 건너와 런던정경대(LSE) 철학심리학과를 졸업했고 패션잡지 기자 등으로 활동했다. 삼성전자 휴대전화에 탑재된 어플리케이션(앱)에 뉴스를 공급하는 에디터로도 일했다. 권 의원은 “방대하고 복잡한 세상을 빠르게 이해하고 정리하는 기술을 기자 생활을 하며 배웠고, 정치에도 큰 도움이 되고 있다”고 말했다. 또 “인공지능(AI) 알고리즘이 뉴스를 공급</content:encoded>
     </item>
     <item>
       <title>유럽 5대 리그 첫 여성 감독 에타, 마인츠 상대로 첫 승리</title>
@@ -311,69 +220,6 @@
       <guid>https://www.donga.com/news/People/article/all/20260512/133902368/2</guid>
       <pubDate>2026-05-12T04:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133900216.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;육군 특수전사령부 예하 귀성부대 소속 중사가 차량 화재 현장에서 의식을 잃은 운전자를 구조한 사실이 뒤늦게 알려졌다. 11일 육군에 따르면 귀성부대 소속 노찬영 중사(25·사진)는 1일 오전 1시 25분경 휴가를 마치고 택시를 타고 부대로 복귀하던 중 인천 남동구 운연동의 한 도로변에 주차된 차량에서 연기가 나는 모습을 발견했다. 노 중사는 즉시 택시에서 내려 차량으로 달려갔다. 당시 운전석 주변에는 이미 불이 붙어 있었고, 조수석에는 중년 남성 1명이 의식을 잃은 채 앉아 있었다. 노 중사는 곧바로 차량 문을 열고 남성을 밖으로 끌어낸 뒤 안전한 곳으로 대피시켰다. 구조된 남성은 119구급대에 의해 병원으로 이송됐고, 연기를 흡입했지만 생명에는 지장이 없는 상태인 것으로 전해졌다.</content:encoded>
-    </item>
-    <item>
-      <title>새 금통위원 후보에 김진일 교수</title>
-      <link>https://www.donga.com/news/People/article/all/20260512/133902364/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260512/133902364/2</guid>
-      <pubDate>2026-05-12T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133902123.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전국은행연합회는 12일 임기가 만료되는 신성환 한국은행 금융통화위원 후임으로 김진일 고려대 경제학과 교수(59·사진)를 추천했다고 11일 밝혔다. 김 교수는 서울대 경제학과를 졸업하고 미국 예일대에서 박사 학위를 받았다. 2003∼2010년 미국 연방준비제도(Fed)에서 선임 경제학자로도 활동했다. 임기는 4년.</content:encoded>
-    </item>
-    <item>
-      <title>“일본인이냐 묻던 英사람들, 이젠 한국인 반겨”</title>
-      <link>https://www.donga.com/news/People/article/all/20260512/133902370/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260512/133902370/2</guid>
-      <pubDate>2026-05-12T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133900220.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“풀뿌리 정치는 ‘이념’보다는 ‘문제 해결(Problem solving)’이 핵심입니다.” 최근 치러진 영국 지방선거에서 한인 출신으로 처음 영국 선출직 3선에 성공한 집권 노동당 소속 권보라 의원(사진)은 10일(현지 시간) 동아일보와의 전화 인터뷰에서 당선 비결에 대해 이같이 말했다. 권 의원은 “항상 예산 부족 속에서 복잡한 문제들에 직면하지만, 최대한 적극적이며 창의적인 방법을 동원해 지역 주민들의 삶의 질 개선에 매달렸다”며 “이런 자세를 통해 영국 사람들의 마음을 얻을 수 있었다”고 말했다. 권 의원은 기업 주재원인 부친을 따라 영국으로 건너와 런던정경대(LSE) 철학심리학과를 졸업했고 패션잡지 기자 등으로 활동했다. 삼성전자 휴대전화에 탑재된 애플리케이션(앱)에 뉴스를 공급하는 에디터로도 일했다. 권 의원은 “방대하고 복잡한 세상을 빠르게 이해하고 정리하는 기술을 기자 생활을 하며 배웠고, 정치에도 큰 도움이 되고 있다”고 말했다. 또 “인공지능(AI) 알고리즘이</content:encoded>
-    </item>
-    <item>
-      <title>‘온드림 글로벌 아카데미’ 수료-입학식</title>
-      <link>https://www.donga.com/news/People/article/all/20260512/133902361/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260512/133902361/2</guid>
-      <pubDate>2026-05-12T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/12/133900234.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최재호 현대차 정몽구 재단 사무총장(뒷줄 가운데 왼쪽)과 이재승 고려대 일민국제관계연구원 원장(뒷줄 가운데 오른쪽)이 온드림 글로벌 아카데미 9기 수료생들 및 10기 입학생들과 8일 서울 성북구 고려대에서 진행된 수료식 및 입학식에서 기념사진을 찍고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>[부고]국매희 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260512/133902359/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260512/133902359/2</guid>
-      <pubDate>2026-05-12T04:30:00.000Z</pubDate>
-      <content:encoded>◇국매희 씨 별세·양홍 웅 씨 보경 성신여대 지리학과 명예교수(동해연구회 이사) 혜경 선경 씨 모친상=11일 서울대병원, 발인 13일 오전 4시 반 02-2072-2010 ◇김기온 씨 별세·종혁 부국증권 금융솔루션부문 전무 부친상=10일 경남 밀양농협장례식장, 발인 12일 오전 8시 반 055-355-8525 ◇송영욱 베트남전 참전유공자 별세·김영숙 씨 남편상·혜영 씨 효창 LG헬로비전 북인천방송 취재부장 부친상=10일 인천기독병원, 발인 12일 오전 9시 032-270-8490 ◇이점순 씨 별세·차경엽 미원 미란 씨 용현 뉴시스 경남취재본부 부장 미영 씨 모친상=10일 경남 남해병원, 발인 12일 오전 7시 20분 055-863-5444 ◇정성채 전 삼미의원 원장 별세·이명혜 내과 전문의 모친상·이선호 신경외과 전문의 장모상=9일 서울성모병원, 발인 12일 오전 7시 반 02-2258-5940</content:encoded>
-    </item>
-    <item>
-      <title>밀알복지재단, 장애인근로자·한국남동발전 ‘플라워 랜드마크 조성사업’ 진행</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230869</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230869</guid>
-      <pubDate>2026-05-12T11:35:01.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】밀알복지재단이 한국남동발전 분당발전본부와 지역사회 환경개선을 위한 ‘장안타운 건영2차 아파트 플라워 랜드마크 조성사업’을 진행했다고 12일 밝혔다.지역상생협의체 안건을 바탕으로 추진된 이번 사업은 노후화된 아파트 외부 공간을 개선해 주민들에게 쾌적한 생활환경을 제공하고 지역사회 경관을 개선하기 위해 기획됐다.사업 대상지는 경기도 성남시 장안타운 건영2차 아파트 내 노후 분수대 주변 공간으로, 플라워가든과 조경 시설을 조성해 주민들이 일상 속에서 자연을 즐길 수 있는 공간으로 새롭게 단장했다. 특히 이번 사업</content:encoded>
-    </item>
-    <item>
-      <title>한국장총·KB국민은행, 신입 장애대학생 132명에 노트북 전달</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230874</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230874</guid>
-      <pubDate>2026-05-12T11:36:02.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인단체총연맹(이하 한국장총)이 지난 11일 여의도 이룸센터 이룸홀에서 올해 대학에 입학한 신입 장애대학생 132명에게 최신형 노트북을 전달했다. 이날 행사에는 신입 장애대학생과 가족, 대학 장애학생지원센터 관계자, 후원기관인 KB국민은행 관계자 등 200여 명이 참석해 새로운 출발을 응원했다.최근 대학생활에서 노트북은 단순한 학습기기를 넘어 강의 수강과 과제 수행, 정보 접근, 자기계발, 진로 준비까지 이어가는 필수적인 학습 환경으로 자리 잡고 있다. 특히 최근 노트북 가격 상승으로 경제적 부담이 커</content:encoded>
-    </item>
-    <item>
-      <title>지장협, &apos;제39회 전국장애인종합예술제&apos; 작품 공모‥8월 14일까지</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230878</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230878</guid>
-      <pubDate>2026-05-12T13:28:19.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국지체장애인협회(지장협)가 오는 8월 14일까지 ‘제39회 전국장애인종합예술제’ 작품을 공모한다.지장협은 장애예술인을 발굴하고 장애인에 대한 사회적 인식을 개선하기 위해 매년 ‘전국장애인종합예술제’를 개최해오고 있다.올해로 39회째를 맞는 ‘전국장애인종합예술제’는 서양화, 동양화, 서예, 발달장애(그림), 시, 사진 6개 부문으로 진행되며 전국의 등록 장애인 및 장애인 가족은 누구나 신청할 수 있다.응모 신청은 지장협 홈페이지 공지사항 ‘제39회 전국장애인종합예술제 참가 안내’를 통해 신청서를 내려받아 작</content:encoded>
-    </item>
-    <item>
-      <title>‘장애인권리보장법’ 제정, 장애인 정책 패러다임 전환 가장 중요한 입법 성과</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230877</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230877</guid>
-      <pubDate>2026-05-12T13:28:23.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 한국장애인인권포럼 부설 장애인정책모니터링센터(이하 모니터링센터)는 ‘장애인권리보장법’ 제정이 장애인 정책의 패러다임을 전환하는 가장 중요한 입법적 성과라고 평가했다.모니터링센터는 올해 3월과 4월 두 달간 국회 장애 관련 법률안 101건을 발췌해 분석한 결과를 12일 발표했다. 이번 모니터링은 3~4월 국회에 발의된 1, 312건 중 장애 관련 법률로 발췌된 장애인법 및 장애포괄법 101건을 대상으로 진행됐다.분석 결과 101건 중 ‘장애인법’은 27건, ‘장애포괄법’은 73건으로 분류(1건은 장애인학대 국</content:encoded>
-    </item>
-    <item>
-      <title>보건복지부, ‘지역장애아동지원센터’ 울산부터 전국 순차 개소</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230883</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230883</guid>
-      <pubDate>2026-05-12T14:48:01.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 보건복지부(장관 정은경)는 전국 17개 시도에 장애아동을 지원하는 지역장애아동지원센터 설치를 추진한다고 12일 밝혔다.지역장애아동지원센터는 ‘장애아동 복지지원법’에 근거한 장애아동 지원을 위한 광역 단위 거점기관으로 개인별 지원계획 수립, 영유아 조기개입 및 장애아동지원 연계망 구축 등 장애아동과 가족에게 필요한 서비스를 연계·지원하는 업무를 수행하게 된다.특히 장애아동지원센터는 발달 지연 및 장애위험군 영유아를 조기에 발견하고 지역 내 다양한 기관과 협력하여 지속적인 지원 환경을 구축하는 데 중점을 두고</content:encoded>
     </item>
     <item>
       <title>오늘의 부고-배우 최지우 부친상 외</title>
@@ -796,6 +642,13 @@
       <content:encoded>배우 김영옥씨의 남편이자 전 KBS 아나운서인 김영길씨가 17일 오전 별세했다. 향년 88세.고인은 1959년 KBS 춘천방송국 5기 아나운서로 입사해 CBS 아나운서실장, 보도부장, 방송부장 등을 지냈다. 언론 통폐합으로 KBS로 돌아와 이곳에서 정년퇴직했다.김영옥씨와 고인은 중앙대학교에서 처음 인연을 맺은 뒤 KBS 춘천방송국에서 아나운서로 함께 근무했···</content:encoded>
     </item>
     <item>
+      <title>[알립니다]AI 대전환 시대… 새로운 기회 맞는 에너지-건설산업</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260517/133938848/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260517/133938848/2</guid>
+      <pubDate>2026-05-18T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133940362.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 기술의 급속한 확산이 한국 산업의 구조 전반을 재편하고 있습니다. 이런 가운데 건설 산업은 AI 대전환을 뒷받침하는 핵심 산업으로 떠오르고 있습니다. 데이터센터와 전력망, 신재생에너지 설비 등 AI 관련 인프라 수요가 급증하면서 건설 기업 역시 단순 시공을 넘어 기획·개발·운영을 아우르는 통합 디벨로퍼로 진화해 나가고 있습니다.  이에 동아일보와 채널A는 ‘AI 대전환 시대의 에너지 인프라와 건설산업의 새로운 기회’를 주제로 제47회 동아모닝포럼을 개최합니다. 변화하는 시장 환경 속에서 에너지와 건설의 융합이 만들어내는 비즈니스 기회를 조망하고 기업의 대응 전략과 정책 방향을 모색하는 자리입니다. 여러분의 많은 관심과 참여를 바랍니다.● 일시: 5월 19일(화) 오전 7시 45분∼9시 30분● 장소: 서울 중구 을지로 롯데호텔 2층 에메랄드룸● 주최: 동아일보·채널A● 신청: 홈페이지를 통한 참가 신청 (참가비 11만 원)● 홈페이지: www.dongain</content:encoded>
+    </item>
+    <item>
       <title>장애인 골퍼 이승민, 메이저급 3개 대회 석권</title>
       <link>https://www.donga.com/news/People/article/all/20260518/133939960/2</link>
       <guid>https://www.donga.com/news/People/article/all/20260518/133939960/2</guid>
@@ -843,6 +696,153 @@
       <guid>https://www.donga.com/news/People/article/all/20260518/133939947/2</guid>
       <pubDate>2026-05-18T04:30:00.000Z</pubDate>
       <content:encoded>◇권대식 씨 별세·병기 보건복지부 건강보험정책국장 부친상=서울 강동경희대병원, 발인 19일 오전 6시 02-440-8800 ◇김영길 전 KBS 아나운서 별세·김영옥 배우 남편상=17일 서울성모병원, 발인 19일 오전 8시 02-2258-5940 ◇김정빈 씨 별세·경호 씨(가수) 부친상=17일 광주 서구 VIP장례타운, 발인 19일 오전 8시 30분 062-521-4444 ◇조일현 전 국회의원 별세·이원주 씨 남편상·영웅 은경 씨 부친상=18일 서울성모병원, 발인 20일 오전 5시 02-2258-5979 ◇최영자 씨 별세·김민철 제너시스BBQ그룹 커뮤니케이션실 상무 승희 서울남부초병설유치원 원감 모친상·박진석 김앤장법률사무소 고문 장모상·이미영 씨 시모상=16일 서울 은평성모병원, 발인 19일 오전 7시 02-2030-4444</content:encoded>
+    </item>
+    <item>
+      <title>영등포구, ‘장애인 정보통신 보조기기’ 최대 90% 지원</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230974</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230974</guid>
+      <pubDate>2026-05-18T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 서울 영등포구(구청장 최호권)가 디지털 기기 활용에 어려움을 겪는 장애인의 정보 접근성을 높이고 보다 편리한 일상생활을 지원하기 위해 ‘정보통신 보조기기 보급 사업’을 추진한다고 18일 밝혔다.과학기술정보통신부, 서울특별시와 공동으로 진행하는 이번 사업은 장애 유형에 적합한 보조기기 구매 비용을 지원해 정보격차를 해소하고 생활 편의를 높이기 위해 마련됐다.지원 대상은 ‘장애인복지법’에 따라 등록된 장애인과 ‘국가유공자 등 예우 및 지원에 관한 법률’에 따른 상이등급 판정자다. 보급 품목은 시각, 청각‧언어,</content:encoded>
+    </item>
+    <item>
+      <title>학교 휠체어 접근성 선생님·학생이 함께 조사, ’모모탐사대 시즌2’ 본격 출범</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230962</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230962</guid>
+      <pubDate>2026-05-18T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】 턱없는 세상을 만드는 사단법인 무의가 실천교육교사모임, 함께하는장애인교원노동조합과 함께 ‘모모탐사대: 모두의 학교 X 모두의1층’ 시즌2 추진을 위한 업무협약을 체결하고, 장애접근성 조사 활동을 할 전국 초중고등학교를 모집한다고 18일 밝혔다.‘모모탐사대’는 학생과 교사가 직접 학교 내 휠체어 접근성 데이터를 수집하는 실천형 교육이자 시민 참여 프로젝트이다.학교별 휠체어 접근성 정보를 찾기 어렵다는 문제의식에서 시작되어 학교 장애접근성을 학교나 교육청 홈페이지 등에서 쉽게 찾아볼 수 있는 정책을 촉구하는</content:encoded>
+    </item>
+    <item>
+      <title>용산구, ‘장애인 가정 출산지원금’ 최대 170만원 지원</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230972</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230972</guid>
+      <pubDate>2026-05-18T10:53:22.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 서울 용산구(구청장 박희영)가 장애인 가정의 경제적 부담을 덜고 안정적인 양육 환경을 지원하기 위해 ‘2026년 장애인 가정 출산지원금 지원사업’을 추진한다고 18일 밝혔다.이번 사업은 비장애인에 비해 임신·출산·양육 과정에서 상대적으로 더 어려움을 겪는 장애인 가정을 지원함으로써 출산 친화적 환경을 만들고 가족의 생활 안정을 돕기 위해 마련됐다.지원 대상은 신생아 출생일 기준 3개월 전부터 용산구에 주민등록을 두고 거주 중인 등록장애인(부 또는 모)이다.지원금은 장애 정도에 따라 차등 지급된다. ‘장애 정</content:encoded>
+    </item>
+    <item>
+      <title>밀알복지재단, ‘IBK드림윙즈 : 작업의 순간들’ 전시회 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230981</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230981</guid>
+      <pubDate>2026-05-18T13:40:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 밀알복지재단은 IBK기업은행과 함께 오는 6월 5일까지 서울 중구 IBK기업은행 본사 1층 로비에서 ‘IBK드림윙즈 : 작업의 순간들’ 전시회를 개최한다.‘IBK드림윙즈’는 성인 발달장애인의 전문 예술인 성장을 지원하는 문화예술 사회공헌 프로젝트로 2023년부터 밀알복지재단이 IBK기업은행과 공동으로 운영 중이다. 재능 있는 성인 발달장애인을 발굴해 전문 미술교육과 전시 기회를 제공하며, 예술 활동을 통한 사회·경제적 자립을 지원하는 것이 목표다.올해로 세 번째를 맞는 이번 프로젝트에서는 전국 단위로 참여</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고-이규종 전 KBS 보도영상국장 모친상 외</title>
+      <link>https://www.khan.co.kr/article/202605181516001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202605181516001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-05-18T15:16:00.000Z</pubDate>
+      <content:encoded>■윤복순씨 별세, 이규종 전 KBS 보도영상국장 모친상=18일 이대서울병원. 발인 20일 (02)6986-4440■신문수씨 별세, 이태수·은경·윤경씨 모친상, 이로물로 가톨릭 평화방송 및 평화신문 미디어본부장 장모상=18일 강남세브란스병원. 발인 20일 (02)2019-4000■장용선씨 별세, 최병록·병선씨·병호 법무법인 태평양 변호사·경옥·인옥씨 모친상=···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사-문화체육관광부 외</title>
+      <link>https://www.khan.co.kr/article/202605181516011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202605181516011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-05-18T15:16:01.000Z</pubDate>
+      <content:encoded>■문화체육관광부 &amp;#9671;국장급 채용 &amp;#9651;감사관 남가영■한국방송광고진흥공사 &amp;#9671;상임이사 &amp;#9651;전무이사 엄정환 &amp;#9651;광고영업본부장 오철현 &amp;#9651;광고진흥본부장 양홍선 &amp;#9651;경영혁신본부장 조상형■동양생명 &amp;#9671;팀장 승진 &amp;#9651;대외협력팀장 현승재■뉴데일리 &amp;#9651;군사&amp;#12685;우주전문기자(부···</content:encoded>
+    </item>
+    <item>
+      <title>장애인스타발굴프로젝트 ‘제11회 이음가요제’ 6월 24일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230983</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230983</guid>
+      <pubDate>2026-05-18T16:18:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】문화체육관광부(장관 최휘영)와 한국장애인문화예술원(이사장 방귀희)이 후원하고 빛된소리글로벌예술협회(이사장 배은주)가 주최하는 ‘장애인스타발굴프로젝트 제11회 이음가요제’가 오는 6월 24일 오후 4시 마곡 NSP홀에서 개최된다.올해로 11회차를 맞이한 이음가요제는 장애 예술인을 대중음악인으로 발굴하고 육성하는 데 이바지해 왔으며 이음가요제를 통해 대중문화예술 진출 기회와 대중가수로서의 길을 열어주고자 기획돼 11년째 진행하고 있는 신진 대중예술가 육성 프로젝트다.지원 분야는 가요이며 참가자격은 음악 분야에 재</content:encoded>
+    </item>
+    <item>
+      <title>코스피 7천 시대, 장애인 금융접근성 제자리‥“배제 없는 금융환경 구축”</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=230982</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=230982</guid>
+      <pubDate>2026-05-18T16:19:08.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】국내 증시 활황으로 자산 형성에 대한 관심이 높아지고 있지만, 장애인의 금융서비스 이용 환경은 여전히 디지털 금융환경 변화에서 배제되고 있는 것으로 나타났다.한국장애인단체총연맹(한국장총)은 장애인의 금융서비스 이용 실태와 개선 과제를 담은 ‘장애인정책리포트 제467호 - 코스피 7천 시대, 장애인의 금융 접근성 제대로 보장받고 있나’를 발간했다고 18일 밝혔다.이번 리포트는 주식 투자와 비대면 금융거래 등 일상적인 금융생활 과정에서 장애인이 겪는 어려움과 개선 방향, 해외 사례 등을 ‘제1회 장애인아고라’</content:encoded>
+    </item>
+    <item>
+      <title>양손 장갑의 기적… 인도 노동자 아들 애런 라이,  PGA챔피언십서 생애 첫 메이저 우승</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133943576/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133943576/1</guid>
+      <pubDate>2026-05-18T16:54:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133945031.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인도 출신 아버지와 케냐 출신 어머니 사이에서 태어난 잉글랜드 골퍼 애런 라이(31)의 별명은 ‘미스터 양손 장갑(Mr. Two Gloves)’이다. 라이는 “나는 노동자 계급 가정에서 자랐고, 내 고향 울버햄튼은 겨울에 아주 추웠다. 겨울철 연습할 때 손을 따뜻하기 위해 양손에 장갑을 낀 게 지금까지 이어지고 있다”고 했다. 프로 골퍼로는 이례적으로 양손 장갑을 쓰는 라이가 18일 미국프로골프(PGA)투어 시즌 두 번째 메이저대회 PGA챔피언십 정상에 오르며 ‘인간 승리’ 드라마를 썼다. 대회 전 세계랭킹 44위였던 라이는 이날 미국 펜실베이니아주 뉴타운 스퀘어의 애러니밍크 골프 클럽(파70)에서 열린 대회 마지막 날 4라운드에서 이글 1개, 버디 6개, 보기 3개로 5언더파 65타를 쳤다. 최종 합계 9언더파 271타를 적어낸 라이는 메이저대회를 두 차례 제패했던 욘 람(32·스페인·공동 2위)과 로리 매킬로이(37·북아일랜드·공동 7위) 등 스타 선수들을 모두 따돌리고 우승했다</content:encoded>
+    </item>
+    <item>
+      <title>가디언 선정 ‘세계 100대 영어 소설’ …한강 소설 ‘채식주의자’ 85위 뽑혔다</title>
+      <link>https://www.khan.co.kr/article/202605182025015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202605182025015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-05-18T20:25:01.000Z</pubDate>
+      <content:encoded>작가 한강(사진)의 &amp;lt;채식주의자&amp;gt;가 영국 가디언이 선정한 세계 100대 영어 소설 목록에 포함됐다. 아시아 국적 작가로는 유일하다.16일(현지시간) 가디언이 공개한 목록에 따르면 한강의 &amp;lt;채식주의자&amp;gt;는 85위에 선정됐다. 가디언은 “일련의 잔혹한 꿈을 꾼 뒤 육식을 거부하게 된 한 여성의 이야기를 중심으로 전개되는 3부작 소설”이라며 ···</content:encoded>
+    </item>
+    <item>
+      <title>초대 국가유산위원장에 전봉희 교수</title>
+      <link>https://www.khan.co.kr/article/202605182026005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202605182026005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-05-18T20:26:00.000Z</pubDate>
+      <content:encoded>문화·자연·무형유산 통합 자문전통 건축문화 연구의 권위자인 전봉희 서울대 건축학과 교수(사진)가 새롭게 출범한 국가유산위원회의 초대 위원장으로 선출됐다. 문화유산·자연유산·무형유산으로 나뉘어 있던 체계를 하나로 통합한 이후 처음 구성된 위원회를 이끌게 된 것이다.국가유산청은 지난 15일 제1대 국가유산위원회 전체회의를 열고 위원 134명과 전문위원 239명···</content:encoded>
+    </item>
+    <item>
+      <title>‘의원내각제 첫 수상’ 꿈꿨던 조일현 전 국회의원 별세</title>
+      <link>https://www.khan.co.kr/article/202605182026025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202605182026025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-05-18T20:26:02.000Z</pubDate>
+      <content:encoded>조일현 전 국회의원이 17일 별세했다. 향년 71세. 의원내각제 첫 ‘수상’을 꿈꾼 정치인이었다. 여러 정당을 오가며 제12대 총선부터 제22대 총선까지 총선만 연달아 열한 번 출마한 정치인이기도 하다.고인은 1955년 7월15일 강원 홍천군에서 화전민 아들로 태어났다. 초등학교 4학년 때 학교 앞 다리를 국회의원이 놓아 주었다는 말에 감동하여 국회의원이 ···</content:encoded>
+    </item>
+    <item>
+      <title>아버지 그리며… ‘양손 장갑 골퍼’ PGA 우승</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947713/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947713/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133945611.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인도 출신 아버지와 케냐 출신 어머니 사이에서 태어난 잉글랜드 골퍼 에런 라이(31)의 별명은 ‘미스터 양손 장갑(Mr. Two Gloves)’이다. 라이는 “나는 노동자 계급 가정에서 자랐고, 내 고향 울버햄프턴은 겨울에 아주 추웠다. 겨울철 연습할 때 손을 따뜻하게 하기 위해 양손에 장갑을 낀 게 지금까지 이어지고 있다”고 했다. 프로 골퍼로는 이례적으로 양손에 장갑을 끼는 라이가 18일 미국프로골프(PGA)투어 시즌 두 번째 메이저대회 PGA챔피언십 정상에 오르며 ‘인간 승리’ 드라마를 썼다.대회 전 세계랭킹 44위였던 라이는 이날 미국 펜실베이니아주 뉴타운스퀘어의 애러니밍크 골프 클럽(파70)에서 열린 대회 마지막 날 4라운드에서 이글 1개, 버디 6개, 보기 3개로 5언더파 65타를 쳤다. 최종 합계 9언더파 271타를 적어낸 라이는 메이저대회를 두 차례 제패했던 욘 람(32·스페인·공동 2위)과 로리 매킬로이(37·북아일랜드·공동 7위) 등 스타 선수들을 모두 따돌리고</content:encoded>
+    </item>
+    <item>
+      <title>‘택배분류 대결’… 사람이 10시간은 로봇 이겼다</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947709/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947709/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133945608.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 실리콘밸리에서 인간과 휴머노이드(인간형) 로봇의 대결이 벌어졌다. 미국 휴머노이드 로봇 기업 피겨AI는 17일(현지 시간) 유튜브를 통해 자사 로봇 ‘피겨03’과 인간의 택배 분류 작업 대결을 생중계했다. 10시간 동안 진행된 대결의 승리는 간발의 격차로 ‘인간 인턴’에게 돌아갔다. 17일 오전 10시부터 오후 8시까지 총 10시간 동안 진행된 인간과 휴머노이드 로봇의 대결에서 사람은 총 1만2924개, 피겨03은 1만2734개를 분류했다. 단 190개 차이였다. 초반에는 인간 인턴이 압도적으로 빠른 속도였지만 중간중간 지친 모습으로 물을 마시고, 화장실도 다녀오고, 저녁 식사차 쉬기도 하면서 격차가 좁혀졌다. 인간과 피겨03의 대결을 생중계한 유튜브 채널에는 “시간만 좀 더 있었으면 로봇이 이겼을 듯”, “밥도 안 먹고 쉬지도 않는데 로봇이 진 게 더 신기하다”는 댓글이 달리기도 했다.피겨AI는 휴머노이드 로봇의 택배 분류 작업을 라이브로 생중계하고 있다. 처음에는 8시간</content:encoded>
+    </item>
+    <item>
+      <title>KAIST “10년후 실패할 아이디어 공모합니다”</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947725/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947725/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133944035.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;KAIST 실패연구소는 인공지능(AI)이 일상화된 사회에서 발생할 수 있는 실패와 위험 요소를 탐구하기 위해 ‘2026 AIX실패 아이디어 공모전’을 개최한다고 18일 밝혔다. KAIST 실패연구소는 2021년 이광형 KAIST 총장 취임 이후 실패를 자산화해야 창의적인 연구와 새로운 성공 사례가 나올 수 있다는 취지로 설립된 조직이다. 올해 2회째를 맞은 공모전 주제는 ‘2036년, 우리는 왜 실패했는가? 미래에서 온 오답 노트를 써주세요’다. 참가자들은 AI가 사회 전반에 깊숙이 자리 잡은 2036년에 발생할 수 있는 AI로 인한 실패 사례와 원인을 가정해 보는 사고 실험에 참여하게 된다. 예를 들어 AI 의존으로 인간의 판단력이 약해진 상황을 가정한 뒤 왜 이런 실패가 발생했는지를 되짚어 보는 방식이다. 이번 공모전에는 누구나 참여할 수 있다. 참가자는 △예견된 실패 △원인 진단 △대응 방안 등 3단계 구조에 맞춰 한 페이지 분량의 제안서를 제출하면 된다. 공모전 접수는 1</content:encoded>
+    </item>
+    <item>
+      <title>한강 ‘채식주의자’, 英가디언 ‘100대 영어소설’ 85위</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947719/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947719/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133944556.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한강 작가의 소설 ‘채식주의자’가 영국 일간 가디언이 발표한 ‘세계 100대 영어 소설(The 100 best novels written in English)’에 포함됐다. 이번 목록에 포함된 소설 가운데 유일한 아시아 국적 작가의 작품이다. 가디언이 16일(현지 시간) 공개한 최고의 소설 100선에 따르면 한 작가의 채식주의자는 85위를 차지했다. 이번 순위 선정은 영어로 출간된 소설만 대상으로 했으며, 작가와 평론가, 학자 등 172명이 참여했다. 가디언은 작품을 소개하며 한 작가에 대해 “데버러 스미스의 번역을 통해 서구 독자들에게 소개된 한국 작가”라며 “채식주의자로 2016년 인터내셔널 부커상을 받았고, 2024년 노벨 문학상을 수상했다”고 설명했다. 신문이 선정한 100대 영어 소설에서 1위는 영국 빅토리아 시대 작가 조지 엘리엇의 1871년작 ‘미들마치’가 차지했다. 토니 모리슨의 ‘빌러비드’와 제임스 조이스의 ‘율리시스’, 버지니아 울프의 ‘등대로’, 마르셀 프루스</content:encoded>
+    </item>
+    <item>
+      <title>고려대-케임브리지 학술협력 MOU</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947723/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947723/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/19/133948205.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고려대가 영국 케임브리지대와 학술 협력을 위한 양해각서(MOU)를 체결했다고 18일 밝혔다. 이번 MOU를 통해 고려대는 케임브리지대와 향후 5년간 과학·기술·공학·수학(STEM) 분야와 인문·사회과학 분야 등에서 융복합 연구를 진행한다. 두 대학은 공동 연구 의제를 발굴해 프로젝트를 기획하고, 성과까지 교류하는 공동 포럼을 매년 개최할 예정이다. 양교는 이번 협약서에 사상의 자유와 표현의 자유를 핵심 공유 가치로 명시하고, 지식 교류는 물론이고 인류 사회에 기여하는 연구 성과를 함께 만들어 가기로 했다. 13일(현지 시간) 케임브리지대에서 데버라 프렌티스 총장을 만나 협약을 체결한 김동원 고려대 총장은 “양교의 협력이 인류가 직면한 주요 과제 해결에 실질적으로 기여하길 기대한다”고 말했다.</content:encoded>
+    </item>
+    <item>
+      <title>[라운지](사)백봉정치문화교육연구원</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947715/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947715/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>(사)백봉정치문화교육연구원(이사장 라종일)은 제3회 백봉한반도문화상 공동수상자로 한국행정학회 남북통합문화운영위원회 김태영 위원장, 심영미 부위원장을 18일 선정했다. 시상식은 21일 오후 3시 서울 중구 장충동 서울클럽에서 열린다.</content:encoded>
+    </item>
+    <item>
+      <title>[인사]문화체육관광부 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947721/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947721/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>◇문화체육관광부 △감사관 남가영 ◇한국방송광고진흥공사 △전무이사 엄정환 △광고영업본부장 오철현 △광고진흥〃 양홍선 △경영혁신〃 조상형</content:encoded>
+    </item>
+    <item>
+      <title>[부고]박문단 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260518/133947717/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260518/133947717/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>◇박문단 씨 별세·고원식 씨 성철 스포츠동아 경기북부 본부장 모친상·무성 CBS경인본부 차장 상준 삼성물산(건설 부문) 부장 상훈 경남 밀양병원 내과 과장 조모상=17일 삼육서울병원, 발인 19일 오전 5시 45분 02-2215-4444 ◇윤복순 씨 별세·이규종 전 KBS 보도영상국장 모친상=18일 이대서울병원, 발인 20일 오전 6시 45분 02-6986-4440 ◇황순철 씨 별세·창근 동아일보 오류남부독자센터 사장 위남 미영 씨 부친상·박종훈 유영수 씨 장인상·조은주 씨 시부상=17일 경북 영주시 명품장례문화원, 발인 19일 오전 11시 20분 054-634-4444</content:encoded>
+    </item>
+    <item>
+      <title>때타지 않는 화사한 북커버… 독서에 즐거움-애착 더했다</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260518/133923660/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260518/133923660/2</guid>
+      <pubDate>2026-05-19T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/18/133923656.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“이런 북커버와 함께라면 하루 종일 책을 읽을 수 있겠어요.” 동아일보의 인스타그램 매거진 ‘몰댄룩’이 북커버 굿즈를 출시하면서 독자 경험 확장에 나섰다. 몰댄룩의 주요 독자층이 문화 및 예술 활동을 즐기는 20∼30대인 점을 감안해 독자들의 독서와 텍스트 소비 경험에 다채로움을 더하기 위해 북커버를 출시한 것. 은은한 파스텔컬러와 부드러운 패턴들이 어우러진 북커버는 봄의 화사한 느낌을 그대로 담고 있다. 이번 굿즈는 몰댄룩과 ‘패치파이’의 컬래버레이션 제품이다. 패치파이는 ‘잊힌 조각들, 일상의 보물이 되다’라는 슬로건 아래 운영되는 브랜드로 옷을 만드는 과정에서 생기는 자투리 원단을 활용한 패브릭 제품을 판매하고 있다. 몰댄룩의 북커버 또한 업사이클링 제품으로 만들어져 친환경적 가치를 더했다. 다양한 열쇠고리를 걸 수 있는 키링걸이, 활용도 높은 펜꽂이와 포켓 등 사용자의 편의를 고려한 디테일도 눈에 띈다. 모든 제품은 종로구 창신동의 40년 경력 봉제 장인과 함께 수제로 제</content:encoded>
     </item>
   </channel>
 </rss>
