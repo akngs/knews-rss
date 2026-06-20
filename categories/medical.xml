@@ -3,196 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-06-19T00:48:59.061Z</lastBuildDate>
-    <item>
-      <title>효성, 서울 도심에 30MW 규모 AI 데이터센터 ‘STT 서울 1’ 개관</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134129790/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134129790/1</guid>
-      <pubDate>2026-06-17T15:50:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134129856.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;효성이 서울 시내에 30MW 전력 규모의 데이터센터를 개관하며 AI 시대 핵심인프라인 데이터 센터 사업에 본격적으로 뛰어들었다.   효성은 유럽의 데이터센터 운영 기업 STT GDC와 공동으로 설립한 합작 법인 ‘효성-STT GDC’를 통해 서울 금천구 가산동에 데이터센터 ‘STT 서울(Seoul) 1’을 개관하고 데이터센터 사업을 공식 시작한다고 17일 밝혔다.  ‘STT 서울 1’은 효성중공업의 전력 공급체계 역량과 STT GDC의 데이터센터 설계, 운영, 서비스 역량이 합쳐진 시설이라고 회사 측은 설명했다. 에너지 규제 및 한정된 전력 공급망 등의 이유로 대부분의 기업 데이터센터는 수도권 외 지역에 있지만 효성은 자사의 전력 공급 노하우를 바탕으로 도심에 이 시설을 위치시켰다. 수요지와 데이터센터의 거리가 가까워지면 데이터 전송 지연을 최소화할 수 있다는 장점이 있기 때문이다.  STT 서울 1은 조현준 효성 회장이 직접 발로 뛴 결실이기도 하다. 2017년 데이터센터 태스</content:encoded>
-    </item>
-    <item>
-      <title>거래소 위험관리 모범규준 발표 ‘빗썸 오지급 사태 재발 방지’</title>
-      <link>https://www.donga.com/news/It/article/all/20260617/134129907/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260617/134129907/1</guid>
-      <pubDate>2026-06-17T15:54:03.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134129893.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;디지털자산거래소 공동협의체(DAXA)가 ‘가상자산사업자(VASP)의 위험관리 모범규준(이하 모범규준)’을 발표했다. 모범규준은 빗썸 오지급 사고 직후 구성한 긴급대응반의 점검 결과와 제도 개선 방향에 따른 후속 조치다. 모범규준에 따르면 향후 거래소들은 위험관리위원회를 설치하고 위험관리책임자를 지정해야 한다. 오지급 사고 발생 방지를 위한 내부통제도 강화해야 한다.오지급 사태 방지 위해 내부통제 강화, 위험관리 모범규준이번에 발표한 모범규준이 제정된 배경은 지난 2월 6일 빗썸에서 발생한 대규모 오지급 사고다. 당시 빗썸은 이벤트 참여자 695명에게 보상금을 지급하는 과정에서 1인당 2000원이 아닌 2000비트코인(BTC)을 지급했다. 사고 직후 금융당국은 금융위원회, 금융정보분석원(FIU), 금융감독원, DAXA가 참여하는 긴급대응반을 구성했다. 긴급대응반은 2월 10일부터 3월 6일까지 국내 5대 원화 거래소를 대상으로 내부통제 체계를 점검했다.긴급대응반은 점검 결과 이용</content:encoded>
-    </item>
-    <item>
-      <title>구글 클라우드, 서울 리전에 보안 운영 플랫폼 출시</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134129668/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134129668/1</guid>
-      <pubDate>2026-06-17T15:59:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134129980.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구글 클라우드는 17일 서울 리전(구글이 임차해 운영하고 있는 데이터센터)에서 직접 ‘구글 보안 운영 플랫폼’을 운영한다고 밝혔다. 이 플랫폼은 구글의 대규모 클라우드 인프라와 생성형 AI ‘제미나이’를 결합해 해킹 등 사이버 공격을 실시간 탐지하고 자동으로 대응하는 보안 서비스다. 서울 리전 출시로 보안 로그와 분석 데이터는 모두 국내에서 저장·처리된다. 국내 금융·공공기관들이 데이터 해외 유출 우려 없이 구글의 보안 서비스를 이용할 수 있게 되는 셈이다. 재그디시 마하파트라 구글 클라우드 시큐리티 일본·아시아태평양 총괄은 “서울 리전에서 구글 보안 운영 플랫폼을 제공하게 된 것은 한국 사이버 보안 역량을 한 단계 높이는 계기가 될 것”이라고 말했다.</content:encoded>
-    </item>
-    <item>
-      <title>‘도박 중독’ 치료에 위고비?…비만 주사가 뇌를 바꾸는 원리[입담처방]</title>
-      <link>https://www.donga.com/news/It/article/all/20260617/134130355/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260617/134130355/1</guid>
-      <pubDate>2026-06-17T16:37:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134129347.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;체중 감량 효과로 전 세계적으로 인기를 끌고 있는 ‘위고비’와 ‘마운자로’. 이 유명한 비만 치료제들이 체중 감량을 넘어 정신건강의학 분야, 특히 ‘중독 증상 완화’에도 주목받고 있다는 사실을 아시나요? 최근 이 약물들이 뇌의 보상 회로에 작용해 음식에 대한 강박적인 집착은 물론, 알코올이나 도박 같은 다른 형태의 중독 증상을 줄이는 데 도움을 줄 수 있다는 연구들이 속속 나오고 있습니다.비만 치료제가 어떻게 중독 문제에도 긍정적인 영향을 미칠 수 있는 걸까요? 비밀은 배가 고프지 않아도 끊임없이 특정 음식을 갈구하게 만드는 ‘뇌의 보상 회로’를 조절하는 원리에 있습니다. 스트레스를 자극적인 음식으로 풀거나 포만감을 느낀 후에도 식사를 멈추지 못하는 현상은 단순한 의지의 차이가 아니라 뇌의 도파민 시스템이 고장 난 ‘질환’입니다. 이번 입담처방에서는 안유석 서울대 정신의학과 교수님과 함께 비만 치료제가 우리 뇌에 어떻게 개입하여 무너진 조절 능력을 회복하는 데 도움을 줄 수 있는</content:encoded>
-    </item>
-    <item>
-      <title>미토스 막히자 한국형 AI 보안연합 나왔다…K-글라스윙 ‘프로젝트 캐노피’ 출범</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134129111/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134129111/1</guid>
-      <pubDate>2026-06-17T17:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134130588.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 정부가 앤스로픽의 인공지능(AI) 모델 ‘미토스’ 수출을 통제한 가운데, 국내에서 공익 인프라 보호를 위한 AI 보안 협력체가 나왔다.사이버보안 기업 티오리가 주축이 돼 설립한 비영리 단체 ‘프로젝트 플라즈마’는 AI 보안 기술을 공유하는 협력체 ‘프로젝트 캐노피’가 출범했다고 17일 밝혔다. 프로젝트 플라즈마는 지난해 5월 출범한 비영리 법인이다. 화이트해커 연구 활동 지원, 보안 인재 생태계 조성, 공익적 보안 기술 확산 등을 목표로 만들어졌다. 이날 출범한 보안 협력체 ‘캐노피’는 앤스로픽의 사이버 보안 협력체 프로젝트 글라스윙과 유사한 형태로, 공익 인프라 방어를 위해 만들어졌다. AI 기반 취약점 탐지 기술을 오픈소스 생태계를 비롯해 병원, 학교, 공공 등 민생 인프라 전반으로 확산하는 것을 목표로 한다.캐노피에는 출범 시점 기준 총 27개 기업과 기관이 참여한다. 핵심 운영 주체인 스튜어드 그룹으로는 두나무, LG유플러스, 포스코DX, 티오리한국, 한화손해보험</content:encoded>
-    </item>
-    <item>
-      <title>“에이전트 결합하면 프론티어 모델만큼 성능 발휘”…구글 클라우드, ‘보안 운영 플랫폼’ 국내 공식 출시</title>
-      <link>https://www.donga.com/news/It/article/all/20260617/134131305/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260617/134131305/1</guid>
-      <pubDate>2026-06-17T17:31:44.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134131245.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구글 클라우드가 ‘구글 보안 운영 플랫폼(Google Security Operations, Google SecOps)’을 ‘구글 클라우드 서울 리전(Google Cloud Seoul Region, 이하 서울 리전)’에서 공식 지원하며 한국 보안 시장 공략에 속도를 낸다. 구글 클라우드는 17일 역삼 구글코리아 오피스에서 기자 간담회를 열고, 오늘부터 국내 기업의 데이터 거버넌스 및 데이터 레지던시(데이터 주권) 요건 충족을 지원하겠다고 발표했다.보안 운영 플랫폼의 서울 공식 지원으로 국내 기업은 모든 보안 로그와 분석 데이터를 국외로 이전하지 않고 국내에 저장 및 처리할 수 있게 된다. 이에 따라 금융, 제조, 미디어 등 다양한 기업의 규제 준수 부담이 크게 줄어들 전망이다. 특히 금융 및 공공 등 엄격한 컴플라이언스 체계를 준수해야 하는 산업군에서도 구글의 위협 탐지 및 대응 역량을 내재화할 수 있을 것으로 기대된다.이날 방한한 재그디시 마하파트라(Jagdish Mahapatr</content:encoded>
-    </item>
-    <item>
-      <title>[IT신상공개] “컬·스트레이트 하나로” 다이슨, ‘에어랩 코안다2x’ 업그레이드 버전 한국 첫 공개</title>
-      <link>https://www.donga.com/news/It/article/all/20260617/134132346/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260617/134132346/1</guid>
-      <pubDate>2026-06-17T18:56:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134132310.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 기술기업 다이슨(Dyson)이 ‘에어랩 코안다2x 멀티 스타일러 앤 드라이어(이하 에어랩 코안다2x)’ 업그레이드 버전을 지난 6월 11일 한국에서 세계 최초로 공개했다. 에어랩은 원통형 배럴에 공기를 불어넣어 모발을 감는 방식의 멀티 스타일러로, 열판으로 모발을 눌러 컬을 만드는 기존 컬링 아이언(고데기) 일색의 시장에 ‘열 없는 스타일링’이라는 새로운 패러다임을 제시한 제품이다.다이슨은 2024년 슈퍼소닉 뉴럴, 2025년 에어랩 코안다2x에 이어 이번 업그레이드 버전까지 헤어케어 신제품을 한국에서 가장 먼저 선보였다. 에어랩은 시장조사기관 GfK 데이터 기준 2025년 국내 멀티스타일러 시장 판매 수량·점유율 1위를 기록한 바 있다. 업그레이드된 이번 에어랩 코안다2x는 툴 라인업을 대폭 강화한 것이 특징이다.더 강력해진 코안다 효과에어랩의 핵심은 코안다 효과다. 유체(액체나 기체)가 인접한 표면을 따라 흐르려는 성질을 의미한다.코안다 효과가 에어랩에 적용된 원리</content:encoded>
-    </item>
-    <item>
-      <title>LG AI연구원, AI 기반 차세대 펩타이드 신약 개발 추진… 디앤디파마텍과 공동 개발</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134132557/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134132557/1</guid>
-      <pubDate>2026-06-17T19:44:37.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134132523.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG가 차별화된 기술력을 앞세워 인공지능(AI) 바이오 시장 주도권 확보에 나선다.LG그룹 인공지능 싱크탱크 LG AI연구원은 지난 16일 서울 여의도 LG트윈타워에서 디앤디파마텍과 차세대 펩타이드 신약 공동 개발 사업 본계약을 체결했다고 17일 밝혔다. 체결식에는 임우형 LG AI연구원장과 이화영 사업개발부문장 상무, 장종성 바이오인텔리전스랩장을 비롯해 이슬기 디앤디파마텍 대표와 홍성훈 부사장, 박은지 연구개발본부장 등 주요 관계자들이 참석했다.디앤디파마텍은 비만이나 대사이상 관련 지방간염(MASH), 퇴행성 뇌질환 등 만성질환 치료를 위한 펩타이드 기반 신약 개발 전문 업체다. 주사제 위주인 펩타이드 의약품을 알약 형태로 만드는 경구용 약물 전달 기술을 보유하고 있다. 이를 기반으로 한 경구용 비만치료제와 MASH치료제 등이 주요 파이프라인이다.펩타이드 신약은 여러 아미노산이 사슬처럼 연결된 펩타이드를 주성분으로 하는 의약품으로 이해할 수 있다. 기존 합성의약품과 바이오의약</content:encoded>
-    </item>
-    <item>
-      <title>앤스로픽, 오픈AI 이어 서울 교두보… 글로벌 AI 격전지로 떠올라</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134132114/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134132114/2</guid>
-      <pubDate>2026-06-18T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134133355.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“앤스로픽의 미션은 인류가 안전한 인공지능(AI) 경험을 할 수 있도록 하는 것입니다. 이런 점에서 AI 기본법을 (세계에서 가장 먼저) 마련한 한국은 우리와 유사한 관점을 가지고 있다고 생각합니다.” 글로벌 AI 개발 기업인 앤스로픽이 17일 서울 영등포구 콘래드 호텔에서 기자간담회를 열고 서울 오피스의 공식 개소를 알렸다. 간담회에 참석한 크리스 차우리 앤스로픽 인터내셔널 총괄은 “이미 한국의 많은 개발자와 스타트업, 대기업들이 (앤스로픽의 AI 모델인) 클로드를 깊이 있게 사용하고 있고, 한국은 전 세계에서 가장 빠르게 성장하는 시장 중 하나”라며 한국을 선택한 이유를 강조했다. ● 韓 AI 사용량 전 세계 12위권앤스로픽은 미국, 유럽에 이어 아시아태평양 지역에까지 로컬 사무소를 개소하며 저변 확대에 나서고 있다. 아태 지역에서는 한국이 일본, 인도에 이어 세 번째다. 앤스로픽이 발표하는 ‘앤스로픽 경제 지표’에 따르면 한국의 AI 사용량은 전 세계 12위였다. 최기영</content:encoded>
-    </item>
-    <item>
-      <title>삼성전자 “AI 대전환… 구조개편 가속화”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134132109/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134132109/2</guid>
-      <pubDate>2026-06-18T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134130644.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 ‘인공지능(AI) 대전환’을 하반기(7∼12월) 경영전략의 핵심으로 내걸고 사업 구조 재편과 체질 개선에 속도를 낸다. 메모리 가격 급등과 중국 업체들의 저가 공세로 수익성 압박이 커진 스마트폰과 TV 등을 만드는 디바이스경험(DX) 부문이 대상이다. 삼성전자는 16일부터 열린 글로벌 전략협의회에서 주요 사업부 경영진과 해외 법인장이 참석해 올 하반기 전략을 논의했다고 17일 밝혔다. 글로벌 전략협의회는 매년 6월과 12월에 열리는 정례 회의로, 올해는 16일 모바일경험(MX) 사업부를 시작으로 17일 영상디스플레이(VD) 사업부, 생활가전(DA) 사업부 순으로 진행됐다. 18일에는 반도체(DS) 부문 회의가 예정돼 있다. 이번 협의회에서는 DX 부문의 수익성 제고 방안이 집중적으로 다뤄졌다. 같은 삼성전자 내에서도 메모리 가격 상승으로 DS 부문은 실적 호조를 이어가고 있지만 스마트폰·TV·가전 등 DX 부문은 원가 부담이 커지며 수익성이 악화되고 있다. 여기에 중국</content:encoded>
-    </item>
-    <item>
-      <title>LG이노텍, ‘AI 반도체 기판’ 승부수… “2032년 2조텍 시대 열것”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134131358/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134131358/2</guid>
-      <pubDate>2026-06-18T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134133323.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG이노텍이 2031년까지 반도체 기판을 담당하는 패키지솔루션 사업부 영업이익을 1조 원까지 늘리겠다는 목표를 제시했다. 회사 전체 영업이익은 이 기간 2조 원으로 늘려 이른바 ‘2조텍(영업이익 2조 원+LG이노텍)’을 달성하겠다는 설명도 나왔다. LG이노텍은 16일 서울 강서구 마곡 본사에서 ‘미디어 테크 데이’를 열고 “새롭게 열리는 반도체 기판 시장에서 점유율을 확대해 2031년까지 패키지솔루션 사업부 영업이익을 1조 원 규모로 육성할 것”이라고 밝혔다. 패키지솔루션 사업부의 지난해 영업이익은 1289억 원이다. 5년 안에 실적을 8배 가까이로 키우겠다는 것이다.이를 위해 LG이노텍은 과거 모바일 제품을 중심으로 펼쳐 온 사업을 인공지능(AI) 데이터센터와 자율주행, 로봇, 인공위성 등의 분야로 확장시키겠다고 밝혔다. 대표적인 게 ‘무선 주파수 시스템 인 패키지(RF-SiP)’와 ‘플립칩 칩스케일 패키지(FC-CSP)’, ‘플립칩 볼그리드 어레이(FC-BGA)’ 등 고부가가</content:encoded>
-    </item>
-    <item>
-      <title>효성, 서울 도심에 30MW 규모 AI 데이터센터 문 열어</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260617/134131355/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260617/134131355/2</guid>
-      <pubDate>2026-06-18T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134131354.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;효성이 서울 시내에 30MW 전력 규모의 데이터센터를 개관하며 AI 시대 핵심인프라인 데이터 센터 사업에 본격적으로 뛰어들었다.  효성은 유럽의 데이터센터 운영 기업 STT GDC와 공동으로 설립한 합작 법인 ‘효성-STT GDC’를 통해 서울 금천구 가산동에 데이터센터 ‘STT 서울(Seoul) 1’을 개관하고 데이터센터 사업을 공식 시작한다고 17일 밝혔다.  ‘STT 서울 1’은 효성중공업의 전력 공급체계 역량과 STT GDC의 데이터센터 설계, 운영, 서비스 역량이 합쳐진 시설이라고 회사 측은 설명했다. 에너지 규제 및 한정된 전력 공급망 등의 이유로 대부분의 기업 데이터센터는 수도권 외 지역에 있지만 효성은 자사의 전력 공급 노하우를 바탕으로 도심에 이 시설을 위치시켰다. 수요지와 데이터센터의 거리가 가까워지면 데이터 전송 지연을 최소화할 수 있다는 장점이 있기 때문이다. STT 서울 1은 조현준 효성 회장(사진)이 직접 발로 뛴 결실이기도 하다. 2017년 데이터센터</content:encoded>
-    </item>
-    <item>
-      <title>목에 힘빼고 “하아~” 하품으로 성대 열면 ‘고음불가’ 탈출[이진한 의학전문기자의 메디컬 체험]</title>
-      <link>https://www.donga.com/news/It/article/all/20260618/134132056/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260618/134132056/2</guid>
-      <pubDate>2026-06-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134131135.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“고음이 안 나와 노래방에 가기 싫어요.” 하태국 포근한맘요양병원 원장은 학창 시절 음악 실기시험에서 항상 최저 점수를 받았다. 고음이 잘 안 올라가 노래 부르는 자리에선 늘 주눅이 들었다. 이는 필자도 마찬가지다. ‘고음 불가’ 두 중년 남성이 음치 탈출을 위한 새로운 도전에 나섰다. 바로 ‘꽃중년 남성의 목소리 고음 프로젝트’다. 도움을 얻기 위해 목소리 해결사인 오재국 보아스이비인후과 대표원장을 만났다. 오 원장은 유명 가수들의 목소리 주치의로 잘 알려져 있다. 오 원장은 ‘50대도 고음이 좋아질 수 있을까’라는 질문을 자주 받는다. 그의 대답은 대부분 ‘그렇다’이다. 오 원장은 “물론 나이가 들면서 생기는 목소리의 노화를 완전히 되돌릴 수는 없다”면서도 “성대 근육의 효율을 높이고 잘못된 발성 습관을 고치면 목소리 울림을 최적화하는 것은 충분히 가능하다”고 설명했다.● 나이 들면 성대 근육도 약해져 흔히 고음을 내려면 호흡을 강하게 밀어붙여 힘으로 높게 질러야 한다고</content:encoded>
-    </item>
-    <item>
-      <title>[만화 그리는 의사들]〈411〉해마와 치매</title>
-      <link>https://www.donga.com/news/It/article/all/20260618/134132060/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260618/134132060/2</guid>
-      <pubDate>2026-06-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134131141.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[전문의 칼럼]40년 만에 등장한 방광암 혁신 치료법, 건보 적용돼야 완성</title>
-      <link>https://www.donga.com/news/It/article/all/20260618/134132058/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260618/134132058/2</guid>
-      <pubDate>2026-06-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134133734.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방광암 등 요로상피암의 국내 환자 증가 추이가 심상치 않다. 최근 10년간 신규 환자는 42% 증가해 비뇨기암 관리의 핵심 과제로 떠올랐다. 특히 2023년 기준 60대 이상 유병 환자 수는 약 4만2000명에 이른다. 고령화사회에서 방광암으로 인한 질병 부담이 앞으로 가중될 수밖에 없다. 이처럼 높아지는 발병률에도 불구하고 생존의 갈림길에 있는 전이성(말기) 환자들의 치료 환경은 여전히 열악하다. 요로상피암의 대부분을 차지하는 방광암 환자의 5년 상대생존율은 76.5%(2019∼2023년 기준)에 달하지만, 수술이 불가능한 원격 전이 단계에 이르면 그 수치는 13.2%로 급락한다. 이는 전립샘암(51.2%)이나 신장암(22.0%) 등 다른 비뇨기계 암과 비교해도 현저히 낮다. 이토록 처참한 성적표 뒤에는 지난 40여 년간 전이성 요로상피암 1차 치료 영역에 이렇다 할 혁신적 옵션이 부재했다는 안타까운 현실이 있다. 1980년대 도입된 백금 기반 항암화학요법은 수십 년간 1차 표</content:encoded>
-    </item>
-    <item>
-      <title>발전설비 22% 늘었는데 송전망은 4% 증가 그쳐</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260618/134133148/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260618/134133148/2</guid>
-      <pubDate>2026-06-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/02/15/133368891.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 전력 발전설비가 최근 5년간 20% 넘게 증가하는 동안 전력을 실어 나를 송전선로는 4% 증가하는 데 그친 것으로 나타났다. 반도체·인공지능(AI) 산업 성장에 따른 전력 수요 증가에 맞춰 발전소 등 발전설비는 빠르게 짓고 있지만, 송전망 확충 속도는 이를 따라가지 못하면서 병목 현상이 심각해졌다는 지적이 나온다. 반도체 클러스터 조성, AI 데이터센터 확충 등 국가 첨단산업 경쟁력에 악영향이 불가피할 것이란 우려가 커지고 있다.  17일 한국전력에 따르면 국내 발전설비는 2020년 13만3655MW(메가와트)에서 올해 16만3224MW로 22.1% 증가했다. 발전전력량도 같은 기간 57만7112GWh(기가와트시)에서 63만4470GWh로 9.9% 늘었다. 반면 송전선로는 3만4665C-km(서킷킬로미터·선로 길이X회선 수)에서 3만6184C-km로 4.4% 증가하는 데 그쳤다. 전력망 확충 속도가 발전설비 증가 속도의 5분의 1 수준에 불과한 셈이다. 전력을 운반할 송전</content:encoded>
-    </item>
-    <item>
-      <title>AI 전력수요 맞추려면, 송전망 확충 속도 지금보다 6배 빨라야</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260618/134133204/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260618/134133204/2</guid>
-      <pubDate>2026-06-18T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134133664.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부는 2038년까지 약 73조 원을 투입해 송전망을 지금보다 70%가량 늘리겠다는 계획을 지난해 ‘11차 장기 송변전 설비계획’에 담았다. 반도체와 인공지능(AI) 산업 발전으로 향후 전력 수요가 급증할 것으로 예견되는 만큼 이 목표를 달성하려면 현재보다 6배 이상 빠른 속도로 사업을 추진해야 하기 때문이다.  하지만 주민 반대와 인허가 문제 등으로 주요 송전망 사업이 잇따라 지연돼 이대로라면 목표 달성이 어려울 것이라는 우려가 커지고 있다. 전력망 확충은 국가 산업 경쟁력을 좌우할 핵심 과제인 만큼 사업 속도를 끌어올릴 실질적인 대책이 시급히 마련돼야 한다는 지적이 나온다.● 송전망 사업 3분의 1 이미 5년 이상 지연정부는 11차 전력수급기본계획에 따라 2038년까지 총 6만1183C-km(서킷킬로미터·선로 길이X회선 수) 규모의 송전선로를 구축할 계획이다. 지난해 송전망 길이(3만6184C-km)보다 69.1% 늘어난 수준이다. 반도체 클러스터, 데이터센터, 첨단산업단지</content:encoded>
-    </item>
-    <item>
-      <title>비만 치료제의 뜻밖의 효과…남성 호르몬·정자 질 개선 가능성</title>
-      <link>https://www.donga.com/news/It/article/all/20260617/134130476/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260617/134130476/2</guid>
-      <pubDate>2026-06-18T07:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/17/134130325.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;위고비와 마운자로 같은 GLP-1(글루카곤 유사 펩타이드-1) 계열 비만 치료제가 남성 생식 능력 개선에 도움이 될 가능성이 있다는 연구 결과가 나왔다.영국 워릭 의과대학과 코번트리·워릭셔 대학병원 연구자들이 공동 수행한 체계적 문헌고찰 연구에 따르면 GLP-1 약물이 남성 호르몬인 테스토스테론 수치를 높이고 정자의 질을 개선할 가능성이 있는 것으로 나타났다.연구 결과는 15일(현지 시각) 미국 시카고에서 열린 내분비학회 연례 학술 대회(ENDO 2026)에서 발표됐다. 연구진은 현재 근거 수준이 아직 초기 단계이며, 이를 확인하기 위한 더 큰 규모의 임상시험이 필요하다고 밝혔다.연구진이 검토한 임상시험들에서는 당뇨병 치료 및 체중 감량 목적으로 널리 사용되는 GLP-1 계열 약물을 투여받은 18~65세 남성 참가자들에게서 테스토스테론 수치가 올라가고 정자 수와 형태가 개선되는 경향이 관찰됐다.일부 연구에서는 GLP-1 약물과 테스토스테론 대체요법 모두 테스토스테론 수치를</content:encoded>
-    </item>
-    <item>
-      <title>“폭염에 오존 농도 급증”…건강 지키려면 ‘이렇게’</title>
-      <link>https://www.donga.com/news/Society/article/all/20260618/134134149/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260618/134134149/1</guid>
-      <pubDate>2026-06-18T08:35:17.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134150.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전국적으로 폭염이 이어지는 가운데 오존 농도도 ‘나쁨’ 수준을 기록하고 있어 건강 관리에 비상이 걸렸다. 특히 기온이 상승할수록 대기 중 오존(O₃) 농도도 함께 높아지면서 호흡기뿐 아니라 피부, 눈 건강에도 나쁜 영향을 미칠 수 있어 주의가 필요하다.18일 의료계에 따르면 오존은 성층권에서는 자외선을 차단하는 보호막 역할을 하지만, 우리가 생활하는 지표면에서는 대표적인 대기오염 물질로 작용한다. 지표면에서는 자동차 배기가스와 산업시설 등에서 배출된 질소산화물과 휘발성유기화합물(VOCs)이 강한 햇빛과 반응하면서 생성되는데, 여름철에는 무더위로 농도가 빠르게 높아지는 특징이 있다.오존에 취약한 기관은 호흡기다. 전문가들은 오존이 호흡기 점막을 직접 자극해 폐 기능을 저하시키고 기관지천식이나 만성기관지염 같은 기존 호흡기 질환을 악화시킬 수 있다고 했다. 특히 고농도 오존에 1~2시간만 노출돼도 인체가 정상 상태로 회복되는 데 상당한 시간이 필요한 것으로 알려졌다.실제로 오존</content:encoded>
-    </item>
-    <item>
-      <title>전자담배로 갈아타도 안심 못한다…폐암 사망 위험 2배[노화설계]</title>
-      <link>https://www.donga.com/news/It/article/all/20260618/134134239/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260618/134134239/2</guid>
-      <pubDate>2026-06-18T09:11:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134117.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일반 담배를 끊은 뒤 전자담배를 사용한 사람은 완전히 금연한 사람보다 폐암 발생 위험이 56% 높고, 폐암 사망 위험은 두 배에 달하는 것으로 나타났다.서울대학교 의과대학 연구진이 흡연 이력이 있는 우리나라 성인 450만 명 이상을 대상으로 수행한 이번 연구 결과는 세계적인 학술지 ‘네이처 메디신(Nature Medicine)’에 게재됐다. 다만 연구진은 전자담배의 위험성이 일반 담배(연초담배)와 유사하다는 의미는 아니라고 설명했다.실제로 일반 담배를 끊은 뒤 전자담배를 사용한 사람은 계속 흡연한 사람보다 전체 사망 위험이 23% 낮았다. 반면 완전 금연한 사람과 비교하면 전체 사망 위험은 22% 높았다. 연구진은 전자담배가 금연으로 얻을 수 있는 폐암 예방 효과를 일부 약화할 수 있다고 해석했다.전자담배는 일반 담배보다 덜 해로운 대안으로 인기를 얻고 있지만, 금연 후 전자담배 사용이 폐암 위험에 어떤 영향을 미치는지는 명확하지 않다.연구진은 2018년 국가건강검진을 받</content:encoded>
-    </item>
-    <item>
-      <title>“술 잘 마시면 더 빨리 죽는다”…신동엽·성시경·지상렬 거론한 의사 ‘뭇매’</title>
-      <link>https://www.donga.com/news/Society/article/all/20260618/134134579/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260618/134134579/1</guid>
-      <pubDate>2026-06-18T09:30:16.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134580.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한 의사 유튜버가 방송인 신동엽과 지상렬, 가수 성시경을 언급하며 “간암에 무조건 걸린다” “술 잘 마시는 사람이 더 빨리 죽는다”는 자극적인 멘트와 함께 해당 연예인들의 섬네일까지 사용해 논란이 되고 있다.구독자 11만 명을 보유한 해당 의사는 약 3개월 전 ‘전문의가 경고하는 간암 잘 걸리는 사람’이라는 제목의 영상을 공개했다. 해당 영상은 63만 회가 넘는 조회수를 기록하고 있다.영상에서 그는 신동엽, 성시경, 지상렬의 공통점에 대해 언급하며 술을 많이 마셔도 겉으로는 건강해 보이고 검진에서도 간 수치가 정상으로 나오는 사람들에 대해 설명했다.그는 “365일 술을 마셔도 몸이 깨끗해 보이는 사람들이 있다”며 주변에서도 흔히 볼 수 있는 유형이라고 말했다. 이어 간 수치가 정상이라고 해서 안심하는 경우가 많지만, 오히려 그런 사람들이 더 위험할 수 있다고 주장했다.이어 “이런 분들을 보면 ‘정말 간이 튼튼하구나’ 생각할 수 있는데 이런 분들이 간암을 진짜 조심해야 한다”며</content:encoded>
-    </item>
-    <item>
-      <title>허영만 화백 활동 멈춘 낙상…한 번 넘어지면 건강도 무너진다</title>
-      <link>https://www.donga.com/news/Culture/article/all/20260618/134134895/1</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20260618/134134895/1</guid>
-      <pubDate>2026-06-18T09:58:19.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134896.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;만화가 허영만 화백(79)이 지난달 낙상 사고로 중환자실에 이송된 뒤 한 달째 입원 치료를 받으며 활동을 중단한 사실이 알려지면서 고령층 낙상 위험에 대한 관심이 커지고 있다.18일 의료계에 따르면 노년층의 낙상은 단순한 실수가 아니라 신체 기능 저하와 만성질환 악화를 알리는 중요한 경고 신호다. 나이가 들수록 근력과 균형감각이 떨어지고 시력과 청력이 저하되는 데다 고혈압과 당뇨병, 심장질환 등 만성질환과 복용 중인 약물의 영향으로 어지럼증이 생기기 쉬워 낙상 위험이 커지기 때문이다.통계에서도 고령층 낙상 위험은 뚜렷하게 나타난다. 질병관리청이 지난해 11월 발표한 ‘손상 발생 현황 2025’에 따르면 2023년 손상으로 입원한 환자 가운데 추락·낙상이 차지하는 비율은 51.6%로 가장 높았다. 특히 75세 이상에서는 손상 입원 환자의 72.5%가 낙상 때문으로 나타났다.고령화가 진행되면서 낙상으로 인한 손상도 꾸준히 늘고 있다. 지난 3월 공개된 ‘제15차 국가손상종합통계’에</content:encoded>
-    </item>
-    <item>
-      <title>9월에 나온다던 ‘접는 아이폰’ 내년으로 밀릴 수 있다고?</title>
-      <link>https://www.donga.com/news/It/article/all/20260618/134134923/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260618/134134923/1</guid>
-      <pubDate>2026-06-18T10:00:36.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134924.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;애플이 개발 중인 ‘폴더블 아이폰’의 올해 하반기 출시가 불투명하다는 전망이 제기됐다.17일 IT업계에 따르면 대만의 유나이티드데일리뉴스(UDN)는 애플의 공급망으로부터 폴더블 아이폰의 출시 지연 가능성이 제기되고 있다고 보도했다.애플은 이번 폴더블 아이폰의 부품의 많은 부분을 △폭스콘 △TSMC △신주싱(Shin Zu Shing) △치홍 △라간정밀(Largan Precision) 등 중국·대만 제조업체들로부터 공급받는다. 이 중 스마트폰 렌즈 제조업체인 라간정밀의 린언핑 최고경영자(CEO)는 최근 실적발표에서 “올해 4분기는 주요 고객사의 신제품 출시 일정 변동으로 인해 예년보다 더 바쁠 걸로 예상된다”며 “일부 신제품은 3분기 출시될 예정이고 다른 제품들은 2027년 초로 연기될 예정”이라고 발표했다.업계에서는 린언핑 CEO가 언급한 주요 고객사가 애플일 것으로 보고 있다. 올해 3분기 출시될 일부 신제품은 아이폰18 프로 시리즈이며, 2027년으로 연기된 제품은 폴더블</content:encoded>
-    </item>
-    <item>
-      <title>티빙, 개인정보 유출 피해 1953만명…초기 잠정치보다 늘었다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260618/134134931/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260618/134134931/1</guid>
-      <pubDate>2026-06-18T10:01:14.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134932.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;티빙 개인정보 유출 사고로 피해를 입은 이용자가 2000만명에 육박하는 것으로 나타났다.18일 이정헌 더불어민주당 의원이 과학기술정보통신부에 제출받은 자료에 따르면 티빙 해킹 사건의 최종 피해 규모는 1953명으로 파악됐다. 이는 국내 정보 유출 사고 중 쿠팡, SK텔레콤에 이어 세번째 규모다. 정부 초기 잠정치(1300만명)보다 650만명 이상 늘어났다.티빙이 지난달 30일 이상 행위를 처음 인지했지만 대용량 파일의 외부 전송을 최종 확인한 건 사흘 뒤인 지난 2일이다. 해킹 사실을 알고도 데이터가 빠져 나가는 걸 이틀 넘게 파악하지 못한 것이다.과기정통부와 개인정보보호위원회에 각각 제출된 티빙 신고서상 최초 인지 시점이 다르게 기재된 경위에 대한 조사도 진행 중이다.정부는 현재 유출 규모가 티빙 유료 회원(500만명), 월간활성이용자수(770만명)를 크게 초과한 배경을 집중적으로 들여다보고 있다. 탈퇴 회원과 휴면 계정, 통신사 결합 상품 등 타사 제휴로 생성된 계정까지</content:encoded>
-    </item>
-    <item>
-      <title>팀 쿡 “부품값 폭등 더는 못 버텨”…아이폰18 가격 최대 40만원 뛸까</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260618/134135048/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260618/134135048/1</guid>
-      <pubDate>2026-06-18T10:20:08.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134135049.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;애플이 전 세계적인 반도체 공급 부족과 부품 원가 상승 압박을 견디지 못하고 제품 가격 인상을 사실상 공식 선언했다. 인공지능(AI) 열풍으로 인해 고대역폭메모리(HBM) 등 서버용 반도체 수요가 폭발하면서 모바일·PC용 D램(DRAM)과 낸드플래시 공급이 제한된 탓이다. 이에 따라 오는 9월 출시를 앞둔 ‘아이폰 18’ 시리즈를 비롯해 맥, 아이패드 등 차기 신제품의 전반적인 가격 상승이 불가피할 전망이다. 애플이 기존 수익률을 유지하려면 아이폰 18 프로의 출고가를 30만~40만원 가량 인상해야 할 것 이라는 관측까지 나오고 있다.18일 업계에 따르면 팀 쿡 애플 최고경영자(CEO)는 최근 월스트리트저널(WSJ)과의 인터뷰에서 메모리 및 스토리지(저장장치) 비용 상승 부담을 상쇄하기 위해 향후 기기 가격을 인상할 수밖에 없다는 뜻을 밝혔다.쿡 CEO는 인터뷰를 통해 “불행하게도 가격 인상은 불가피하다”며 “우리에게 전가되는 엄청난 가격 인상 폭을 완화하기 위해 최선을 다하고</content:encoded>
-    </item>
-    <item>
-      <title>애플 CEO “가격 인상 불가피…더는 감당 못할 수준”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260618/134134682/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260618/134134682/2</guid>
-      <pubDate>2026-06-18T10:36:57.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134134654.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;애플 CEO 팀 쿡이 AI 열풍에 따른 반도체 및 메모리 가격 상승으로 아이폰 등 제품 가격 인상이 불가피하다고 밝혔다. 자체 칩 생산 선을 긋고 공급망을 검토한다.</content:encoded>
-    </item>
-    <item>
-      <title>덥다고 탄산음료 벌컥…“바로 양치해선 안돼요”</title>
-      <link>https://www.donga.com/news/Society/article/all/20260618/134135441/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260618/134135441/1</guid>
-      <pubDate>2026-06-18T11:11:28.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134135442.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기온이 높아지는 여름철에는 갈증을 해소하기 위해 탄산음료, 스포츠음료, 과일향 음료 등의 섭취가 늘어난다. 당분이 많은 탄산음료는 치아 구조가 미성숙한 아이들에게 충치 발생 위험을 높이는 요인으로 작용할 수 있다.18일 의료계에 따르면 충치는 입안에 존재하는 세균이 당분을 분해하면서 생성한 산에 의해 치아의 법랑질이 손상되는 질환이다. 탄산음료에는 다량의 당분이 포함돼 있는 경우가 많아 충치 유발 세균의 활동을 촉진할 수 있다.또 탄산음료에 포함된 탄산, 구연산, 인산 등의 산성 성분은 치아 표면을 약화시키고 치아 부식을 유발할 수 있어 충치 발생 위험을 더욱 증가시킨다.특히 어린이의 경우 성인보다 법랑질과 상아질의 두께가 얇고 치아 구조가 상대적으로 미성숙하기 때문에 산성 환경에 더욱 취약하다. 따라서 같은 양의 탄산음료를 섭취하더라도 치아에 미치는 영향이 더 크게 나타날 수 있다.또 스포츠음료나 어린이용 음료 역시 상당량의 당분과 산성 성분을 포함하고 있는 경우가 있어 주</content:encoded>
-    </item>
+    <lastBuildDate>2026-06-20T00:38:11.379Z</lastBuildDate>
     <item>
       <title>‘빅마마’ 이혜정, 낙상으로 턱에 검푸른 피멍…대처 어떻게?</title>
       <link>https://www.donga.com/news/Culture/article/all/20260618/134135518/2</link>
@@ -250,10 +61,10 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134137884.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전설 속 괴물로 불리던 희귀 심해 &amp;apos;마귀상어&amp;apos;가 2000미터 심해 서식지에서 살아 움직이는 모습이 최초 포착돼 국제학술지 5월호에 게재되며 화제를 모으고 있다.</content:encoded>
     </item>
     <item>
-      <title>해수부 ‘해양수산 창업설명회’ 개최…. “해양수산 창업, 지원보다 ‘사업화’가 관건”</title>
+      <title>해수부 ‘해양수산 창업설명회’ 개최… “해양수산 창업 발굴에서 스케일업까지 체계화”</title>
       <link>https://www.donga.com/news/It/article/all/20260618/134138447/1</link>
       <guid>https://www.donga.com/news/It/article/all/20260618/134138447/1</guid>
-      <pubDate>2026-06-18T17:03:42.000Z</pubDate>
+      <pubDate>2026-06-18T17:03:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134138377.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;해양수산 분야 창업기업과 예비창업자들을 위한 ‘2026 해양수산 창업설명회’가 17일 여의도 TP타워에서 개최됐다. 이 설명회는 해양수산부(이하 해수부)와 해양수산과학기술진흥원(KIMST)이 주관하며, 해양/수산 신산업 분야의 유망 스타트업을 발굴, 육성함으로써 해양 창업 생태계를 활성화하는 것이 목적이다.이날 행사는 유관 액셀러레이터인 킹고스프링(대표 정진동)이 총괄 운영하며, 해수부의 해양 창업 지원 방향 안내와 기술사업화 전략, 투자유치 전략, 마케팅 강연 등 중심의 포럼 형식으로 진행됐다. (예비) 창업자를 위한 1대1 전문가 창업 상담 공간도 마련되어, 사전 신청자를 대상으로 현장 멘토링도 제공됐다.임채호 해양수산부 해양수산과학기술정책과장은 환영사를 전하며, “해양수산 산업이 전통적인 어업/물류 방식에서 벗어나, 첨단 기술, AI 기술 등과 융합된 핵심 산업으로 변화하고 있다”며, “이에 해수부도 AI/AX 전환을 해양수산업계 도약의 발판으로 여기고, 참신한 아이디어와</content:encoded>
     </item>
     <item>
@@ -276,6 +87,13 @@
       <guid>https://www.donga.com/news/It/article/all/20260618/134140135/1</guid>
       <pubDate>2026-06-18T19:06:56.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134140093.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하만 인터내셔널의 오디오 브랜드 JBL이 6월 18일 신제품 발표회를 열고 새로운 브랜드 슬로건 ‘Made to Be Heard’를 공개했다. 슬로건에는 문화를 창조하고 표현하는 사람들을 적극 지원한다는 브랜드 방향성을 담았다는 것이 JBL의 설명이다. JBL은 이날 행사에서 인공지능(AI) 기반 마이크 JBL 이지싱 마이크(EasySing Mics)’ 및 이지싱 마이크 미니(EasySing Mic Mini), JBL 80주년 기념 한정판 북쉘프 라우드 스피커 JBL L100 클래식(Classic) 80 등 신제품도 함께 발표했다.문화를 창조하는 사람들 적극 지원한다 ‘Made to Be Heard’JBL의 새로운 브랜드 슬로건은 ‘Made to Be Heard’다. 최경훈 하만 인터내셔널 코리아 라이프스타일 사업부 프로는 새로운 슬로건이 나온 배경에 대해 “오늘날 소비자는 단순히 문화를 소비하는 데서 그치지 않고 콘텐츠를 직접 만들고, 자신을 표현하며, 경험을 공유하는 방향으로</content:encoded>
+    </item>
+    <item>
+      <title>“첫 버킷리스트 ‘미스터 폴리스’ 도전해 50대 1위 했어요”[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/Opinion/article/all/20260618/134140323/2</link>
+      <guid>https://www.donga.com/news/Opinion/article/all/20260618/134140323/2</guid>
+      <pubDate>2026-06-18T23:05:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134138971.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;경찰 생활 27년째 되던 2018년 버킷리스트를 만들었다. 그 첫 번째가 ‘미스터 폴리스’ 도전이었다. 어린 시절부터 몸 관리를 해오면서 ‘언젠가는 한번 해 봐야지’ 하던 꿈이었다. 2020년 신종 코로나바이러스 감염증(코로나19)이 확산하면서 주춤했지만 2024년 경찰 최고의 보디빌더를 뽑는 미스터 폴리스에 출전해 50세 이상 부문에서 1위를 했다. 안관종 서울경찰청 김포공항경찰대 안보팀장(59)은 근육운동을 하면서 정년 이후 삶까지 설계하게 됐다. “30, 40대 땐 거의 알코올 중독으로 불릴 정도로 술을 많이 마셨어요. 탄탄하던 몸도 많이 망가졌죠. 무엇보다 정년이 다가오면서 ‘내가 한 게 뭐지?’란 생각이 들면서 삶이 무료하게 느껴졌어요. 그래서 새로운 변화를 주기 위해 삶의 목표를 하나씩 만들게 됐습니다.” 안 팀장이 2018년 늦깎이로 숭실사이버대 청소년코칭학과에 입학한 게 변화의 시작이다. 서울 종로경찰서 여성청소년계장으로 근무할 때 제도권 도움을 받지 못하는 범죄</content:encoded>
     </item>
     <item>
       <title>“주변 카페 하나 없어”… AI 인력 모집에 지원자 ‘0’</title>
@@ -353,6 +171,188 @@
       <guid>https://www.donga.com/news/It/article/all/20260619/134141779/1</guid>
       <pubDate>2026-06-19T09:27:46.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134141780.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;파킨슨병 환자의 질병 진행 속도를 미리 예측하고 환자별 맞춤 치료 전략을 세울 수 있는 연구 결과가 나왔다.  질병관리청 국립보건연구원은 국가 뇌질환 연구 인프라 사업을 통해 구축한 국내 파킨슨병 환자 코호트 자료를 활용해 이 같은 연구성과를 확보했다고 19일 밝혔다.파킨슨병은 떨림과 경직, 느린 움직임 등 운동 증상으로 잘 알려져 있지만 실제 환자들은 인지기능 저하와 자율신경 이상, 수면장애, 우울증 등 다양한 비운동 증상을 함께 겪는다. 환자마다 질병 진행 속도도 달라 조기 선별과 맞춤형 관리가 중요한 질환으로 꼽힌다.연구진은 먼저 파킨슨병 환자 233명을 대상으로 ¹²³I-MIBG 검사 영상에서 나타나는 갑상샘 부위 신호의 의미를 분석했다.¹²³I-MIBG 영상검사는 노르아드레날린과 유사한 방사성 추적자를 이용해 교감신경 기능을 평가하는 핵의학 검사로 파킨슨병에서는 주로 심장 교감신경 기능 저하 여부를 확인하는 데 활용된다. 국립보건연구원은 검사 결과 갑상샘 부위 신호</content:encoded>
+    </item>
+    <item>
+      <title>게임 속에서 벌어지는 세계인의 축제 월드컵[게임 인더스트리]</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134141846/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134141846/1</guid>
+      <pubDate>2026-06-19T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134141850.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘2026 FIFA 월드컵‘이 생각 이상의 인기 속에 개막했습니다. 미국, 캐나다, 멕시코가 공동 개최하는 이번 월드컵은 역대 최초의 48개국 체제로 진행되는 만큼 전 세계 축구 팬들의 관심이 집중되고 있죠.4년에 한 번 열리는 세계 최대 스포츠 이벤트인 월드컵은 이제 단순한 스포츠 대회를 넘어 하나의 문화 콘텐츠로 자리 잡았습니다. 수십억 명의 시청자가 경기를 지켜보고, 수많은 기업들이 월드컵 특수를 노린 마케팅에 나섭니다. 게임업계 역시 예외가 아닙니다. 월드컵 시즌이 되면 축구 게임은 물론 다양한 게임들이 국가대표 응원 이벤트와 승부 예측 콘텐츠를 선보이며 이용자들의 관심을 끌어모으고 있습니다.닌텐도에서 시작된 월드컵 게임이 월드컵과 게임이 만난 최초의 작품 중 하나는 1990년 출시된 ‘닌텐도 월드컵(Nintendo World Cup)’입니다.이 작품은 테크노스 재팬의 ‘열혈고교 피구 클럽: 축구’의 후속작으로 제작됐습니다. 전작에 등장했던 캐릭터들이 일본 국가대표 선수로 발</content:encoded>
+    </item>
+    <item>
+      <title>[반려동물 20세 시대] 우리 아이는 정말 잘 지내고 있을까요?</title>
+      <link>https://www.donga.com/news/It/article/all/20260616/134123505/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260616/134123505/1</guid>
+      <pubDate>2026-06-19T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/16/134123035.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;반려동물 20세 시대, 중요한 건 20세라는 숫자가 아니라 얼마나 ‘잘’ 지내는지가 아닐까요? 앞선 연재들을 통해 우리 아이들의 신체 나이가 생각보다 많았고, 노화로 인한 많은 변화를 겪고 있다는 것을 말씀드렸습니다. 그렇다면 우리 집 강아지와 고양이는 잘 지내고 있을까요?  “우리 강아지가 벌써 15살인데 건강이 너무 걱정돼요.” “우리 집 고양이가 13살인데 괜찮은 건가요?” 우리 아이들이 정말 괜찮은지 알려면 객관적으로 삶의 질을 평가하는 것이 중요합니다. 오늘은 노령동물의 삶의 질을 평가하는 방법을 자세히 설명해드리겠습니다. 삶의 질이라고 하면 조금 거창하게 들릴 수 있습니다. 하지만 어렵게 생각할 필요는 없습니다. 보호자분들이 매일 집에서 보는 것들, 즉 밥은 잘 먹는지, 물은 잘 마시는지, 잘 걷는지, 배변은 편하게 하는지, 가족과 잘 지내는지, 좋아하던 일을 아직 즐기는지를 차분히 살펴보는 것이 삶의 질 평가의 시작입니다. 노령동물의학에서는 통증, 식욕, 수</content:encoded>
+    </item>
+    <item>
+      <title>CIT, 비바테크 ‘올해의 혁신상 톱5’ 선정···아시아 기업 중 유일</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134142322/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134142322/1</guid>
+      <pubDate>2026-06-19T10:35:26.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134142306.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;첨단 소재·패키징 기술 기업 CIT(Copper Innovation Technologies)가 6월 17일부터 20일까지 프랑스 파리에서 열리는 유럽 최대 스타트업·테크 전시회 ‘비바테크놀로지 2026(VIVA Technology 2026, 이하 비바테크)’에서 ‘올해의 혁신상(VivaTech‘s Innovation of the Year)’ 톱5에 선정됐다.비바테크는 글로벌 기업과 스타트업, 투자자, 산업계 리더 등이 한자리에 모여 미래 기술과 혁신 비즈니스를 선보이는 유럽 대표 스타트업·테크 전시회다. 올해는 행사 개최 10주년을 맞아 ‘AI: 환상이 아닌 임팩트(AI: Impact, Not Illusion)’라는 주제 아래 인공지능(AI), 생산성, 기술주권·윤리, 에너지·그린테크·모빌리티 등을 주제로 글로벌 혁신 기술을 조명한다.비바테크는 매년 참가 기업의 기술 혁신성과 산업적 파급력, 성장 가능성 등을 종합 평가해 ‘올해의 혁신상’을 수여한다. 선정된 기업은 비바테크 메인</content:encoded>
+    </item>
+    <item>
+      <title>다이어트 중인데 자꾸 과식…경구 피임약 영향? [바디플랜]</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134142211/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134142211/2</guid>
+      <pubDate>2026-06-19T10:37:08.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134142184.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;호르몬 성분이 포함된 경구 피임약을 복용하는 일부 여성에서 폭식 관련 증상이 증가할 수 있다는 연구 결과가 나왔다. 미국 미시간주립대학교 켈리 클럼프(Kelly Klump) 교수 연구팀이 수행한 이번 연구는 경구 피임약 사용과 폭식 관련 증상 변화의 관계를 대규모로 조사한 첫 번째 사례로 평가된다.연구진은 미시간주립대 쌍둥이 등록부에 등록된 여성 422명(평균 연령  22세)을 대상으로 추적 관찰 연구를 진행했다. 이들은 모두 합성 에스트로겐과 프로게스틴을 함께 포함한 복합 경구 피임약을 복용하고 있었다.복합 경구 피임약은 호르몬이 들어 있는 ‘활성 피임약’과 호르몬이 없는 ‘비활성 피임약(위약)’으로 구성됐다. 호르몬은 일반적으로 에스트로겐(주로 에티닐에스트라디올)과 프로게스틴(합성 프로게스테론)이 들어 있다.참가자들은 연구 시작 전부터 최소 2.5개월 동안 같은 종류의 복합 경구 피임약을 복용하고 있었다. 1주기당 활성 알약 21정과 비활성 알약 7정을 복용했다.연구진</content:encoded>
+    </item>
+    <item>
+      <title>틱톡서 뜬 ‘고추장 버터 파스타’ 상품으로…“이용자 참여가 구매 이끈다”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260619/134142438/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260619/134142438/1</guid>
+      <pubDate>2026-06-19T10:47:58.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134142439.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;틱톡이 국내 브랜드와 에이전시 경영진을 대상으로 브랜드 마케팅 전략을 공유했다. 이용자 주목과 참여를 실제 소비와 구매 행동으로 연결하는 것이 디지털 광고 시장 핵심 과제로 떠오르고 있다고 설명했다.틱톡은 지난 17일 서울 포시즌스 호텔에서 ‘틱톡 CxO 서클 2026’을 열고 국내 주요 브랜드와 에이전시 경영진에게 브랜드 마케팅 해법을 제시했다고 19일 밝혔다.시치 우 틱톡코리아 글로벌 비즈니스 솔루션 제너럴 매니저는 ‘소비자가 마음을 기울이는 곳, 틱톡’을 주제로 발표했다. 그는 마케팅 중심이 단순 도달률 확보를 넘어 이용자의 주목과 참여를 얻는 방향으로 바뀌고 있다고 설명했다.우 GM은 틱톡에서 인기를 얻은 레시피가 실제 제품 출시로 이어진 GS25 ‘고추장 버터 파스타’ 사례를 소개했다. 고추장 버터 파스타는 틱톡에서 이용자들이 관련 레시피 영상을 따라 만들고 반응을 공유하면서 확산된 사례다. 온라인에서 형성된 관심이 실제 편의점 상품 출시로 이어지면서 플랫폼 내 이용자</content:encoded>
+    </item>
+    <item>
+      <title>Z폴드8 ‘칩플레이션’ 직격탄…‘360만원’ 두 번 접는 폰 웃돌까</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134142536/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134142536/1</guid>
+      <pubDate>2026-06-19T11:05:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134144486.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자(005930)가 오는 7월 공개할 예정인 폴더블폰 갤럭시Z폴드8과 갤럭시Z플립8 시리즈의 가격이 역대 최고가를 기록할 전망이다. 가파른 메모리 가격 인상세 탓이다.19일 IT외신 업계에 따르면 한국의 IT팁스터(유출가) 란즈크는 유럽 및 아시아 판매 채널을 통해 “갤럭시Z폴드8·플립8의 가격 인상이 확정됐다”고 밝혔다.이미 지난 2월 출시된 갤럭시S26 시리즈를 고려할 때, 갤럭시Z폴드8·플립8의 가격 인상은 거의 확정적인 상황이었다.갤럭시S26 시리즈는 지난해부터 세계적으로 본격화된 ‘칩플레이션’의 영향으로 256GB 모델은 9만 8600~9만 9000원, 512GB 모델은 20만 9000원씩 가격을 올린 바 있다. 약 10% 내외의 인상 폭이다.이번 갤럭시Z폴드8·플립8의 경우, 갤럭시S26 시리즈보다 가격 인상 폭이 훨씬 클 것으로 분석된다. 갤럭시S26 때보다도 메모리 가격이 더 큰 폭으로 올랐기 때문이다.삼성전자는 1분기 D램 가격 인상률을 100%로 결정</content:encoded>
+    </item>
+    <item>
+      <title>서울 창업 경쟁력 9위·가치 1000억弗…SBA “세계 혁신 도시로”</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134142627/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134142627/1</guid>
+      <pubDate>2026-06-19T11:19:38.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134142626.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 창업 생태계 평가기관 ‘스타트업 지놈(Startup Genome)’이 서울시 창업 생태계가 꾸준히 성장해 20206년 기준 세계 9위 수준의 경쟁력을 갖췄다고 분석했다. 서울시, 서울시의 창업 정책 실행 기관인 서울경제진흥원(이하 SBA, 대표 김현우)은 스타트업의 꾸준한 성장과 일자리 창출을 적극 지원해 세계 혁신 도시로 발전할 포부를 밝혔다.스타트업 지놈은 세계 주요 도시의 창업 생태계의 정보를 정밀하게 분석하고 평가한다. 이 결과를 토대로 2012년부터 세계 창업 생태계 보고서를 발간하며 ‘창업하기 좋은 도시’를 공개하는데, 서울시는 2024년 9위에 이어 2025년 8위, 2026년 9위를 각각 차지했다.스타트업 지놈은 서울시 창업 생태계의 스타트업 투자 금액, 스타트업 엑시트의 가치 평가를 더한 생태계 가치가 2018년부터 2025년까지 1000억 달러(약 153조9500억 원) 이상 성장했다고 밝혔다. 동시에 5만 개 이상의 고부가가치 일자리가 만들어졌고, 이보다</content:encoded>
+    </item>
+    <item>
+      <title>수도권·강원·영남 일부 폭염주의보…주말 비 내리고 누그러져</title>
+      <link>https://www.donga.com/news/Society/article/all/20260619/134142524/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260619/134142524/1</guid>
+      <pubDate>2026-06-19T11:32:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134142773.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;연일 전국에 푹푹 찌는 날씨가 이어지면서 강원권에도 올해 첫 폭염주의보가 발령됐다. 이번 더위는 주말 전국에 비가 내리며 한풀 꺾일 것으로 보인다. 기상청은 19일 오전 10시 강원 춘천 지역에 폭염주의보를 발령했다. 17일 영남 일부 지역과 18일 수도권에 발령한 폭염주의보도 유지했다. 이날 전국의 낮 최고기온은 25~33도로 예보됐다. 폭염주의보는 하루 최고 체감온도가 33도 이상인 상태가 이틀 이상 지속될 것으로 예상될 때 발효된다.20일 전국에 비가 내리면서 더위는 누그러질 전망이다. 19일 밤 남부지방에서 시작돼 이날 낮 전국으로 확산하는 비는 제주 50~180mm, 전남 50~100mm 등 남부지방을 중심으로 많은 양이 내릴 전망이다. 수도권과 강원 내륙, 전북, 충청 및 경상권 30~80mm, 동해안에는 50~100mm가 예상된다. 아침 최저기온은 19~23도로 평년보다 덥지만, 낮 최고기온은 22~29도 수준에 그치겠다.이번 비가 장맛비는 아니다. 정체전선을 밀어</content:encoded>
+    </item>
+    <item>
+      <title>내 정보도 털렸을까? 티빙 개인정보 유출 사고 대응 방법은</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134143112/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134143112/1</guid>
+      <pubDate>2026-06-19T12:48:51.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134143106.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 온라인 동영상 서비스(OTT) 티빙(TVING)이 해킹 공격을 받아 이용자 개인정보가 유출되는 사태가 발생했다. 유출된 정보에는 기본 인적 사항뿐만 아니라 연계정보(CI)와 중복가입확인정보(DI)까지 포함돼 2차 피해 우려가 커졌다. 티빙은 지난 6월 1일 침해 사고를 신고했으며, 3일 홈페이지 공지를 통해 이용자 개인정보 유출 사실을 알리고 공식 사과했다. 티빙에 따르면 신원 미상의 해커가 이용자 개인정보가 저장된 데이터베이스(DB)에 비인가 접근해 파일을 외부로 무단 전송한 흔적이 포착됐다. 유출된 항목은 아이디, 이름, 생년월일, 성별, 연계정보(CI), 중복가입확인정보(DI), 휴대전화번호(마지막 4자리 암호화), 이메일(도메인 제외 ID 부분 암호화), 환불 계좌번호(암호화), 비밀번호(단방향 암호화), 제휴 서비스 이용 정보, 보유 캐시 금액 및 누적 캐시 결제 정보, 결제 이력 정보 등이다.과학기술정보통신부(이하 과기정통부), 개인정보보호위원회(이하 개인정보위)</content:encoded>
+    </item>
+    <item>
+      <title>[스타트업人] 군집드론 위한 AI 자율비행 기술 개발, 모빌리티랩 개발자 이야기</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134143578/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134143578/1</guid>
+      <pubDate>2026-06-19T13:38:22.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134143499.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘스타트업人’은 빠르게 발전하고 성장하는 스타트업 속에서 일하는 사람의 이야기를 담고자 합니다. 정확히는 ‘그들은 무슨 일을 할까?’라는 궁금함을 풀고자 합니다. 많은 IT 기업이 ‘인재’를 채용하기 위해 치열하게 경쟁하는데, 정작 해당 인재는 그 기업에서 무슨 일을 하는지 궁금하잖아요. 예를 들어, 같은 부서, 같은 직함을 가진 구글의 인재와 페이스북의 인재는 똑같은 일을 할까요?이번에 소개할 스타트업人은 이주형 모빌리티랩 AI자율비행개발팀장입니다. 모빌리티랩은 인공지능(AI) 자율비행 기술 기반 군집드론 솔루션을 개발하는 딥테크 기업입니다. AI 자율비행은 다수의 드론이 중앙 통제 없이 서로의 위치와 임무를 인지하고 현장의 장애물을 인지 및 회피하면서 동시에 비행하는 기술입니다.모빌리티랩은 AI 자율비행 군집드론을 이용한 농업 방제용 솔루션을 선보였으며, 농업기술원과 함께 진행한 기술검증(PoC)을 통해 기존 단일 드론 대비 60% 이상의 방제 비용 절감, 동일 시간에 8배</content:encoded>
+    </item>
+    <item>
+      <title>단순보조 넘어 실무주역으로…롯데이노베이트, 롯데그룹 AI 전환 ‘최선봉’</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134143780/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134143780/1</guid>
+      <pubDate>2026-06-19T14:00:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134143763.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;롯데그룹이 인공지능을 최우선 경영 당면 과제로 설정하고 디지털 전환 가속화에 박차를 가하고 있다. 단순한 보조 수단을 넘어 데이터 판독이나 문서 작성 등 실제 업무를 전담하는 기반 시설로 정착시켜, 구성원들이 핵심 과업에 몰두함으로써 효율성을 극대화한다는 복안이다.지난달 초부터 이달 초순까지 주말을 활용해 지도부 대상의 인공지능 특강을 전개했다. 신동빈 회장은 해당 기술로의 전환이 기업의 활로를 결정지을 중대 사안이라며, 근무 형태의 근본적인 체질 개선을 위해 전 직원이 디지털 비서 운용 능력을 배양할 수 있도록 전폭적으로 뒷받침하겠다고 공언했다.전산 시스템을 전담하는 롯데이노베이트는 그룹의 기조에 발맞춰 결합형 인공지능 플랫폼인 아이멤버를 통해 현업 지원에 나섰다. 내부 정보 보호와 상시 가동에 특화된 이 시스템은 향후 도입될 사외 생성형 기술과 결합해 임직원들의 활용도를 배가시킬 예정이다. 아울러 내외부 솔루션을 동시에 구동하는 복합 운용 체계를 바탕으로 가상 서버, 지능형</content:encoded>
+    </item>
+    <item>
+      <title>‘반려동물 장례 서비스’ 연내 도입…가정 방문해 사체 수습·화장</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260619/134143676/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260619/134143676/1</guid>
+      <pubDate>2026-06-19T14:29:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134144162.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이르면 9월 다양한 구독서비스 이용 내역을 한 번에 확인할 수 있는 서비스가 출시된다. 또 내년부터 공연이나 스포츠 관람권을 예매할 때 시야가 제한되는 좌석인지 미리 알 수 있게 된다. 구윤철 부총리 겸 재정경제부 장관은 19일 정부서울청사에서 비상경제본부 회의 겸 경제관계장관회의를 열고 ‘구독, 여가·문화 서비스 중심 생활밀착 서비스 개선방안’을 발표했다. 정부는 최근 확산하고 있는 다양한 구독서비스와 관련한 금융정보를 활용해 이용 내역을 간편하게 조회하고 관리할 수 있도록 지원하기로 했다. 이에 따라 금융정보를 통합 연계한 민간 구독관리 서비스가 9월쯤 출시될 예정이다. 이용자가 구독을 해지하지 못하도록 해지 절차를 까다롭게 설정하는 등의 이른바 ‘다크패턴’을 근절하기 위해 이에 대한 과태료를 최대 500만 원에서 최대 1000만 원으로 상향한다. 현재 시정명령과 과태료 규정을 두고 있는 전자상거래법 외에 전기통신사업법에도 다크패턴을 금지하는 규정을 추가하기로 했다.가전제품을 한</content:encoded>
+    </item>
+    <item>
+      <title>“태블릿에 그리면서 상담한다”…솔타메디칼-TNH,  ‘써마지 FLX 디지털 상담 솔루션’ 출시</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134144283/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134144283/1</guid>
+      <pubDate>2026-06-19T14:41:20.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134144140.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 뷰티 메디컬 시장의 화두는 단연 ‘개인 맞춤형 시술’이다. 환자마다 다른 얼굴형과 부위별 피부 노화 상태를 정교하게 반영해야 시술 만족도가 높아지기 때문이다.  이러한 트렌드에 맞춰 미용의학 전문기업 솔타메디칼코리아(대표 한상진)와 병·의원 통합 솔루션 기업 TNH(대표 이판호)가 손을 잡고 의료진과 환자 모두를 위한 ‘써마지 에프엘엑스 디지털 상담 솔루션(Thermage® FLX 디지털 상담 솔루션)’을 지난 18일 선보였다.  그동안 양 사는 TNH의 베가스CRM(VegasCRM) 솔루션을 기반으로 Thermage® FLX 시술 전 환자의 얼굴형과 부위별 노화 정도를 고려한 맞춤형 시술 상담이 가능하도록 디지털 툴을 개발하는 프로젝트를 공동 추진해 왔다. 베가스는 국내 피부과, 성형외과 등 미용의학 분야에서 시장 점유율 1위를 차지하고 있는 클라우드 기반의 EMR(전자의무기록)·CRM(고객관계관리) 통합 솔루션으로, 현재 전국 1,800여 개 이상의 병·의원에서 활용되</content:encoded>
+    </item>
+    <item>
+      <title>뉴욕 K-뷰티 거점이 된 ‘하우스 오브 케이’… 브루클린 속 작은 ‘서울’</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134144665/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134144665/1</guid>
+      <pubDate>2026-06-19T15:37:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134144637.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 브루클린 하나하우스(Hana House) 앞에 입장을 기다리는 대기열이 건물 외벽을 따라 길게 이어졌다. 지난 6월 13일부터 8월 31일까지 약 3개월간 문을 여는 K-뷰티/K-컬처의 장기 상설 공간, ‘하우스 오브 케이: 서울 뷰티 라운지(Haus of K: Seoul Beauty Lounge)’에 들어가려는 방문객들이었다.누리하우스 “가장 어려운 시장 먼저 간다”K-뷰티 마케팅 플랫폼 ’누리하우스(대표 백아람)‘는 자사의 크리에이터 커뮤니티 ’누리라운지‘의 확장 무대로 가장 까다로운 시장인 뉴욕을 택했다. ‘가장 어려운 곳에서 통하면 어디서든 통한다’는 전략이다.2024년 6월, 미국 맨해튼 소호의 작은 사무실에서 30여 명의 크리에이터와 함께 시작된 누리라운지는 1년 만에 현지 가입자 3만 명을 돌파했다. 이어 열린 ’K-뷰티 부스트 인 뉴욕‘ 행사는 수많은 인파와 현지 주요 바이어들을 불러모으며 가능성을 입증했다.과제도 남았다. 판매 기능의 부재, 단기 이벤트의</content:encoded>
+    </item>
+    <item>
+      <title>‘세기의 기대작’ GTA6 25일 사전판매 시작…공식 표지도 공개</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134144945/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134144945/1</guid>
+      <pubDate>2026-06-19T16:10:34.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134144946.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2026년 글로벌 게임 시장 ‘최대어’로 꼽히는 오픈월드 액션 어드벤처 게임 ‘그랜드테프트오토’(GTA)6가 오는 25일(현지시간)부터 사전판매를 시작한다.19일 미국 락스타게임즈는 공식 홈페이지와 유튜브를 통해 GTA6의 사전판매 계획을 발표하고 공식 아트워크를 공개했다.이번 GTA6의 사전판매는 오는 25일부터 플레이스테이션 스토어와 엑스박스(Xbox) 공식 스토어 등 디지털스토어와 주요 소매점을 통해 진행된다.GTA6는 미국 플로리다주 마이애미를 모티브로 만들어진 가상의 도시 ‘바이스 시티’를 배경으로 범죄 관련 임무를 수행하며 돌아다니는 장르의 게임이다.전작인 GTA5는 지난 2013년 출시된 뒤 역사상 가장 흥행한 게임 자리에 올랐다. 출시 5년 차인 2018년 누적 1억 장 판매 기록을 세웠다. 관련해 7개의 기네스 기록도 보유 중이다.장기간의 공백을 깨고 출시되는 GTA6 역시 전 세계에서 기대감이 모이고 있다. 이날 미국 백악관도 공식 엑스(X)에 GTA6의</content:encoded>
+    </item>
+    <item>
+      <title>한림대학교한강성심병원, 서울헬스쇼서 화상핫라인 체험 호응… 시민 1000여 명 찾아</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134142476/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134142476/1</guid>
+      <pubDate>2026-06-19T16:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134142632.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한림대학교한강성심병원(병원장 허준)은 지난 9일부터 11일까지 서울시청 광장에서 열린 동아일보 주최 ‘2026 서울헬스쇼’에 참가해 화상 예방부터 응급처치, 치료, 재활까지 아우르는 통합 의료서비스를 시민들에게 소개했다고 밝혔다.서울헬스쇼는 건강한 삶과 올바른 의료정보 제공을 위해 마련된 국내 대표 건강박람회로, 의료기관과 기업, 공공기관 등이 참여해 다양한 건강정보와 체험 프로그램을 제공하는 행사다.한림대학교한강성심병원은 행사 동안 홍보부스를 운영하며 국내 유일의 대학병원 기반 화상전문병원의 역할과 특화 진료체계를 소개했다. 특히 국내 최대 규모의 고압산소치료센터와 다학제 통합진료 시스템을 중심으로 화상 환자의 치료부터 재활, 심리 회복까지 이어지는 전주기 의료서비스를 알렸다.부스에서는 화상 응급처치 방법과 자가 드레싱 방법, 화상 환자 전원 절차, 진료 협력 체계에 대한 상담이 진행됐다.특히 병원이 운영 중인 ‘화상 핫라인(Burn Hot-Line)’이 큰 관심을 받았다. 화상</content:encoded>
+    </item>
+    <item>
+      <title>씨젠의료재단, 서울대 유전체의학연구소와 질병예측 유전자검사 ‘씨마이진’ 공동 개발</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134143473/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134143473/1</guid>
+      <pubDate>2026-06-19T16:20:38.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134143474.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;씨젠의료재단이 서울대학교 유전체의학연구소와 함께 질병 예측 유전자 검사 서비스 ‘씨마이진(SeeMyGene)’을 공동 개발했다고 밝혔다.씨마이진은 차세대염기서열 분석법(NGS)을 기반으로 개인의 유전체 정보를 분석해 암과 심뇌혈관질환, 대사질환 등에 대한 유전적 위험도를 확인하는 검사 서비스다.일반 건강검진이 현재 건강 상태를 확인하는 데 초점을 맞춘다면, 씨마이진은 특정 질환에 걸릴 가능성과 관련된 타고난 유전적 특성인 ‘유전적 질병 감수성’을 분석하는 검사다. 현재 질병 유무가 아니라 앞으로 어떤 질환에 상대적으로 취약할 수 있는지를 확인해 예방과 건강관리에 활용할 수 있도록 설계됐다.특히 서울대학교 유전체의학연구소와 공동 개발했으며, 한국인과 동아시아인의 유전 데이터를 반영해 분석 정확도를 높인 것이 특징이다. 단순히 질환 위험도를 제시하는 데 그치지 않고 개인별 건강관리 가이드도 함께 제공한다.검사 항목은 암, 심뇌혈관질환, 대사질환 등 주요 질환군으로 구성됐다. 암 분야에서</content:encoded>
+    </item>
+    <item>
+      <title>기술보다 토양 다지기 먼저…스노우플레이크, 데이터로 AI 돌파구 찾는다</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134145120/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134145120/1</guid>
+      <pubDate>2026-06-19T16:31:09.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134145117.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스노우플레이크가 한국 딜로이트 그룹이 주최하는 지식 공유의 장에 나서 기업형 인공지능 도입을 위한 해법을 제시한다. 스노우플레이크는 오는 24일 서울 JW 메리어트 호텔에서 열리는 ‘딜로이트 커넥트 코리아 2026’에 참가한다고 밝혔다.이번 행사에서 스노우플레이크는 데이터 인프라의 완성도를 뜻하는 데이터 준비도를 핵심 화두로 던진다. 이를 바탕으로 기업의 디지털 역량을 고도화하는 데이터 클라우드 기술과 자율형 조직 구현을 뒷받침할 개인용 인공지능 비서 스노우플레이크 코워크를 전면에 내세울 계획이다.분과 세션에서는 인공지능 시대를 맞이한 데이터 자산 관리 전략을 의제로 설정하고 재무, 마케팅, 공급망 관리 등 핵심 사업 영역의 전산 절차 혁신 방안을 발표한다. 발표자로 단상에 오르는 잭슨 스타우브 시니어 파트너 세일즈 엔지니어는 인공지능 도입의 성패가 단순한 기술 확보보다 내부 데이터의 정제 수준에 달려 있음을 역설할 예정이다. 아울러 실제 경영 판단과 실행으로 연결될 수 있도록</content:encoded>
+    </item>
+    <item>
+      <title>뉴젠헬스케어 “국산 천연물 소재로 바이오 시장 혁신할 것” [농업이 IT(잇)다]</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134145267/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134145267/1</guid>
+      <pubDate>2026-06-19T16:49:41.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134145248.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[KOAT x IT동아] 한국농업기술진흥원과 IT동아는 우리나라 농업의 발전과 디지털 전환을 이끌 유망한 스타트업을 소개합니다. 기발한 아이디어와 상품, 그리고 독창적인 기술로 우리의 삶을 윤택하게 할 전국 각지의 농업 스타트업을 만나보세요.한국건강기능식품협회에 따르면 2025년 국내 건강기능식품 시장 규모는 약 5조 9626억 원으로 2024년 대비 0.2% 성장했다. 코로나 팬데믹 이후 면역과 건강에 대한 관심이 높아졌고, 고령화 사회 진입과 예방 중심 건강 관리로 대중의 인식이 바뀌면서 시장 성장세는 꾸준히 이어지는 모습이다.시장의 외형적 성장과는 달리, 핵심 기능성 원료 대부분은 수입에 의존하는 구조다. 소비자들이 즐겨 찾는 시서스 추출물이나 관절 건강용 콘드로이틴이 대표적인 사례다. 효능을 갖춘 국산 소재가 적지 않음에도 시장의 흐름을 따라가지 못하는 셈이다. 그럼에도 누군가는 도전해야 국산 소재의 입지가 넓어지는 법이다.뉴젠헬스케어는 대한민국 내에서 자생하는 천연물에</content:encoded>
+    </item>
+    <item>
+      <title>업비트·빗썸, AI 에이전트 거래 지원···편리한 만큼 주의 필요</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134146087/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134146087/1</guid>
+      <pubDate>2026-06-19T17:24:38.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134146067.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 주요 디지털자산(가상자산) 거래소가 인공지능(AI) 에이전트 지원 서비스를 잇따라 선보였다. 업비트 운영사 두나무는 AI 에이전트가 일상 언어로 거래 기능을 수행하도록 돕는 ‘업비트 스킬’을 선보였고, 빗썸은 생성형 AI와 대화하며 시세 조회부터 실제 매매까지 처리할 수 있는 ‘AI트레이드킷’을 내놨다. 이를 이용하면 이용자는 코딩 지식 없이도 자동매매 환경을 구축할 수 있다. 이는 거래 편의성을 높이는 요소다. 다만 다양한 보안 위험을 야기하는 만큼 주의가 필요하다.대화만으로 거래 수행, AI 에이전트 거래AI 에이전트는 상황을 스스로 판단하고 단계를 계획해 실행하는 AI 시스템이다. 디지털자산 분야에서는 포트폴리오 모니터링, 시장 상황에 따른 자산 재분배, 조건부 주문 실행 등에 활용할 수 있다. 이렇게 AI 에이전트를 활용해 AI와 대화하며 시장을 분석하고 거래하는 방식을 ‘바이브 트레이딩’이라 한다. 개발자가 AI와 대화하며 코드를 작성 및 수정하는 ‘바이브 코딩’이</content:encoded>
+    </item>
+    <item>
+      <title>[AI써봄] 구글 번역 앱, 실시간 AI 통역 탑재···얼마나 빠르고 유용할까</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134146147/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134146147/1</guid>
+      <pubDate>2026-06-19T17:36:41.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134146115.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;※ 인공지능이 세상을 바꿉니다. IT동아 기자들이 만난 최신 인공지능 서비스와 기능을 독자들도 쉽게 접하도록 풀어서 알려드립니다.해외 출장 미팅이나 여행 중 길 묻기, 그리고 외국인과의 통화까지. 언어가 다른 상대와 실시간으로 대화해야 하는 순간은 생각보다 자주 찾아 오지만 매끄러운 소통은 여전히 쉽지 않다. 전문 통역사를 부르기엔 부담스럽고, 일반 번역 앱을 쓰자니 상대의 말이 끝나기까지 기다렸다가 결과를 확인하는 과정이 반복되며 대화 흐름이 끊길 수밖에 없다.글로벌 빅테크 기업 구글(Google)이 이 흐름을 바꾸는 번역 기능을 내놨다. 지난 6월 9일 공개된 ‘제미나이 3.5 라이브 트랜슬레이트(Gemini 3.5 Live Translate)’다. 기능명에 제미나이가 붙어 있어 구글의 AI 앱에서 쓰는 것으로 오해하기 쉽지만 일반 사용자가 접근할 수 있는 창구는 구글 번역 앱이다. 실제로 얼마나 유용한지 직접 테스트해봤다.기존 주요 기능 셋구글 번역 앱에는 주요 기능 세</content:encoded>
+    </item>
+    <item>
+      <title>[월간자동차] 26년 5월, 신차·중고차 판매량 급감</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134146550/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134146550/1</guid>
+      <pubDate>2026-06-19T18:16:50.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134146481.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘월간 자동차’는 월별 판매 데이터를 기준으로 자동차 소비 트렌드를 분석하는 월 1회 연재 코너입니다. 사용 연료별(휘발유, 경유, 전기 등) 신차 판매 현황, 신차와 중고차 판매 순위 등을 살펴봅니다. 국토교통부 자동차 등록 정보를 종합한 카이즈유데이터연구소와 한국수입자동차협회 집계를 참조했습니다.지난 2026년 5월 자동차 소비 트렌드를 살펴보면, 전월 대비 신차 등록이 큰 폭으로 줄었다. 직전월에 이어 연속으로 하락세를 보였다.국토부 자동차 등록 정보를 종합한 카이즈유데이터연구소에 따르면, 지난 2026년 5월 신차 등록 대수는 총 12만2249대로, 전월인 26년 4월(15만7247대)에 비해 22.3% 줄었다. 구체적으로 국산 신차 등록은 9만1958대로 전월(12만2757대) 대비 25.1% 줄었고, 수입 신차 등록도 3만291대로 전월(3만4490대) 대비 12.2% 하락했다.업계 관계자는 “지난 5월만 떼어놓고 보면 신차 등록이 급감한 것으로 보이지만, 지난 3월</content:encoded>
+    </item>
+    <item>
+      <title>팔란티어·오픈AI·엔비디아, ‘넥스트라이즈 2026’ 한자리에···글로벌 기업이 한국으로 향하는 까닭</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134146838/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134146838/1</guid>
+      <pubDate>2026-06-19T18:48:55.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134146811.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“AI 기술을 가장 빠르게, 가장 적극적으로 받아들이는 나라이자 지구상에서 가장 활기찬 스타트업 생태계 중 하나입니다.”마크 마나라(Marc Manara) 글로벌 AI 기업 오픈AI(OpenAI) 스타트업 총괄은 6월 18일 서울 강남구 삼성동에 위치한 코엑스에서 개막한 ‘넥스트라이즈 2026(NextRise 2026)’에 참석해 한국을 이렇게 평가했다.이번 넥스트라이즈에는 오픈AI를 포함해 퍼플렉시티(Perplexity), 팔란티어(Palantir), 엔비디아(NVIDIA), 마이크로소프트(Microsoft), 앤트로픽(Anthropic) 등 글로벌 AI 산업을 이끄는 기업이 대거 참여했다. 단순 전시 참가를 넘어 직접 컨퍼런스 연사로 나서거나 독자 행사를 여는 방식으로 한국 스타트업 생태계를 향한 무게감이 달라졌다는 평가가 나온다. 한국 스타트업 생태계와의 접점을 본격적으로 넓히려는 행보로도 풀이된다.오픈AI부터 팔란티어까지, 글로벌 AI 기업 집결넥스트라이즈는 첫날부터</content:encoded>
+    </item>
+    <item>
+      <title>[리뷰] 충전 스트레스 그만, 벨킨 울트라차지 Qi2 25W 모듈형 충전 독</title>
+      <link>https://www.donga.com/news/It/article/all/20260619/134147342/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260619/134147342/1</guid>
+      <pubDate>2026-06-19T19:59:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/19/134147098.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스마트폰, 스마트워치, 무선 이어폰(TWS) 등, 현대인들은 다양한 모바일 기기를 사용한다. 생활이 편리해진 반면, 이렇게 다양한 기기를 관리하는 것도 일이다. 특히 충전의 경우 무선 충전 기술이 대중화되어 편리해지긴 했지만, 실제로는 기기마다 별도의 충전기를 챙겨야 하거나 충전 속도가 유선에 비해 느려 번거로운 측면도 있다.특히 스마트워치는 제조사마다 독자적인 충전 규격을 사용하는 경우가 많다. ‘애플 워치’용 충전기로 ‘삼성 갤럭시 워치’를 충전할 수 없고, 그 반대의 경우도 마찬가지다. 시중에 판매되는 스마트 워치용 다중 무선 충전기가 대부분 애플 전용, 혹은 삼성 전용으로 나뉘어 출시되는 이유다.이번에 소개할 3-in-1 무선 충전기 ‘벨킨 울트라차지 Qi2 25W 모듈형 충전 독(Belkin UltraCharge Qi2 25W Modular Charging Dock, WIZ052)’은 이런 호환성 문제를 해결하기 위해 고안된 고속 충전 솔루션이다. 스마트폰과 스마트워치,</content:encoded>
+    </item>
+    <item>
+      <title>“아찔아찔한데 실신까지? 심장 두께 바로 검사해야”[베스트 닥터의 베스트 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20260620/134147106/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260620/134147106/2</guid>
+      <pubDate>2026-06-20T01:40:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/20/134145357.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;온몸을 돌며 산소를 공급한 혈액은 심장으로 귀환한다. 우심방과 우심실을 거쳐 폐로 간 뒤 정화된다. 신선한 혈액은 좌심방과 좌심실을 거쳐 대동맥을 통해 배출된다. 심장혈관에 문제가 생기면 정상 혈액 순환에 차질이 생긴다. 심근경색이나 협심증 위험이 커진다. 심장 근육이 지나치게 두꺼워졌을 때도 위험하기는 마찬가지다. 이 병이 바로 비후성 심근증이다. 비후성 심근증은 ‘젊은 급사’의 가장 큰 원인 중 하나다. 40대 이후에도 심부전 같은 치명적 합병증이 생기면서 급사 위험을 높인다. 김형관 서울대병원 순환기내과 교수는 “병에 대해 미리 알고 대처해야 치명적 결과를 막을 수 있다”고 말했다.● 좌심실 벽 두꺼워져 발생 좌심실이 온몸으로 혈액을 뿜어내려면 강한 근육이 필요하다. 우심실 벽 두께가 보통 3mm인 데 반해 좌심실 두께가 9mm인 게 이런 이유에서다. 다만 지나치게 두꺼워지는 것도 문제다. 좌심실 두께가 15mm 이상일 때 비후성 심근증으로 진단한다. 단, 가족력이 있거</content:encoded>
+    </item>
+    <item>
+      <title>“눈앞에 먼지가 아른”…실명위험 ‘이 질환’ 신호[몸의경고]</title>
+      <link>https://www.donga.com/news/It/article/all/20260620/134148136/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260620/134148136/1</guid>
+      <pubDate>2026-06-20T04:19:53.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/20/134148137.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;50대 직장인 남성 이모씨는 올해 초 눈앞에 먼지가 떠다니고 불빛이 깜빡거리는 듯한 증상을 느꼈다. 하지만 단순히 눈이 피로하다고 생각해 대수롭지 않게 여겼다. 그러나 증상이 계속되자 동네 안과를 찾았고 ‘망막박리’라는 진단을 받았다.급하게 수술이 필요한 상황이었지만 이씨가 찾은 병원에서는 수술이 힘들었고, 담당 의사는 평소 알고 있던 핫라인으로 응급 수술이 가능한 병원에 연락했다. 덕분에 이씨는 무사히 수술을 받아 시력을 보존할 수 있었다.20일 의료계에 따르면 망막박리란 말 그대로 망막이 떨어져 나온 질환이다. 안구 안쪽 벽에 붙어있어야 할 망막이 떨어져 들뜨게 된 상태를 말한다. 이렇게 망막이 뜨면 빛 자극을 받아들이는 시세포에 영양이 공급되지 않아 그 기능이 떨어지고, 이를 방치하면 시력에 치명적인 손상이 생기거나 영구적인 실명에 이를 수 있다.건강보험심사평가원에 따르면 망막박리 증상을 겪는 환자는 2010년 5만3148명에서 2021년 10만6855명으로 약 10년 사</content:encoded>
     </item>
   </channel>
 </rss>
