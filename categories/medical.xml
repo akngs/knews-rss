@@ -3,98 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-06-24T00:32:19.754Z</lastBuildDate>
-    <item>
-      <title>오픈베이스, ‘AI Discovery 2026’ 세미나 개최… AI 인프라·보안 전략 공유</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134165138/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134165138/1</guid>
-      <pubDate>2026-06-23T14:25:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134165139.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈베이스가 지난 18일 서울 양재 엘타워에서 ‘Openbase AI Discovery 2026’ 세미나를 개최했다고 밝혔다.이번 행사는 ‘인프라에서 보안까지, AI 시대 핵심 전략’을 주제로 열렸다. 생성형 AI 확산에 따라 기업들이 겪고 있는 인프라 구축과 데이터 보호, 보안 문제에 대한 대응 방안을 공유하기 위해 마련됐다.행사는 황철이 오픈베이스 대표의 환영사로 시작됐다. 황 대표는 “기업의 AI 도입이 단순한 기술 적용을 넘어 보안과 인프라를 기반으로 지속 가능한 성장으로 이어질 수 있도록 지원하겠다”고 말했다.이어 백기욱 상무가 ‘AI Everywhere: 하이브리드 인프라와 보안 통합 전략’을 주제로 기조연설을 진행했다.세미나에는 VMware by Broadcom, Veeam, Zscaler, Illumio 등 글로벌 IT 인프라·보안 기업도 참여했다. 각 기업은 프라이빗 클라우드 비용 최적화, AI 시대 데이터 백업 및 복구, 제로 트러스트 보안 체계, 마이크로세그멘테이</content:encoded>
-    </item>
-    <item>
-      <title>테슬라, 전기차 수요둔화 대응책으로 ‘컨테이너 데이터센터’ 도전할까</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134165426/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134165426/1</guid>
-      <pubDate>2026-06-23T14:25:22.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134165371.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전기차 제조사 테슬라가 모듈형 AI 데이터센터 사업을 시작할 수 있다는 관측이 나왔다. 테슬라는 지난 6월 18일 미국 특허상표청 중 인공지능 컴퓨팅을 위한 모듈형 데이터센터 하드웨어 시스템 항목에 ‘메가포드(Megapod)’라는 상표를 출원했다. 일단은 제품이 없더라도 향후 사용할 목적으로 출원하는 ‘사용 의도(Intent to Use)’ 상태다.테슬라는 지난 2023년부터 자체 AI 슈퍼컴퓨터인 도조(Dojo)를 개발하며 독자적인 AI 인프라 생태계를 구축하려 했다. 다만 엔비디아 반도체 수급이 원활해지고, 도조 자체의 동영상 처리 성능의 한계를 맞으며 프로그램 자체를 종료했다. 데이터센터 및 대규모 AI 인프라와는 멀어지는 것처럼 보였다.게다가 휴머노이드 ‘옵티머스’ 구동, 완전 자율 주행(FSD) 목적으로 설계한 자체반도체 Ai4를 비롯한 자체 반도체는 피지컬 AI 용도로는 실용 단계에 접어들었지만 대규모 서버용 AI 목적으로는 적합하지 않다. 텍사스 기가팩토리에 구축한</content:encoded>
-    </item>
-    <item>
-      <title>중고차 이전 등록부터 단말기 변경까지 한 번에…‘하이패스 명의이전 자동 연동’</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134165921/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134165921/1</guid>
-      <pubDate>2026-06-23T15:13:14.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134165907.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중고차를 구매한 뒤 차량 명의이전 등록까지 마쳤더라도 놓치기 쉬운 절차가 있다. 바로 하이패스 단말기 명의변경이다. 이를 진행하지 않을 경우 통행료 미납 안내를 제때 받지 못하거나, 긴급 상황 발생 시 연락 체계에 혼선이 생길 수 있다. 하지만 상당수 운전자는 차량 명의이전 등록은 신경 써도 하이패스 단말기 명의변경까지는 인지하지 못하는 경우가 많다.이 같은 행정 사각지대를 줄이기 위해 비대면 자동차 명의이전 플랫폼 ‘카방’이 한국도로공사와 손잡고 하이패스 단말기 명의변경 절차를 차량 소유권 이전 과정에 통합했다. 자동차 소유권 이전등록과 하이패스 단말기 명의변경을 하나의 절차로 처리할 수 있도록 지원하는 기능이다.중고차 거래 이후 남아 있던 ‘하이패스 사각지대’ 보완중고차 거래가 늘어나면서 차량 명의이전 절차는 점차 디지털화되고 있다. 반면 하이패스 단말기 명의변경은 여전히 별도 절차로 인식하는 경우가 많다.실제 중고차 구매 이후 차량 명의는 변경했지만, 하이패스 단말기 명</content:encoded>
-    </item>
-    <item>
-      <title>구글, 스크린에도 베팅…美독립영화 배급사에 1152억원 투자</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134165457/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134165457/1</guid>
-      <pubDate>2026-06-23T15:17:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/133202312.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;생성형 인공지능(AI)의 저작권 침해 논란으로 기술 도입에 신중했던 할리우드 빗장을 풀고 구글이 영화 제작사와의 협업에 나섰다.구글 딥마인드는 22일(현지 시간) 미국 독립영화 스튜디오 A24와 파트너십을 맺고 약 7500만 달러(약 1152억 원)를 투자한다고 밝혔다. 유튜브를 통해 온라인 동영상 시장을 장악한 구글이 영화 제작사에 직접 지분을 투자하고 연구 협력 관계를 맺는 것은 이번이 처음이다.  양측은 AI로 영상을 단순히 생성하는 수준을 넘어 영화 제작과 배급 과정에서 활용할 맞춤형 AI 도구를 공동 개발할 계획이다. 현장 창작자들의 의견을 반영해 실제 제작 환경에 맞는 기능을 만드는 데 주력한다는 설명이다.  데미스 허사비스 구글 딥마인드 최고경영자(CEO)는 성명에서 “아티스트에게 실질적인 힘을 보태는 도구를 만들려면 그들과 직접 협력하는 것이 가장 좋은 방법”이라며 “초기 단계부터 업계 리더들과 함께 창작자들의 예술적 비전을 구현하고 진정성 있는 스토리텔링을</content:encoded>
-    </item>
-    <item>
-      <title>中대표 CDMO업체 빠진 ‘바이오 USA’…삼바 부스에 발길 이어졌다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134164607/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134164607/1</guid>
-      <pubDate>2026-06-23T17:13:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134168016.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국바이오협회(BIO)가 주관하는 세계 최대 제약·바이오 박람회인 ‘2026 바이오 인터내셔널 컨벤션(바이오 USA)’이 22일(현지 시간) 미국 캘리포니아주 샌디에이고에서 막을 올렸다. 25일까지 나흘간 열리는 이 행사에는 첫날부터 수천 명의 글로벌 바이오 기업 관계자와 투자자들의 발길이 이어졌다.   특히 ‘글로벌 공급망 재편’과 ‘인공지능(AI) 사업화’가 올해 바이오 USA의 핵심 키워드로 부상한 가운데 한국에서도 삼성바이오로직스, SK바이오팜, 롯데바이오로직스, 셀트리온 등 152곳의 기업과 기관이 공식 참여하며 사업 기회 확보를 위해 분주히 움직였다. ● 中 ‘우시바이오’ 3년 연속 불참  이날 행사가 열린 샌디에이고 컨벤션센터는 공식 개막 시간인 낮 12시 이전부터 목에 비표를 건 행사 참가자들로 인산인해를 이뤘다. 행사장에는 글로벌 빅파마부터 스타트업까지, 전 세계 70여 개국에서 온 기업들의 부스가 1600개 이상 마련됐다.   그러나 과거 주요 참가기업이</content:encoded>
-    </item>
-    <item>
-      <title>[위클리AI] “AI 검색 더 신뢰할 수 있게” 오픈AI·게티이미지 손잡았다 외</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134168591/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134168591/1</guid>
-      <pubDate>2026-06-23T18:31:34.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134168511.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)이 세상을 바꾸고 있습니다. AI는 이제 우리 일상에서 떼려야 뗄 수 없는 핵심적인 요소입니다. 한 주간 세계를 들썩이게 만든 글로벌 빅테크 기업부터 우리 일상에 직접 영향을 미칠 새로운 AI 소식까지 핵심만 짚어드립니다.게티이미지, 오픈AI와 파트너십 체결 ‘챗GPT에 라이선스 이미지 공급’글로벌 시각 콘텐츠 기업 게티이미지(Getty Images)가 글로벌 AI 기업 오픈AI(OpenAI)와 다년간 콘텐츠 표시 계약을 맺고, 챗GPT(ChatGPT)의 검색·탐색 경험에 라이선스 시각 콘텐츠를 제공하기로 했습니다.게티이미지는 6월 21일(이하 현지 시간) 오픈AI와 디스플레이 파트너십을 체결했다고 발표했습니다. 이번 계약에 따라 게티이미지의 라이선스 콘텐츠 라이브러리가 챗GPT 내 검색 및 탐색 경험 전반에 노출됩니다.이번 파트너십의 핵심은 단순한 데이터 제공 계약이 아닌 디스플레이 계약이라는 점입니다. 게티이미지의 콘텐츠가 챗GPT 사용자에게 직접 표시되는</content:encoded>
-    </item>
-    <item>
-      <title>F5, “분산된 인프라 전반에서 일관된 보안 역량 확보해야”</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134168999/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134168999/1</guid>
-      <pubDate>2026-06-23T19:21:21.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134168992.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 애플리케이션 전송·보안 기업 F5가 ‘F5 앱월드 서울 2026’ 개최에 앞서 서울 삼성동 웨스틴 서울 파르나스에서 기자간담회를 열었다. F5는 하이브리드 멀티 클라우드와 인공지능(AI) 시대 기업들이 복잡한 보안 과제를 해결하기 위한 애플리케이션 전송 및 보안 플랫폼(Application Delivery and Security Platform, ADSP) 비전을 공개했다.이형욱 F5코리아 지사장은 “올해로 글로벌 30주년을 맞이한 F5는 파트너와 고객사가 복잡한 비즈니스 과제를 해결하고, 애플리케이션을 안정적으로 전송 및 보호할 수 있도록 지속적으로 지원하고 있다”며, “F5는 ADSP를 통해 한국 기업들이 일관된 보안, 성능, 복원력을 바탕으로 안정적인 환경에서 혁신을 추진할 수 있도록 돕겠다”고 강조했다.쿠나 날라판(Kunaciilan Nallappan) F5 아시아태평양·중국·일본(APCJ) 지역 마케팅 부사장은 현재 기업 환경을 바꾸는 세 가지 흐름으로 하이브리드</content:encoded>
-    </item>
-    <item>
-      <title>에이수스, ‘엑스퍼트북 울트라’ 앞세워 국내 기업용 노트북 시장 정조준</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134169874/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134169874/1</guid>
-      <pubDate>2026-06-23T21:26:50.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134169840.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 컨슈머 및 게이밍 노트북 시장의 강자인 에이수스(ASUS, 시스템 사업부 지사장 잭 황)가 국내 커머셜(기업용) PC 시장 공략에 속도를 내고 있다. 에이수스는 6월 23일, 서울 콘래드 서울에서 ‘ASUS Business’ 기자간담회를 열고 국내 커머셜 비즈니스 전략과 함께 신형 플래그십 비즈니스 노트북 ‘엑스퍼트북 울트라(ExpertBook Ultra)’를 공개했다.다양한 커머셜 제품을 직접 만져볼 수 있는 체험존도 행사장 한쪽에 마련됐다. 엑스퍼트북 울트라를 비롯해 엑스퍼트북 B 시리즈와 P 시리즈, 업무용 데스크톱 ‘엑스퍼트센터’, 교육 및 중소기업 시장을 겨냥한 크롬북, 엔터프라이즈용 워크스테이션 및 서버, 그리고 에이수스의 자회사인 아수스토어(ASUSTOR)의 NAS 제품까지 폭넓은 커머셜 솔루션이 전시되어 취재진의 눈길을 끌었다.컨슈머 노트북 시장 2위에서 커머셜 시장으로행사의 포문은 카인 창(Kayin Chang) 에이수스 시스템 비즈니스 그룹 커머셜 사업</content:encoded>
-    </item>
-    <item>
-      <title>‘AI 타이어 레시피’로 개발기간 50% 줄였다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134168206/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134168206/2</guid>
-      <pubDate>2026-06-24T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134170230.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“제자리에서 그냥 ‘카트라이더’ 게임을 하는 것 같겠지만, 페달을 밟는 강도부터 모든 데이터가 저장되고 있습니다.” 최근 방문한 대전 유성구에 있는 한국타이어 연구소인 ‘한국테크노돔’ 내 드라이빙 시뮬레이터실. 멈춰 있는 레이싱 카에서 파노라마 형태 대형 스크린을 앞에 두고 최대 시속 약 300km로 가상 주행을 체험했다. 단 몇 분의 주행이었음에도 바로 옆 연구원의 컴퓨터에 수 GB(기가바이트)의 데이터가 쌓였다. 드라이빙에 적용된 ‘가상 타이어’의 노면 접지력, 마모 정도 등 타이어 성능과 관련된 세세한 항목들이 체크된 것. 소프트웨어 정의 차량(SDV·하드웨어가 아닌 소프트웨어가 차량의 성능을 결정하고 지속적으로 업그레이드되는 차) 시대 완성차 제조사들은 타이어 업체에 개발 기간 단축과 빠른 전략 수정을 위해 이 같은 ‘버추얼 타이어’ 제출을 요구하고 있다. 과거 실물 타이어를 먼저 만들고 시험기에서 측정한 데이터를 바탕으로 디지털 모델을 사후 구축하는 식이었지만, 이젠 그</content:encoded>
-    </item>
-    <item>
-      <title>“K바이오가 中 빈자리 채운다” AI 접목 신기술에 발길 북적</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134168392/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134168392/2</guid>
-      <pubDate>2026-06-24T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134170202.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국바이오협회(BIO)가 주관하는 세계 최대 제약·바이오 박람회인 ‘2026 바이오 인터내셔널 컨벤션(바이오 USA)’이 22일(현지 시간) 미국 캘리포니아주 샌디에이고에서 막을 올렸다. 25일까지 나흘간 열리는 이 행사에는 첫날부터 수천 명의 글로벌 바이오 기업 관계자와 투자자들의 발길이 이어졌다.  특히 ‘글로벌 공급망 재편’과 ‘인공지능(AI) 사업화’가 올해 바이오 USA의 핵심 키워드로 부상한 가운데 한국에서도 삼성바이오로직스, SK바이오팜, 롯데바이오로직스, 셀트리온 등 152곳의 기업과 기관이 공식 참여하며 사업 기회 확보를 위해 분주히 움직였다. ● 中 ‘우시바이오’ 3년 연속 불참 이날 행사가 열린 샌디에이고 컨벤션센터는 공식 개막 시간인 낮 12시 이전부터 목에 비표를 건 행사 참가자들로 인산인해를 이뤘다. 행사장에는 글로벌 빅파마(대형 제약사)부터 스타트업까지, 전 세계 70여 개국에서 온 기업들의 부스가 1600개 이상 마련됐다.  그러나 과거 주요 참가</content:encoded>
-    </item>
-    <item>
-      <title>구글, 美 영화 제작사 ‘A24’에 7500만 달러 투자</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134168388/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134168388/2</guid>
-      <pubDate>2026-06-24T00:30:00.000Z</pubDate>
-      <content:encoded>구글이 할리우드 영화 제작사 A24와의 협업에 나섰다. 저작권 침해 논란으로 인공지능(AI) 기술 도입에 보수적이었던 할리우드에서도 AI에 대한 시각이 달라지는 모습이다. 구글 딥마인드는 22일(현지 시간) 미국 독립영화 스튜디오 A24와 파트너십을 맺고 약 7500만 달러(약 1152억 원)를 투자한다고 밝혔다. 유튜브를 통해 온라인 동영상 시장을 장악한 구글이 영화 제작사에 직접 지분을 투자하고 연구 협력 관계를 맺는 것은 이번이 처음이다. 양측은 AI로 영상을 단순히 생성하는 수준을 넘어 영화 제작과 배급 과정에서 활용할 맞춤형 AI 도구를 공동 개발할 계획이다.  데미스 허사비스 구글 딥마인드 최고경영자(CEO)는 성명에서 “아티스트에게 실질적인 힘을 보태는 도구를 만들려면 그들과 직접 협력하는 것이 가장 좋은 방법”이라며 “초기 단계부터 업계 리더들과 함께 창작자들의 예술적 비전을 구현하고 진정성 있는 스토리텔링을 지원할 AI 기능을 구축하겠다”고 밝혔다. 할리우드는</content:encoded>
-    </item>
-    <item>
-      <title>넥슨, 2500억 민관 펀드 조성… 국내 게임 스타트업 육성 계획</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134168386/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134168386/2</guid>
-      <pubDate>2026-06-24T00:30:00.000Z</pubDate>
-      <content:encoded>넥슨은 앞으로 5년간 2500억 원 규모의 민관 합동 펀드를 조성해 국내 신생 게임 개발사 육성에 나설 계획이라고 23일 밝혔다. 최근 시장 투자 심리가 위축되며 유망한 초기 스타트업조차 자금 조달에 어려움을 겪고 있는 상황이다. 여기에 ‘마중물’을 부어 차세대 K게임 씨앗을 키우겠다는 게 넥슨의 구상이다. 넥슨은 이를 위해 신규 법인인 넥슨파트너스를 세우고 전문 벤처캐피털(VC) ‘코나벤처파트너스’와 함께 정부 모태펀드 600억 원을 포함한 1200억 원 규모의 전략 펀드를 조성했다. 이 펀드로 초기 투자를 집행한 뒤 넥슨이 1300억 원을 추가 투입해 후속 성장을 돕는 방식이다. 이정헌 넥슨파트너스 대표는 “민관 협력으로 초기 자금 공백을 해소하고 AI 전환을 계기로 나올 차세대 글로벌 지식재산권(IP)을 발굴하겠다”고 말했다.</content:encoded>
-    </item>
-    <item>
-      <title>삼성SDS, 공공업무 혁신 ‘AI 풀스택 전략’ 공개</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134168359/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134168359/2</guid>
-      <pubDate>2026-06-24T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134170172.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성SDS가 경기 고양시 킨텍스 제2전시장에서 열린 ‘2026 공공 AI 박람회’에 참가해 공공 업무와 대국민 서비스 혁신을 위한 인공지능(AI) 풀스택 전략을 공개했다. 행정안전부가 주최하고 한국지능정보사회진흥원(NIA)이 주관한 이번 박람회는 중앙정부와 지방자치단체, 민간기업이 공공 AI 전환(AX) 전략과 혁신 사례를 공유하는 행사다. 삼성SDS는 AI 에이전트 플랫폼 ‘패브릭스’와 협업 솔루션 ‘브리티웍스’, AI 데이터센터를 중심으로 공공 분야 AI 적용 사례를 소개했다. 전시장에서는 민원 내용을 AI가 자동으로 요약하고 담당 부처를 분류하는 서비스와 조달 법령 해석, 정부24 AI 검색 서비스 등 실제 행정 업무에 활용되는 사례를 시연했다. 모바일 협업 분야에서는 이동 중 브리핑과 문서 공유 및 실시간 회의 기능을 선보였으며, 공공 AI 인프라 분야에서는 삼성 클라우드 플랫폼(SCP)과 AI 데이터센터를 연계한 운영 전략과 재해 복구 서비스 청사진도 공개했다.</content:encoded>
-    </item>
+    <lastBuildDate>2026-06-25T00:37:11.758Z</lastBuildDate>
     <item>
       <title>강아지랑 놀고, 세계로 모험 떠나고… 어드벤처 게임 2종 출시</title>
       <link>https://www.donga.com/news/Economy/article/all/20260623/134160126/2</link>
@@ -129,167 +38,6 @@
       <guid>https://www.donga.com/news/Economy/article/all/20260623/134160545/2</guid>
       <pubDate>2026-06-24T04:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160543.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;㈜케이티(KT)의 사장이지가 ‘2026 국가서비스대상’ 소상공인 매장관리 솔루션 부문 대상을 수상했다. 소상공인 전용 통합 플랫폼 ‘사장이지’는 2025년 6월 출시 이후 1년이 채 되지 않은 시점인 지난 5월 기준 가입자 10만 명을 돌파하며 소상공인 시장에서 높은 관심을 받고 있다. 매장 운영과 사업 성장에 필요한 기능을 하나의 앱으로 통합 제공하는 새로운 플랫폼 형태로 시장을 개척하며 소상공인 디지털 전환 플랫폼으로 자리 잡고 있다는 평가다. 기존 소상공인 대상 서비스들이 주문·결제·홍보 등 개별 기능 중심이었다면 사장이지는 △매장 운영 △사업 성장 △AI 업무 지원 △창업 정보 △혜택 등을 하나의 앱으로 연결한 통합형 플랫폼이라는 점에서 차별화된다. 테이블 오더 관리, AI 전화 응대, CCTV 및 보안 관리, 매출 비교 분석, 성공 인사이트 콘텐츠 등 매장 운영에 필요한 다양한 기능을 제공하고 있으며 최근에는 직원 출퇴근·급여·업무 관리를 지원하는 근태관리 서비스도 새롭</content:encoded>
-    </item>
-    <item>
-      <title>기술력-레퍼런스로 암호 플랫폼 구축</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134160549/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134160549/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160547.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;펜타시큐리티㈜의 D.AMO(디아모)가 ‘2026 국가서비스대상’ 사이버보안 솔루션 부문 대상을 수상했다. 최근 개인정보 유출 및 기업의 민감 데이터 탈취 사고가 국내외에서 빈번하게 발생하며 사이버 보안의 중요성이 그 어느 때보다 강조되고 있다. 이러한 환경에서 가장 근본적인 방어책은 데이터 자체를 보호하는 암호화와 암호 키 관리다. 사이버 보안 전문기업 펜타시큐리티의 암호 플랫폼 D.AMO는 20년이 넘는 시간 동안 데이터 보호의 근간이 되는 암호화와 키 관리를 통해 안전한 디지털 환경을 선도하고 있다. D.AMO는 암호 기술의 상용화를 이끈 최초 주자이자 출시 20년이 넘은 현재까지 시장 최고의 위치를 굳건히 지키고 있는 독보적 암호 플랫폼이다. 데이터베이스 내의 정형 데이터뿐만 아니라 이미지, 로그 파일, 영상 등 기하급수적으로 늘어나는 비정형 데이터까지 촘촘하게 암호화해 기업 데이터 보호의 사각지대를 없앤다. 이러한 기술력을 바탕으로 공공과 금융권을 비롯한 수많은 기업 고객</content:encoded>
-    </item>
-    <item>
-      <title>라이프스타일 맞춤형으로 고객가치 ‘업’</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134160554/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134160554/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160551.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;㈜케이티(KT)의 KT멤버십이 ‘2026 국가서비스대상’ 통신 멤버십 부문 대상을 수상했다. KT멤버십은 약 1100만 명의 고객이 이용하는 생활 밀착형 멤버십 서비스로 고객의 이용 패턴과 라이프 사이클을 반영한 혜택 설계를 통해 차별화된 고객 경험을 제공하고 있다. 외식, 카페, 쇼핑, 영화, 여행 등 일상 전반에 걸쳐 150여 개 제휴사와 협력해 다양한 할인과 프로모션을 제공하며 고객이 체감하는 실용적인 혜택을 지속 확대해오고 있다. 특히 KT멤버십은 생활 밀착형 혜택 중심의 서비스 구조를 통해 경쟁력을 강화해 왔다. 매월 제공되는 ‘달달혜택’을 통해 외식·쇼핑·여가 영역의 인기 브랜드를 중심으로 높은 할인 혜택을 제공하며 생활 밀착 상품을 특가로 구매할 수 있는 ‘쇼핑라운지’를 통해 실질적인 비용 절감 효과를 제공한다. 고객 경험을 차별화하는 다양한 특화 서비스도 주목받고 있다. 고객 생일에 맞춰 제공되는 ‘개인화 생일 혜택’, 매월 인기 뮤지컬·전시 할인과 프라이빗 도슨</content:encoded>
-    </item>
-    <item>
-      <title>맞춤형 정보 제공… 현지 정착도 지원</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134160558/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134160558/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160556.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;농림수산식품교육문화정보원(이하 농정원)의 그린대로가 ‘2026 국가서비스대상’ 농업농촌 정책 플랫폼 부문 대상을 수상했다. 귀농귀촌 통합 플랫폼 ‘그린대로(www.greendaero.go.kr)’는 여러 곳에 흩어져 있는 귀농·귀촌 정책과 농지·주거, 일자리, 교육·복지 정보를 한곳에 모아 개인 맞춤형으로 제공하는 대한민국 대표 귀농귀촌 플랫폼이다.  ‘귀농어·귀촌 활성화 및 지원에 관한 법률’ 제12조에 근거해 2023년 7월 문을 연 뒤 2024년 5월 전면 리뉴얼을 거치며 귀농귀촌 가이드·종합정보·교육정보·체험정보·상담컨설팅·지자체관 등으로 서비스를 고도화해 왔다. ‘당신이 그린대로 귀농귀촌의 꿈이 이루어지는 곳’이라는 슬로건처럼 탐색부터 준비·성장까지 귀농귀촌 전 주기를 아우르는 통합 지원 체계를 구축한 것이 특징이며 2026년 6월 기준 누적 방문자 1843만 명, 누적 회원 20만 명을 넘어섰으며 86.4점의 높은 고객 만족도로 운영되고 있다. 그린대로는 단순한 정보</content:encoded>
-    </item>
-    <item>
-      <title>표준화한 품질 관리… 정보 유출 차단</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134160527/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134160527/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160525.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;㈜kt m&amp;s의 리본(Reborn)이 ‘2026 국가서비스대상’ 중고폰 유통 플랫폼 부문 대상을 수상했다. 2년 연속이다. 리본은 국내 중고폰 시장의 3대 허들(개인정보 유출 우려, 품질 불안, 가격 불투명성)을 해소하기 위해 통신 유통 전문기업 kt m&amp;s가 출범한 안심 거래 플랫폼이다. 단순 중개를 넘어 정밀 검수, 데이터 완전 삭제, 무상 보증, 거래 정보 공식 발급에 이르는 종단(End-to-End) 안심 서비스 체계를 구축했다. 온라인 플랫폼 ‘리본모바일’과 오프라인 KT플라자 전국 매장을 결합한 옴니채널(O4O) 구조로 고객 접근성을 극대화한 것도 강점으로 꼽힌다. 리본의 차별점은 ‘새 폰 같은 중고폰’을 표준화한 품질관리 시스템이다. 전문 엔지니어가 자체 검수 장비 ‘Reborn MRI’를 활용해 30여 가지 항목을 정밀 점검하고 A∼C 등 표준 등급제와 100% 실사진·투명한 가격 공시 정책으로 거래 정보의 비대칭성을 해소했다. 여기에 더해 구매 후</content:encoded>
-    </item>
-    <item>
-      <title>빠른 주유에 단골 고객 위한 ‘등급제 리워드’ 제공</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134160094/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134160094/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160086.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;에쓰-오일㈜의 MY S-OIL이 ‘2026 국가서비스대상’ 모바일 주유 앱 부문 대상을 수상했다. 4년 연속이다. MY S-OIL 앱이 간편결제 서비스 ‘빠른주유(S-OIL Pay)’의 지속적인 성장과 고객 중심의 디지털 서비스 강화로 입지를 넓혀가고 있다. 이는 고객 편의와 실질적 가치 제공을 통해 높은 고객 만족을 이끌어 낸 성과로 정유업계 디지털 서비스 경쟁력을 다시 한번 보여주고 있다. MY S-OIL은 실물 카드 없이 간편하게 결제할 수 있는 ‘빠른주유’를 비롯해 주유소 찾기, 단골 주유소 등록, 포인트 적립, 등급제 리워드 등 주유 고객을 위한 다양한 특화 서비스를 지속적으로 고도화하고 있다. 특히 빠른주유는 신용카드, 포인트, 모바일 상품권 등을 함께 적용해 결제할 수 있어 편리한 주유 경험을 제공하고 있으며 고객들의 긍정적인 입소문을 바탕으로 이용자가 꾸준히 증가하고 있다. 또한 MY S-OIL은 단골을 위해 4단계 등급제(Silver, Gold, VIP, VIP</content:encoded>
-    </item>
-    <item>
-      <title>일상과 비일상을 연결하는 주거 플랫폼으로 진화</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260623/134160098/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260623/134160098/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160096.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;㈜트러스테이의 노크타운이 ‘2026 국가서비스대상’ 아파트 생활 플랫폼 부문 대상을 수상했다. 3년 연속이다.  트러스테이는 주거 플랫폼 ‘노크타운’과 하이퍼 로컬 소통 플랫폼 ‘노크플레이스’를 연계해 통합 사용자 100만 명을 돌파하는 메가급 성과를 거뒀다. 2024년 이후 매년 전년 동기 대비 350%의 폭발적인 성장세를 유지한 결과다. 단지 커버리지 역시 대폭 확대돼 2026년 기준 1100여 단지, 110만 가구가 사용하는 주거 플랫폼으로 거듭났다는 평가를 받았다. 특히 트러스테이는 기술적으로도 진일보했다. 작년 한 해 동안 주거 특화 인공지능(AI) 관련 지식재산권(IP)을 대거 확보하며 주거 환경의 디지털 전환(DX)을 선도했다. 지난해에만 주거 AI 관련 특허 6종을 출원하고, 3종의 특허등록을 완료하며, 차별화된 기술력을 입증했다. 놓치기 쉬운 단지 정보를 요약해 주는 ‘단지 AI 리포트’, 동일 면적 가구와의 비교를 통해 소비 효율을 높이는 ‘관리비 AI 리포트</content:encoded>
-    </item>
-    <item>
-      <title>[헬스캡슐]대웅제약, 국립대병원 2곳에 ‘AI 모니터링 시스템’ 구축 外</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160821/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160821/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160820.3.jpeg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;■ 대웅제약, 국립대병원 2곳에 ‘AI 모니터링 시스템’ 구축대웅제약은 전남대병원과 화순전남대병원에 인공지능(AI) 기반 스마트 병상 모니터링 시스템 ‘씽크(thynC)’ 구축을 완료했다고 밝혔다. 총 558병상(전남대병원 217병상·화순전남대병원 341병상) 규모로 국립대병원 가운데 최대 규모 구축 사례다. 씽크는 입원 환자에게 착용형(웨어러블) 기기를 부착해 심박수와 호흡수 등 생체 정보를 연속적으로 수집·분석하고 이상 징후가 발생하면 의료진에게 실시간 알림을 제공하는 스마트 병상 모니터링 시스템이다. 이를 통해 환자 상태 변화를 조기에 감지하고 신속한 진료와 응급 대응을 지원한다. 전남대병원은 순환기내과와 신경과, 응급의학과 등 중증·응급 환자 비중이 높은 병동에 씽크를 도입해 환자 안전관리 역량을 강화할 계획이다. 화순전남대병원은 종양내과와 혈액내과, 외과 등 암 환자가 집중되는 병동을 중심으로 시스템을 구축해 감염과 패혈증 등 위험 상황에 대한 조기 대응 체계를 마련</content:encoded>
-    </item>
-    <item>
-      <title>“돌아서면 잊어버려”… 뇌 건강 챙겨야 할 때</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160812/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160812/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160807.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“나한테 그런 말을 했다고? 언제?” “내가 뭘 하려고 여기 왔더라?” 나이가 들면서 누구나 흔히 경험하는 일이다. 대부분은 “나이 들면 다 그렇지”라며 대수롭지 않게 넘긴다. 하지만 전문가들은 이런 반복적인 깜빡함을 단순히 건망증으로 봐서는 안 된다고 경고한다. 기억력은 단순히 과거를 떠올리는 능력이 아니다. 정보를 판단하고, 상황을 이해하며, 적절한 결정을 내리는 모든 과정의 출발점이다. 기억력이 흔들리기 시작하면 인지력이 떨어지고, 인지력이 떨어지면 판단력도 함께 영향을 받는다. 현관문 비밀번호가 떠오르지 않아 집에 못 들어가고, 늘 다니던 길이 갑자기 낯설어져 길을 잃는 일은 더 이상 남의 일이 아니다. 심해지면 가족을 못 알아볼 수도 있다. 많은 사람이 노후 준비를 이야기할 때 건강한 다리와 심장을 먼저 떠올린다. 그러나 전문가들은 노년의 삶을 좌우하는 가장 중요한 기관은 결국 ‘뇌’라고 말한다. 아무리 몸이 건강해도 기억력과 인지력이 무너지면 일상생활은 물론 경제활동,</content:encoded>
-    </item>
-    <item>
-      <title>하루 한 번 섭취로 인지력-기억력 개선</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160845/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160845/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160841.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;메모리메이트가 중장년층을 위한 두뇌 건강기능식품으로 인기를 얻고 있다. 과학적으로 검증된 두뇌 건강 기능성 원료인 포스파티딜세린과 은행잎 추출물의 기능성으로 인정받은 결과다. 메모리메이트는 인지력 개선 기능성 원료인 포스파티딜세린과 기억력·혈행 개선 기능성 원료인 은행잎 추출물을 함유하고 있어 노화로 감소되는 인지력과 기억력 개선에 도움을 준다. 여기에 항산화 작용을 하는 비타민 E까지 더해 인지력·기억력·혈행·항산화를 동시에 케어할 수 있다. CJ웰케어 ‘닥터뉴트리 메모리메이트’에 사용된 포스파티딜세린은 100% 식물성 원료에서 추출한 것으로 식약처로부터 노화로 인해 저하된 인지력 개선에 도움을 줄 수 있는 기능성 원료로 인정받았다. 대두에 단 0.001%만이 존재하는 극소량의 핵심 성분인 포스파티딜세린을 국내 유일(2025년 11월 기준)의 제조 공법으로 추출해 지표 성분 손실을 최소화한 원료다. 국내에서 생산되는 포스파티딜세린 중 가장 높은 최대 순도를 자랑한다. 포스파티딜</content:encoded>
-    </item>
-    <item>
-      <title>포스파티딜세린-은행잎추출물 건기식 70% 할인</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160839/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160839/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160837.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;㈜씨너지아이앤티의 건강기능식품 브랜드 메디트리가 ‘인지력 기억력 포스파티딜세린 징코’ 70% 할인을 진행한다. 인지력 기억력 포스파티딜세린 징코는 미국산 순도 70%의 포스파티딜세린을 사용했다. 포스파티딜세린은 인지질의 한 종류로 뇌세포와 세포막의 주요 성분이다. 나이가 들어감에 따라 우리 몸에서 충분히 합성되지 않아 식품을 통한 보충이 필요하다. 포스파티딜세린은 식약처로부터 노화로 인해 저하된 인지력 개선, 자외선에 의한 피부 손상으로부터 피부 건강 유지, 피부 보습에 도움을 줄 수 있음을 인정받은 기능성 원료다. 또한 깜빡이는 기억력 개선과 혈행 건강을 위해 은행잎 추출물을 함께 배합했다. 기능성 원료인 은행잎 추출물은 인체적용시험을 통해 △학습 효율성 유의적 개선 △작업 기억력 유의적 개선 △단어, 색채 기억력 유의적 개선 등을 인정받았다. 주원료인 포스파티딜세린과 은행잎 추출물은 식물에서 추출한 원료로 유전자 조작을 하지 않은 비유전자변형(Non-GMO) 원료를 사용</content:encoded>
-    </item>
-    <item>
-      <title>여름철 두피 기초 체력 높이려면… 특허 성분 ‘앵커레인’으로 관리</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160835/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160835/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134163316.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;본격적인 여름이 시작되는 6월은 기온이 훌쩍 오르고 습도 또한 높아지는 시기다. 덥고 습한 날씨와 강렬한 자외선은 땀과 피지 분비를 촉진해 두피의 유·수분 균형을 깨뜨리고 모근을 약화시키는 주범이 된다. 한여름 무더위와 장마가 찾아오기 전에 두피의 기초 체력을 다지고 모발이 자라나는 환경을 튼튼하게 정비해야 하는 이유다. 클리닉 시장 및 탈모 치료제 분야에서 탄탄한 입지를 다져온 JW신약은 여름철 환경 자극으로 지친 두피를 위한 일상 속 홈케어 솔루션으로 프랑스 제약사 피에르파브르의 더모코스메틱 브랜드 듀크레이가 선보인 ‘네옵타이드 엑스퍼트’를 제안한다.더모코스메틱 브랜드의 노하우… 모근 ‘지탱력’에 집중 JW신약이 국내 판매를 전담하고 있는 네옵타이드 엑스퍼트는 듀크레이가 선보인 모발 케어 화장품이다. 이 제품은 기존 헤어 제품들이 단순히 모발 겉면에 치중했던 것과 달리 모발이 자라나는 토양인 ‘두피’와 ‘모근’ 관리에 집중했다. 제품의 핵심은 특허 성분 ‘앵커레인’이다.</content:encoded>
-    </item>
-    <item>
-      <title>“어제 일도 가물가물”… 기억력 살리는 포스파티딜세린 주목</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160789/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160789/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160788.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;우리나라가 초고령사회에 진입하면서 치매는 노년층의 삶을 위협하는 대표 질환으로 떠오르고 있다. 중앙치매센터에 따르면 국내 치매 환자는 2015년 약 63만 명에서 2024년 약 79만 명으로 증가했으며 2025년에는 100만 명을 넘었을 것으로 추산된다. 치매의 전 단계로 여기는 경도인지장애 환자 역시 2025년 236만 명 수준으로 늘어난 것으로 추산된다. 급격한 고령화에 따라 치매 관리의 중요성도 커지고 있다.베타아밀로이드, 인지 기능 약화… 최소화가 관건 가장 흔한 퇴행성 뇌 질환인 알츠하이머성 치매는 전체 치매의 50∼80%를 차지한다. 가설에 따르면 ‘베타아밀로이드’라는 단백질이 뇌에 쌓이면서 세포 간 연결 고리를 끊고 뇌세포를 파괴한다. 현재로서는 약물 치료 및 다양한 수단을 통해 인지 기능 저하를 최소화하고 증상을 완화하는 ‘관리’가 최선이다. 유병률은 60대 후반(2%)에서 70대 후반(10%)으로 갈수록 급증하며 가족력이 있을 경우 발병 확률이 3배까지 높아</content:encoded>
-    </item>
-    <item>
-      <title>혈우병 환자, ‘평범한 내일’을 꿈꾸다[기고/구홍회]</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160793/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160793/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160792.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;혈우병은 혈액응고인자가 선천적으로 부족해 출혈이 쉽게 발생하고 잘 멎지 않는 희귀질환이다. 환자들은 평생 크고 작은 출혈 위험에 노출돼 있으며 특히 생명을 위협하는 뇌출혈과 반복적인 관절 출혈로 인해 심각한 합병증을 겪을 수 있다. 실제로 혈우병 환자의 90% 이상은 관절 손상과 장애를 경험하는 것으로 알려져 있다. 이러한 합병증을 예방하기 위해 부족한 응고인자를 정기적으로 보충하는 예방 요법이 현재 치료의 핵심으로 자리 잡고 있으며 많은 환자가 2∼3일 간격으로 자가 주사를 시행하고 있다.국내 혈우병 치료 환경의 의미 있는 발전 지난 몇 년간 국내 혈우병 치료 환경은 환자 중심으로 꾸준히 개선돼 왔다. 대표적으로 2019년 처방 기준 개선을 통해 안정적인 환자의 경우 4주에 한 번 병원을 방문해 한 달 치 치료제를 처방받을 수 있게 되면서 환자들의 시간적·경제적 부담이 크게 줄었다. 최근에는 환자별 약물 소실 속도를 분석하는 약동학(PK) 검사가 도입되면서 개인별 특성에</content:encoded>
-    </item>
-    <item>
-      <title>휴엠앤씨 베트남 공장 성공적 안착… 사상 최대 분기 실적 달성</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160798/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160798/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160795.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;휴온스그룹 헬스케어 부자재 전문기업 휴엠앤씨가 베트남 의료용기 공장을 본격 가동하며 실적 개선 및 수익성 강화가 지속되고 있다. 2002년 설립한 휴엠앤씨(대표 이충모)는 앰풀 등 의료 및 미용 유리용기와 화장 소품 등 헬스케어 부자재를 제조하는 기업이다. 휴엠앤씨는 앞서 베트남 생산 공장인 ‘휴엠앤씨 비나(HuM&amp;C Vina)’ 설립을 계기로 사업 영역과 생산 역량을 늘리는 한편 미래 성장을 위한 연구개발(R&amp;D)을 이어가면서 성장 발판을 마련하고 있다.베트남 공장 기반 성장 지속 휴엠앤씨 비나는 휴온스그룹의 첫 해외 생산 기지이자 휴엠앤씨의 베트남 법인이다. 베트남 흥옌성에 위치한 베트남 공장은 약 1만5000㎡(4500평) 규모로 연간 바이알 6000만 개, 카트리지 9000만 개 생산 능력을 갖췄다. 베트남 공장은 지난해 2분기부터 생산 라인을 본격 가동하며 해외 생산 거점 역할을 시작했다. 휴엠앤씨는 공장의 안정적인 가동을 위해 현지 채용을 늘리고 직원</content:encoded>
-    </item>
-    <item>
-      <title>먹는 알부민은 단백질 보충의 일부, 만능 영양제 아니다[기고/김정환]</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160852/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160852/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160860.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 TV 광고와 홈쇼핑, 인터넷 쇼핑몰을 중심으로 다양한 ‘알부민 제품’이 소개되고 있다. 특히 중장년층을 대상으로 ‘알부민 보충, 활력 회복, 체력 증진’ 등의 문구를 내세우며 관심을 끌고 있다. 알부민은 우리 몸에서 가장 많은 양을 차지하는 혈장 단백질이다. 간에서 합성되며 혈관 내 삼투압 유지, 호르몬과 약물 운반, 항산화 작용 등 다양한 역할을 수행한다. 혈중 알부민 수치가 낮아지면 영양 상태가 나쁘거나 만성질환이 동반된 경우가 많아 임상적으로 중요한 지표로 활용된다. 이러한 이유로 알부민이 건강의 상징처럼 인식되면서 ‘먹는 알부민’ 제품에 대한 관심도 높아지고 있다. 그러나 의학적 관점에서 몇 가지 중요한 사실을 이해할 필요가 있다. 입으로 먹는 ‘경구 알부민’은 위와 소장에서 소화 과정을 거치며 아미노산과 작은 펩타이드 형태로 분해된다. 즉 알부민 분자가 원형 그대로 흡수돼 혈액 속으로 들어가는 것은 아니다. 결국 몸은 이를 단백질의 재료인 아미노산으로 활용해 필요에</content:encoded>
-    </item>
-    <item>
-      <title>“연속혈당측정기 사용한 2형 당뇨 환자, 합병증 크게 줄여”</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160856/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160856/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160854.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;당뇨병 환자 대부분은 경구 혈당강하제로 혈당을 조절하지만 질환이 진행되면서 인슐린 치료가 필요한 환자도 적지 않다. 특히 하루 여러 차례 인슐린을 투여하는 집중 인슐린 치료 환자는 혈당 변동성이 크고 저혈당 위험이 크기 때문에 정교한 관리가 필요한 고위험군으로 꼽힌다. 이들 환자는 식사와 운동, 수면, 인슐린 투여 시점 등에 따라 혈당이 크게 변할 수 있다. 같은 음식을 먹더라도 혈당 반응이 달라질 수 있고 야간 저혈당과 같은 위험 상황도 발생할 수 있다. 실제로 신장질환, 심혈관질환, 신경병증 등 당뇨병 합병증 위험도 크다. 최근에는 연속혈당측정기(CGM)가 혈당 관리의 새로운 도구로 주목받고 있다. 특정 시점의 혈당만 확인하는 자가 혈당 측정과 달리 하루 24시간 혈당 변화 추이를 확인할 수 있기 때문이다. 최근 국내 연구에서는 집중 인슐린 치료가 필요한 제2형 당뇨병 환자에서 CGM이 임상적 효과뿐 아니라 비용효과성도 확보한 것으로 나타났다. 연구를 진행한 김재현 삼성서울</content:encoded>
-    </item>
-    <item>
-      <title>회복-재활도 포함… 심정지 치료 새 표준 발표</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160948/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160948/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134163170.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 심정지 환자 치료의 표준이 되는 ‘2025 한국형 심폐소생술 가이드라인’이 최근 발표됐다. 5년 만에 개정된 이번 가이드라인은 기존의 심폐소생술과 제세동 중심 접근에서 한 걸음 더 나아가 환자의 회복과 재활까지 포함하는 방향으로 확대됐다. 또한 불응성 심실세동 환자에 대한 새로운 제세동 전략과 구조자 교육 체계 강화 등이 주요 내용으로 담겼다. 질병관리청과 대한심폐소생협회가 공동 개발한 한국형 심폐소생술 가이드라인은 국제소생술교류위원회(ILCOR)의 최신 권고안을 바탕으로 5년마다 개정되는 국가 표준 진료 지침이다. 전국 응급의학과와 중환자의학과 의료진은 물론 응급구조사 및 관련 교육기관이 심정지 환자를 처치할 때 기준으로 활용한다. 이번 가이드라인 개정에는 16개 전문 학회 추천 전문가들이 참여했으며 국제적 근거 평가 체계인 GRADE 방법론을 적용해 권고안을 마련했다. 가장 눈에 띄는 변화는 ‘생존 사슬’ 개념의 확장이다. 기존에는 심정지 인지, 신고, 심폐소생술, 제세</content:encoded>
-    </item>
-    <item>
-      <title>기침-피 섞인 가래… 폐가 보내는 비명일까?[홍은심 기자의 긴가민가 질환시그널]</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160951/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160951/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160950.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기침이 오래 지속되는데도 감기나 기관지염 정도로 생각하고 넘기는 사람이 적지 않다. 특히 흡연자라면 ‘담배를 오래 피워서 그런가 보다’라고 여기기 쉽다. 하지만 2주 이상 기침이 계속되거나 피가 섞인 가래가 나오고 이유 없이 체중이 줄거나 숨이 차다면 폐암의 신호일 수 있다. 폐암은 국내 암 사망 원인 1위다. 그중에서도 ‘소세포폐암’은 가장 공격적인 폐암으로 꼽힌다. 전체 폐암의 약 15%를 차지하지만 성장 속도가 빠르고 조기에 림프절이나 간, 뇌, 뼈 등으로 전이되는 경우가 많다. 특히 환자의 98% 이상이 흡연 경험을 가진 것으로 알려져 대표적인 흡연 관련 암으로 분류된다. 안진석 삼성서울병원 혈액종양내과 교수는 “소세포폐암은 흡연과의 연관성이 매우 높은 암으로 비흡연자에게 발생하는 경우는 드물다”며 “담배를 오래 피울수록 발병 위험이 크게 높아지기 때문에 고위험군은 정기적인 폐암 검진이 중요하다”고 말했다. 소세포폐암의 가장 큰 문제는 초기 증상이 뚜렷하지 않다는 점이다</content:encoded>
-    </item>
-    <item>
-      <title>‘펄스장 절제술’ 건보 적용… 심방세동 치료 ‘2000만→200만 원’</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160942/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160942/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160941.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;심방세동은 국내 유병률이 최근 10년간 약 2배로 가파르게 증가해 가장 흔한 부정맥 질환으로 자리 잡았다. 심방세동은 방치할 경우 뇌중풍(뇌졸중) 발생 위험을 5배, 심부전 위험을 3배가량 높인다. 사망률 역시 일반인 대비 2배 가까이 높아 중증 심뇌혈관 질환의 가장 큰 위험인자로 꼽힌다. 특히 심방세동 관련 뇌졸중의 약 60%가 진단 초기에 집중적으로 발생한다는 점에서 조기 진단과 치료에 대한 사회적 관심이 중요하다.  그동안 표준 치료법으로 고주파 절제술이나 냉각풍선 절제술이 시행됐다. 각각 열과 냉각 에너지를 이용해 이상 부위를 격리하는 원리다. 그러나 이런 열에너지 활용 방식은 폐정맥과 인접한 식도나 횡격막 신경 등 주변 조직에 의도치 않은 열 손상을 입힐 가능성이 있다. 의료진의 숙련도에 따라 위험을 관리해 왔지만 해부학적 구조상 발생할 수 있는 합병증에 대한 우려를 완전히 해소하는 데는 기술적 한계가 있었다.  이런 한계를 극복하기 위해 등장한 ‘펄스장 절제술(PFA·</content:encoded>
-    </item>
-    <item>
-      <title>소화불량인 줄 알았는데… 담도암 환자 59%가 ‘3기 이상’에서 발견</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160916/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160916/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134167908.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;담도암은 간에서 만들어진 담즙이 이동하는 통로인 담도에 발생하는 악성종양이다. 국내에서는 비교적 드문 암으로 분류되지만 예후가 좋지 않아 대표적인 난치 암 중 하나로 꼽힌다. 문제는 초기 증상이 뚜렷하지 않아 상당수 환자가 암이 진행된 뒤에야 진단받는다는 점이다. 담도는 간 내부의 간내 담도와 간 밖의 간외 담도로 나뉜다. 담도암은 발생 위치에 따라 간내 담도암, 간문부 담도암, 원위부 담도암 등으로 구분된다. 초기에는 특별한 증상이 없는 경우가 많고 나타나더라도 소화불량이나 복부 불편감, 피로감 등 일상에서 흔히 경험하는 증상과 비슷해 조기 발견이 쉽지 않다. 암이 진행되면 황달이 나타나는 경우가 많다. 눈 흰자위와 피부가 노랗게 변하고 소변 색이 짙어지거나 대변 색이 옅어질 수 있다. 이 밖에도 복통, 식욕 저하, 체중 감소, 전신 피로감, 가려움증 등이 동반될 수 있다. 하지만 이러한 증상 역시 다른 소화기 질환과 구분이 쉽지 않아 진단이 늦어지는 경우가 적지 않다. 실제</content:encoded>
-    </item>
-    <item>
-      <title>평소 멀쩡했는데 갑자기 ‘벼락 두통’… 뇌동맥류 파열 의심</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160919/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160919/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160918.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;뇌동맥류는 흔히 ‘머릿속 시한폭탄’으로 불린다. 뇌혈관 벽 일부가 약해지면서 풍선처럼 부풀어 오르는 질환으로 대부분 특별한 증상 없이 진행되다가 파열되면 치명적인 지주막하출혈로 이어질 수 있다. 실제로 뇌동맥류 파열 환자 3명 중 1명이 사망하는 것으로 알려져 있으며 생존하더라도 심각한 신경학적 후유증이 남을 수 있다. 건강보험심사평가원 자료에 따르면 국내에서 비파열성 뇌동맥류로 진료받은 환자는 연간 19만 명에 이른다. 뇌 자기공명영상(MRI)이나 컴퓨터단층촬영(CT) 검사가 보편화되면서 건강검진 과정에서 우연히 발견되는 사례도 늘고 있다. 다만 모든 뇌동맥류가 치료 대상은 아니다. 동맥류의 크기와 위치, 형태, 환자의 나이와 전신 상태 등을 종합적으로 고려해 치료 여부를 결정한다. 최근에는 개두술뿐 아니라 코일 색전술, 혈류 변환 스텐트 삽입술 등 혈관 내 치료가 발전하면서 치료 선택지가 다양해졌다. 특히 과거 치료가 쉽지 않았던 대형 동맥류나 광경부 동맥류에도 적용할 수 있</content:encoded>
-    </item>
-    <item>
-      <title>여름만 되면 다리 붓고 아프다? 하지정맥류 신호일 수도</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160874/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160874/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160873.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;다리가 자주 붓고 무겁거나 저린 증상이 있으면 단순 피로로 여기기 쉽다. 하지만 이러한 증상이 반복된다면 하지정맥류를 의심해 볼 필요가 있다. 특히 기온이 높아지는 여름철에는 혈관이 확장되면서 증상이 더욱 뚜렷해질 수 있어 주의가 필요하다. 하지정맥류는 다리 정맥 내벽에 있는 판막 기능이 약해지거나 손상돼 혈액이 심장 방향으로 원활하게 흐르지 못하고 역류하면서 발생하는 질환이다. 정맥 내 혈액이 고이면서 혈관이 늘어나고 꼬이게 되는데 시간이 지나면 피부 밖으로 울퉁불퉁하게 튀어나온 혈관이 관찰되기도 한다. 여름철에는 높은 기온으로 인해 혈관이 평소보다 확장된다. 이에 따라 정맥 내에 혈액이 머무는 시간이 길어지고 다리 부종이나 통증, 무거움 등의 증상이 심해질 수 있다. 휴가철 야외 활동 증가와 장시간 걷기, 오래 서 있는 생활도 증상 악화에 영향을 미친다. 하지정맥류는 성인에게 비교적 흔한 질환이지만 초기 증상이 뚜렷하지 않아 치료 시기를 놓치는 경우가 적지 않다. 초기에는</content:encoded>
-    </item>
-    <item>
-      <title>평생 치료 필요한 황반변성, ‘연 2회 주사’ 시대 열리나</title>
-      <link>https://www.donga.com/news/It/article/all/20260623/134160906/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260623/134160906/2</guid>
-      <pubDate>2026-06-24T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/23/134160887.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;눈 망막 중심부인 황반에 이상이 생겨 시력 저하를 일으키는 ‘황반변성’은 노년층 실명의 주요 원인으로 꼽히는 질환이다. 최근 황반변성 국내 환자 수는 불과 몇 년 새 50% 이상 증가했다. 문제는 이 질환이 초기에는 증상이 거의 없어 발견이 늦고 치료를 놓치게 되면 시력 저하를 넘어 실명까지 이어질 수 있다는 점이다. 이준엽 서울아산병원 안과 교수는 “치료를 시작하더라도 반복적인 주사 치료 부담으로 중간에 치료를 포기하는 경우가 적지 않다”며 “최근엔 주사 투여 횟수를 연간 2회까지 획기적으로 줄일 수 있는 치료제도 등장한 만큼 습성 황반변성을 늦게 발견해 실명으로 고생하지 않았으면 좋겠다”고 말했다. 이 교수를 만나 습성 황반변성의 특징과 최신 치료법에 대해 자세히 알아봤다.초기 증상 없어 더 위험한 ‘습성 황반변성’ 한국이 초고령사회에 진입하면서 최근 3대 실명 질환 중 하나인 황반변성의 유병률도 빠르게 증가하고 있다. 건강보험심사평가원에 따르면 황반변성으로 진료받은 환자는</content:encoded>
     </item>
     <item>
       <title>일본은 이미 시작…韓 장마, 제주 30일·내륙 7월초 가능성</title>
@@ -337,8 +85,8 @@
       <title>의대 정원 늘었지만 일반전형은 감소…비수도권 70% ‘지역선발’</title>
       <link>https://www.donga.com/news/Society/article/all/20260624/134171156/1</link>
       <guid>https://www.donga.com/news/Society/article/all/20260624/134171156/1</guid>
-      <pubDate>2026-06-24T09:15:33.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134171157.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2027학년도 의과대학 모집정원이 전년 대비 500명 가까이 늘었지만 지역 제한 없이 지원할 수 있는 일반전형 자리는 오히려 쪼그라든 것으로 나타났다.24일 입시정보 플랫폼 진학사에 따르면, 2027학년도 의대 모집인원(정원 내 기준)은 3508명이다. 이는 이번 입시부터 신설된 지역의사선발전형 모집인원(488명)을 포함한 수치다. 전년도(3016명)보다 492명 늘었다.지원 전형별로 보면 거주지나 출신 고교 지역에 상관없이 지원할 수 있는 일반전형 모집인원은 1757명이다. 전년도(1786명)보다 29명 줄었다. 의대 증원 이전 해인 2024학년도(1991명)와 비교해도 234명(11.8%) 감소한 수치다.지역선발전형 규모는 1751명으로 전년도(1230명) 대비 521명 늘었다. 2024학년도에는 1024명이었다.지역선발전형은 지역인재전형과 지역의사선발전형을 말한다. 지역인재전형은 해당 지방대학이 소재한 지역의 고등학교에서 입학부터 졸업까지 교육과정을 이수한 학생이 지원할</content:encoded>
+      <pubDate>2026-06-24T09:15:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172862.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2027학년도 의과대학 모집정원이 전년 대비 500명 가까이 늘었지만 지역 제한 없이 지원할 수 있는 일반전형 자리는 오히려 쪼그라든 것으로 나타났다.24일 입시정보 플랫폼 진학사에 따르면, 2027학년도 의대 모집인원(정원 내 기준)은 3508명이다. 이는 이번 입시부터 신설된 지역의사선발전형 모집인원(488명)을 포함한 수치다. 전년도(3016명)보다 492명 늘었다.지원 전형별로 보면 거주지나 출신 고교 지역에 상관없이 지원할 수 있는 일반전형 모집인원은 1757명이다. 전년도(1786명)보다 29명 줄었다. 의대 증원 이전 해인 2024학년도(1991명)와 비교해도 234명(11.8%) 감소한 수치다.지역선발전형 규모는 1751명으로 전년도(1230명) 대비 521명 늘었다. 2024학년도에는 1024명이었다.지역선발전형은 지역인재전형과 지역의사선발전형을 말한다. 지역인재전형은 해당 지방대학이 소재한 지역의 고등학교에서 입학부터 졸업까지 교육과정을 이수한 학생이 지원할</content:encoded>
     </item>
     <item>
       <title>미세먼지, 폐 넘어 피부까지 악영향…건선 악화 위험↑</title>
@@ -353,6 +101,258 @@
       <guid>https://www.donga.com/news/Society/article/all/20260624/134171273/1</guid>
       <pubDate>2026-06-24T09:27:15.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134171274.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국의 3대 암 가운데 하나인 폐암은 더 이상 흡연자에게만 발생하는 질환이 아니다. 최근에는 담배를 피우지 않는 폐암 환자가 꾸준히 증가하는 것으로 나타났다. 특히 여성 폐암 환자의 약 87%는 비흡연자인 것으로 알려졌다. 분당서울대병원의 도움말로 최근 폐암의 특징과 발병 요인, 예방을 위한 생활 수칙 등을 알아본다.24일 의료계에서는 조리 과정에서 발생하는 연기, 미세먼지, 실내 라돈 등이 담배를 넘어 폐암 발생 요인으로 확대되고 있다.가정에서 주방에 오래 있거나 요식업에 종사할 경우 조리 중 발생하는 미세입자를 주의해야 한다. ‘조리흄’으로 불리는 이 미세입자는 폐암을 위험을 높이는 것으로 알려졌다. 대한폐암학회 조사 결과 주방에서 시야가 흐려질 정도로 연기가 발생하면 폐암 위험은 약 2.7배, 기름을 사용한 요리를 주 4회 이상 하면 약 3.7배 상승했다.생선이나 고기 속 단백질이 탈 때 발생하는 다환방향족탄화수소(PAH), 기름이 탈 때 나오는 벤조피렌 같은 발암물질</content:encoded>
+    </item>
+    <item>
+      <title>매시간 ‘5분 움직임’, 기분 ↑·피로 ↓…업무 효율 저하 없어 [건강팩트체크]</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134171515/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134171515/2</guid>
+      <pubDate>2026-06-24T10:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134171417.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;매시간 5분 정도 걷는 짧은 ‘움직임 휴식’이 오래 앉아 있는 생활의 건강상 해로움을 줄이는 데 실용적이고 효과적인 방법일 수 있다는 대규모 연구 결과가 나왔다.연구진은 ‘운동 간식’ 또는 ‘틈새 운동’이라고도 부르는 이러한 짧은 움직임 휴식이 기분을 개선하고 피로를 줄이면서도 업무 수행 능력을 떨어뜨리지 않는 것으로 나타났다며, 향후 신체활동 지침에 포함할 만한 공중보건 전략이 될 수 있다고 평가했다.연구 결과는 국제 학술지 ‘영국 스포츠의학 저널(British Journal of Sports Medicine)’에 발표됐다. 연구진에 따르면 고소득 국가 성인은 하루 평균 11~12시간을 앉아서 보낸다. 장시간 앉아 있는 생활이 건강을 해치는 이유 중 하나는 다리의 골격근과 다리 혈관의 활동이 감소하기 때문으로 여겨진다. 긴 좌식 생활은 심혈관질환, 당뇨병 등 여러 만성질환과 조기 사망 위험 증가와 관련돼 있어 중요한 공중보건 문제로 여겨진다.연구진은 규칙적으로 몸을 움직</content:encoded>
+    </item>
+    <item>
+      <title>“허리둘레 11.6cm 줄었다”…위고비, 동아시아인 연구 결과 보니 [바디플랜]</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134171549/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134171549/2</guid>
+      <pubDate>2026-06-24T10:15:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134171689.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;위고비가 동아시아인 대상 연구에서 내장지방을 평균 40% 줄이고 허리둘레를 11.6cm 감소시킨 것으로 나타났다. 근육 기능 개선 효과도 확인됐다.</content:encoded>
+    </item>
+    <item>
+      <title>“챗GPT 조언에 범행”…GPU 1700만원어치 훔친 40대 징역 1년</title>
+      <link>https://www.donga.com/news/Society/article/all/20260624/134172035/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260624/134172035/1</guid>
+      <pubDate>2026-06-24T10:58:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172036.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;컴퓨터 부품 판매점에서 고가의 컴퓨터 그래픽처리장치(GPU) 여러개를 훔쳐 달아났던 40대가 법원에서 징역 1년을 선고받았다.24일 법조계에 따르면 수원지법 평택지원 형사1단독 김대현 부장판사는 최근 특수절도 혐의로 기소된 A씨에게 이같이 선고했다.A씨는 지난 2월22일 오전 6시께 경기 평택시 청북읍의 한 컴퓨터부품 판매점에서 1700만원 상당의 GPU 3박스를 훔쳐 달아난 혐의를 받는다.그는 당시 복면을 쓰고 미리 준비한 전동 해머드릴로 업소의 유리문을 부수고 들어갔던 것으로 조사됐다.불법 리딩방 사기 피해자였던 A씨는 자신이 절도 범행을 저지른 뒤 그 수익금을 불법 리딩방 관련 계좌로 송금하면 피의자 불특정으로 중지됐던 수사가 재개될 것이라 오신해 이 사건 범행을 저질렀다고 변명했다. 이 과정에서 생성형 인공지능(AI) ‘챗GPT’로부터 조언을 받았다고도 주장했다.그러나 김 부장판사는 “피고인은 AI로부터 조언을 받았다는 취지로 진술했으나 휴대전화 포렌식 결과에서 이</content:encoded>
+    </item>
+    <item>
+      <title>평균 연령 17.8세, 게임으로 일 냈다…글로벌 51억 투자 유치</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134172043/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134172043/1</guid>
+      <pubDate>2026-06-24T13:45:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172085.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 게임 스타트업 벌스워크는 글로벌 벤처캐피탈(VC) 알토스벤처스로부터 270만 달러(약 41억 3000만 원)를 투자받았다고 24일 밝혔다. 기존 주주 스마트스터디벤처스도 10억 원을 추가 출자해 총 유치액은 51억 원이다. 벌스워크는 이날 로블록스 본사가 개발사를 지원하는 ‘로블록스 인큐베이터 2026’의 아시아 스튜디오로도 선정됐다. 벌스워크는 게임 플랫폼 로블록스 기반의 ‘UGC(이용자 제작 콘텐츠)’ 게임 전문 개발사다. 로블록스는 레고 블록 같은 도구로 누구나 게임을 만들어 수익을 내는 거대한 장터다. 코딩 전공이 없어도 무료 도구로 게임을 만들 수 있어 플랫폼을 즐기던 10대 유저가 직업 수준의 크리에이터이자 개발자로 곧바로 진화하기도 한다.실제 이 회사 개발자의 평균 연령은 17.8세다. 10대 직원은 전체 50여 명 중 10% 정도로 나머지 대다수는 20대 초반이다. 10대 임원도 포진해 있다. 부모 동의하에 자퇴한 개발자부터 학교를 마치고 출근하는 청소년까</content:encoded>
+    </item>
+    <item>
+      <title>삼성 ‘갤워치9’ 윤곽 나왔다…“색깔별로 스타일 다르네”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260624/134173086/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260624/134173086/1</guid>
+      <pubDate>2026-06-24T13:58:45.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134173087.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;다음달 출시될 삼성 갤럭시 워치9 윤곽이 나왔다. 디자인 대격변보다 완성도 개선에 초점을 맞추고 색상별 개성을 강화할 전망이다.24일 현재 유출된 정보를 종합하면 삼성 갤럭시 워치9은 전체 실루엣이나 베젤 두께가 전작과 유사해 디자인 자체의 변화는 크지 않을 것으로 예상된다. 소비자가 언뜻 봐서는 구형과 신형을 구분하기 어려울 정도다. 삼성전자는 디자인을 유지하는 대신 ‘색상 마케팅’을 전면에 내세웠다. 제품 크기는 기존처럼 40㎜와 44㎜ 두 가지로 나온다. 올해는 크기별로 고를 수 있는 색상을 엄격히 제한했다. 40㎜ 모델은 크림과 그래파이트, 44㎜ 모델은 실버와 그래파이트로만 구성된다. 모든 크기에 동일한 색상을 입혔던 과거 방식을 버렸다. 색상별로 스트랩(시곗줄) 조합도 다르게 매칭해 패션 아이템으로서의 개성을 강조할 방침이다. 이를테면 크림 모델은 밝고 패션 중심 이미지, 그래파이트는 클래식 및 비즈니스 지향, 실버는 범용성을 강조하는 식이다.이번 세대의 진짜 혁신</content:encoded>
+    </item>
+    <item>
+      <title>백진희 “필름 끊긴뒤 반지 팔찌 다 없어져…그 뒤로 술 끊었다”</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134172249/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134172249/2</guid>
+      <pubDate>2026-06-24T14:44:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134172233.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 백진희가 대학 시절 술에 취해 사라졌다가 다음 날 귀걸이와 반지, 팔찌까지 잃어버린 채 깨어났던 일화를 공개했다. 백진희는 당시 경험이 “너무 무서웠다”며 이후 술을 끊었다고 밝혔다. 전문가들은 이처럼 음주 후 기억이 끊기는 ‘블랙아웃’이 반복될 경우 알코올성 치매로 이어질 수 있어 주의가 필요하다고 본다.23일 백진희의 유튜브에는 백진희가 대학 동기들을 만나 학창 시절 이야기를 나누는 영상이 올라왔다. 백진희는 술을 끊게 된 결정적인 사건을 언급했다.백진희는 “그때 힘든 일이 있어서 이태원에서 친구들이랑 술을 마셨다. 정말 많이 마셨다. 마지막 기억이 4명에서 소주병이 8병까지 나왔다”며 당시를 떠올렸다. 이어 “그리고는 내가 사라졌다. 친구들이 난리가 났었다”고 말했다.다음 날 상황은 더 황당했다. 백진희는 “눈을 떠보니 귀걸이, 반지, 팔찌까지 다 없어졌다. 택시비도 눈탱이를 맞아서 8만 원 넘게 나와 있었다”고 밝혔다. 친구들은 당시를 떠올리며 웃음을 터뜨렸지만,</content:encoded>
+    </item>
+    <item>
+      <title>레드포스 PC방, 엔씨(NC)와 손잡고 ‘로블록스’ 런처 ‘Roboost’ 혜택 알리기 나선다</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134174137/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134174137/1</guid>
+      <pubDate>2026-06-24T15:58:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134174116.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;레드포스 PC방(레드포스 PC아레나)이 엔씨(NC)와 함께 ‘로블록스’ 굿즈 증정 이벤트를 오는 25일부터 7월 8일까지 13일간 개최한다. 이번 이벤트는 레드포스 PC방과 엔씨가 로블록스 PC방 전용 런처인 ‘Roboost’의 이용 활성화를 위해 기획한 것으로, 전국 매장 중 선정된 30개 매장에서만 단독 진행된다. 선정 매장은 레드포스 PC방 공식 SNS 채널을 통해 확인할 수 있다. 이벤트의 핵심 목적은 이용자들에게 ‘Roboost’ 런처만의 차별화된 편의성과 제휴 게임 혜택을 널리 알리는 것이다. ‘Roboost’ 런처를 통해 PC방 혜택이 적용되는 ‘로블록스’ 게임은 ‘오버킬(Overkill)’, ‘이베이드(Evade)’, ‘99 나이트 인 더 포레스트’, ‘댄디스 월드’, ‘브레인롯 훔치기’ 등이며, 게임 내 우측 상단의 ‘PC방 혜택 활성화’ 문구를 통해 적용 여부를 확인할 수 있다. 참여 방법은 이벤트 진행 매장으로 선정된 엔씨 패밀리존 레드포스 PC방에서 ‘Rob</content:encoded>
+    </item>
+    <item>
+      <title>“온·습도 자동 조절에 완벽 보안”…가전업계 ‘AI 모듈러 주택’ 시장 노크</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260624/134174514/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260624/134174514/1</guid>
+      <pubDate>2026-06-24T17:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134174698.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;24일 경기 화성시 ‘삼성 인공지능(AI) 모듈러 홈’ 쇼룸. 66㎡(약 20평) 크기의 모듈러 주택에 들어서면 ‘외출모드’였던 집이 ‘귀가모드’로 전환해 자동으로 조명이 켜지고 커튼이 열린다. 에어컨, 공기청정기도 작동하면서 온·습도, 이산화탄소 농도 등 미리 설정한 조건에 맞춰 냉난방공조가 최적화된다. 삼성전자가 주택 전문 기업 공간제작소와 협력해 만든 모듈러 주택이다. 삼성전자의 가전, AI 기술이 결합해 집 안 각종 기기를 사물인터넷(IoT) 플랫폼 스마트싱스로 제어, 관리할 수 있다.국내 가전 업계가 늘어나는 단독주택 수요에 맞춰 모듈러 주택 사업에 뛰어들고 있다. 가전 침체기 속 새 먹거리로 제품 판매를 추진하는 한편 국내 사업을 발판 삼아 해외 시장도 적극적으로 두드리고 있다. ●가전업계 새 먹거리 된 모듈러 주택삼성전자는 이달 AI 모듈러 홈 쇼룸 오픈을 계기로 모듈러 주택 시장에 본격 진출했다. 모듈러 주택은 공장에서 모듈 형태로 거실, 주방, 안방, 화장실 등</content:encoded>
+    </item>
+    <item>
+      <title>[스타트업-ing] 위븐 ‘재밋’, 美 진출 본격화…“웹 제작의 글로벌 표준 될 것”</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134174977/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134174977/1</guid>
+      <pubDate>2026-06-24T17:00:54.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134174953.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 멀티 에이전트 기반 웹 제작 서비스 ‘재밋(Zaemit)’을 운영하는 국내 AI 스타트업 위븐(WEVEN)이 본격 해외 시장 진출에 나선다. 위븐은 지난 6월 미국 실리콘밸리에 거점을 마련하고, 현지 법인 설립 절차에 착수하며 글로벌 파트너십 확보를 위한 실질적인 사업 기반을 다졌다. 재밋, 웹 제작 전 과정 아우르되 ‘디자인 완성도’로 승부최근 소프트웨어 개발 생태계는 큰 변화를 맞이하고 있다. 개발자가 컴퓨터 프로그래밍 언어로 코드를 한 줄씩 작성하는 대신, 자연어 대화만으로 AI가 코드를 생성하는 ‘바이브 코딩(Vibe Coding)’이 새로운 개발 패러다임의 핵심으로 주목받으면서부터다. 이와 함께 최근에는 각 분야에 특화된 AI 에이전트들이 유기적으로 협업하는 ‘멀티 에이전트 오케스트레이션(Multi-Agent Orchestration)’ 아키텍처가 새로운 대안으로 부상하는 추세다. 코드를 사람이 직접 짜던 방식에서 AI가 대신 만드는 방식으로 넘어가는 지</content:encoded>
+    </item>
+    <item>
+      <title>더울수록 찾는 맥주·아이스크림…정말 몸을 식혀줄까? [건강팩트체크]</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134173576/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134173576/2</guid>
+      <pubDate>2026-06-24T18:23:39.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134173455.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;냉장고에서 막 꺼낸 맥주와 차가운 아이스크림. 더위에 지친 몸을 달래주는 오아시스 같은 존재다.맥주와 아이스크림은 정말 몸을 식혀줄까. 아니면 기분 탓일까.결론부터 말하면 입안은 시원해질 수 있지만 몸 전체를 식혀주는 효과는 생각보다 크지 않다. 오히려 경우에 따라서는 체온 조절을 방해할 수도 있다.더운 여름날 차가운 맥주 한 잔을 마시면 온몸이 시원해지는 느낌이 든다. 하지만 이는 주로 입과 목에 있는 온도 수용체가 차가운 자극을 받기 때문이다.실제로 맥주에 들어 있는 알코올은 혈관을 확장하고 이뇨 작용을 촉진한다. 혈관이 확장되면 피부 표면으로 혈류가 증가해 순간적으로 시원한 느낌이 들 수 있다. 문제는 체내 수분 손실도 함께 늘어난다는 점이다.알코올은 소변 배출을 증가시켜 탈수를 유발한다. 더운 날씨에는 땀으로 이미 수분을 많이 잃고 있는데 술까지 마시면 체온 조절 능력이 더욱 떨어질 수 있다.땀은 우리 몸의 ‘천연 에어컨’이다. 땀이 피부에서 증발하면서 열을</content:encoded>
+    </item>
+    <item>
+      <title>[주간스타트업동향] 강원창조경제혁신센터, 관광 스타트업-지역기관 연계 1차 밋업 마무리 外</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134176669/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134176669/1</guid>
+      <pubDate>2026-06-24T18:28:03.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134176605.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스타트업이 선보인 새 상품이나 서비스, 인사와 수상, 행사 참여와 간담회 개최 소식 등 최신 동정을 한 눈에 보기 쉽게 전해드립니다.강원창조경제혁신센터, 관광 스타트업 대상 지역기관 연계프로그램 1차 밋업 마무리강원창조경제혁신센터(대표이사 이해정, 이하 강원혁신센터)가 6월 23일 원주 창업지원허브에서 ‘2026 강원 관광 스타트업 지원사업 지역기관 연계프로그램 1차 밋업’을 마무리했다고 밝혔다.이번 프로그램은 강원특별자치도가 지원하고 강원혁신센터가 운영하는 ‘2026 강원 관광콘텐츠 스타트업 지원사업’의 일환으로 추진됐다. 행사는 라운드 인터뷰 방식으로 진행됐으며, 참여 기업들은 정해진 시간 동안 여러 기관과 순차적으로 만나 사업 아이템과 협력 방안을 소개하고 기관별 전문성과 지원사업에 대한 의견을 청취하며 협업 가능성을 논의했다.인터뷰는 기업별 아이템 특성과 기관별 보유 사업·전문 분야를 고려해 연계 가능성이 높은 기관 중심으로 선정됐으며, ▲강릉관광개발공사 ▲강원관광재단</content:encoded>
+    </item>
+    <item>
+      <title>“고속도로 잘못 나갔다고 후진 마세요”…착오진출 기본요금 면제 제도 10월 시행</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134176738/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134176738/1</guid>
+      <pubDate>2026-06-24T18:31:15.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134176726.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;운전자라면 한 번쯤 고속도로를 달리다가 목적지 방향과 다른 나들목으로 빠져나온 경험이 있을 것이다. 특히 초행길이나 야간 운전, 복잡한 분기점에서는 목적지와 다른 출구로 진출하는 경우가 많다. 이때 운전자는 다시 고속도로에 진입해야 하지만, 실제 주행거리가 거의 없더라도 기본 통행료를 한 번 더 부담해야 했다. 고속도로에서 후진하는 위험천만한 상황이 연출됐던 이유다.한국도로공사가 이같은 불편과 위험을 막기 위해 ‘고속도로 착오진출 차량 기본요금 면제 제도’를 도입한다. 제도를 시행하는 오는 10월부터 고속도로에서 착오 진출한 운전자는 일정 요건을 충족할 경우, 기본요금 900원을 면제받을 수 있다. 해당 제도에 대해 자세히 살펴봤다.과거 단순 실수에도 통행료 재부과…무리한 후진 유발그간 고속도로 이용자들은 단순 실수로 나들목을 잘못 빠져나온 경우에도 통행료를 다시 부담해야 했다. 예를 들어 서울에서 대전으로 향하던 운전자가 목적지가 아닌 인근 나들목으로 잘못 진출한 뒤 즉시 방</content:encoded>
+    </item>
+    <item>
+      <title>앤트로픽, ‘피터 틸 투자사’ 페르소나 활용··· AI 민간 감시망 논란 커져</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134176861/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134176861/1</guid>
+      <pubDate>2026-06-24T18:36:22.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134176782.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;앤트로픽의 새로운 개인정보 처리방침이 오히려 개인정보를 침해하는 구조가 아니냐는 논란이 떠올랐다. 앤트로픽은 지난 6월 8일 개인정보 보호정책을 새롭게 갱신했고 오는 7월 8일부로 효력이 발생한다. 지난 1월 수정된 버전과 비교하면 클로드 팀 플랜 등 상업용 서비스를 개인정보 보호정책에서 분리하고, 프롬프트라는 용어를 입력과 출력으로 통일했다. 또한 에이전트 세션과 관련돼 타사 서비스와 상호작용할 수 있고, 앤트로픽 연구 참여 시 수집되는 데이터 항목이 새롭게 추가됐다.또한 미국 및 기타 국가로 데이터를 이전할 때 적정성 결정 및 표준계약 조항에 예외 조항을 둘 수 있는 점, 앤트로픽이 아닌 타사 서비스와 데이터를 연동할 때 타사의 개인정보 처리 방침을 따른다는 경고가 신설됐다. 대화의 안전을 위해 사용자가 데이터 학습을 거부하더라도 사용자가 직접 피드백을 통해 신고한 경우에는 학습 용도로 활용할 수 있다는 예외 조건도 명시됐다.문제가 되는 부분은 본인 확인과 생체 인식이다. 당</content:encoded>
+    </item>
+    <item>
+      <title>진단·치료·제조까지···AI로 더 확장하는 헬스케어 스타트업</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134177128/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134177128/1</guid>
+      <pubDate>2026-06-24T19:48:57.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134177116.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;글로벌 스타트업 박람회 ‘넥스트라이즈 2026(NextRise 2026)’이 6월 18일부터 19일까지 이틀간 서울 강남구 삼성동에 위치한 코엑스에서 열린 가운데 540여 개 스타트업이 모여 다양한 기술을 선보였다. 이 중 헬스케어와 바이오를 다루는 스타트업만 40여 개가 자리했다. 대부분 헬스케어와 인공지능(AI)의 결합을 내세웠는데, 단순한 키워드가 아닌 구체적인 사업 모델로 눈길을 끌었다.전시장을 한바퀴 돌아보니 헬스케어 스타트업이 그리는 그림은 뚜렷했다. 치료는 알약에서 소프트웨어로, 진단은 병원에서 일상의 디바이스로, 제조는 표준화에서 개인 맞춤으로 옮겨가고 있는 추세가 두드러졌다. 무엇보다 AI를 앞세운 부스가 많았지만 식상하다는 반응은 찾기 어려웠다. AI가 헬스케어의 수식어가 아니라 기본값이 된 현장이었다.문턱 낮추는 AI 진단·예측보행분석 의료기기 스타트업 에이트스튜디오가 소개한 ‘메디스텝(Medistep)’은 모바일 카메라 기반의 마커리스(Markerless)</content:encoded>
+    </item>
+    <item>
+      <title>무한을 아는 인간과 모르는 AI[철학과 AI-1]</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134173454/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134173454/1</guid>
+      <pubDate>2026-06-24T21:56:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134173474.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;컴퓨터의 CPU는 헤르츠(Hz)로, GPU는 플롭스(FLOPS·floating point operations)로 성능을 나타낸다. floating point는 부동소수점이란 뜻이다. 컴퓨터에서 언급되는 소수점에는 고정소수점(fixed point)와 부동소수점이 있지만 그 차이는 여기서는 그리 중요하지 않으니 일단 소수점 연산이란 점만 생각하자. Hz는 1초 동안 어떤 현상이 반복되는 횟수(진동수)를 측정하는 단위로 컴퓨터에는 0과 1의 클록(신호)를 몇 번 발생시키는가를 측정하는 데 쓴다. CPU의 주목적은 운영체제(OS)를 돌리고 프로그램에서 명령어를 처리하는 것인데 거기서 가장 중요한 절차는 메모리 주소를 할당하고 소환하는 것이다. 메모리 주소는 모두 정수 형태다. 대강 클럭 신호를 하나 보낼 때마다 정수 연산을 하나 수행한다고 볼 수 있다. 1GHz는 1초에 10억개의 클럭 신호를 보내는 걸 의미한다. 현재 노트북 기준으로 4~5GHz까지의 성능을 가진 CPU가 나와 있다.</content:encoded>
+    </item>
+    <item>
+      <title>“식곤증 아니에요”…몸 망치는 ‘혈당 스파이크’ 이렇게 줄여라</title>
+      <link>https://www.donga.com/news/Society/article/all/20260624/134177805/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260624/134177805/1</guid>
+      <pubDate>2026-06-24T22:27:08.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134177806.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;식후 혈당이 급격히 오르는 혈당 스파이크는 단기적으로 피로감, 단 음식에 대한 갈망, 기분 변화를 유발한다. 또 장기적으로는 염증 증가, 인슐린 저항성, 심혈관질환 위험을 높일 수 있다.이에 영국 건강 전문가이자 ‘슈거 톨러런스(Sugar Tolerance)’의 저자인 스티브 베넷은 최근 더 미러와의 인터뷰에서 “혈당을 안정적으로 관리하기 위해서는 탄수화물을 무조건 끊지 말고, 식이섬유와 단백질 그리고 건강한 지방을 함께 섭취해야 한다”고 말하며 이들이 당 흡수 속도를 늦춰 혈당 폭을 줄일 수 있다고 조언했다.특히 식사 전 샐러드나 생채소를 먼저 섭취하는 것이 좋다. 2015년 미국 코넬대에서 ‘국제 당뇨병 관리 저널’ 발표에 따르면 채소 등 식이섬유를 먼저 먹으면 그렇지 않은 그룹보다 식사 후 한 시간이 지났을 때 혈당 수치가 37% 낮은 것으로 드러났다.또한 혈당을 올리는 음식을 피하는 것도 중요하다. 대표적으로 그래놀라바, 과일주스, 저지방 요구르트, 스무디 등이 있다.</content:encoded>
+    </item>
+    <item>
+      <title>“일주일에 90분만으로도”…치매·사망 위험 크게 낮추는 근력 운동</title>
+      <link>https://www.donga.com/news/Inter/article/all/20260625/134177977/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20260625/134177977/1</guid>
+      <pubDate>2026-06-25T00:17:14.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134177978.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일주일에 단 90분에서 2시간 정도의 근력 운동만으로도 심혈관 질환이나 치매로 인한 사망 위험을 크게 낮출 수 있는 것으로 나타났다.3일(현지 시간) 미 건강 전문 매체 에브리데이헬스에 따르면 최근 미국 하버드 T.H. 챈 보건대학원 연구팀은 성인 약 15만명을 대상으로 장기간 운동 습관과 사망률의 연관성을 최대 30년간 추적 조사한 장기 연구 결과를 발표했다.분석 결과, 일주일에 평균 90~119분 동안 푸시업과 스쿼트 등 근력 운동을 한 성인은 운동을 전혀 하지 않은 이들에 비해 전체 사망 위험이 13% 낮았다. 특히 알츠하이머병을 포함한 치매 등 신경계 질환으로 인한 사망 위험은 27%나 떨어졌으며 심장 질환 사망 위험도 19% 감소했다.또 연구팀은 걷기와 달리기 등의 유산소 운동을 병행했을 때 장수 효과가 극대화된다고 밝혔다. 두 운동을 조합한 참가자들은 사망 위험이 최대 45%까지 낮아졌다.반면 근력 운동 시간이 주 2시간을 넘어가면 사망 위험 감소 효과가 더 이상</content:encoded>
+    </item>
+    <item>
+      <title>성형외과 의사가 경고한 ‘얼굴 못생겨지는 습관’ TOP5</title>
+      <link>https://www.donga.com/news/Society/article/all/20260625/134177985/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260625/134177985/1</guid>
+      <pubDate>2026-06-25T00:17:44.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134177986.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일상 속 잘못된 자세와 생활 습관이 반복되면 얼굴선과 피부 상태에 악영향을 줄 수 있다는 전문가 조언이 나왔다.성형외과 전문의 최현남 원장은 최근 자신의 소셜미디어(SNS)를 통해 ‘얼굴이 못생겨지는 습관 TOP5’를 공개하고 “무심코 반복하는 행동들이 안면 비대칭과 붓기, 피부 노화로 이어질 수 있다”고 설명했다.최 원장이 꼽은 ‘얼굴 못생겨지는 습관’ 5위는 ‘턱 괴기’였다. 그는 한쪽 손으로 턱을 받치는 습관에 대해 “특정 부위에 압력이 반복적으로 가해지면서 얼굴 균형을 무너뜨릴 수 있다”며 “턱관절에도 부담을 줄 수 있어 장기적으로는 안면 비대칭으로 이어질 가능성이 있다”고 설명했다. 4위는 ‘엎드려 자기’였다. 최 원장은 “얼굴이 베개에 눌린 상태로 오래 자면 피부가 지속적으로 압박을 받고 마찰까지 더해진다”며 “이 과정이 반복되면 붓기와 피부 자극을 유발할 수 있다”고 말했다.3위는 ‘야식 먹기’가 차지했다. 그는 “늦은 시간 섭취하는 음식은 나트륨과 당 함량이 높</content:encoded>
+    </item>
+    <item>
+      <title>“배 터지게 먹었다” 오연수, 식후 산책 나선 이유</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260625/134177991/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260625/134177991/1</guid>
+      <pubDate>2026-06-25T00:20:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134177992.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 오연수가 식사 후 산책에 나서는 일상을 공개했다. 전문가들은 식후 10~30분 걷기가 소화 촉진과 혈당 조절, 복부 팽만감 완화에 도움을 줄 수 있다고 설명한다.</content:encoded>
+    </item>
+    <item>
+      <title>임신 한다감 “아주 잘 챙겨 먹어요…천연 위고비 샌드위치”</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260625/134177996/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260625/134177996/1</guid>
+      <pubDate>2026-06-25T00:20:55.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134177997.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 한다감이 자신만의 다이어트 식단을 공개해 화제다.23일 한다감은 자신의 SNS에 “한다감의 관리 비법 22번째, 현재 체중이 지금껏 3㎏만 증가하고 있다고 기사가 나간 후로 많은 분들이 도대체 뭘 먹냐고 물어본다”며 “저 아주 잘 챙겨 먹고 있는데 말이죠”라고 말했다.그러면서 한다감은 “고기와 샐러드 식단이 지겨워서 요즘 반해버린 식단이 있다”며 자신이 즐겨먹는 음식을 소개했다. 한다감은 아보카도와 삶은 계란을 으깬 뒤 치아바타 빵에 바질페스토를 바르고 토마토와 오이를 올려 샌드위치를 완성했다.그녀는 “이렇게 먹으면 천연 위고비”라며 자연스럽게 포만감을 느끼고 체중 관리에도 도움이 된다고 설명했다. 아보카도는 대표적인 건강식품으로 꼽힌다. 아보카도에는 불포화지방산이 풍부해 혈중 콜레스테롤 수치를 낮추고 심혈관 건강에 도움을 줄 수 있다.또한 식이섬유 함량이 높아 포만감을 오래 유지시켜 과식을 예방하는 데 도움이 된다. 비타민 E와 비타민 C, 칼륨 등 항산화 성분도</content:encoded>
+    </item>
+    <item>
+      <title>홍현희, 1만 보 걷기에 채소까지… 49㎏ 유지하는 비결</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260625/134178002/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260625/134178002/1</guid>
+      <pubDate>2026-06-25T00:21:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134178003.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방송인 홍현희가 탄탄한 몸매를 유지하는 철저한 자기관리 일상을 공개했다.홍현희는 지난 23일 자신의 소셜네트워크서비스(SNS)를 통해 일상 속 운동 기록과 식단 루틴을 공유하며 팬들의 이목을 집중시켰다.공개된 운동 기록 사진에는 홍현희가 약 1시간 30분 동안 1만 보가 넘는 걸음 수(1만 273보)를 기록하며 약 9.66㎞를 이동한 모습이 담겼다. 꾸준한 유산소 운동으로 건강한 생활 습관을 실천 중인 모습이 눈길을 끈다.식단 관리 역시 철저했다. 홍현희는 각종 채소와 단백질이 풍부한 월남쌈 등 건강식 위주의 식단을 선택해 영양의 균형을 맞췄다. 특히 여름을 맞아 ‘채소 해독’ 루틴을 실천 중인 홍현희는 본인의 SNS를 통해 팬들에게 구체적인 관리 팁을 전했다. 홍현희는 “루틴을 처음부터 모두 지키기 어렵다면, 일단 밥 먹기 전에 채소부터 챙겨 먹는 습관을 들여보라”며, 이를 통해 식사 속도를 조절하고 입 터짐을 방지할 수 있다고 조언했다.앞서 홍현희는 지난해 12월 자신의</content:encoded>
+    </item>
+    <item>
+      <title>“168cm·47.2kg인데 체지방이 25%”…이희진 인바디 ‘충격’</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260625/134178013/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260625/134178013/1</guid>
+      <pubDate>2026-06-25T00:22:49.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134178014.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 베이비복스 출신 배우 이희진의 인바디 결과가 화제다.베이비복스 이희진과 심은진은 유튜브 채널 ‘찐자매cross’에 출연해 헬스장에서 인바디를 측정하는 모습을 공개했다. 이희진의 인바디는 키 168cm·체중 47.2kg에 골격근량 18.8kg, 체지방량 11.8kg, 체지방률 25.1% 으로 밝혀졌다. 심은진이 “체중도 미달이고 다 미달이네”라고 말하자 트레이너는 “체지방률은 평균보다 높다. 처음 보는 결과다. 저희 회원님 중에 1947년생 회원님이 근육량이 더 많다”고 말했다. 또한 트레이너가 “지방량이 11.8kg인데, 체지방률이 25.1%다. 신체의 4분의 1이 지방이라는 뜻”이라고 말해 이희진을 충격에 빠뜨렸다.이와 같은 이희진의 인바디 결과는 체질량지수(BMI)는 약 16.7로 저체중 범위에 해당되지만 체지방률은 25.1%로 나타나 상대적으로 높은 수준을 기록했다. 겉으로는 날씬한 체형이지만 실제로는 근육량이 부족해 체지방이 차지하는 비율이 높아진 상태인 것이다.</content:encoded>
+    </item>
+    <item>
+      <title>삼성바이오, 암스테르담에 영업사무소… 美-日 이어 유럽 공략</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260624/134175723/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260624/134175723/2</guid>
+      <pubDate>2026-06-25T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134175722.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성바이오로직스가 올해 3분기(7∼9월) 네덜란드 암스테르담에 유럽 영업 사무소를 연다. 유럽 현지에 직접 영업 거점을 두는 것은 이번이 처음으로, 미국과 일본에 이어 유럽까지 거점을 넓혀 글로벌 바이오의약품 3대 시장을 직접 공략하겠다는 구상이다. 존 림 삼성바이오로직스 대표는 23일(현지 시간) ‘2026 바이오 인터내셔널 컨벤션(바이오 USA)’이 열린 미국 샌디에이고에서 기자간담회를 열고 이 같은 내용을 밝혔다. 림 대표는 “올해 3분기 암스테르담 스히폴 공항 인근에 유럽 세일즈 오피스를 열 계획”이라며 “유럽 대륙의 중심에 있으며 한국으로부터의 접근성도 높은 최적의 영업 거점”이라고 설명했다.  삼성바이오로직스는 그간 미국 뉴저지와 보스턴 영업 사무소를 통해 미국과 유럽 고객사들을 접촉해 왔다. 지난해에는 일본 도쿄에 영업 사무소를 열며 글로벌 톱 40위권 제약사까지 수주 범위를 확대하겠다고 밝힌 바 있다. 미국과 아시아 시장에 이어 이젠 암스테르담 사무소를 통해 유럽의</content:encoded>
+    </item>
+    <item>
+      <title>‘K바이오’ 파워… 세계 최대 전시회서 첫 단독 세션</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260624/134175709/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260624/134175709/2</guid>
+      <pubDate>2026-06-25T00:30:00.000Z</pubDate>
+      <content:encoded>세계 최대 제약·바이오 전시회인 ‘2026 바이오 인터내셔널 컨벤션(바이오 USA)’에서 ‘K바이오’를 단독 조명하는 공식 세션이 열렸다. 세션에서는 한국 바이오 산업이 대규모 생산 역량을 갖춘 제조 거점을 넘어, 글로벌 제약사와 투자자가 주목하는 ‘아시아의 혁신 거점’으로 부상하고 있다는 평가가 나왔다. 바이오 USA 둘째 날인 23일(현지 시간) 미국 샌디에이고 컨벤션센터에서는 ‘코리아 라이징: 아시아의 차세대 혁신 허브에 늦지 마라’는 제목의 세션이 진행됐다. 바이오 USA 공식 무대에서 한국 바이오 산업을 별도의 단독 세션으로 다룬 것은 처음이다. 업계에서는 K바이오의 글로벌 위상이 높아진 것을 보여주는 변화로 평가한다. 세션에는 제임스 최 삼성바이오로직스 부사장, 이재준 일동제약 대표, 이상훈 에이비엘바이오 대표, 스콧 드와이어 베링거인겔하임 부사장(사업개발 책임자) 등이 패널로 참여해 한국 바이오 산업의 성장 배경과 글로벌 협력 가능성을 논의했다. 패널들은 한국이 대규</content:encoded>
+    </item>
+    <item>
+      <title>신약 넘어 디지털 헬스케어로… 제약업계, AI 의료 시장서 경쟁</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134175677/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134175677/2</guid>
+      <pubDate>2026-06-25T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134177900.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;빅5 병원 중 한 곳인 삼성서울병원 스마트병실. 대웅제약의 스마트 병상 모니터링 시스템 ‘씽크’가 적용된 병실에서는 입원 환자의 가슴에 부착된 손바닥만 한 웨어러블 센서가 심전도와 체온, 산소포화도 등 생체 신호를 24시간 기록한다. 인공지능(AI)은 축적된 데이터를 실시간으로 분석해 부정맥 등 이상 징후를 의료진보다 먼저 포착한다. 증상이 나타난 뒤 치료하는 ‘사후 치료’ 중심의 의료는 이렇듯 이제 AI로 생체 데이터를 연속적으로 수집·분석해 질병을 미리 찾아내고 예방하는 ‘예측 의료’ 시대로 빠르게 전환되고 있다. 예측 의료를 가능하게 하는 핵심은 ‘연속 데이터’다. 기존의 검진 방식은 병원을 방문한 특정 시점의 혈압이나 혈당을 확인하는 ‘스냅숏’(순간 포착 사진) 방식에 가까웠다. 하지만 혈당과 혈압, 심박수 등 생체 신호는 하루에도 수차례 변하기 때문에 일회성 검사만으로는 몸 상태를 충분히 파악하기 어렵다. 반면 웨어러블 의료기기는 수일에서 수 주 동안 생체 데이터를 연속</content:encoded>
+    </item>
+    <item>
+      <title>‘개발자 평균 17.8세’ 국내 게임 스타트업, 글로벌 자본 유치</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260624/134176686/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260624/134176686/2</guid>
+      <pubDate>2026-06-25T00:30:00.000Z</pubDate>
+      <content:encoded>국내 게임 스타트업 벌스워크는 글로벌 벤처캐피털(VC) 알토스벤처스로부터 270만 달러(약 41억 원)를 투자받았다고 24일 밝혔다. 기존 주주 스마트스터디벤처스도 약 10억 원을 추가 투자해 총유치액은 51억 원이 됐다. 벌스워크는 로블록스 본사의 개발사 지원 프로그램인 ‘로블록스 인큐베이터 2026’의 아시아 스튜디오에도 선정됐다고 밝혔다. 이는 로블록스 본사가 개발사를 선별해 사업, 기술, 퍼블리싱 전 영역을 지원하는 프로그램이다.  벌스워크는 게임 플랫폼 로블록스 기반의 이용자 제작 콘텐츠(UGC) 전문 개발사다. 로블록스에서는 ‘레고 블록’을 쌓듯이 누구나 무료 도구로 게임을 만들고 수익을 낼 수 있다. 게임 플레이어와 개발자를 연결해주는 거대한 플랫폼인 로블록스인 셈. 코딩 경험이 없어도 제작할 수 있어 10대가 개발자로 활동하는 사례도 적지 않다. 실제 벌스워크 개발진의 평균 연령은 17.8세로 10대 임원까지 두고 있다. 특히 벌스워크가 해외 자본까지 유치할 수 있</content:encoded>
+    </item>
+    <item>
+      <title>집 전체가 사물인터넷… ‘모듈러 주택’ 뛰어드는 가전업계</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260624/134176439/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260624/134176439/2</guid>
+      <pubDate>2026-06-25T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134175730.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;24일 경기 화성시 ‘삼성 인공지능(AI) 모듈러 홈’ 쇼룸. 66㎡(약 20평) 크기의 모듈러 주택에 들어서면 ‘외출모드’였던 집이 ‘귀가모드’로 전환해 자동으로 조명이 켜지고 커튼이 열린다. 에어컨, 공기청정기도 작동하면서 온습도, 이산화탄소 농도 등 미리 설정한 조건에 맞춰 냉난방공조가 최적화된다. 삼성전자가 주택 전문 기업 공간제작소와 협력해 만든 모듈러 주택이다. 삼성전자의 가전, AI 기술이 결합해 집 안 각종 기기를 사물인터넷(IoT) 플랫폼 스마트싱스로 제어, 관리할 수 있다. 국내 가전업계가 늘어나는 단독주택 수요에 맞춰 모듈러 주택 사업에 뛰어들고 있다. 가전 침체기 속 새 먹거리로 제품 판매를 추진하는 한편 국내 사업을 발판 삼아 해외 시장도 적극적으로 두드리고 있다. ● 가전업계 새 먹거리 된 모듈러 주택 삼성전자는 이달 AI 모듈러 홈 쇼룸 오픈을 계기로 모듈러 주택 시장에 본격 진출했다. 모듈러 주택은 공장에서 모듈 형태로 거실, 주방, 안방, 화장실</content:encoded>
+    </item>
+    <item>
+      <title>“너무 마른 것보다 통통해야 오래산다”…전문의, ‘위고비 맹신’에 경고</title>
+      <link>https://www.donga.com/news/Society/article/all/20260625/134178069/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260625/134178069/1</guid>
+      <pubDate>2026-06-25T00:30:20.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134178070.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;마른 사람보다 약간 통통한 사람의 수명이 더 길다는 연구 결과가 나왔다.23일 이재혁 내분비내과 교수는 유튜브 채널 ‘김재원TV’에 출연해 “살을 빼면 사망률이 계속 줄 것 같지만 그렇지 않다”면서 “체중이 줄다가 어느 적정선을 넘어서면 오히려 사망률이 다시 올라가기 시작한다”고 밝혔다.이 교수는 “최근 연구를 보면 체질량지수(BMI)가 25~26인 경도 과체중인 사람들의 사망률이 더 낮다”며 “기존에 정상 범위라고 생각했던 BMI 18~22인 마른 사람들의 사망률이 오히려 더 높게 나타나 정상 체중의 기준에 대한 논의가 많다”고 설명했다. 다만 “BMI 26인 사람이 22인 사람보다 당뇨병 같은 대사 질환은 더 많이 생기기 때문에 적정 체중을 유지하는 것이 중요하다”고 덧붙였다.특히 최근 선풍적인 인기를 끄는 ‘위고비’와 ‘마운자로’ 등 비만 치료제를 미용 목적으로 쓰는 정상 체중 인구에 대해서는 강한 우려를 표했다. 이 교수는 “이 약제들은 정상 체중인 사람에게 장기간 써본</content:encoded>
+    </item>
+    <item>
+      <title>“30분 근력운동의 기적”…꾸준히 하면 중장년 당뇨 위험 42%↓</title>
+      <link>https://www.donga.com/news/Society/article/all/20260625/134178108/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260625/134178108/1</guid>
+      <pubDate>2026-06-25T01:11:03.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134178109.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중장년기부터 일주일에 30분씩 꾸준히 근력 운동을 하면 당뇨병 발병 위험을 최대 42%까지 낮출 수 있다는 대규모 연구 결과가 나왔다.23일(현지 시간) 건강 전문 매체 뉴스메디컬에 따르면 장톈웨 박사가 이끄는 중국 저장대 의과대 공동 연구팀은 미국 내 보건의료 종사자 14만3715명을 대상으로 약 20년간 근력 운동의 빈도와 지속성이 제2형 당뇨병(T2D) 발병에 미치는 영향을 추적 조사한 연구 결과를 발표했다. 이는 미국의학협회(JAMA)가 발행하는 국제학술지 ‘JAMA 네트워크 오픈(JAMA Network Open)’에 게재됐다.연구팀은 당뇨병이나 심혈관 질환, 암 병력이 없는 성인을 대상으로 2~4년마다 근력 운동 시간과 유산소 운동량, TV 시청 시간 등을 정밀 분석했다. 약 19년의 추적 관찰 기간 동안 총 1만38명이 제2형 당뇨병 진단을 받았다.분석 결과, 근력 운동을 일주일에 2시간 이상 한 사람은 운동을 전혀 하지 않는 사람에 비해 당뇨병 발병 위험이 27%</content:encoded>
+    </item>
+    <item>
+      <title>“코피, 아이와 어른은 원인 다르다”…왜 그럴까?</title>
+      <link>https://www.donga.com/news/Society/article/all/20260625/134178119/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260625/134178119/1</guid>
+      <pubDate>2026-06-25T01:12:13.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134178120.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;많은 사람이 갑자기 코피가 나면 피로하거나 건조한 날씨 때문이라고 생각하기 쉽다. 하지만 의료계는 코피는 연령별로 발생 원인과 위험도가 달라질 수 있다며 주의를 당부했다. 25일 의료계에 따르면 코피는 의학적으로 ‘비출혈’이라고 하며, 연령이나 성별과 관계없이 발생할 수 있다.소아에서는 비교적 가벼운 형태의 코피가 반복되는 경우가 많다. 가장 흔한 원인은 코를 자주 후비는 습관이다. 아이들은 코 점막이 성인보다 얇고 혈관이 상대적으로 민감해 작은 자극에도 쉽게 출혈이 발생할 수 있다.특히 코 안쪽 앞부분에는 혈관이 밀집된 부위가 있는데, 이곳에서 발생하는 ‘전방 출혈’은 비교적 흔하고 출혈량도 많지 않아 대부분 쉽게 지혈된다.반면 고령층에서 발생 원인이 다를 수 있다. 나이가 들면 고혈압이나 동맥경화 같은 혈관 질환이 동반되는 경우가 많아 코 안쪽 깊은 부위 혈관이 터지는 ‘후방 출혈’이 발생할 수 있다.후방 출혈은 한 번 발생하면 출혈량이 많고 지혈이 쉽지 않다. 재발 가</content:encoded>
+    </item>
+    <item>
+      <title>“암 생존율 높아져… 다음 과제는 호스피스-지역 돌봄”</title>
+      <link>https://www.donga.com/news/It/article/all/20260625/134176794/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260625/134176794/2</guid>
+      <pubDate>2026-06-25T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134175431.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 암 환자 10명 중 7명은 진단 후 5년 이상 생존하는 시대가 됐다. 암 예방과 조기 검진에 대한 국민 인식이 개선되고, 신약과 새로운 수술법 개발 등으로 의료의 질이 높아진 결과다. 그 중심에는 2001년 개원한 국립암센터가 있다.   그러나 여전히 국민 사망 원인 1위는 암이다. 이제는 생존율을 높이는 것뿐 아니라 암 환자의 존엄한 삶의 마무리를 지원하는 것도 중요한 과제로 떠올랐다. 양한광 국립암센터 원장은 10일 경기 고양시 암센터에서 동아일보와 인터뷰을 갖고 “암 치료를 넘어 호스피스와 지역사회 돌봄까지 아우르는 암 관리 체계를 강화해야 한다”고 강조했다. 다음은 일문일답. ―25년 새 암 생존율이 크게 높아졌다. 그 비결은…. “가장 중요한 것은 예방과 검진이다. 대표적인 것이 금연 정책이다. 과거 국내 성인 남성의 흡연율은 66%에 달했지만 지금은 30%대 초반까지 낮아졌다. 그만큼 폐암 발생이 줄었다. 또 간염과 인유두종바이러스(HPV) 백신 접종을 확대하면</content:encoded>
+    </item>
+    <item>
+      <title>[전문의 칼럼]청소년 자살 조기 대응 해답은 전문가의 학교 현장 방문</title>
+      <link>https://www.donga.com/news/It/article/all/20260625/134176796/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260625/134176796/2</guid>
+      <pubDate>2026-06-25T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134178203.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2024년 2월, 정신건강의학과 의사가 된 지 19년 차에 응급실 당직을 다시 서면서 서부경남의 여러 곳에서 이송된 자살 시도 청소년들을 직접 만날 기회가 있었다. 그들과 대화를 나누고 부모와 면담하며 위기를 어떻게 극복할지 해결책을 모색했다. 청소년기에 한 번이라도 자살을 생각한다는 것이 무슨 의미인지, 향후 그 아이의 인생에 어떤 영향을 미칠지 잘 알고 있기에 내원한 환자들의 목소리를 경청하려고 노력했다. 이들의 인생에 조금이라도 도움이 되고 싶었지만, 늘 부족함을 느꼈다.   통계만 봐도 서부경남 지역 소아·청소년들의 정신건강 위기가 얼마나 심각한지 알 수 있다. 2024년 1월부터 올 5월 초까지 경상대병원 권역응급의료센터 응급실에 자살 행동으로 내원한 10대는 모두 115명. 이 중 11명이 세상을 떠났다. 이들을 마주할 때마다 지역의료 최전선에서 일해 온 정신건강 전문가로서 깊은 무력감과 사회적 책무를 동시에 느꼈다.     성인 환자의 경우 깊게 뿌리박힌 ‘자살 사고</content:encoded>
+    </item>
+    <item>
+      <title>[만화 그리는 의사들]〈412〉아파서 갔는데 왜 우울증 약물이?</title>
+      <link>https://www.donga.com/news/It/article/all/20260625/134176798/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260625/134176798/2</guid>
+      <pubDate>2026-06-25T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134175441.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다]364회 동아일보-서울아산병원 온라인 건강강좌</title>
+      <link>https://www.donga.com/news/People/article/all/20260625/134177654/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260625/134177654/2</guid>
+      <pubDate>2026-06-25T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134175264.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아일보와 서울아산병원이 준비한 6월 온라인 건강강좌 영상이 25일 업로드됐습니다. 서울아산병원 신경과 김현진 교수가 ‘근위축측삭경화증과 염증성 근육병’에 대해 일반인의 궁금증을 알기 쉽게 풀어줍니다. 건강강좌 영상은 동아일보와 서울아산병원 공식 홈페이지 및 유튜브 채널에 올라갑니다. QR코드를 스캔하면 영상으로 자동 연결됩니다. 많은 관심 바랍니다. ● 링크: 동아일보 유튜브 youtube.com/c/dongamediagroup,서울아산병원 유튜브 youtube.com/asanmedicalcenter● 문의: 서울아산병원 홍보팀(02-3010-8141)</content:encoded>
+    </item>
+    <item>
+      <title>“효과-안전성 불확실”에도 난임 환자에 ‘콩주사’ 성행</title>
+      <link>https://www.donga.com/news/Society/article/all/20260625/134177485/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260625/134177485/2</guid>
+      <pubDate>2026-06-25T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/25/134177949.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;난임으로 고생하다 지난해 9월 시험관 시술을 시작한 이모 씨(39)는 5차례의 배아 이식 과정에서 이른바 ‘콩주사’라고 불리는 수액을 총 15번 맞았다. 콩주사는 인트라리피드, 리피션 등 콩기름을 원료로 한 정맥용 영양제다. 산부인과에선 면역 기능을 조절해 착상을 돕고 유산 위험을 줄여준다며 권했다. 이 씨는 “의사가 권유하니 당연히 효과가 있는 약인 줄 알았다”고 했다. 착상률을 높여준다고 알려져 난임 환자들에게 인기 있는 콩주사의 효과와 안전성이 불확실하다는 정부 산하 연구기관의 분석이 나왔다. 해외에서도 난임치료를 위해 해당 주사를 맞는 것을 권하지 않는다. 콩주사의 무분별한 처방을 지양하고 환자들에게 정확한 정보를 제공해야 한다는 지적이 나온다.● 해외에선 “난임 환자에게 추천 안 해”24일 한국보건의료연구원에 따르면 2020∼2024년 의원급 산부인과에 공급된 인트라리피드, 리피션 같은 ‘필수지방산 영양 주사제’는 연평균 9684개로 집계됐다. 금액으로 1억362만 원</content:encoded>
+    </item>
+    <item>
+      <title>“서울서도 걸린다”…여름철 말라리아, 감기와 뭐가 다를까</title>
+      <link>https://www.donga.com/news/It/article/all/20260624/134171468/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260624/134171468/2</guid>
+      <pubDate>2026-06-25T07:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/24/134171661.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;말라리아가 더 이상 접경지역만의 감염병이 아니라는 지적이 나온다. 기후변화로 매개 모기의 활동 시기와 서식 범위가 넓어지면서 서울에서도 환자가 발생하고 있기 때문이다.질병관리청도 최근 전국에 말라리아 주의보를 발령하고 여름철 야외활동 시 모기에 물리지 않도록 주의를 당부했다. 전문가들은 기침이나 콧물 없이 고열과 오한이 반복된다면 여름철 말라리아 가능성을 의심해볼 필요가 있다고 조언한다.질병관리청에 따르면 올해 국내 말라리아 환자는 지난해 같은 기간보다 감소했지만 안심하기는 이르다. 국내 말라리아 환자의 상당수는 매년 6∼8월 집중적으로 발생한다.서울의료원 감염내과 최재필 주임과장은 “원래 말라리아는 7~8월 한여름에 많이 발생하는 질환이지만 최근에는 기후변화와 온난화 영향으로 발생 시기가 조금씩 빨라지고 있다”고 말했다.이어 “모기 개체 수가 늘고 서식 지역도 넓어지면서 서울에서도 환자가 발생하고 있다”며 “더 이상 접경지역에서만 생기는 질환으로 볼 수 없다”고 설명했다.</content:encoded>
     </item>
   </channel>
 </rss>
