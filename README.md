@@ -43,3 +43,6 @@
 - 한국어 위키백과
   [대한민국의 텔레비전 방송사 목록](https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9D%98_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%EB%B0%A9%EC%86%A1%EC%82%AC_%EB%AA%A9%EB%A1%9D)
 - 미디어오늘의 [언론링크](http://www.mediatoday.co.kr/com/partners.html)
+- 한국언론진흥재단의 [참여언론사](https://www.kpf.or.kr/front/intropage/intropageShow.do?page_id=08cccf3f3cf549d29f97c04304cab50c)
+- [다음뉴스 제휴 언론사채널](https://news.daum.net/cplist)
+- [미디어맵](https://www.mediamap.co.kr/)
