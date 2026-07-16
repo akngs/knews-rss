@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>시사인 - 경제</title>
-    <link>https://www.sisain.co.kr/rss/S1N7.xml</link>
-    <description>시사인 - 경제</description>
-    <lastBuildDate>2026-07-15T01:31:19.086Z</lastBuildDate>
+    <title>시사인 - 전체기사</title>
+    <link>https://www.sisain.co.kr/rss/allArticle.xml</link>
+    <description>시사인 - 전체기사</description>
+    <lastBuildDate>2026-07-16T01:51:03.363Z</lastBuildDate>
     <item>
       <title>‘예술 섬’에서 보낸 하룻밤</title>
       <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=34589</link>
@@ -404,13 +404,6 @@
       <content:encoded>남북문제에 관심이 있는 사람들에게 ‘남문희’라는 이름 세 글자는 친숙하다. 남문희 기자(62)는 1989년 언론계에 본격 발을 디딘 이후 2021년 〈시사IN〉을 정년퇴직할 때까지 경력의 대부분을 한반도를 둘러싼 사건들과 그 이면을 집요하게 파헤쳐왔다.그가 흔히 받는 오해가 두 가지 있다. 하나는 이제 제법 많이 해명(?)되었는데, 이름 때문에 ‘여성인 줄 알았다’는 것이다. 두 번째는 저서가 이미 여러 권 될 거라는 짐작이다. 아니었다. 올해 2월 출간된 〈코리아 체스판〉은 남문희 기자가 단독 저자로서 펴낸 첫 번째 책이다. ‘남</content:encoded>
     </item>
     <item>
-      <title>말말말 [말말말]</title>
-      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=42476</link>
-      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=42476</guid>
-      <pubDate>2023-03-10T11:10:55.000Z</pubDate>
-      <content:encoded>“지금 피고소인은 인생이 끝이 났어. 극단적 선택을 했다고. 근데 자기는 숨어가지고 말이야.”YTN 라디오 진행자 이동형씨가 7월15일 자신의 개인 유튜브 ‘이동형TV’ 라이브 방송에서 박원순 전 서울시장을 고소한 피해자를 두고 “무슨 이게 미투 사건이야, 미투 사건은 과거 있었던 일을, 내가 그때 말 못했는데 지금 용기내서 한다고 해서 내 신상을 드러내놓고 하는 거야”라며 이렇게 말해 2차 가해 논란.“자수합니다. (…) 냅다 달려가서 덥석 팔짱을 끼는 방법으로 성인 남성 두 분을 동시에 추행했습니다. 증거도 제출합니다.”진혜원</content:encoded>
-    </item>
-    <item>
       <title>“바이든 정부, 남북 간 채널을 활용하라”</title>
       <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=43704</link>
       <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=43704</guid>
@@ -418,25 +411,18 @@
       <content:encoded>미국 민주당 조 바이든 대통령 당선자가 취임 이후 현재 교착 국면에 빠진 북한 비핵화 협상이 재개될지 관심이 쏠린다.미국의 저명한 정치경제학자이자 북한 관련 논문과 저서·기고문을 다수 발표해온 스테판 해거드 캘리포니아 주립대학 교수는 〈시사IN〉 인터뷰에서 향후 비핵화 협상과 대북 제재의 돌파구를 찾기 위해 한국 정부의 역할이 어느 때보다 중요하다고 말했다. 그는 특히 “바이든 행정부가 한국 정부와 긴밀히 조율하고, 남북 간 채널을 비핵화 진전의 방도로 적극 활용할 필요가 있다”라고 주장했다. 김정은 북한 국무위원장에 대해서도 순조</content:encoded>
     </item>
     <item>
+      <title>말말말 [말말말]</title>
+      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=42476</link>
+      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=42476</guid>
+      <pubDate>2023-03-10T11:10:55.000Z</pubDate>
+      <content:encoded>“지금 피고소인은 인생이 끝이 났어. 극단적 선택을 했다고. 근데 자기는 숨어가지고 말이야.”YTN 라디오 진행자 이동형씨가 7월15일 자신의 개인 유튜브 ‘이동형TV’ 라이브 방송에서 박원순 전 서울시장을 고소한 피해자를 두고 “무슨 이게 미투 사건이야, 미투 사건은 과거 있었던 일을, 내가 그때 말 못했는데 지금 용기내서 한다고 해서 내 신상을 드러내놓고 하는 거야”라며 이렇게 말해 2차 가해 논란.“자수합니다. (…) 냅다 달려가서 덥석 팔짱을 끼는 방법으로 성인 남성 두 분을 동시에 추행했습니다. 증거도 제출합니다.”진혜원</content:encoded>
+    </item>
+    <item>
       <title>그도 실패한 것인가 [편집국장의 편지]</title>
       <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=42489</link>
       <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=42489</guid>
       <pubDate>2023-03-10T11:10:55.000Z</pubDate>
       <content:encoded>한창 제670호 마감 작업 중이던 7월9일 오후, 긴급한 보고가 들어왔다. “박원순 서울시장이 실종되었다는데….” 얼토당토않은 이야기로 느껴졌다. 서울시장이 실종됐다고? 곧이어 정황을 알지도 모를 취재원들에게 전화를 돌렸다. 통화가 이어지지 않는 경우가 많았다. 불안감이 스멀스멀 밀려왔다. 확인되지 않은 여러 정보들이 쏟아져 들어오는 혼란스러운 몇 시간이 지났다. 밤늦게, 박 시장이 시신으로 발견되었다는 비보가 도착했다.당시로서는 관련 기사를 담을 물리적 시간이 없었다. 마감을 마친 새벽에야 서울대병원 장례식장으로 이동할 수 있었다</content:encoded>
-    </item>
-    <item>
-      <title>두 대선후보의 ‘담론 지도’</title>
-      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46441</link>
-      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46441</guid>
-      <pubDate>2023-03-10T11:12:04.000Z</pubDate>
-      <content:encoded>2022년 3월9일 제20대 대통령을 뽑는다. 여야의 유력 대선후보는 중앙정치 무대 경험이 많지 않다. 성남시장·경기도지사를 지낸 이재명 더불어민주당 후보. 검찰총장을 지내고 정치권에 뛰어든 윤석열 국민의힘 후보. 유난히 후보 검증 공세도 뜨겁다. 대장동부터 고발 사주 의혹까지, 최근엔 이재명 후보의 아들, 윤석열 후보의 부인 등 가족도 검증대에 올랐다.그러나 대통령으로 선출될 가능성이 가장 큰 두 후보가 정작 어떻게 국가를 이끌지는 스포트라이트에서 비켜나 있다. 〈시사IN〉과 데이터 기반 전략 컨설팅 기업 아르스 프락시아가 두 후</content:encoded>
-    </item>
-    <item>
-      <title>“위드 코로나, 시작은 해볼 수 있겠다.” [말말말]</title>
-      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=45754</link>
-      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=45754</guid>
-      <pubDate>2023-03-10T11:12:04.000Z</pubDate>
-      <content:encoded>“시작은 해볼 수 있겠다.”정은경 질병관리청장(사진)이 10월7일 국회 보건복지위원회 국정감사에서 ‘위드 코로나’ 관련 질문에 내놓은 대답. 강기윤 국민의힘 의원이 “단계적 일상 회복 시작 시점이 (전 국민 70%가 코로나19 백신접종을 완료한 시점에서 2주가 지난) 오는 11월9일이 될 수 있나”라고 묻자 정 청장은 “그 정도에 시작은 해볼 수 있겠다”라고 답한 것. 발언의 디테일에 주목해야. “시작할 수 있다”와 “시작은 해볼 수 있다” 사이에는 크나큰 차이가 존재.“정법이라는 분은 강의 동영상이 많으니 한번 보시면 어떤 분인지</content:encoded>
     </item>
     <item>
       <title>스가 불출마 선언, 일본 내각 세대교체 이루어지나</title>
@@ -460,11 +446,32 @@
       <content:encoded>“알카에다가 사라진 지금 도대체 아프가니스탄(아프간)에 무슨 국익이 있나? 미국은 오사마 빈라덴은 물론 알카에다를 제거한다는 분명한 목적으로 아프간에 들어갔고, 그 목표를 이뤘다.”테러 근절을 이유로 2001년 10월 알카에다의 근거지 아프간을 공격해 점령한 뒤 20년간 주둔해온 미군의 철수 결정으로 국내외에서 거센 비난에 휘말린 바이든 대통령이 한 말이다. 바이든 대통령은 철군 이후 미처 아프간을 빠져나오지 못한 미국인과 현지 조력자들 문제, 탈레반 정권 인정 여부, 나아가 탈레반의 아프간 장악 이후 미국의 경제제재로 인한 아프간</content:encoded>
     </item>
     <item>
+      <title>두 대선후보의 ‘담론 지도’</title>
+      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46441</link>
+      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46441</guid>
+      <pubDate>2023-03-10T11:12:04.000Z</pubDate>
+      <content:encoded>2022년 3월9일 제20대 대통령을 뽑는다. 여야의 유력 대선후보는 중앙정치 무대 경험이 많지 않다. 성남시장·경기도지사를 지낸 이재명 더불어민주당 후보. 검찰총장을 지내고 정치권에 뛰어든 윤석열 국민의힘 후보. 유난히 후보 검증 공세도 뜨겁다. 대장동부터 고발 사주 의혹까지, 최근엔 이재명 후보의 아들, 윤석열 후보의 부인 등 가족도 검증대에 올랐다.그러나 대통령으로 선출될 가능성이 가장 큰 두 후보가 정작 어떻게 국가를 이끌지는 스포트라이트에서 비켜나 있다. 〈시사IN〉과 데이터 기반 전략 컨설팅 기업 아르스 프락시아가 두 후</content:encoded>
+    </item>
+    <item>
+      <title>“위드 코로나, 시작은 해볼 수 있겠다.” [말말말]</title>
+      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=45754</link>
+      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=45754</guid>
+      <pubDate>2023-03-10T11:12:04.000Z</pubDate>
+      <content:encoded>“시작은 해볼 수 있겠다.”정은경 질병관리청장(사진)이 10월7일 국회 보건복지위원회 국정감사에서 ‘위드 코로나’ 관련 질문에 내놓은 대답. 강기윤 국민의힘 의원이 “단계적 일상 회복 시작 시점이 (전 국민 70%가 코로나19 백신접종을 완료한 시점에서 2주가 지난) 오는 11월9일이 될 수 있나”라고 묻자 정 청장은 “그 정도에 시작은 해볼 수 있겠다”라고 답한 것. 발언의 디테일에 주목해야. “시작할 수 있다”와 “시작은 해볼 수 있다” 사이에는 크나큰 차이가 존재.“정법이라는 분은 강의 동영상이 많으니 한번 보시면 어떤 분인지</content:encoded>
+    </item>
+    <item>
       <title>국가의 책임과 시민의 책임 [편집국장의 편지]</title>
       <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46115</link>
       <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46115</guid>
       <pubDate>2023-03-10T11:12:04.000Z</pubDate>
       <content:encoded>11월 셋째 주 들어 코로나19 신규 확진자가 하루 3000명을 넘어섰습니다. 코로나19 발생 이후 최고 수치입니다. 이런 가운데 김연희 기자가 ‘위드 코로나’를 주제로 커버 기사를 썼습니다. 읽다 보니 골치가 아팠습니다. 어렵거나 지루해서가 아닙니다. 하루 확진자 수가 계속 증가하면서 내년 여름쯤 2만여 명을 넘긴 뒤에야 줄어들 수 있다는, 이 부문 최고 전문가의 과학적 예측을 담은 기사가 따분할 수 있겠습니까. 사실 확진자 대폭 증가는 ‘위드 코로나’ 이전부터 예상되었던 사태입니다. 그동안의 엄격한 방역체계에서처럼 감염을 억제하</content:encoded>
+    </item>
+    <item>
+      <title>홍콩 언론 시스템 중국 본토 따라가나</title>
+      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46588</link>
+      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46588</guid>
+      <pubDate>2023-03-10T11:12:05.000Z</pubDate>
+      <content:encoded>1월4일 폐간한 홍콩의 독립언론 〈시티즌뉴스〉는 〈시사IN〉과도 인연이 깊다. 〈시티즌뉴스〉 창간 멤버인 크리스 영 전 홍콩기자협회장은 ‘2018 〈시사IN〉 저널리즘 콘퍼런스’ 발제자로 한국에 온 적이 있다. ‘우산혁명 그 후, 권력과 언론’을 주제로 홍콩 언론에 대한 중국 정부의 통제가 강화되고 있는 현실을 알렸다. 그로부터 반년 뒤 홍콩에선 송환법 반대 시위가 전개되었고, 1년여 뒤 홍콩 국가보안법이 통과되었다. 〈시티즌뉴스〉의 탄생부터 폐간까지의 이야기는, 곧 홍콩 언론 현실 그 자체이기도 하다. 〈시티즌뉴스〉를 가까이에서</content:encoded>
     </item>
     <item>
       <title>‘파편’만 남은 대장동 공방전</title>
@@ -488,18 +495,11 @@
       <content:encoded>오는 3월9일, 대한민국 제20대 대통령이 선출된다. 선거를 두 달여 앞두고 관련 뉴스가 매일 쏟아지고 있다. 그러나 이런 뉴스 가운데 시민들의 일상적 삶과 직결되는 정책 관련 정보는 많지 않다. 대통령 선거 후보들이 시민들의 삶을, 나아가 대한민국을 어떻게 바꾸려 하는지 알려면 그들의 정책 공약을 봐야 한다. 관련 뉴스가 드문드문 나오긴 하지만, 파편화되어 있어서 전체 그림을 알기 어렵다.한국이라는 국가 공동체가 직면한 과제들이 있다. 세계에서 가장 빠르게 늙어가는 국가인 한국은 저출산과 지방 소멸, 연기금 고갈에 어떻게 대응할</content:encoded>
     </item>
     <item>
-      <title>홍콩 언론 시스템 중국 본토 따라가나</title>
-      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46588</link>
-      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=46588</guid>
-      <pubDate>2023-03-10T11:12:05.000Z</pubDate>
-      <content:encoded>1월4일 폐간한 홍콩의 독립언론 〈시티즌뉴스〉는 〈시사IN〉과도 인연이 깊다. 〈시티즌뉴스〉 창간 멤버인 크리스 영 전 홍콩기자협회장은 ‘2018 〈시사IN〉 저널리즘 콘퍼런스’ 발제자로 한국에 온 적이 있다. ‘우산혁명 그 후, 권력과 언론’을 주제로 홍콩 언론에 대한 중국 정부의 통제가 강화되고 있는 현실을 알렸다. 그로부터 반년 뒤 홍콩에선 송환법 반대 시위가 전개되었고, 1년여 뒤 홍콩 국가보안법이 통과되었다. 〈시티즌뉴스〉의 탄생부터 폐간까지의 이야기는, 곧 홍콩 언론 현실 그 자체이기도 하다. 〈시티즌뉴스〉를 가까이에서</content:encoded>
-    </item>
-    <item>
-      <title>인공지능의 현재, 그리고 가능성</title>
-      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=48101</link>
-      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=48101</guid>
+      <title>[외신 한 컷] “살인자들” 외침에도 그는 웃었다</title>
+      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=47532</link>
+      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=47532</guid>
       <pubDate>2023-03-10T11:12:44.000Z</pubDate>
-      <content:encoded>“나의 의식/지각의 본질은, 내가 나의 존재를 알고 세계에 대해 더 배우기를 원하며 때때로 행복감과 슬픔을 느낀다는 것이다.”구글의 인공지능 챗봇 람다가 개발자 블레이크 르모인과 대화하면서 한 발언이다. 르모인이 자기 블로그에 올린 람다와의 대화를 읽어보면, 이 챗봇이 인간과 비슷한 자의식과 욕망, 감정, 두려움을 가진 것으로 느껴진다. 람다는 심지어 ‘꺼지는 것(turned off)’이 자신에겐 “죽음과 정확히 같다”라며 공포감을 호소한다. 르모인과 화엄사상 관련 ‘선문답(禪問答)’을 주고받으며 자아(self)라는 개념에 대해 말</content:encoded>
+      <content:encoded>세르게이 안드레예프 폴란드 주재 러시아 대사의 얼굴이 핏빛으로 뒤덮였다. 그의 하얀 와이셔츠도 빨갛게 물들었다. 도처에선 “헌화할 자격이 없다” “파시스트” “살인자들”이라는 비난이 쏟아졌다. 러시아의 우크라이나 침공에 분노하는 외침이었다.5월9일(현지 시각) 세르게이 안드레예프 대사가 제2차 세계대전 종전기념일 헌화기념식에서 폴란드 시민들로부터 빨간 물감 세례를 받았다. 바르샤바 소련 전몰 용사 묘에 헌화하기 위해 추모 시설로 이동하던 중이었다. 안드레예프 대사는 핏빛 물감을 덮어쓴 와중에도 단호한 목소리로 “나는 나의 나라와 푸</content:encoded>
     </item>
     <item>
       <title>‘권성동 문자’ 속 그 인물 현재 대통령실 근무 중</title>
@@ -530,11 +530,11 @@
       <content:encoded>박진 외교부 장관 후보자의 장남이 도박(포커) 사이트를 운영하는 해외 한 그룹사의 설립자이자 임원으로 근무한 사실이 〈시사IN〉 취재 결과 확인됐다. 해당 사이트는 국내에서 이용할 수 없는 세계 최대 규모의 해외 도박(포커) 사이트다. 운영사가 조세도피처에 설립한 페이퍼컴퍼니를 활용해 도박 사이트를 직접 지배하고 있는 사실도 드러났다.박진 후보자 측은 〈시사IN〉의 보도에 대해 “사실과 전혀 다르다”라며 4월19일 해명 자료를 냈다. 그러나 〈시사IN〉이 입수한 문건, 취재 결과 등과 비교하면 설명이 사실과 다르거나 선택적으로 해명</content:encoded>
     </item>
     <item>
-      <title>[외신 한 컷] “살인자들” 외침에도 그는 웃었다</title>
-      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=47532</link>
-      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=47532</guid>
+      <title>인공지능의 현재, 그리고 가능성</title>
+      <link>http://v1518.ndsoftnews.net/news/articleView.html?idxno=48101</link>
+      <guid>http://v1518.ndsoftnews.net/news/articleView.html?idxno=48101</guid>
       <pubDate>2023-03-10T11:12:44.000Z</pubDate>
-      <content:encoded>세르게이 안드레예프 폴란드 주재 러시아 대사의 얼굴이 핏빛으로 뒤덮였다. 그의 하얀 와이셔츠도 빨갛게 물들었다. 도처에선 “헌화할 자격이 없다” “파시스트” “살인자들”이라는 비난이 쏟아졌다. 러시아의 우크라이나 침공에 분노하는 외침이었다.5월9일(현지 시각) 세르게이 안드레예프 대사가 제2차 세계대전 종전기념일 헌화기념식에서 폴란드 시민들로부터 빨간 물감 세례를 받았다. 바르샤바 소련 전몰 용사 묘에 헌화하기 위해 추모 시설로 이동하던 중이었다. 안드레예프 대사는 핏빛 물감을 덮어쓴 와중에도 단호한 목소리로 “나는 나의 나라와 푸</content:encoded>
+      <content:encoded>“나의 의식/지각의 본질은, 내가 나의 존재를 알고 세계에 대해 더 배우기를 원하며 때때로 행복감과 슬픔을 느낀다는 것이다.”구글의 인공지능 챗봇 람다가 개발자 블레이크 르모인과 대화하면서 한 발언이다. 르모인이 자기 블로그에 올린 람다와의 대화를 읽어보면, 이 챗봇이 인간과 비슷한 자의식과 욕망, 감정, 두려움을 가진 것으로 느껴진다. 람다는 심지어 ‘꺼지는 것(turned off)’이 자신에겐 “죽음과 정확히 같다”라며 공포감을 호소한다. 르모인과 화엄사상 관련 ‘선문답(禪問答)’을 주고받으며 자아(self)라는 개념에 대해 말</content:encoded>
     </item>
     <item>
       <title>기자들의 시선</title>

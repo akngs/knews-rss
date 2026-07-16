@@ -1,65 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 인물/단체</title>
-    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
-    <description>에이블뉴스 - 인물/단체</description>
-    <lastBuildDate>2026-07-15T01:31:20.837Z</lastBuildDate>
-    <item>
-      <title>오늘의 부고-강성영 한신대 총장 부친상 외</title>
-      <link>https://www.khan.co.kr/article/202607061612001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607061612001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-06T16:12:00.000Z</pubDate>
-      <content:encoded>■강만원 성능교회 원로목사(한국기독교장로회 증경총회장) 별세, 성영 한신대 총장 부친상=5일 서울대병원. 발인 7일 (02)2072-2010■권형주씨 별세, 김미화 쿠팡 홍보실 이사·미현·동휘씨 모친상, 양회성 동아일보 사진부 차장 장모상=4일 서울성모병원. 발인 8일 (02)2258-5940■이운환씨 별세, 태현·정아씨 부친상, 노형석 한겨레 기자 장인상···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-과학기술정보통신부 외</title>
-      <link>https://www.khan.co.kr/article/202607061613001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607061613001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-06T16:13:00.000Z</pubDate>
-      <content:encoded>■헌법재판소 &amp;#9671;실장(1급) 보임 &amp;#9651;심판지원실장 김소연■과학기술정보통신부 &amp;#9671;과장급 전보 &amp;#9651;중앙전파관리소 전파관제과장 신재성■산업연구원 &amp;#9671;실장 보직 및 전보 &amp;#9651;전략산업분석실장 황경인 &amp;#9651;대외협력실장 이상원■한국전자통신연구원(ETRI) &amp;#9671;직할부서장 &amp;#9651;피지컬AI연구소장 ···</content:encoded>
-    </item>
-    <item>
-      <title>[일문일답] 박지성 공동위원장 “축구협회장 선거, 현행 제도로는 안된다는 엄중한 인식”</title>
-      <link>https://www.khan.co.kr/article/202607061856001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607061856001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-06T18:56:00.000Z</pubDate>
-      <content:encoded>박지성 K-축구 혁신위원회 공동위원장.   사진공동취재단“오늘은 거버넌스에 대한 부분을 먼저 짚고 거기에 대해서 어떻게 해야 할까에 대한 논의를 가장 중점적으로 다뤘습니다.”장시간 회의를 마치고 나온 박지성 K-축구 혁신위원회(이하 혁신위) 공동위원장은 가장 중점이 됐던 논의에 대해 제일 먼저 ‘거버넌스’를 언급했다.박 위원장은 6일 서울 송파구 올림픽파크···</content:encoded>
-    </item>
-    <item>
-      <title>국악 재즈 밴드 ‘신박서클 드러머’ 크리스티안 모란 사망</title>
-      <link>https://www.khan.co.kr/article/202607062011005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607062011005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-06T20:11:00.000Z</pubDate>
-      <content:encoded>4인조 국악 크로스오버 재즈 밴드 신박서클의 드러머 크리스티안 모란이 지난 5일 사망했다고 연합뉴스가 6일 보도했다. 향년 42세.영국 출신으로 영국 웨스트 런던대와 미국 버클리 음대를 최우수로 졸업한 모란은 2018년 신현필(색소폰), 박경소(가야금), 서영도(베이스)와 함께 크로스오버 재즈 밴드 신박서클을 결성해 활동했다. 팀 이름은 멤버들의 이름에서 ···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고-이관상 금호건설 경영관리본부 전무 부친상 외</title>
-      <link>https://www.khan.co.kr/article/202607071503001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607071503001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-07T15:03:00.000Z</pubDate>
-      <content:encoded>■송금순씨 별세, 장윤옥 디지털데일리 디지털혁신연구소장·원석 대한항공 승무팀장·준재 삼성SDS 프로 모친상=7일 신촌세브란스병원. 발인 9일 (02)2227-7500■이동춘씨 별세, 관상 금호건설 경영관리본부 전무·혜경씨 부친상=7일 중앙대병원. 발인 9일 (02)860-3500■김정래씨 별세, 지훈씨·지형 매일일보 건설사회부장·서영씨 부친상=7일 군산장례···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-기획예산처 외</title>
-      <link>https://www.khan.co.kr/article/202607071503021/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607071503021/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-07T15:03:02.000Z</pubDate>
-      <content:encoded>■기획예산처 &amp;#9671;국장급 &amp;#9651;장관정책보좌관 박영선■통일연구원 &amp;#9651;부원장 김갑식■ 머니스톰 &amp;#9651;회장 김광현 &amp;#9651;대표이사·발행인 김진수 &amp;#9651;편집인·주필 이용웅 &amp;#9651;부사장 겸 편집국장 박진영 &amp;#9651;부사장 겸 경영총괄 이충훈 &amp;#9651;편집국 경제팀장 신윤철</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-머니스톰</title>
-      <link>https://www.khan.co.kr/article/202607071724011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607071724011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-07T17:24:01.000Z</pubDate>
-      <content:encoded>■머니스톰 &amp;#9651;회장 김광현 &amp;#9651; 대표이사·발행인 김진수 &amp;#9651;편집인·주필 이용웅 &amp;#9651;부사장·편집국장 박진영 &amp;#9651;부사장· 경영총괄 이충훈 &amp;#9651;편집국 경제팀장 신윤철</content:encoded>
-    </item>
-    <item>
-      <title>‘방폭등 국산화’ 강영식 남북전기 회장 별세</title>
-      <link>https://www.khan.co.kr/article/202607072012005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607072012005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-07T20:12:00.000Z</pubDate>
-      <content:encoded>정유시설 등 폭발위험 대폭 줄여한국 중화학공업 기반 마련 기여정유시설에 설치된 전등에서 불꽃이 튈 경우 폭발 사고 등 참사로 이어질 우려가 있다.이 때문에 불꽃이 전등 내부에서 차단되는 방폭등을 사용해야 한다. 이 방폭등을 처음으로 국산화해 국내 방폭기기 산업 발전의 토대를 닦은 강영식 남북전기 회장(전 중소기업중앙회 부회장)이 지난 3일 별세했다. 향년 ···</content:encoded>
-    </item>
+    <title>동아일보 - 사람속으로</title>
+    <link>https://rss.donga.com/inmul.xml</link>
+    <description>동아일보 - 사람속으로</description>
+    <lastBuildDate>2026-07-16T01:51:10.821Z</lastBuildDate>
     <item>
       <title>1억1000만원 후원 이요셉 작가, 굿네이버스 ‘아너스클럽’ 등재</title>
       <link>https://www.khan.co.kr/article/202607072012025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -101,48 +45,6 @@
       <guid>https://www.khan.co.kr/article/202607082013035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-07-08T20:13:03.000Z</pubDate>
       <content:encoded>가오산원, T세포 림프종 투병“실제 성장률, 5% 아닌 2%일 것”위챗 정지·발언 사전 승인 지침중국 정부의 2021~2023년 공식 경제성장률 데이터가 과대평가됐다고 의문을 제기했던 경제학자 가오산원(高善文)이 세상을 떠났다. 향년 55세.중국 경제매체 차이신은 중국개발투자집단유한공사(SDIC증권)의 전 수석 분석가이자 제도경제학자인 가오가 7일 T세포 ···</content:encoded>
-    </item>
-    <item>
-      <title>BTS, 영국박물관 손잡고 韓문화유산 알린다</title>
-      <link>https://www.donga.com/news/People/article/all/20260709/134263335/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260709/134263335/2</guid>
-      <pubDate>2026-07-09T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/09/134261220.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;방탄소년단(BTS)이 세계 3대 박물관으로 꼽히는 영국박물관과 협업해 한국 문화유산을 소개한다.  BTS 소속사인 하이브는 “6일(현지 시간)부터 23일까지 영국박물관 한국관에서 BTS가 참여한 한국 문화유산 체험 프로그램 ‘코리아 갤러리 트레일(Korea Gallery trail)’을 진행한다”고 8일 밝혔다. 이번 프로그램은 BTS가 6, 7일 런던 토트넘 홋스퍼 스타디움에서 가진 월드투어 ‘아리랑’의 오프라인 이벤트 중 하나로 기획됐다. 공연일에 맞춰 런던의 랜드마크인 ‘런던아이’가 ‘아리랑’의 핵심 컬러인 붉은 빛깔로 물들었고, 템스강 위 ‘아리랑’ 로고 조형물을 실은 대형 보트가 떴다. ‘코리아 갤러리 트레일’은 BTS가 올해 3월 발매한 정규 5집의 제목이기도 한 ‘아리랑(ARIRANG)’을 테마로 영국박물관이 소장한 한국 문화유산을 선보이는 전시다. 박물관은 “한국관의 상설 전시품 가운데 ‘아리랑’에 내재된 희망과 회복력, 소속감과 어울리는 문화유산들”이라고 설명했</content:encoded>
-    </item>
-    <item>
-      <title>강병중 넥센 회장, 부산대에 100억</title>
-      <link>https://www.donga.com/news/People/article/all/20260709/134263328/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260709/134263328/2</guid>
-      <pubDate>2026-07-09T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/09/134263327.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;부산대는 강병중 넥센그룹 회장(86·사진)이 약 100억 원 상당의 넥센타이어 주식 144만5000주를 부산대 발전재단에 기부하기로 했다고 8일 밝혔다. 부산대는 기부금으로 ‘강병중 연구 장학기금’을 신설하기로 했다. 강 회장은 “개교 80주년을 맞은 부산대 발전을 위해 기부를 결정했다”고 말했다.</content:encoded>
-    </item>
-    <item>
-      <title>김수환 뜻 이은 ‘바보의나눔’, 취약층에 2.6억 기부</title>
-      <link>https://www.donga.com/news/People/article/all/20260709/134263332/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260709/134263332/2</guid>
-      <pubDate>2026-07-09T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/09/134264083.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;재단법인 바보의나눔이 여름철 폭염을 앞두고 취약계층 500가구에 냉방용품을 지원하기 위해 2억6000만 원을 기부했다. 바보의나눔은 스스로를 바보라 부른 고 김수환 추기경을 기리기 위해 2010년 설립된 민간 기부단체다. 이번 지원사업에는 사단법인 나눔과미래를 비롯한 전국 23개 민간위탁 주거복지센터가 협력한다. 각 센터는 폭염 취약가구를 발굴하고 이들의 집에 방문해 주거환경을 살필 예정이다. 이후 각 가구의 특성을 고려해 최대 50만 원 상당의 에어컨과 소형 냉장고, 제습기, 선풍기 등을 지원한다. 지원 전후로 전기요금 및 주거환경 변화를 조사해 향후 제도 개선과 지원 확대 근거로 활용한다.</content:encoded>
-    </item>
-    <item>
-      <title>‘천연기념물-명승 연구’ 국립자연유산원 만든다</title>
-      <link>https://www.donga.com/news/People/article/all/20260709/134263339/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260709/134263339/2</guid>
-      <pubDate>2026-07-09T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/08/134260125.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이르면 2032년에 자연유산 발굴 및 연구 등을 전담하는 ‘국립자연유산원’이 부산에 세워진다.  국가유산청은 “천연기념물과 명승 등 자연유산 전담 연구시설인 국립자연유산원 건립 사업이 기획예산처 예비타당성조사를 최종 통과했다”고 8일 밝혔다. 자연유산은 지질·지형, 명승, 동식물 등의 자연물이나 자연환경과 상호작용을 일으키며 조성된 문화적 유산을 망라한다. 한국에는 독도와 한라산, 전남 해남 공룡·익룡·새발자국 화석산지, 강원 영월 청령포, 경남 창원 팽나무 등이 대표적인 자연유산이다. 국립자연유산원은 부산 사하구 을숙도에 지상 3층, 지하 1층 규모로 건립될 예정이다. 수장고동과 연구동, 전시·교육동 등이 마련된다. 유산청은 “내년부터 기본설계를 시작해 2031년 완공한 뒤 이듬해인 2032년 정식으로 개원하는 게 목표”라며 “예상되는 총사업비는 1193억 원으로, 유산청이 추진하는 건립 사업 중 최대 규모”라고 설명했다.  새롭게 만들어지는 국립자연유산원은 자연유산 학술조</content:encoded>
-    </item>
-    <item>
-      <title>‘괴물 공격수’ 홀란 최애 머리끈, 시작은 韓기업</title>
-      <link>https://www.donga.com/news/People/article/all/20260709/134263325/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260709/134263325/2</guid>
-      <pubDate>2026-07-09T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/09/134263324.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2026 북중미 월드컵에서 8강에 진출한 노르웨이의 ‘괴물 공격수’ 엘링 홀란(26)이 착용하는 머리끈 브랜드가 한국에서 시작된 것으로 알려져 주목받고 있다. 8일 패션업계에 따르면 홀란은 노르웨이 머리끈 브랜드 ‘크네키(KKNEKKI)’ 제품을 매 경기 유니폼 색상에 맞춰 사용하고 있다. 크네키는 끈을 의미하는 경상도 방언 ‘끄네끼’에서 이름을 따왔다. 이 브랜드는 홈페이지를 통해 1987년 한국에서 처음 시작됐다고 소개하고 있다. 2015년 노르웨이 가족기업인 액세서리 브랜드 ‘본데프’에 팔렸다. 홀란은 2024년 이 브랜드에 직접 투자했다. 이번 월드컵을 앞두고는 홀란이 직접 고른 8가지 색상의 ‘홀란 에디션’도 출시됐다. 홀란이 소속팀과 대표팀에서 착용하는 색상에서 영감을 얻었으며, 머리끈에는 그의 이름이 새겨진 장식이 달렸다.</content:encoded>
-    </item>
-    <item>
-      <title>“애교 많던 5살딸”…뇌사 장기기증으로 3명 새삶</title>
-      <link>https://www.donga.com/news/Society/article/all/20260709/134265087/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260709/134265087/1</guid>
-      <pubDate>2026-07-09T09:53:08.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/09/134265088.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;갑자기 찾아온 두통으로 뇌사 상태가 된 5살 여아가 끝내 의식을 회복하지 못하고 3명에게 새 삶을 선물하고 떠났다.한국장기조직기증원은 지난 5월 14일 삼성서울병원에서 오유나(만 5세) 양이 뇌사 장기기증으로 3명에게 심장과 폐, 신장(양측)을 나누고, 인체조직인 혈관도 함께 기증한 뒤 떠났다고 9일 밝혔다.유나 양은 2020년 7월 전남 순천에서 이란성 쌍둥이 남매 중 첫째로 태어났다. 엄마 뱃속에서 25주 남짓 머문 뒤 예정일보다 일찍 세상에 나온 유나 양은 출생 당시 뇌출혈로 인한 수두증으로 션트 수술(뇌척수액을 배출해 뇌압을 조절하는 수술)을 받았다. 부모의 걱정에도 유나 양은 자라면서 크게 아픈 적은 없었다고 한다. 그러던 중 5월 초 갑자기 두통과 기력 저하 증상을 보여 병원을 찾았고, 치료에도 상태가 악화해 수술을 받았으나 의식을 회복하지 못한 채 뇌사 판정을 받았다.유나 양의 부모는 고심 끝에 장기기증을 결심했다. 어머니 심지영씨는 대학생 때부터 장기기증에 관심</content:encoded>
     </item>
     <item>
       <title>오늘의 인사-산업통상부, 보건복지부 외</title>
@@ -208,48 +110,6 @@
       <content:encoded>◇산업통상부 〈승진〉 ▽과장급 △초광역산업협력과장 이주노◇보건복지부 ▽국장급 △인구아동정책관 김현숙◇국립평화통일민주교육원 △원장 이제훈◇한국노동조합총연맹 △사무처장 윤강욱 △공무원본부 국장 이신송</content:encoded>
     </item>
     <item>
-      <title>박상민 대표, 고려대의료원 1억 기부</title>
-      <link>https://www.donga.com/news/People/article/all/20260710/134271001/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260710/134271001/2</guid>
-      <pubDate>2026-07-10T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134269141.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고려대의료원은 박상민 명성알엔에이 대표(사진)가 의학 발전을 위한 발전 기금 1억 원을 기부했다고 9일 밝혔다. 박 대표는 부친인 박정학 정상그룹 회장이 고려대 안암병원 순환기내과 유철웅 교수의 진료를 받고 건강을 회복한 데 대한 감사의 뜻으로 기부를 결심했다. 박 대표는 “더 많은 환자가 건강한 내일을 맞도록 힘을 보태고 싶다”고 했다.</content:encoded>
-    </item>
-    <item>
-      <title>윤여정, 美에미상 여우조연상 후보 올라</title>
-      <link>https://www.donga.com/news/People/article/all/20260710/134271005/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260710/134271005/2</guid>
-      <pubDate>2026-07-10T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134271558.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 윤여정 씨(79·사진)가 미국 최고 권위의 방송 시상식인 에미상 여우조연상 후보에 올랐다.8일(현지 시간) 미 텔레비전 예술·과학아카데미(ATAS)에 따르면 윤 씨는 제78회 프라임타임 에미상 시상식 ‘미니·앤솔러지 시리즈 또는 영화 최우수 여우조연상’ 후보에 올랐다. 윤 씨는 올 4월 공개된 넷플릭스 시리즈 ‘성난 사람들’ 시즌2에서 컨트리클럽을 새롭게 인수한 억만장자 한국인 박 회장을 연기했다.‘성난 사람들’ 시즌2는 여우조연상을 포함해 16개 부문에 이름을 올렸다. 작품상에 해당하는 최우수 미니·앤솔러지 시리즈 부문을 비롯해 여우주연상(캐리 멀리건)과 남우주연상(오스카 아이삭), 남우조연상(찰스 멜턴), 최우수 캐스팅, 최우수 편집 등이다. 시즌2의 총괄 제작자는 시즌1과 마찬가지로 한국계 미국인 이성진 감독이 맡았으며, 남우조연상 후보인 멜턴은 어머니가 한국계 이민자다.‘성난 사람들’은 2024년 시즌1이 에미상 작품상과 남우주연상, 여우주연상 등 8관왕을 휩쓸었다</content:encoded>
-    </item>
-    <item>
-      <title>“지하철-GTX-광역버스 5분 내 환승 가능한 양재역 만들겠다”</title>
-      <link>https://www.donga.com/news/Society/article/all/20260710/134269988/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260710/134269988/2</guid>
-      <pubDate>2026-07-10T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134268991.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“양재역을 세상에서 제일 편리한 환승코어(core·핵심)로 만들겠습니다.” 전성수 서울 서초구청장은 2일 청사 집무실에서 진행한 동아일보와의 인터뷰에서 양재역 일대 개발 계획을 강조했다. 서울 남부권 교통 핵심지로 부상할 서초구 양재역의 환승 시스템을 획기적으로 설계하겠다는 것.  서울지하철 3호선과 신분당선이 지나는 양재역에는 향후 수도권광역급행철도(GTX)-C 노선과 광역버스 환승센터가 들어서고, 새로 건립할 서초구청 복합청사가 연결된다. 전 구청장은 “다섯 가지 기능이 한 곳에 집중되는 만큼 누구나 빠르고 직관적으로 이동할 수 있도록 보행·환승 동선을 세밀하게 설계해야 한다”며 “어떤 시설을 이용하려고 해도 5분 안에 다 환승할 수 있도록 만들겠다”고 말했다. 이어 그는 “민선 9기 임기가 끝날 때까지는 환승코어 조성 사업의 설계를 넘어 실제 공사가 가시화되는 단계까지 추진하는 것이 목표”라며 “전 세계에서 벤치마킹하러 오도록 만들겠다”고 했다. 실제로 GTX-C 노선과</content:encoded>
-    </item>
-    <item>
-      <title>뉴욕서 독립만찬때 쓴 태극기, 84년 만에 원래 모습 되찾아</title>
-      <link>https://www.donga.com/news/People/article/all/20260710/134271013/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260710/134271013/2</guid>
-      <pubDate>2026-07-10T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134269178.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국가유산청 국립문화유산연구원 문화유산보존과학센터는 국가등록문화유산 ‘뉴욕 월도프 아스토리아 호텔 게양 태극기’(사진)의 보존 처리를 완료했다고 9일 밝혔다.1930년 미국 깃발 제조 기업 코플랜드 컴퍼니가 제작한 이 태극기는 1942년 이승만 전 대통령이 뉴욕 호텔에서 한국 독립 만찬회를 열 때 사용한 것으로 알려졌다. 해외에서 제작된 태극기의 제작 기법을 규명할 수 있는 자료이자 독립운동사의 중요 사료로 꼽힌다.기존 태극기는 깃면 전체가 누렇게 변색되고 습기 얼룩이 생겼으며, 태극·4괘 천에 주름이 잡히고 일부 괘의 바느질 선이 터진 상태였다. 이에 오염물 제거와 세척, 형태 안정화 작업을 거쳤다. 보존 처리가 끝난 태극기는 소장처인 국회기록원으로 이관될 예정이다.</content:encoded>
-    </item>
-    <item>
-      <title>“거제 야호”로 뜬 리센느, 2년전 노래 역주행해 1위</title>
-      <link>https://www.donga.com/news/People/article/all/20260710/134271017/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260710/134271017/2</guid>
-      <pubDate>2026-07-10T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134271552.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“거제 야호” 등 유행어가 히트하며 최근 인기를 끌고 있는 걸그룹 리센느(사진)가 약 2년 전 내놓은 곡이 ‘역주행’ 끝에 음원 차트 정상에 올랐다. 9일 소속사 더뮤즈엔터테인먼트에 따르면 리센느의 미니 1집 타이틀곡 ‘러브 어택(LOVE ATTACK)’은 전날 오후 멜론 ‘톱100’ 차트에서 1위를 기록했다. 2024년 8월 발매된 지 1년 11개월 만이다.2024년 3월 데뷔한 리센느는 원이와 미나미, 리브, 메이, 제나로 구성된 5인조 걸그룹. ‘러브 어택’은 발매 당시엔 큰 주목을 받지 못했으나, 올 2월 리더인 원이가 개설한 유튜브 채널이 화제가 되며 인기를 모았다. 일본인 멤버 미나미가 대화 도중 “거제 야호”라고 외친 장면이 온라인에 밈으로 확산됐으며, 원이와 제나의 경상도 사투리도 뜨거운 관심을 받았다. 이후 리센느는 멤버들의 고향인 거제시와 경북 경주시, 경기 수원시·고양시에서 홍보대사로 위촉되기도 했다.원이의 사투리가 논란에 휩쓸렸지만 오히려 더 응원받는 결과</content:encoded>
-    </item>
-    <item>
-      <title>지한파 꿈나무들 “韓-세계 잇는 가교될 것”</title>
-      <link>https://www.donga.com/news/People/article/all/20260710/134271009/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260710/134271009/2</guid>
-      <pubDate>2026-07-10T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/10/134269162.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;8일 서울 서초구 한국외교협회 2층 대회의실에선 20개국 출신의 석박사 대학원생들이 열띤 조별 토론을 벌이고 있었다. 그런데 여느 국제 학술 행사와 다른 점이 눈에 띄었다. 전공이 각기 다른 학생 46명이 전원 유창한 한국어로 소통하고 있었던 것이다.이들은 외교부가 개최한 ‘제7차 차세대 한국 전문가 연구모임’에 참가한 외국인 유학생들이다. 한국에 대한 이해 증진을 목표로 지난달 29일부터 9일까지 약 2주간 답사, 강연, 토론 등을 진행했다. 정부는 한국을 잘 아는 ‘지한파(知韓派)’ 인재 양성에 속도를 내기 위해 이 프로그램을 도입했다. 그간 미국, 영국 등 주요국은 수십 년 전부터 비슷한 프로그램을 운영해 왔다. 이날 만난 학생들은 “우리는 한국과 세계를 잇는 가교가 되겠다”며 “특별한 친구들을 사귄 여름방학이었다”고 입을 모았다. 도시 설계를 전공하는 테떼 파트리샤 에닌 지기 씨(26·가나)는 호탕한 목소리로 “한국의 우수 정책을 가나에 도입할 방안을 많이 고민하는데 동기</content:encoded>
-    </item>
-    <item>
       <title>오늘의 부고-송태용 별세</title>
       <link>https://www.khan.co.kr/article/202607101306001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202607101306001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -262,27 +122,6 @@
       <guid>https://www.donga.com/news/Politics/article/all/20260710/134274076/1</guid>
       <pubDate>2026-07-10T14:50:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/01/20/133192943.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;4개월 넘게 공석이었던 법원행정처장에 노경필 대법관이 임명됐다. 법원행정처장은 전국 법원의 인사와 예산, 조직 등 사법행정을 총괄하는 자리로, 전임 박영재 처장이 여당의 일명 ‘사법 3법’ 추진에 반발해 물러난 이후 공석이었다. 교착 상태에 빠진 대법관 후보 제청과 국회가 추진하는 사법제도 개편 대응이 신임 노 처장의 주요 과제로 떠올랐다.대법원은 10일 노 대법관을 신임 법원행정처장으로 임명했다고 밝혔다. 법원행정처장은 대법원장을 보좌해 전국 각급 법원의 사법행정을 총괄하고 국회 등 대외 업무를 담당한다. 대법관 중에서 대법원장이 임명한다.법원행정처장 자리는 박영재 대법관이 지난 2월 27일 사퇴한 뒤 4개월 넘게 공석으로 있었다. 박 전 처장은 민주당이 법 왜곡죄, 재판소원, 대법관 증원 등 이른바 ‘사법 3법’을 추진하자 이에 반발하며 취임 40여일 만에 물러났다. 이후 기우종 법원행정처 차장이 처장 직무를 대행해 왔다.전남 해남 출신인 노 대법관은 광주고와 서울대 법대를</content:encoded>
-    </item>
-    <item>
-      <title>서울지적장애인자립지원센터, &apos;제18회 서울시 발달장애인 자기권리주장대회&apos; 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=231966</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=231966</guid>
-      <pubDate>2026-07-10T15:41:54.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】서울지적장애인자립지원센터가 지난 9일 여의도 이룸센터에서 130여 명의 발달장애인 및 관계자들이 참석한 가운데 ‘제18회 서울특별시 발달장애인 자기권리주장대회’를 성황리에 마무리했다.서울특별시 발달장애인 자기권리주장대회는 발달장애인들 개인의 역량강화를 도모하고 나아가 사회에 발달장애인의 가능성을 알리고자 2008년도부터 매년 개최되고 있다.이날 대회는 개회식, 자기권리주장 발표, 시상식 순으로 진행됐다. 총 40명의 참가자가 △권리 △자립준비 △꿈과 목표 △사회서비스 개선요구 △장애인과 비장애인의 더불어 살</content:encoded>
-    </item>
-    <item>
-      <title>성북발달장애인평생교육센터, 장위종합사회복지관과 업무협약 체결</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=231974</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=231974</guid>
-      <pubDate>2026-07-10T17:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 성북발달장애인평생교육센터(센터장 김선희)와 장위종합사회복지관(관장 신철민)이 지난 9일 발달장애인의 사회참여 확대와 지역사회 복지 연계 강화를 위해 업무협약을 체결했다.이번 협약은 성북발달장애인평생교육센터가 운영하는 ‘더불어 봉사단’과 장위종합사회복지관의 도시락 배달사업을 연계해 발달장애인이 지역사회 나눔 활동의 주체로 참여할 수 있는 기반을 마련하기 위해 추진됐다.협약에 따라 양 기관은 발달장애인 이용자들이 지역 어르신에게 도시락을 전달하는 봉사활동에 참여할 수 있도록 협력하고 발달장애인의 지역사회 참여</content:encoded>
-    </item>
-    <item>
-      <title>한자연, &apos;2026년도 한국자립생활대학&apos; 참여자 모집</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=231973</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=231973</guid>
-      <pubDate>2026-07-10T17:15:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 한국장애인자립생활센터총연합회(이하 한자연, 상임대표 남인수)는 오는 22일까지 변화하는 AI 시대 속에서 중증장애인의 주체적인 삶을 이끌 인재를 양성하는 &apos;2026년도 한국자립생활대학(이하 IL대학)’ 참여자를 모집한다.올해로 13기를 맞이하는 IL대학은 중증장애인 당사자와 장애계 활동가들뿐만 아니라 자립생활 이념에 관심이 있는 누구나가 지역사회에서 주체적인 사회구성원으로 활동할 수 있도록 지원하는 통합적 인재 양성 플랫폼이다. 지난 2009년 처음 문을 연 이래로 이론과 실무를 겸비한 깊이 있는 커리큘럼을</content:encoded>
     </item>
     <item>
       <title>[반론보도] 〈600억 서울영화센터, 하루 1.5회 상영에 그쳐〉 관련</title>
@@ -843,6 +682,167 @@
       <guid>https://www.donga.com/news/Society/article/all/20260715/134298958/2</guid>
       <pubDate>2026-07-15T04:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134297910.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“이탈리아처럼 고부가 가치 패션 산업을 강북구에서 키워나가겠습니다.” 정창수 서울 강북구청장은 13일 집무실에서 진행한 동아일보와의 인터뷰에서 강북구를 서울 봉제·패션 산업의 중심지로 만들겠다고 강조했다. 다른 자치구들이 로봇과 인공지능(AI)등 첨단 산업 육성에 무게를 두는 가운데, 강북구는 국내에서 전통 제조업으로 분류되는 봉제 산업을 지역 성장 동력으로 꺼내들었다. 상대적으로 낮은 임차료와 입지 여건 등으로 강북구 내 봉제 업체가 2018년에는 744곳에서 2023년 925곳으로 늘어난 점에 착안한 것이다.  정 구청장은 “봉제 산업은 인건비 중심의 (노동 집약적) 경공업으로 여겨질 수 있지만, 이를 첨단화하고 고부가가치 산업으로 키우는 것이 중요하다”며 “강북패션산업지원센터를 조성해 사업자들이 패션산업 전문성을 갖출 수 있도록 컨설팅하겠다”고 말했다. 이어 “센터가 단순한 휴게 공간에 그치지 않고 전문 디자이너의 도움을 받을 수 있는 공간이 되도록 하겠다”며 “개인이 구매</content:encoded>
+    </item>
+    <item>
+      <title>S-OIL, 재활협회에 ‘2026년 감동의 마라톤’ 기금 2억 5000만원 전달</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232055</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232055</guid>
+      <pubDate>2026-07-15T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인재활협회가 지난 14일 서울 마포구 S-OIL 본사에서 ‘2026년 S-OIL과 함께하는 감동의 마라톤’ 기금전달식을 개최했다.이날 전달식에는 S-OIL 류열 사장과 한국장애인재활협회 나운환 회장, 전 국가대표 마라토너 이봉주 선수(감동의 마라톤 단장)가 참석했다.S-OIL은 성공적인 대회 개최를 위해 총 2억 5000만원의 사업비를 한국장애인재활협회에 전달했다.‘S-OIL과 함께하는 감동의 마라톤’은 장애인과 비장애인이 함께 달리며 장애에 대한 인식을 개선하고 사회통합의 가치를 확산하기 위해 마련</content:encoded>
+    </item>
+    <item>
+      <title>국립국어원, ‘점자능력 검정시험’ 시범 시행</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232060</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232060</guid>
+      <pubDate>2026-07-15T10:41:13.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 국립국어원(원장 이관규)은 오는 26일 군장대학교 영등포센터에서 내년부터 본격적으로 시행될 예정인 점자능력 검정시험을 시범 시행한다.‘점자법’ 개정안(2025. 2. 28. 시행)에서는 점자 사용자의 점자 사용 능력을 객관적으로 평가하고 점자교육의 질을 높여 점자 보급을 확대하기 위해 점자능력 검정시험 시행을 규정한 바 있다. 이번 시범 시험은 본격적인 시험 시행에 앞서 문항의 타당성과 난이도, 시험 운영 방식 등을 점검하기 위하여 시행된다.시범 시험은 정식 시험과 동일하게 응시자의 수준에 맞춰 3개 등급으</content:encoded>
+    </item>
+    <item>
+      <title>대한장애인양궁협회, 대한인명구조단과 업무협약 체결</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232070</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232070</guid>
+      <pubDate>2026-07-15T13:56:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 대한장애인양궁협회(회장 고광만)와 사회복지법인 대한인명구조단(대표이사 신정락)은 지난 13일 장애인양궁 활성화와 안전한 스포츠 환경 조성을 위한 업무협약을 체결했다.이번 협약은 양 기관이 상호 신뢰를 바탕으로 장애인양궁 대회 현장의 응급상황 대응체계를 구축하고 사회공헌 활동을 확대하기 위한 목적으로 마련됐다.협약서에 따라 대한인명구조단은 대한장애인양궁협회가 주최·주관하거나 참가하는 국내 및 국제 대회의 안전관리를 위해 적극 협력하기로 했다. 주요 협력 내용으로는 ▲경기장 내 신속한 응급상황 대응을 위한 안전</content:encoded>
+    </item>
+    <item>
+      <title>세계태권도연맹 깃발, 국제경기연맹 최초로 러시아 우주선 타고 우주로 [온라인 라운지]</title>
+      <link>https://www.donga.com/news/People/article/all/20260715/134303216/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20260715/134303216/1</guid>
+      <pubDate>2026-07-15T13:56:18.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134303220.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계태권도연맹(WT) 공식 깃발이 우주로 갔다.WT는 공식 깃발이 14일 카자흐스탄의 바이코누 우주기지에서 발사한 러시아 소유즈 MS-29 우주선에 실려 우주로 갔다고 15일 전했다.국제경기연맹 공식 깃발을 우주로 보낸 건 WT가 최초이다.이번 프로젝트는 2027 아스타나 세계태권도선수권대회를 1년 앞두고 쿠드랏 샤미예프 카자흐스탄태권도협회장 주도로 성사됐다. 조정원 WT 총재는 “태권도는 이제 지구를 넘어 더 큰 무대로 나아가고 있다”며 “이번 우주 발사는 2027 아스타나 세계선수권 개최를 알리는 동시에 태권도가 전하는 평화와 희망 그리고 무한한 가능성의 메시지를 전 세계와 우주로 확장하는 의미 있는 순간”이라고 평했다.</content:encoded>
+    </item>
+    <item>
+      <title>퍼팅 직전 ‘갑분싸 소란’ 선 넘는 갤러리들···“악질 ‘베팅족’ 고의 방해” 월클 골프 선수들도 폭발</title>
+      <link>https://www.khan.co.kr/article/202607151443001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607151443001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T14:43:00.000Z</pubDate>
+      <content:encoded>맷 피츠패트릭이 지난 13일(현지시간) 제154회 디오픈 개막을 앞두고 대회장인 잉글랜드 사우스포트의 로열 버크데일 골프클럽에서 기자회견을 하고 있다. 게티이미지코리아디오픈 대회 앞둔 피츠패트릭 “큰 문제” 지적“너때매 손해봤다” 선수 SNS에 악플 남기기도전 랭킹 1위 조던 스피스도 “샷에 영향 줘” 비판 디오픈 대회 조직위 ‘새 관중 행동 지침’ 시행부···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사-통일부 외</title>
+      <link>https://www.khan.co.kr/article/202607151502001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607151502001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T15:02:00.000Z</pubDate>
+      <content:encoded>■통일부 &amp;#9671;고위공무원 전보 &amp;#9651;국립평화통일민주교육원 교육운영부장 오미희 &amp;#9651;북한인권기록센터장 정소운■해양수산부 &amp;#9671;실장급 승진 및 파견 &amp;#9651;북극항로추진본부 본부장 이수호■지식재산처 &amp;#9671;과장급 전보 &amp;#9651;지역지식재산과장 강원길 &amp;#9651;상표특별사법경찰과장 엄기훈 &amp;#9651;기계전자상표심사팀장···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고-박중호 한국자산관리공사 서울서부지역본부 선임전문위원 별세 외</title>
+      <link>https://www.khan.co.kr/article/202607151503001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607151503001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T15:03:00.000Z</pubDate>
+      <content:encoded>■한점심씨 별세, 지명준·혜연씨 모친상, 이강일 더불어민주당 국회의원 장모상=15일 창원파티마병원. 발인 17일 (055)270-1900■박중호 한국자산관리공사 서울서부지역본부 선임전문위원 별세, 준수씨 부친상=14일 분당제생병원. 발인 16일 (031)708-4444■구삼생씨 별세, 미성 강서힘찬병원 간호부장·은주씨·태형 라온휴한방병원 진료협력부장 부친상···</content:encoded>
+    </item>
+    <item>
+      <title>박주호 전 한양대 교수, 대림대 제10대 총장 취임</title>
+      <link>https://www.donga.com/news/Society/article/all/20260715/134304646/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260715/134304646/1</guid>
+      <pubDate>2026-07-15T15:52:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134304675.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;박주호 전 한양대 교육학과 교수(사진)가 15일 대림대학교 제10대 총장으로 취임했다. 박 신임 총장은 이날 경기 안양 대림대에서 열린 취임식에서 “대림대는 1977년 설립 이래 10만여 명의 전문기술인을 배출해 대한민국 산업 발전에 크게 기여했고 전년도 졸업생 취업률이 80%로 전국 최고 수준”이라며 학교 발전을 위해 그간의 경험과 지식을 쏟겠다고 밝혔다. 박 총장은 이어 “학생 성공을 최우선에 두는 대학, 취업으로 이어지는 산학협력교육을 선도하는 대학, 지역사회와 공동 성장하는 대학을 조성해가겠다”고 했다.박 총장은 1991년 행정고시에 합격한 뒤 교육부에서 산학협력 및 고등교육 정책을 담당했다. 이후 미국 조지아대에서 산업교육학 박사 학위를 받고 한양대 교육학과 교수로 재직했다.</content:encoded>
+    </item>
+    <item>
+      <title>‘AI 시대 전력산업 구조 개편’ 출간한 김주영 의원 “통합 에너지 인프라 통해 전력 수요 대응해야”</title>
+      <link>https://www.donga.com/news/Politics/article/all/20260715/134304923/1</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20260715/134304923/1</guid>
+      <pubDate>2026-07-15T17:50:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134294391.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이재명 정부가 인공지능(AI)과 반도체 등 첨단산업 육성을 위한 ‘3대 메가 프로젝트’ 추진 계획을 발표하며 핵심 기반 시설인 전력 인프라 확충 필요성이 대두되고 있다. 정부가 용인과 호남 반도체 산업단지와 AI 데이터센터 건설로 늘어날 전기 수요만 최소 약 30GW(기가와트)이며 잠재 수요까지 합하면 40GW가 넘을 것으로 추산하는 상황에서 막대한 전력 수요에 대한 적절한 대응이 3대 메가 프로젝트 성공을 위한 핵심 과제로 꼽히고 있다.2002년부터 2014년까지 12년 동안 전국전력노동조합 위원장을 역임하고 22대 전반기 국회 기후에너지환경노동위원회 여당 간사로 활동했던 김주영 의원은 “AI시대엔 발전설비 확충만이 아니라 전력망, 저장장치, 수요관리까지 함께 설계하는 ‘통합 에너지 인프라 국가 전략’이 필요하다”며 한국전력공사를 중심으로 한 통합형 전력산업 구조 개편을 해결책으로 제시했다. 김 의원은 “전력산업은 통합적 운영을 할 때 가장 효율적이다”며 “전기요금 결정 구조를</content:encoded>
+    </item>
+    <item>
+      <title>우한 봉쇄 실태 알린 중 시민기자, 1회 루샤오보 인권상 ‘옥중 수상’</title>
+      <link>https://www.khan.co.kr/article/202607152013005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607152013005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T20:13:00.000Z</pubDate>
+      <content:encoded>중국 인권운동가이자 노벨 평화상 수상자인 고 류샤오보를 기리는 인권상이 첫 수상자를 배출했다. 코로나19 초기 중국 우한 봉쇄 실태를 취재해 세계에 알린 시민기자 장잔(사진)이 주인공이다.장잔은 류샤오보 서거 9주기를 맞아 지난 13일(현지시간) 독일 라이프치히에서 열린 ‘제1회 루샤오보 인권상’ 시상식에서 첫 수상자로 선정됐다. 다만 수감 중이라 시상식에···</content:encoded>
+    </item>
+    <item>
+      <title>미·러 우주비행사, 같은 우주선 타고 국제우주정거장 도착</title>
+      <link>https://www.khan.co.kr/article/202607152013015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607152013015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T20:13:01.000Z</pubDate>
+      <content:encoded>8개월간 체류하며 임무 수행14일 카자흐스탄 바이코누르 우주기지에서 소유스 MS-29 우주선 발사를 앞두고 NASA 우주비행사 아닐 메논과 로스코스모스 우주비행사 표트르 두브로프, 안나 키키나(왼쪽부터)가 우주복을 점검하고 있다. 연합뉴스미국과 러시아의 우주비행사들을 함께 태운 우주선이 14일(현지시간) 국제우주정거장(ISS)에 무사히 도착했다.AP통신 등···</content:encoded>
+    </item>
+    <item>
+      <title>기술보증기금 신임 이사장에 권형택 전 HUG 대표이사 임명</title>
+      <link>https://www.khan.co.kr/article/202607152013025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607152013025/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T20:13:02.000Z</pubDate>
+      <content:encoded>기술보증기금은 신임 이사장에 권형택 전 주택도시보증공사(HUG) 대표이사(사진)가 임명됐다고 15일 밝혔다. 임기는 2029년 7월14일까지 3년이다. 권 신임 이사장은 1968년생으로 대구영진고등학교와 서울대 국제경제학과를 졸업하고 미국 미시간대 대학원에서 경영정보학 석사학위를 받았다. 이후 우리은행 투자금융본부와 홍콩상하이은행(HSBC) 상무, 서울도시···</content:encoded>
+    </item>
+    <item>
+      <title>영국 듀오 ‘혼네’  “노래방같이 떼창 불러준 기억 남아…‘뉴진스’와 함께 협업하고 싶어”</title>
+      <link>https://www.khan.co.kr/article/202607152013035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607152013035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T20:13:03.000Z</pubDate>
+      <content:encoded>16일부터 사흘간 내한 공연영국 팝 듀오 혼네가 지난 14일 서울 마포구의 한 카페에서 포즈를 취하고 있다. 제임스 해처(왼쪽)와 앤디 클러터벅.  리짐인터내셔널 제공“한국에서 첫 공연을 했을 때 티켓이 순식간에 매진됐다는 소식을 듣고 믿을 수 없었어요. 10년 전 활동을 시작했을 때는 해외에서 인기를 얻을 수 있을 거라 생각지 못했습니다.”영국의 얼터너티···</content:encoded>
+    </item>
+    <item>
+      <title>김현기 강남구청장 “늙어가는 강남, AI 등 새 성장동력 필요…기초학력 강화 ‘공교육 1번지’ 만들 것”</title>
+      <link>https://www.khan.co.kr/article/202607152057005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202607152057005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-07-15T20:57:00.000Z</pubDate>
+      <content:encoded>‘민선 9기’ 서울 구청장에게 듣는다김현기 서울 강남구청장(사진)은 지난달 서울시의회 마지막 예산결산특별위원회에 앞서 회의에 참석한 서울시 실·국장, 과장 등에게 고개 숙여 인사했다. 당시 시의원으로서 마지막 인사이자, 향후 구청장으로서 강남구를 많이 도와달라는 부탁이었다.“강남구 발전을 위해서라면 제가 직접 서울시청에 찾아가서 담당 팀·과장님께 도와달라고···</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다]휴가지에서 동아일보와 만나보세요</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308688/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308688/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>여름휴가를 떠나더라도 하루의 시작은 동아일보와 함께! 휴가 기간 동안에도 독자님이 머무시는 휴가지로 신문을 직접 배달해 드립니다. 또한 휴가 중에는 가정배달을 일시 중지해 드리며, 휴가 후 일괄 배달을 신청하시면 보관된 신문을 귀가 후 한 번에 받아 보실 수 있습니다. 휴가지 배달 서비스는 강원, 충북, 경북, 부산, 광주, 제주 지역 지정 호텔 및 콘도 57개소에서 이용하실 수 있습니다. 이용 가능한 시설은 동아일보 독자라운지 ‘휴가철 맞춤 배달 서비스’에서 확인하실 수 있습니다. 휴가철 맞춤 배달 서비스는 17일부터 8월 22일까지 시행합니다. 자세한 안내와 신청은 본사 콜센터로 문의하시기 바랍니다.● 본사 콜센터: 1588-2020● 인터넷: 동아일보 독자라운지(readers.donga.com)</content:encoded>
+    </item>
+    <item>
+      <title>“AI 시대 생존 키워드는 ‘리스킬링’… 한국 학습 열기 놀랍다”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260716/134307202/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260716/134307202/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134306351.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“인공지능(AI) 시대에는 변화 속도가 빠른 만큼 민첩하게 역량을 키우는 리스킬링(reskilling)이 중요합니다. 자신감과 변화 주도성 등의 역량도 요구되고요. 세계 최고 수준의 한국 교육이 AI 시대에 발맞춰 변화를 주도하는 리더를 많이 배출하기 바랍니다.” 8일 서울 송파구 시그니엘서울에서 만난 앤서니 살시토 코세라 수석부사장(사진)은 “지난해 한국의 AI 강좌 등록은 13분에 1명이었는데 올해는 6분에 1명 수준으로 늘었다”며 이같이 말했다. 코세라는 2012년 미국 스탠퍼드대 컴퓨터과학과의 앤드루 응 교수와 대프니 콜러 교수가 공동 설립한 1세대 온라인 공개강좌 플랫폼이다. 올 3월 기준 2억500만 명이 취업, 직무 전환, 학위 취득 등을 위해 이용하고 있다. 국내에서는 연세대, 성균관대 등이 코세라를 통해 교육 프로그램을 제공하고 있으며 ‘한국어 첫걸음’, ‘세계로 통하는 한국어’ 등의 강의는 전 세계 수강자들에게 인기가 높다. 살시토 수석부사장은 “기술이 빠른</content:encoded>
+    </item>
+    <item>
+      <title>관람하며 ‘소맥’ 한잔… K연극에 취한 아비뇽</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308798/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308798/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134309078.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“여기도 ‘소맥’ 주세요.” 14일(현지 시간) 프랑스 남부 아비뇽의 미스트랄 고등학교 체육관에서 열린 한국 연극 ‘하리보 김치’의 공연 현장. 공연이 막바지로 접어들 무렵 연출자 겸 주연 배우인 구자하 작가(43)가 소주와 맥주를 섞은 소맥 20여 잔을 만들어 “원하는 사람은 손을 드세요”라고 외쳤다. 그러자 객석을 가득 메운 300여 명의 관객은 너도나도 손을 들었다. 구 작가는 록스타가 공연장을 누비듯 객석 곳곳을 뛰어 다니며 소맥을 배달했다. 20대 관객 마르겟 잰 씨는 “한국 드라마에서만 보던 소맥을 중세 시대 교황이 머물던 아비뇽에서 맛볼 줄 몰랐다”며 웃었다.  4∼25일 아비뇽에서 열리는 세계적 공연예술 축제 ‘아비뇽 페스티벌’에 등장한 ‘하리보 김치’는 한국의 포장마차를 무대로 음식, 영상, 로봇 등을 동원해 한국의 문화적 정체성을 탐구하는 작품이다. 연극계의 노벨상으로 불리는 ‘국제 입센상’을 올 3월 수상한 구 작가의 대표작인 ‘하마티아 3부작(롤링 앤드 롤</content:encoded>
+    </item>
+    <item>
+      <title>버핏, ‘엡스타인 의혹’ 게이츠에 20년 기부 중단</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308815/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308815/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134309035.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;워런 버핏 전 버크셔해서웨이 회장(사진)이 빌 게이츠 마이크로소프트(MS) 창업자의 게이츠재단에 대한 기부를 20년 만에 중단한 것으로 전해졌다. 억만장자 성착취범 제프리 엡스타인과 게이츠가 교류한 정황이 드러나면서 두 사람이 멀어진 데 따른 것으로 분석된다. 14일(현지 시간) CNN에 따르면 버크셔가 발표한 버핏 회장의 기부 대상에서 게이츠재단이 제외됐다. 이날 그는 약 60억 달러(약 8조9400억 원) 상당의 버크셔 주식 1200만 주를 첫 부인의 이름을 딴 수전 톰프슨 버핏 재단 및 자신의 세 자녀가 이끄는 재단 등에 기부했다고 밝혔다. 그는 별도 성명에서 “내 목표는 앞으로 8년 안에 내가 보유한 버크셔 주식 전량을 처분하는 것”이라며 “내게 남은 주식은 어떤 방식으로든 2034년 12월 31일까지 4개 재단에 기부할 것”이라고 했다. 버핏은 2006년부터 게이츠재단 이사로 재직하며 매년 수십억 달러 상당의 주식을 기부해왔다. 그는 2021년 게이츠재단 이사직을 내려놓</content:encoded>
+    </item>
+    <item>
+      <title>“하회마을에 엘리자베스 여왕 동상”… 한경협 회장, 방한 앤 공주에 약속</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308813/3</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308813/3</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134309032.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;영국 찰스 3세 국왕의 여동생인 앤 공주가 방한 중인 가운데, 류진 한국경제인협회 회장이 경북 안동 하회마을에 앤 공주의 어머니인 영국 엘리자베스 2세 여왕(1926∼2022·사진)의 동상을 세울 것이라고 15일 밝혔다. 류 회장은 이날 제주 롯데호텔에서 열린 2026년 한국경제인협회 제주하계포럼에서 “앤 공주 방한 행사에서 앤 공주를 만나서 엘리자베스 여왕 동상을 하회마을에 세울 것을 설명했다. 올해 안에 설치가 될 것”이라고 말했다. 류 회장은 1999년 엘리자베스 2세 여왕이 73번째 생일을 맞아 하회마을을 방문했을 때 직접 여왕을 맞이한 바 있다. 류 회장은 안동 하회마을 충효당의 주인인 서애 류성룡 종가의 13대 손이기도 하다.</content:encoded>
+    </item>
+    <item>
+      <title>정비공 출신 난치병 골퍼, 메이저 디오픈 무대에</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308800/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308800/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134306406.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;16일부터 영국 사우스포트의 로열 버크데일 골프클럽(파70)에서는 남자 골프 시즌 마지막 메이저대회 디 오픈(The Open)이 열린다. 4대 메이저대회 중 가장 오랜 역사를 자랑하는 제154회 디 오픈에는 스코티 셰플러(30·미국), 로리 매킬로이(37·북아일랜드) 등 세계적인 선수들이 총출동한다.  156명의 출전 선수 명단에는 정비공 출신 아마추어 골퍼 데이비드 하워드(27·아일랜드·사진)도 있다. 아마추어 랭킹 1456위인 하워드는 지난달 지역 예선을 통과해 출전권을 따냈다. 대회 개막을 앞둔 15일 하워드는 “어릴 때는 이 나이까지 살 수 있으리라고 생각도 못 했다. 이렇게 최고의 선수들과 함께 경기할 수 있다는 게 믿기지 않는다”고 말했다.  하워드는 일곱 살 때 폐·장·췌장 등에 끈적한 점액이 쌓이는 난치병 ‘낭포성 섬유증’ 진단을 받았다. 그가 처음 스마트폰을 손에 넣었던 10대 시절 검색 엔진에 ‘낭포성 섬유증 환자 평균수명’을 쳤을 때 나온 결과는 20대 중반이</content:encoded>
+    </item>
+    <item>
+      <title>[인사]공정거래위원회 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308802/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308802/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>◇공정거래위원회 〈승진〉 ▽부이사관 △소비자정책총괄과장 권순국 △가맹거래조사과장 이득규 ◇개인정보보호위원회 〈전보〉 ▽과장급 △국제협력담당관 강민지 ◇해양수산부 〈승진〉 ▽실장급 △북극항로추진본부 본부장 이수호</content:encoded>
+    </item>
+    <item>
+      <title>[부고]구삼생 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308804/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308804/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>◇구삼생 씨 별세·박상남 씨 남편상·미성 강서힘찬병원 간호부장 은주 씨 태형 라온휴 한방병원 진료협력부장 부친상·손태용 씨 김규성 파이낸셜뉴스 정치부장 장인상=14일 경남 창원시 마산의료원, 발인 16일 오전 11시 반 055-249-1700 ◇박중호 한국자산관리공사 서울서부지역본부 선임전문위원 별세·이명희 씨 남편상·준수 씨 부친상=14일 경기 성남시 분당제생병원, 발인 16일 오전 10시 031-708-4444 ◇한점심 씨 별세·지도한 씨 부인상·명준 혜연 씨 모친상·이강일 국회의원(더불어민주당) 장모상=15일 경남 창원파티마병원, 발인 17일 오전 7시 반 055-270-1900</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다]제42회 동아국악콩쿠르 본선 연주회… 전석 무료</title>
+      <link>https://www.donga.com/news/People/article/all/20260716/134308818/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260716/134308818/2</guid>
+      <pubDate>2026-07-16T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134309008.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미래 국악계를 이끌 인재를 발굴하는 제42회 동아국악콩쿠르 본선 연주회가 18일부터 20일까지 열립니다. 치열한 예선을 거쳐 선발된 본선 진출자들이 수준 높은 연주를 선보이며, 입상자에게는 상금 외에도 전인평 국악작곡상, 민속국악사상 등 다양한 부상이 수여됩니다. 본선 전 일정은 동아콩쿠르 유튜브 채널을 통해 생중계될 예정입니다. 국악을 사랑하는 여러분의 많은 관심과 성원을 바랍니다(전석 무료).● 본선 연주회: 18일(토)∼20일(월)● 시상식: 20일(월) 오후 5시 30분● 장소: 서울 서초구 서울교육대 종합문화관 ● 문의: 동아일보사 문화기획팀 02-361-1412※부문별 연주 일정 및 출연자 명단은 동아국악콩쿠르 홈페이지를 참고하시기 바랍니다. www.donga.com/concours/classical</content:encoded>
     </item>
   </channel>
 </rss>
