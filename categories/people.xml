@@ -1,44 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>동아일보 - 사람속으로</title>
-    <link>https://rss.donga.com/inmul.xml</link>
-    <description>동아일보 - 사람속으로</description>
-    <lastBuildDate>2026-08-11T01:08:23.316Z</lastBuildDate>
-    <item>
-      <title>오늘의 부고-장성태 대구MBC 기자 부친상 외</title>
-      <link>https://www.khan.co.kr/article/202607291509001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607291509001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-29T15:09:00.000Z</pubDate>
-      <content:encoded>■경기현씨 별세, 김용진 경기주택도시공사 사장 장인상=29일 이천 송산장례식장. 발인 31일 (031)641-4440■장기식씨 별세, 성태 대구MBC 기자 부친상=29일 대구 모레아장례식장. 발인 31일 (053)801-9999■황영하 부산 부광교회 집사, 규석 남해종합개발 부장·규현 건국대 부동산대학원 겸임교수·효주씨 부친상=28일 부산 괴정병원. 발인 ···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-행정안전부 외</title>
-      <link>https://www.khan.co.kr/article/202607291510001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607291510001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-29T15:10:00.000Z</pubDate>
-      <content:encoded>■행정안전부 &amp;#9671;과장급 전보 &amp;#9651;정부청사관리본부 청사기획과장 신화영■방송미디어통신위원회 &amp;#9671;부이사관 승진 &amp;#9651;운영지원과장 김기석 &amp;#9671;과장급 전보 &amp;#9651;국제협력담당관 우혜진</content:encoded>
-    </item>
-    <item>
-      <title>손흥민, MLS 올스타전 멀티골…MVP 선정</title>
-      <link>https://www.khan.co.kr/article/202607301251001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607301251001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T12:51:00.000Z</pubDate>
-      <content:encoded>MLS 올스타전 MVP로 선정된 손흥민. MLS손흥민(LAFC)이 미국 메이저리그사커(MLS) 올스타전에서 멀티골을 터뜨리며 최우수선수(MVP)에 선정됐다.MLS 올스타팀은 30일 미국 노스캐롤라이나주 샬럿의 뱅크 오브 아메리카 스타디움에서 열린 2026 MLS 올스타전에서 멕시코 리가 MX 올스타팀을 4-3으로 꺾었다.최전방 공격수로 선발 출전한 손흥민은···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 인사-헌법재판소 외</title>
-      <link>https://www.khan.co.kr/article/202607301456001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607301456001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T14:56:00.000Z</pubDate>
-      <content:encoded>■헌법재판소 &amp;#9671;선임헌법연구관 &amp;#9651;도서총괄심의관 조경선 &amp;#9651;선임부장연구관 김지현 &amp;#9671;헌법연구관 임용 &amp;#9651;정지영 손소원 최지석 김성훈 서준영 홍재명 &amp;#9671;헌법연구관보 임용 &amp;#9651;정재하 연승범 오시훈 전재욱 이상구 전선민■법무부 &amp;#9671;보호기관 4급 승진 &amp;#9651;법무부 감사담당관실 김동진 &amp;···</content:encoded>
-    </item>
-    <item>
-      <title>오늘의 부고-조석영 카카오 컴플라이언스 성과리더 별세  외</title>
-      <link>https://www.khan.co.kr/article/202607301457001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607301457001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T14:57:00.000Z</pubDate>
-      <content:encoded>■조석영 카카오 컴플라이언스 성과리더 별세, 제형씨 부친상=29일 서울성모병원. 발인 8월1일 (02)2258-5940■권영자씨 별세, 이동일씨(자영업)·중호씨(자영업)·동준 삼성SDS 부장·정희·영희·양희·경희씨 모친상, 이종명 재경전북임실향우회장·이승필씨(자영업)·김수태씨(자영업)·박병수 데일리 유스라인 대표 장모상=30일 건국대병원. 발인 8월1일 (···</content:encoded>
-    </item>
+    <title>에이블뉴스 - 인물/단체</title>
+    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
+    <description>에이블뉴스 - 인물/단체</description>
+    <lastBuildDate>2026-08-12T01:13:19.455Z</lastBuildDate>
     <item>
       <title>박지성 “일본은 100년을 내다보고 준비하는데···”  한국 축구에 쓴소리</title>
       <link>https://www.khan.co.kr/article/202607301546001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -166,20 +131,6 @@
       <content:encoded>한국방송협회는 제28대 협회장으로 안형준 MBC 사장(사진)이 지난 1일 취임했다고 3일 밝혔다. 임기는 2년이다. 안 회장은 미디어 공익성은 지상파에 주어진 소명이라며 “유료 방송의 사각지대에 놓인 단 한 명의 시청자도 외면하지 않는다는 책임감을 갖고 국민의 보편적 시청권 문제를 풀어가겠다”고 밝혔다.서울대 사회복지학과를 나와 1994년 YTN 기자로 언···</content:encoded>
     </item>
     <item>
-      <title>장애인체육회, 장애인체육계 인권감수성 향상 위한 권역별 캠프 운영</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232421</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232421</guid>
-      <pubDate>2026-08-04T13:30:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완)는 지난달부터 장애인체육계 관계자들의 인권감수성 향상을 위한 권역별 캠프를 운영 중이라고 4일 밝혔다.지난 7월 9일부터 10일까지 서울올림픽파크텔에서 수도권역 장애인체육계 관계자를 대상으로 1박 2일간 1차 ‘인권감수성 향상 캠프’를 진행했다.이어 오는 8월 6일부터 7일까지 전북 전주 소재 글로스터호텔 전주에서 호남권역 2차 캠프를 개최하며, 8월 27일부터 28일까지 더케이호텔 경주에서 영남권역 3차 캠프를 실시할 예정이다.‘인권감수성 향상 캠프’는 선수, 지도자, 장애인체</content:encoded>
-    </item>
-    <item>
-      <title>마포구, ‘2026년 장애인 자동차 안전 점검’ 지원‥155대 선착순</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232415</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232415</guid>
-      <pubDate>2026-08-04T13:33:03.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 마포구(구청장 유동균)는 오는 11월 30일까지 장애인의 안전한 이동을 돕고 차량 관리 부담을 덜기 위해 ‘2026년 하반기 장애인 자동차 안전 점검 지원사업’ 신청을 선착순으로 받는다.장애인에게 자동차는 병원 진료와 통근·통학, 외출 등 일상생활과 사회활동을 이어가는 주요 이동 수단이다. 하지만 정기적인 차량 점검과 정비에 드는 비용이 부담돼 적절한 시기에 차량을 관리하기 어려운 경우도 있다.이에 구는 지난해부터 서울특별시자동차전문정비사업조합 마포구지회와 협약을 맺고 장애인 자동차 안전 점검 지원사업을 추</content:encoded>
-    </item>
-    <item>
       <title>[단독]펩 과르디올라 오른팔로 불렸던 토렌트 감독, 한국 대표팀 사령탑 도전</title>
       <link>https://www.khan.co.kr/article/202608041404001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202608041404001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -194,32 +145,11 @@
       <content:encoded>충북청주 반데이라, 수원 삼성전 이후 SNS에 사진경기 막판 핸드볼 노파울·노골 판정 논란의 당사자 반데이라 “고국 친구가 활약 축하해준 스토리 공유”“포르투갈선 도움을 바나나로 표현” 해명 나섰지만프로축구연맹 “경위서 받고 상벌위 개최 여부 논의”충북청주 반데이라(왼쪽)가 자신의 인스타그램에 자신의 어시스트 장면과 함께 게재한 바나나와 고릴라 이모티콘. ···</content:encoded>
     </item>
     <item>
-      <title>질병관리청, ‘읽기 쉬운 온열질환 예방 홍보물’ 배포</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232416</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232416</guid>
-      <pubDate>2026-08-04T14:51:43.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 질병관리청(청장 임승관)은 여름철 폭염으로 인한 건강피해를 예방하고 의사소통이 어려운 사람들의 건강정보 접근성을 높이기 위해 보완대체의사소통(AAC) 상징을 활용한 읽기 쉬운 온열질환 예방 홍보물(의사소통 포스터, 리플릿)을 배포한다고 4일 밝혔다.이번 홍보물은 그림과 상징, 쉬운 문장을 활용해 폭염 시 행동 요령과 온열질환 주요 증상 등을 누구나 쉽게 이해할 수 있도록 제작했다. 특히 발달장애인 등 의사소통이나 정보 접근에 어려움이 있는 사람이 자신의 증상을 표현하고 필요한 도움을 받을 수 있도록 하는 데</content:encoded>
-    </item>
-    <item>
-      <title>통합돌봄·자립지원법 패러다임 변화, 장애인주간이용시설 기능강화 법제화 모색</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232422</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232422</guid>
-      <pubDate>2026-08-04T15:10:49.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인주간이용시설협회가 주관하고 조배숙·이개호·소병훈·서미화·최보윤·손솔 의원과 전국장애인부모연대와 재단법인 돌봄과미래가 공동 주최하는 ‘장애인주간이용시설의 기능강화와 안정적 운영을 위한 법제화 방안 토론회’가 오는 21일 오후 2시 국회도서관 대강당에서 개최된다.이번 토론회는 지난 20여 년간 단순 ‘보호’ 개념에 머물러 있던 장애인주간이용시설의 법적 정의를 낮 시간 활동 지원, 평생교육, 사회참여 등을 포괄하는 ‘기능 다변화 모델’로 고도화하고 이를 법률에 명문화하고자 마련됐다.나아가 파편화된 지역사</content:encoded>
-    </item>
-    <item>
       <title>“좋은 방은 싸지 않다”···학생들이 보증금을 지키려면?</title>
       <link>https://www.khan.co.kr/article/202608041511011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202608041511011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-08-04T15:11:01.000Z</pubDate>
       <content:encoded>김학재  변호사가 지난달 28일 서울 관악구 봉천동의 자신의 사무실에서 경향신문과 인터뷰하고 있다. 박용필 기자“다세대 주택인지 다가구 주택인지를 먼저 확인하시는 게 좋습니다.”지난달 28일 만난 김학재 변호사(46)에게 학생들이 자취방을 구할 때 보증금을 떼이지 않으려면 어떤 것들을 확인해야 하는지 묻자 그는 이렇게 답했다.호실당 등기가 이뤄지는 다세대 ···</content:encoded>
-    </item>
-    <item>
-      <title>서대문장복, ‘제12회 전국 장애인 바리스타 대회’ 참가자 모집</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232423</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232423</guid>
-      <pubDate>2026-08-04T15:44:38.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】서대문장애인종합복지관이 ‘제12회 전국 장애인 바리스타 대회’ 참가자를 오는 18일부터 9월 11일까지 모집한다.‘함께 만드는 향기로운 가능성’을 주제로 열리는 이번 대회는 장애인 바리스타의 직업 역량을 널리 알리고, 커피를 매개로 장애인과 지역사회가 자연스럽게 소통하고 어울리는 기회를 마련하기 위해 기획됐다.참가 대상은 만 18세 이상으로, 별도의 도움 없이 커피를 제조할 수 있는 장애인 바리스타이다. 대회는 장애 특성과 참가자의 역량을 고려해 발달장애인 부문과 그 외 장애인 부문으로 나누어 진행된다.예선</content:encoded>
     </item>
     <item>
       <title>하루 2시간 반 자며 1996&amp;#13214; 질주…‘죽음의 코스’ 29일 만에 끝냈다</title>
@@ -264,48 +194,6 @@
       <content:encoded>김학재 변호사가 지난달 28일 서울 관악구 봉천동에 있는 자신의 사무실에서 경향신문과 인터뷰를 하고 있다.다가구주택, 복수 임차인 위험 임대인에 적극적 자료 요청 필요 등기부등본 확인·보험 들어도 보증금 100% 보장받기 어려워 싼 이유 설명 부족할 때 의심을“다세대주택인지 다가구주택인지를 먼저 확인하시는 게 좋습니다.”지난달 28일 만난 김학재 변호사(4···</content:encoded>
     </item>
     <item>
-      <title>[부고]강명숙 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260804/134421783/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260804/134421783/2</guid>
-      <pubDate>2026-08-05T04:30:00.000Z</pubDate>
-      <content:encoded>◇강명숙 전 대구시 여성국장 별세·김상룡 대구교대 수학교육과 교수 부인상·동희 슬기 씨 모친상·이성근 씨 장모상=3일 대구 경북대병원, 발인 5일 오전 9시 053-200-6464 ◇김시웅 씨 별세·종서 경기대 교수(전 서울경제신문 부국장) 종윤 씨 부친상·강경숙 김민정 씨 시부상=4일 서울대병원, 발인 6일 오전 8시 20분 02-2072-2010 ◇김영희 씨 별세·최지강 프로야구 두산 베어스 선수 모친상=4일 전남광주 광주남문장례식장, 발인 6일 오전 9시 반 062-675-5000  ◇이기봉 씨 별세·황철 ㈜아주 대표 부친상=3일 서울 고려대 구로병원, 발인 6일 오전 5시 40분 02-857-0444 ◇이수만 전 울산시의회 부의장 별세=4일 울산영락원, 발인 7일 오전 6시 반 052-272-1111 ◇이종순 CK팬아시아 회장(전 해운항만청 운영국장) 별세·장원 CK팬아시아 대표이사 지원 두콩양행 대표이사 부친상·백미윤 브리즈심리상담센터 대표 시부상=3일 서울아산병원</content:encoded>
-    </item>
-    <item>
-      <title>권준하 회장, 유언대용신탁 8억 약정</title>
-      <link>https://www.donga.com/news/People/article/all/20260804/134421777/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260804/134421777/2</guid>
-      <pubDate>2026-08-05T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/04/134422160.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사랑의열매 사회복지공동모금회는 4일 권준하 신익산화물터미널 회장(82·사진)이 사랑의열매 최초로 ‘사모펀드 유언대용신탁’ 기부 협약을 체결하고 10억 원 이상 개인 기부자 모임인 ‘아너 소사이어티 오플러스’ 회원으로 가입했다고 밝혔다. 유언대용신탁은 생전에 재산을 금융회사에 맡겨 관리·운용한 후 사망 시 미리 정해뒀던 이에게 이전하는 제도다. 권 회장은 8억 원 규모 사모펀드의 사후수익자로 서울 사랑의열매를 지정했다. 기금은 아동·청소년과 여성, 장애인 등 취약계층 지원사업에 사용될 예정이다.</content:encoded>
-    </item>
-    <item>
-      <title>AI 활용 음악도 사람이 참여했다면 저작물 등록</title>
-      <link>https://www.donga.com/news/People/article/all/20260804/134421779/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260804/134421779/2</guid>
-      <pubDate>2026-08-05T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/04/134420871.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;생성형 인공지능(AI)을 활용해 만든 음악이라도 인간 창작자가 실질적으로 제작에 참여했다면 저작물로 등록할 수 있게 됐다. 한국음악저작권협회(음저협)는 “AI 활용 음악에 관한 새로운 신고·등록 기준을 3일부터 시행했다”고 4일 밝혔다. 이 기준에 따르면 AI를 창작 보조 도구로 사용했어도 창작자가 작사·작곡·편곡 과정에 실질적으로 참여했다면 저작물로 등록할 수 있다.  앞으로 AI 활용 음악을 등록하려는 창작자는 AI를 사용한 영역과 도구, 활용 방식, 자신이 직접 수행한 창작 내용을 신고해야 한다. 음저협은 내부 심의를 거쳐 저작물 등록과 저작권료 지급 여부 등을 결정한다. 음저협은 “신고 내용이 허위이거나 인간의 주도적인 창작 없이 AI가 만든 음악으로 확인되면 저작권료 지급을 보류하고, 이미 지급된 금액도 돌려받을 수 있도록 관련 근거를 마련할 예정”이라고 설명했다.</content:encoded>
-    </item>
-    <item>
-      <title>해사 1호 여생도, ‘독도함’ 첫 여군 함장 됐다</title>
-      <link>https://www.donga.com/news/People/article/all/20260804/134421786/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260804/134421786/2</guid>
-      <pubDate>2026-08-05T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/04/134422155.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;해군은 국내 최대 규모 함정인 1만4500t급 대형수송함인 독도함 함장으로 배선영 대령(사진)을 임명한다고 4일 밝혔다. 함장 보직 가운데 가장 높은 계급인 대령급 함장에 여군이 임명된 것은 해군 창설 이후 처음이다. 배 대령은 해군사관학교가 처음 여생도를 선발한 1999년 해사 57기로 입교해 2003년 임관했다. 이후 참수리-282호정 정장, 독도함 갑판사관, 남원함(초계함) 작전관, 원산함(기뢰부설함) 함장 등을 거치며 함정 운용능력과 작전지휘 역량을 검증받았다.  최근에는 30개국이 참가한 2026년 환태평양훈련(RIMPAC)에서 연합해군구성군사령부 해양작전본부장을 맡아 한국 해군이 아시아 국가 최초로 연합해군구성군사령관 임무를 수행하는 데 핵심 역할을 했다고 해군은 설명했다. 해군에 따르면 2001년 최초 여군 장교 임관을 시작으로 현재 약 2800명의 여군 장교와 부사관이 복무하고 있다. 배 대령이 지휘하게 될 독도함은 해상·공중 입체 상륙작전은 물론이고 기동부대 기</content:encoded>
-    </item>
-    <item>
-      <title>롯데장학재단·복지재단, 중증 뇌병변·지체장애인에 3억원 상당 보조기기 지원</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232435</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232435</guid>
-      <pubDate>2026-08-05T09:45:56.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】롯데장학재단·롯데복지재단이 지난 4일 서울 여의도 이룸센터 이룸홀에서 ‘2026년 롯데재단 장애인 보조기기 전달식’을 열고, 총 3억 원 상당의 보조기기를 지원했다.‘신격호 롯데 장애인 보조기기 지원사업’은 중증 뇌병변·지체장애인의 일상생활 불편을 줄이고 보호자의 돌봄 부담을 덜기 위해 2017년 마련됐다. 현재까지 1553명에게 약 23억 원 상당의 보조기기를 지원했다.지난해 실시한 사후 조사에서 종합 만족도는 5점 만점에 4.51점으로 나타났으며, 응답자의 94.1%가 보조기기 사용 후 기존에 겪던 어려</content:encoded>
-    </item>
-    <item>
-      <title>장애청소년 음악캠프 ‘2026 뽀꼬 아 뽀꼬’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232445</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232445</guid>
-      <pubDate>2026-08-05T13:40:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 장애청소년의 음악적 재능 계발과 사회성 향상을 위한 ‘2026 뽀꼬 아 뽀꼬’ 캠프가 지난 7월 29일부터 31일까지 2박 3일간 고양시 삼성화재글로벌캠퍼스에서 장애청소년 66명을 비롯해 멘토, 음악 지도교수 등 총 192명이 참가한 가운데 개최됐다.‘뽀꼬 아 뽀꼬’ 캠프는 장애청소년 음악캠프로 장애인먼저실천운동본부·국립특수교육원·삼성화재가 2009년부터 공동 주최하고 특수교사로 구성된 특수학교여가활동연구회(회장 안수연)가 주관하고 있다.캠프 마지막 날에는 오주은 장애인먼저실천운동본부 이사, 김선미 국립특수</content:encoded>
-    </item>
-    <item>
       <title>오늘의 부고-최지강 두산 베어스 선수 모친상 외</title>
       <link>https://www.khan.co.kr/article/202608051527001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202608051527001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
@@ -339,76 +227,6 @@
       <guid>https://www.khan.co.kr/article/202608052019005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-08-05T20:19:00.000Z</pubDate>
       <content:encoded>“작년 ‘딥시크 충격’ 이후 한국인들 ‘발전 속도’에 위협 느껴상대방 인정하고 직접 현장서 강점·약점 찾을 때 기회 생겨”김종문 KIC중국 센터장이 5일 베이징 창업단지 중관춘에 있는 사무실에서 경향신문과 인터뷰를 하고 있다.지난달 상하이에서 열린 세계인공지능대회(WAIC)에서는 한국 과학기술정보통신부 산하 글로벌혁신센터(KIC중국) 지원으로 ‘한국 혁신관···</content:encoded>
-    </item>
-    <item>
-      <title>[단독]서울대생이 혼자 쓴 코인 논문, 전문 국제학술지에</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427842/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427842/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134426503.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“처음엔 호기심에서 시작했어요.” 3일 서울 관악구 서울대에서 만난 자유전공학부 3학년 김태윤 씨(21)는 국제 학술지에 논문을 싣게 된 계기를 이렇게 설명했다. 그는 6월 금융학 전문 국제 학술지 ‘파이낸스 리서치 레터스’에 단독 저자로 논문을 게재했다. 지난해 재무 금융 분야에서 상위 7% 수준으로 자주 인용된, 이 분야에서 손꼽히는 학술지다. 학부생이 국제 전문 학술지에 단독 저자로 논문을 게재하는 건 이례적이다. 김 씨는 이번 논문에서 비트코인 등 암호화폐 시장이 크게 출렁일 때 손실 위험을 더 정확하게 예측하는 모델을 제시했다. 기존엔 시장 상황을 대개 ‘위험’ 혹은 ‘안전’ 등으로만 구분했는데, 김 씨는 한 발 더 나아가 위험할 확률을 시간마다 제시하는 방식을 제안했다. 일기예보에 비유하면 ‘비가 온다, 안 온다’가 아니라 비가 올 확률을 보여주는 식이다. 김 씨는 “1학년 때 참가한 모의 투자 대회에서 금융 데이터를 직접 다루면서 흥미가 생겼다”며 “기존 논문이 놓친</content:encoded>
-    </item>
-    <item>
-      <title>“6·25때 부친과 생사고락 ‘소년 KIM’ 찾습니다”</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427848/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427848/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134426514.4.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“킴(KIM), 당신이 그렇게 생각하든 그렇지 않든 우리는 어떤 의미에서 형제입니다. 당신은 한국인이고 저는 미국인이지만, 우리는 정말 많은 것을 함께 나누고 있습니다.” 5일 국가보훈부에 따르면 6·25전쟁 당시 미 해병 종군기자로 참전했던 고 로버트 H 모저 씨의 아들인 로버트 P 모저 씨는 최근 보훈부를 통해 공개한 영상에서 이렇게 말했다. 70여 년 전 한국전쟁의 한복판에서 아버지와 생사를 함께했던 이름 모를 한국 소년 ‘KIM’을 찾고 싶다는 것이다. 모저 씨가 ‘KIM’을 찾아 나선 것은 아버지를 조금 더 알고 싶다는 마음에서였다. 그는 “아버지는 내가 열일곱 살 때 세상을 떠나 성인이 된 뒤의 모습을 알 기회가 없었다”며 “아버지가 어떤 사람이었는지 알고 싶어 그가 쓴 기사를 읽다가 ‘KIM’이라는 한국 소년의 존재를 처음 알게 됐다”고 말했다. 1923년생인 아버지 모저 씨는 1951∼1952년 미 해병 종군기자로 한국전쟁에 참전했다. ‘KIM’은 당시 창도리(옛</content:encoded>
-    </item>
-    <item>
-      <title>“대포만 못한 국제법” 안중근 옥중 유묵 日서 환수</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427851/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427851/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134427850.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;독립운동가 안중근 의사(1879∼1910)의 옥중 유묵(사진)이 일본에서 돌아와 일반에 공개된다.  허민 국가유산청장은 5일 청와대에서 열린 국가유산청 업무보고에서 “일본에서 들여온 안 의사의 유묵을 이달 중 공개하겠다”고 밝혔다. 국가유산청과 국외소재문화유산재단은 13일 서울 덕수궁 중명전에서 언론 공개회를 열고 환수 경위와 유물의 의미를 설명할 예정이다. 이번에 돌아온 유묵에는 ‘만국공법불여대포(萬國公法不如大砲)’라는 글귀가 적혀 있다. 국제법을 뜻하는 만국공법이 대포만 못하다는 뜻으로, 안 의사가 순국을 앞두고 남긴 것으로 전해진다. 안 의사는 1909년 하얼빈에서 이토 히로부미를 저격한 뒤 사형을 선고받았으며, 형 집행 전 약 40일간 옥중에서 다수의 글씨를 남겼다. 그의 유묵에는 ‘대한국인 안중근’이라는 서명과 인장 대신 손바닥에 먹을 묻혀 찍은 수인(手印)이 함께 남아 있는 것이 특징이다. 현재 보물로 지정된 안 의사의 유묵은 모두 31점이다. ‘지사인인살신성인’,</content:encoded>
-    </item>
-    <item>
-      <title>역주행에 40만부 정대건 ‘급류’… 판권 수출 이어 웹툰으로 제작</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427846/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427846/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134426511.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서점가 대표 역주행 도서인 정대건 작가의 장편소설 ‘급류’(사진)가 웹툰으로 제작된다.  민음사는 5일 콘텐츠 제작사 씨엔씨레볼루션과 ‘급류’의 웹툰 계약을 체결했다고 밝혔다. 영상화 계약도 별도로 체결된 상태다. 민음사 관계자는 “원작의 정서를 유지하면서도 새로운 형식을 통해 더 폭넓은 독자와 만날 것으로 기대한다”고 말했다. 이 책은 40만 부가량 판매됐다. 최근 스페인 출판사 우라노와 판권 계약을 체결하면서 대만, 일본에 이어 세 번째 해외 판권 수출도 성사됐다. 책은 우라노 계열사인 퍽(Puck)을 통해 출간될 예정이다. ‘급류’는 지방 소도시를 배경으로 열일곱 동갑내기 도담과 해솔의 만남과 사랑을 그린 장편소설이다. 2022년 12월 출간된 뒤 소셜네트워크서비스(SNS)를 중심으로 독자들의 추천이 이어지며 입소문을 탔고, 역주행 베스트셀러로 자리매김했다.</content:encoded>
-    </item>
-    <item>
-      <title>삼성호암상 상금 3억→5억으로… 총상금 30억</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427840/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427840/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134428407.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;호암재단이 내년부터 삼성호암상의 부문별 상금을 현행 3억 원에서 5억 원으로 올린다고 5일 밝혔다. 6개 부문 총상금 규모는 기존 18억 원에서 30억 원으로 확대된다. 증액된 상금은 고(故) 이병철 삼성 창업회장 서거 40주기가 되는 2027년 제37회 시상식부터 적용된다. 삼성호암상은 이병철 창업회장의 사업보국·인재제일 정신을 기리기 위해 고 이건희 선대회장이 1990년 제정했다. 이 선대회장은 생전 “인류 사회 발전의 원동력이 되고 우리 시대의 귀감이 될 분들을 찾아 지원하는 것도 기업의 소중한 사명”이라고 강조한 바 있다. 1991년 제1회 시상 이래 올해까지 36년간 188명에게 총 379억 원의 상금을 수여했다. 허준이 미국 프린스턴대 교수는 2021년 삼성호암상 과학상을 받은 이듬해 한국계 최초로 필즈상을 수상했다. 한강 작가는 2024년 5월 삼성호암상 예술상을 받은 뒤 같은 해 10월 한국인 최초로 노벨 문학상을 수상했다. 삼성호암상 시상 부문은 과학상(물리·수</content:encoded>
-    </item>
-    <item>
-      <title>원자력의학원 신임 원장 임일한씨</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427844/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427844/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134426508.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국원자력의학원은 신임 원장으로 임일한 박사(사진)가 임명됐다고 5일 밝혔다. 임기는 3년. 임 원장은 2023년부터 의학원 산하 원자력병원에서 핵의학과 주임 과장을 맡아 왔다.</content:encoded>
-    </item>
-    <item>
-      <title>[부고]강대현 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134427857/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134427857/2</guid>
-      <pubDate>2026-08-06T04:30:00.000Z</pubDate>
-      <content:encoded>◇강대현 씨 별세·김부경 전 삼성중공업 커뮤니케이션팀장(전무) 장인상=5일 서울 중앙보훈병원, 발인 7일 오전 7시 02-2225-1004 ◇박명순 씨 별세·이흥로 전 현대자동차 상무 부인상·중길 아시아나항공 PR팀 과장 모친상=4일 서울성모병원, 발인 7일 오전 5시 20분 02-2258-5951 ◇한흥섭 씨 별세·강명화 씨 남편상·은경 경숙 씨 정민 연세대 약대 교수 상미 씨 경희 제주대 소아청소년과 교수 명훈 씨 부친상·홍진표 씨 홍승지 삼우CM 이사 나연호 씨 한상훈 제주대 혈액종양내과 교수 장인상·조경아 전남대 의대 교수 김경난 씨 시부상=5일 제주 혼길장례식장, 발인 8일 오전 6시 20분 064-744-1245</content:encoded>
-    </item>
-    <item>
-      <title>한국1형당뇨병환우회, 참여형 인식 개선 캠페인 ‘당찬동행’ 전개</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232456</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232456</guid>
-      <pubDate>2026-08-06T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국1형당뇨병환우회·한국췌장장애인협회(이하 환우회)가 세계당뇨병의 날을 100일 앞둔 6일 글로벌 바이오제약 기업 사노피의 한국법인(이하 사노피) 후원으로 당뇨병에 대한 올바른 인식과 사회적 공감 확산을 위한 ‘당찬동행’ 캠페인을 시작한다.‘당찬동행’은 당뇨병 치료에 대한 편견을 해소하고 인슐린 치료에 대한 올바른 인식을 확산하기 위해 환우회가 기획한 챌린지형 인식개선 캠페인이다. 환우들의 실제 투병 경험을 담은 노래와 안무 콘텐츠를 통해 대중과 소통하고, 챌린지 참여를 유도함으로써 질환에 대한 이해와 공감</content:encoded>
-    </item>
-    <item>
-      <title>양쯔충, BIFF 올해의 아시아영화인상…15년만에 부산 방문</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134429544/1</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134429544/1</guid>
-      <pubDate>2026-08-06T10:35:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134429668.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;부산국제영화제(BIFF)는 ‘2026 올해의 아시아영화인상’ 수상자로 홍콩 영화배우 양쯔충(楊紫瓊)을 선정했다고 6일 밝혔다. ‘올해의 아시아영화인상’은 아시아 영화 산업과 문화 발전에 있어 지대한 공헌을 해온 아시아 영화인에게 해마다 수여된다. 양쯔충은 홍콩 영화의 부흥기 주체적인 여성 캐릭터의 지평을 연 선구자로 평가받는다. 특히 ‘에브리씽 에브리웨어 올 앳 원스’(2022년)로 아시아계 배우 최초로 미국 아카데미상 여우주연상을 받았으며, 독일 베를린국제영화제에서도 아시아 여성 최초로 명예 황금곰상을 수상한 바 있다. BIFF 측은 “나이, 틀에 얽매이지 않고 연기의 한계를 계속해서 넓혀온 그의 발자취는 한 배우의 궤적이 어떻게 영화적 상상력의 새로운 지평이 될 수 있는지를 증명한 상징적인 이정표”라고 밝혔다.‘2026 올해의 아시아영화인상’은 10월 6일 제31회 부산국제영화제 개막식에서 수여된다. 양쯔충은 영화 ‘더 레이디’(2011년) 이후 15년 만에 BIFF를 방문하</content:encoded>
-    </item>
-    <item>
-      <title>배리어프리 어린이뮤지컬 &apos;이상하고 아름다운 하얀 숲&apos; 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232466</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232466</guid>
-      <pubDate>2026-08-06T13:01:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 창작꿈터 놀이공장(대표 홍성연)의 모두를 위한 뮤지컬 ’이상하고 아름다운 하얀 숲‘이 지난 7월 24일부터 26일까지 모두예술극장에서 4회 공연을 성공적으로 마쳤다.이번 초연은 시각장애인 어린이와 가족 관객을 포함해 총 550여 명의 관객이 극장을 찾아 감동을 나누었으며 터치투어와 촉각체험존 등 접근성 서비스가 관객의 호응을 얻었다.’이상하고 아름다운 하얀 숲‘은 시각장애인 소녀 &apos;연이(이다혜 분)&apos;와 아홉 개의 꼬리 중 하나만 남은 여우 &apos;미호(박찬양 분)&apos;가 신비로운 하얀 숲으로 ‘뜨개질 할머니’를 찾아</content:encoded>
     </item>
     <item>
       <title>궁지 몰린 인판티노, 내부 신임은 확인…FIFA “전폭 지지” 공식 발표</title>
@@ -775,11 +593,25 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/10/134450611.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“한국은 매우 특별한 것을 이뤄냈다. 세계 최고 수준의 자본시장과 경쟁할 수 있는 규모와 정교함, 그리고 의지를 갖춘 경제 시스템을 구축했다.”전 세계 최대 규모의 증권거래소인 뉴욕증권거래소(NYSE) 그룹의 린 마틴 사장(사진)은 10일 서울 영등포구 국회에서 더불어민주당 김남준 의원 주최로 열린 ‘대한민국 자본시장의 선진화와 글로벌 경쟁력 제고 방안 세미나’에 참석해 한국 자본시장의 성장 잠재력을 높이 평가하며 이같이 말했다.마틴 사장은 “우리 시장에서 새로운 시도들이 가능했던 것은 기술 혁신보다 먼저 제도적 기반이 구축됐기 때문”이라며 금융시장 혁신을 위한 안정적 제도 운용의 중요성을 강조했다. 그는 “인프라와 규칙, 그리고 시장의 무결성이 먼저 자리 잡은 뒤 기술 혁신이 뒤따를 수 있었다”며 “시장이 투명하고 안정적이며 신뢰받을 때 자본은 가장 생산적인 곳으로 흘러가고 기업은 성장하고 경제는 확대된다”고 설명했다.마틴 사장은 “한국 자본시장의 발전을 함께하는 진정한 파트너로서</content:encoded>
     </item>
     <item>
+      <title>김민아 경향 논설위원 등 16명 관훈클럽 출판 지원 대상 선정</title>
+      <link>https://www.khan.co.kr/article/202608102015005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608102015005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-10T20:15:00.000Z</pubDate>
+      <content:encoded>관훈클럽정신영기금(이사장 이강덕)은 2026년 하반기 언론인 저술·번역 출판 지원 대상자로 김민아 경향신문 논설위원(대문자 I의 시대) 등 16명을 10일 선정했다.다음은 지원 대상자. 박희준(전 세계일보 편집인) 설성인(조선비즈 테크부 부장) 정은주(한겨레신문 부장) 한보경(KBS 보도시사본부 기자) 나세웅(MBC 보도국 국제팀 차장) 박진호(SBS 보도···</content:encoded>
+    </item>
+    <item>
       <title>송두호 전 국회의원 별세</title>
       <link>https://www.khan.co.kr/article/202608102016035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
       <guid>https://www.khan.co.kr/article/202608102016035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-08-10T20:16:03.000Z</pubDate>
       <content:encoded>의사 출신 국회의원으로 보건사회위원회(보사위·현 보건복지위원회)에서 환경 분야를 꾸준히 다룬 송두호 전 의원이 10일 별세했다. 향년 98세.경남 충무(현 통영) 출신인 고인은 경남고와 서울대 의대를 졸업했다. 김영삼 전 대통령(YS·1927~2015)과 경남고 3회 동기동창이다. 부산에서 신경외과병원을 운영하며 YS의 재정 후원자로 활동했고, 1988년 ···</content:encoded>
+    </item>
+    <item>
+      <title>‘왜’라고 늘 묻는 어린이야말로 최고의 독자</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260811/134453415/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260811/134453415/2</guid>
+      <pubDate>2026-08-11T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134454222.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동화작가 이현(56)에게 어린이들은 ‘최고의 독자’다. 이야기와 진심으로 호흡하며, 늘 ‘왜?’라고 묻는 독자들이어서다. 이들과 이야기 나누기 좋은 소재가 뭘지 항상 신경을 열어둔다.  2015년 첫 출간 뒤 100만 부 넘게 팔린 동화책 ‘푸른 사자 와니니’ 역시 그런 과정에서 탄생했다. 이 작가는 “야생 동물 이야기를 쓰면 어린이들이 좋아할 거라 생각하던 중 우연히 다큐멘터리를 봤다”며 “수사자 이야기인 ‘라이온 킹’과 달리 실제론 암사자를 중심으로 그 나름의 삶의 방식을 채택해 살아가는 모습에 홀딱 반해 버렸다”고 말했다.  ‘쓸모없다’고 여겨진 연약한 암사자가 한 무리의 리더로 성장해가는 모험기를 펼쳐 보인 이 책은 올여름 10권까지의 대장정을 마쳤다. 국내 동화에선 보기 드문 소재와 장르로 끌어낸 성과였다. 지난달 말 서울 종로구 동아미디어센터에서 만난 그는 인터뷰 내내 어린이들을 ‘독자님’이라고 깍듯하게 지칭하며 애정과 존중을 드러냈다.  ―어린 사자 와니니의 성장기</content:encoded>
     </item>
     <item>
       <title>이건희 기증 ‘묵란도권’ 등 추사 관련 6점 첫공개</title>
@@ -843,6 +675,174 @@
       <guid>https://www.khan.co.kr/article/202608110637001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
       <pubDate>2026-08-11T06:37:00.000Z</pubDate>
       <content:encoded>잔니 인판티노 국제축구연맹(FIFA) 회장이 2월 24일 콜롬비아 바랑키야에 새로 들어선 콜롬비아축구협회 훈련·숙박 시설을 방문해 제스처를 취하고 있다. 인판티노 회장은 최근 유럽축구연맹(UEFA)과 북중미카리브축구연맹(CONCACAF), 아시아축구연맹(AFC)이 공동으로 사퇴를 요구하면서 거센 퇴진 압박을 받고 있다. AFP연합뉴스잔니 인판티노 국제축구연···</content:encoded>
+    </item>
+    <item>
+      <title>임영웅 데뷔 10주년 기념, &apos;임히어로서포터즈&apos; 밀알복지재단에 850만원 기부</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232550</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232550</guid>
+      <pubDate>2026-08-11T10:11:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】가수 임영웅 팬클럽 ‘임히어로서포터즈’가 임영웅의 데뷔 10주년을 기념해 밀알복지재단에 850만원을 기부했다.‘임히어로서포터즈’는 임영웅의 데뷔 10주년인 지난 8일을 맞아 회원들의 모금으로 마련한 기부금 850만원을 임영웅의 이름으로 밀알복지재단에 전달했다. 이번 10주년 기부는 팬클럽 회원들의 자발적인 모금으로 시작됐다. 장애아동을 위한 뜻깊은 모금 나눔에 동참하며 데뷔 10주년이라는 뜻깊은 날을 의미있게 기념하기 위해서다.기부금은 장애아동 연우에게 전달된다. 연우는 지속적인 치료와 수술이 시급하지만 경</content:encoded>
+    </item>
+    <item>
+      <title>서울시각장복, 점자의 날 기념 ‘장애 이해 AI 포스터 공모전&apos; 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232549</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232549</guid>
+      <pubDate>2026-08-11T10:13:18.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】서울시각장애인복지관이 점자의 날(11월 4일)을 기념해 중·고등학생 청소년을 대상으로 한 ‘장애 이해 AI 포스터 공모전’을 개최한다고 11일 밝혔다.크레이머 미술치료학교가 후원하는 이번 공모전은 우리가 살아가는 동네를 누군가의 눈높이에서 문턱 없는 편안한 공간으로 바라보고, 장애와 비장애의 구분 없이 누구나 동등하게 일상을 누리는 &apos;배리어 프리(Barrier-Free) 우리 동네&apos;의 모습을 그려보기 위해 마련됐다.공모 주제는 “배리어 프리(Barrier-Free) 우리 동네 : 다정함을 입력하세요.”이며,</content:encoded>
+    </item>
+    <item>
+      <title>증산도 최고 지도자 안경전 종도사 선화</title>
+      <link>https://www.donga.com/news/People/article/all/20260811/134455861/1</link>
+      <guid>https://www.donga.com/news/People/article/all/20260811/134455861/1</guid>
+      <pubDate>2026-08-11T11:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134455911.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;증산도 최고 지도자인 안경전 종도사(宗道師)가 8일 선화(仙化·증산도에서 별세를 일컫는 말)했다고 증산도가 10일 밝혔다. 향년 72세.1954년 충남 공주에서 태어난 안 종도사는 부친 고(故) 안운산(1922~2012) 태상종도사와 함께 1970년대 중반 현재의 증산도를 개창했다. 이후 안운산 태상종도사가 선화한 2012년 종도사로 추대됐다. 장례는 증산도장으로 치러지며 빈소는 대전시 증산도 교육문화회관이다. 영결식은 14일 오전 9시, 장지는 충남 논산시 상월면이다.</content:encoded>
+    </item>
+    <item>
+      <title>양천구장애인권교육센터, 놀이 중심 장애인권교육 ‘놀-이지’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232562</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232562</guid>
+      <pubDate>2026-08-11T14:09:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 양천구장애인권교육센터(센터장 이경옥)는 지난 7월 28일부터 8월 11일까지 양천구 내 지역아동센터 및 우리동네키움센터 5곳의 초등학생을 대상으로 놀이 중심 장애인권교육 ‘놀-이지(easy)’를 진행했다.2022년부터 시작된 ‘놀-이지(easy)’는 아동의 놀 권리를 보장함과 동시에 게임을 통해 장애와 다양성을 자연스럽게 이해하도록 기획된 교육 프로그램이다.이번 교육은 청각·촉각·점자를 접목한 교구 ‘모두의 윷놀이’를 활용해 새로운 접근을 시도했다. 아이들은 한 손 사용자가 되어 다감각적 게임에 참여했고 지</content:encoded>
+    </item>
+    <item>
+      <title>상록수, 9월 9~14일 장애통합 전시회 ‘모두의 예술’ 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232556</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232556</guid>
+      <pubDate>2026-08-11T14:09:14.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】상록수가 오는 9월 9일부터 14일까지 서울시 종로구 인사동에 위치한 인시1010 갤러리에서 장애통합 전시회 ‘모두의 예술’을 개최한다.상록수는 2007년부터 중증장애인이 작가의 꿈을 이루어 갈 수 있도록 무료 미술교육을 진행하고 있다. 미술교육을 통해 창작된 작품들은 2009년부터 현재까지 총 16회의 장애인 단체전과 기획전 3회을 통해 소개됐다.이번 상록수 장애통합 전시회 ‘모두의 예술’은 지체, 뇌병변, 발달, 호흡기장애 등 장애유형에 구분을 두지 않는 장애통합 기획 전시로, 장애인 작가 14명이 예술</content:encoded>
+    </item>
+    <item>
+      <title>한국장애인녹색재단, 장애인개발원에 친환경 빨대 8만개 전달</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232558</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232558</guid>
+      <pubDate>2026-08-11T14:09:18.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 한국장애인개발원(원장 이경혜, 이하 개발원)은 11일 서울 영등포구 이룸센터에서 한국장애인녹색재단(회장 정원석, 이하 녹색재단)으로부터 친환경 빨대 8만 개를 전달받았다.이날 전달식은 장애인 일자리와 친환경 실천을 연계한 환경·사회·투명 경영(ESG) 실천의 일환으로 마련됐다. 녹색재단이 후원한 친환경 빨대 8만 개는 개발원이 개소한 중증장애인 채용 카페 ‘아이갓에브리씽(I got everything)’ 4개소에 8월 중 배포할 예정이다.배포 대상은 중앙정부기관 내에 설치된 아이갓에브리씽 연풍문점, 정부세종</content:encoded>
+    </item>
+    <item>
+      <title>서울남부교육지원청, ‘2026 청각장애학생 가족 문화체험’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232572</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232572</guid>
+      <pubDate>2026-08-11T15:03:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】서울특별시교육청 산하 서울특별시남부교육지원청이 지난 7일 예술의전당 자유소극장에서 강남권역 5개 교육지원청 관내 유·초 청각장애학생과 보호자 24가족이 참여한 ‘2026 청각장애학생 가족 문화체험’을 운영했다.이번 행사는 청각장애학생이 가족과 함께 문화예술을 자연스럽게 경험하고, 공연의 감동을 나누며 세상과 소통하는 기회를 넓히기 위해 마련됐다.참여 가족들은 패브릭오브제극 ‘코 잃은 코끼리 코바’를 관람하며 ‘다름’을 있는 그대로 받아들이고 서로를 응원하는 따뜻한 이야기를 함께 나누었다.정환용 교육장은 “문</content:encoded>
+    </item>
+    <item>
+      <title>키뮤스튜디오x충주문화관광재단, 배리어프리 전시 &apos;세상에서 가장 이상한 버스&apos; 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232567</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232567</guid>
+      <pubDate>2026-08-11T15:04:16.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】콘텐츠로 발달장애인과 세상의 경계를 허무는 소셜 스타트업 키뮤스튜디오가 충주문화관광재단과 함께 배리어프리(Barrier-free) 전시 &apos;세상에서 가장 이상한 버스&apos;를 오는 9월 13일까지 충주공예전시관에서 개최한다. 이번 전시는 문화체육관광부와 예술경영지원센터가 주관하는 ‘지역전시 활성화 사업’의 일환으로 마련됐다. 키뮤스튜디오의 우수한 미술 콘텐츠와 충주의 대표 전시 공간을 연결해, 지역 주민들에게 양질의 문화예술 향유 기회를 제공하고 지역 문화 발전에 기여한다는 취지다. 전시는 문화체육관광부, 예술경영</content:encoded>
+    </item>
+    <item>
+      <title>장애인체육회, ‘2026년도 장애인생활체육지도자 역량강화교육’ 실시</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232568</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232568</guid>
+      <pubDate>2026-08-11T15:04:19.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 대한장애인체육회(회장 정진완)가 오는 12일부터 전국 17개 시도에 배치된 장애인생활체육지도자의 지도 역량을 강화하고 장애인생활체육 지도 서비스 제공 품질 향상을 도모하기 위해 ‘2026년도 장애인생활체육지도자 역량강화교육’을 실시한다.장애인생활체육지도자 역량강화교육은 시도 및 시·군·구장애인체육회 소속 장애인생활체육지도자라면 반드시 이수해야 하는 필수 교육으로 8월 12일부터 11월 27일까지 총 19회에 걸쳐 진행된다.특히 올해는 교육의 실효성을 높이기 위해 각 시도 및 시·군·구장애인체육회의 의견을 사</content:encoded>
+    </item>
+    <item>
+      <title>한자연·이정녀 백년게장, 장애인 자립생활 지원 업무협약 체결</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232566</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232566</guid>
+      <pubDate>2026-08-11T15:04:25.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인자립생활센터총연합회(이하 한자연)와 이정녀 백년게장이 11일 한자연 사무실에서 중증장애인의 자립생활 지원 및 지역사회 안착을 위한 상호협력 협약을 체결했다.이번 협약은 장애인당사자가 지역사회 안에서 안정적으로 자립생활을 영위할 수 있도록 양 기관이 보유한 자원과 역량을 연계하고, 실질적인 지원과 협력체계를 구축하기 위해 마련됐다.협약에 따라 양 기관은 ▲장애인의 지역사회 안착을 위한 자립생활 지원사업 ▲장애인당사자의 일상생활에 필요한 물품 등 후원사업 ▲장애인 자립생활을 위한 정보 교환 및 정책활동</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사-과기정통부, 중소벤처기업부 외</title>
+      <link>https://www.khan.co.kr/article/202608111512001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608111512001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-11T15:12:00.000Z</pubDate>
+      <content:encoded>■과학기술정보통신부 &amp;#9671;과장급 전보 &amp;#9651;국제협력총괄담당관 이경림 &amp;#9651;연구예산총괄과장 이은주 &amp;#9651;기획재정담당관 정연웅■중소벤처기업부 &amp;#9671;과장급 승진 &amp;#9651;소상공인성장촉진과장 유제환 &amp;#9671;과장급 전보 &amp;#9651;기업금융과장 장세훈 &amp;#9651;벤처투자과장 조성우 &amp;#9651;재정운용담당관 이준희 &amp;#···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고-김우경 가천대 길병원 원장 장모상 외</title>
+      <link>https://www.khan.co.kr/article/202608111512011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608111512011/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-11T15:12:01.000Z</pubDate>
+      <content:encoded>■최징석씨 별세, 권대수씨·남연씨(김앤장법률사무소 근무)·기덕씨 모친상, 정병두씨(김앤장법률사무소 근무)·김우경 가천대 길병원 원장 및 가천대 의무부총장 장모상=10일 서울성모병원. 발인 13일 (02)2258-5979■장복도씨 별세, 정훈 전북도민일보 기자 부친상=11일 전주뉴타운장례식장. 발인 13일 (063)284-4444■김창예씨 별세, 홍명자·희정···</content:encoded>
+    </item>
+    <item>
+      <title>홍콩의 쉬안화 감독, 올해 부산국제영화제 ‘까멜리아상’</title>
+      <link>https://www.khan.co.kr/article/202608112018015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608112018015/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-11T20:18:01.000Z</pubDate>
+      <content:encoded>올해 부산국제영화제 ‘까멜리아상’ 수상자로 홍콩의 쉬안화 감독(79·허안화·사진)이 선정됐다고 부산국제영화제 사무국이 11일 밝혔다. 까멜리아상은 영화산업에서 여성의 위상을 높이는 데 기여한 영화인에게 수여하는 상이다.쉬 감독은 장편영화 &amp;lt;풍겁&amp;gt;(1979)으로 데뷔한 뒤 장편영화 27편과 다큐멘터리 2편을 연출했다. &amp;lt;여인사십&amp;gt;(199···</content:encoded>
+    </item>
+    <item>
+      <title>‘황순원문학상’에 강신성·조지은</title>
+      <link>https://www.khan.co.kr/article/202608112018035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608112018035/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-11T20:18:03.000Z</pubDate>
+      <content:encoded>제15회 황순원문학상 작가상에 소설가 강신성(왼쪽 사진), 신진상에 소설가 조지은(오른쪽)이 선정됐다고 황순원기념사업회가 11일 밝혔다.디카시 계관시인상 국내 부문에는 시인 이태희, 해외 부문에는 시인 박우민이 각각 선정됐다. 디카시는 디지털카메라로 촬영한 사진과 시를 결합한 문학 장르다.양평문인상 대상에는 시인 박자방, 우수상에는 시인 김광섭과 수필가 임···</content:encoded>
+    </item>
+    <item>
+      <title>“한국은 글로벌 핵심 시장… 남성-러닝-커뮤니티 투자로 더 가까이”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260811/134460002/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260811/134460002/2</guid>
+      <pubDate>2026-08-12T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/11/134458819.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“한국은 룰루레몬의 가장 중요한 시장 중 하나입니다. 성장 속도가 빠르고 트렌드를 주도할 뿐만 아니라 고객 경험과 제품 혁신 또한 활발하기 때문이죠.”지난달 30일 서울 강남구 룰루레몬 청담 스토어에서 동아일보와 만난 데이비드 드라벡 룰루레몬코리아 지사장은 한국시장에 대해 이같이 말했다. 룰루레몬은 올해 한국 진출 10주년을 맞았다. 최근 국내 첫 매장인 청담 스토어를 재단장했고 연말까지 매장을 28곳으로 확대하는 등 ‘다음 10년’을 준비하고 있다.● 룰루레몬 한국 10년… 10배 성장에 글로벌 제품 영감드라벡 지사장은 룰루레몬의 한국 성장 과정을 가까이서 지켜본 인물이다. 2013년 미국 노스캐롤라이나주 더럼 스토어 매니저로 룰루레몬에 합류한 그는 2017년 한국 리전(지역) 매니저를 거쳐 홍콩·마카오·대만 마켓 디렉터, 아시아태평양 리테일 운영 총괄 등을 역임하고, 올해 2월 다시 한국 지사장으로 돌아왔다.그 사이 10년 동안 사업 규모도 크게 확대됐다. 드라벡 지사장이</content:encoded>
+    </item>
+    <item>
+      <title>[부고]김창예 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461476/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461476/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>◇김창예 씨 별세·홍명자 희정 씨 연기 애플라인드스포츠 대표 모친상·이상경 김준환 씨 장모상·홍진선 씨 시모상=10일 서울 고려대안암병원, 발인 13일 오전 7시 02-923-4442 ◇서동욱 전 울산 남구청장 별세·조순애 씨 남편상·진희 상우 씨 부친상=10일 울산영락원, 발인 13일 오전 8시 052-272-1111 ◇윤정수 씨 별세·임상범 파주시청 도시관리과장 모친상=10일 경기도의료원 파주병원, 발인 12일 오전 6시 반 031-940-9370 ◇이풍웅 씨 별세·조호임 씨 남편상·명신 김앤장법률사무소 변호사 부친상·홍종희 변호사 시부상=10일 서울성모병원, 발인 13일 오전 7시 02-2258-5940 ◇최갑수 씨 별세·재성 전 스포츠조선 편집국장 부친상=10일 경북 김천의료원, 발인 12일 오전 7시 반 054-429-8280 ◇최징석 씨 별세·권대수 남연(김앤장법률사무소) 기덕 씨 모친상·정병두 씨(김앤장법률사무소) 김우경 가천대 길병원 원장(가천대 의무부총장)</content:encoded>
+    </item>
+    <item>
+      <title>AI로 되살린 故구봉서 ‘웃으면 복이 와요’ 영화로</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461474/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461474/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134461783.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;1970년대 인기를 끌었던 코미디 프로그램 ‘웃으면 복이 와요’가 인공지능(AI) 기술을 통해 영화로 되살아난다. 제작사 스튜디오 획은 11일 “코미디 영화 ‘웃으면 복이 와요: 내 이름은 수한무’를 다음 달 9일 개봉한다”고 밝혔다. 영화는 ‘웃으면 복이 와요’에서 조선시대 양반가에서 5대 독자의 이름을 둘러싼 소동을 그린 에피소드를 다뤘다. 당시 ‘웃으면 복이 와요’에 출연했던 코미디언 고(故) 구봉서 씨를 생성형 AI를 활용해 재현한 것으로 알려졌다. 제작진에 따르면 1970년대 일부 남아 있는 영상 자료를 이용해 구 씨의 말투와 억양, 표정 등을 AI에 학습시켰다. 제작진은 “동국대 AI팀과 크로마키(화면 합성 기술) 촬영 전문가 이지수 감독이 참여해 완성도를 높였다”고 설명했다. 영화는 김형진, 백재현 감독이 공동 연출을 맡았다. 코미디언 안일권, 정승환 씨와 배우 노원재 씨 등도 출연해 현대적으로 재해석한 이야기를 선보인다.</content:encoded>
+    </item>
+    <item>
+      <title>美 진보 대부 샌더스 “위험한 AI 개발 멈춰야”</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461478/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461478/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134461780.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“인공지능(AI) 개발을 일시 중지하라. 인간이 통제할 수 없는 기계를 만드는 것을 멈춰라.” 미국 진보 진영의 대부로 꼽히는 버니 샌더스 상원의원(무소속·버몬트·사진)이 샘 올트먼 오픈AI 최고경영자(CEO), 다리오 아모데이 앤스로픽 CEO, 마크 저커버그 메타 CEO 등 AI 기업 경영자에게 서한을 보내 AI 개발 중단을 촉구했다고 정치매체 액시오스가 10일 보도했다. 그는 이 서한에서 규제를 받지 않는 AI 개발이 야기할 각종 위험과 재앙을 피하기엔 아직 늦지 않았다며 세 기업의 빠른 조처를 당부했다. 이를 수용하지 않는다면 동료 상원의원들과 함께 관련 개발을 막겠다고도 했다.  샌더스 의원은 세 기업이 “누구도 완전히 이해하거나 예측하거나 통제할 수 없는 기술에 수백억 달러를 투자하고 있다”고 비판하며 “재앙을 피하기엔 아직 늦지 않았다. 인류를 위해 당신들이 한 말을 지키라”고 호소했다. 세 기업은 과거 자사의 AI 시스템이 통제 가능한 수준을 벗어나 위험해질 경우</content:encoded>
+    </item>
+    <item>
+      <title>美 문서에 “육영수 피격뒤 박정희, 온건하게 안 갈것”</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461468/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461468/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134461467.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“우리는 박정희 대통령이 온건한 방향으로 나아갈 것이라고 보지 않는다(We Do Not See PARK Moving Moderation).” 1974년 8월 15일 광복절 기념식장에서 육영수 여사가 피격당해 서거한 뒤 주한 미국대사관이 박정희 대통령의 향후 행보에 대해 예측한 사료가 발견됐다. 국사편찬위원회(국편)는 “최근 미국 국립문서기록관리청(NARA)에서 수집한 1974년도 주한 미국대사관 비밀문서 가운데 이러한 내용이 담겨 있었다”고 11일 밝혔다. 육 여사의 영결식(8월 19일) 다음 날에 리처드 에릭슨 2세(1923∼2005) 당시 주한 미국대사대리의 승인 아래 미 국무부로 보내진 이 전문은 육 여사의 사망(Mrs Park’s Death)과 박종규 대통령경호실장(1930∼1985)의 사퇴로 “박 대통령이 개인적 안전과 안정을 크게 의존해 온 두 사람이 한꺼번에 사라졌다”면서 이렇게 전망했다. 국편은 기밀로 분류됐다가 최근 비밀에서 해제된 51개 문서철 1200여 건을</content:encoded>
+    </item>
+    <item>
+      <title>증산도 안경전 종도사 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461470/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461470/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134461769.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;증산도 최고 지도자인 안경전 종도사(宗道師·사진)가 8일 선화(仙化·증산도에서 별세를 일컫는 말)했다. 향년 72세. 안 종도사는 부친 고(故) 안운산 태상종도사와 1970년대 증산도를 개창했다. 빈소는 대전 증산도 교육문화회관. 영결식은 14일 오전 9시.</content:encoded>
+    </item>
+    <item>
+      <title>스키즈 창빈, 소아치료비 등 1억 기부</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461472/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461472/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134461766.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성서울병원은 그룹 스트레이 키즈 멤버 창빈(사진)이 11일 생일을 맞아 병원에 1억 원을 기부했다고 밝혔다. 기부금은 소아청소년 환자 치료비 지원과 환자 가족 정서 지원 프로그램에 5000만 원씩 사용될 예정이다. 창빈은 “도움이 필요한 곳에 제 마음이 닿아 작게나마 희망과 위로가 되길 바란다”고 했다. 창빈은 지난해 생일에도 삼성서울병원에 성금을 전달하는 등 꾸준히 나눔을 이어오고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>심훈 ‘상록수’ 친필원고 사후 90년만에 귀환</title>
+      <link>https://www.donga.com/news/People/article/all/20260812/134461482/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260812/134461482/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134461756.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“아버지(심재호 씨)가 한국에 계실 때부터 자료를 찾아 모으셨어요. 오동나무 함에 보관하면서 한 장 한 장 정성 들여 정리하셨지요.”일제강점기 여러 작품을 통해 강렬한 민족의식을 드러낸 심훈 작가(1901∼1936·사진)의 손녀 심영주 씨(67)는 11일 장편소설 ‘상록수’ 등의 친필 원고를 공개하며 이렇게 말했다. ‘상록수’는 1935년 9월 15일부터 1936년 2월 15일까지 동아일보에 연재됐다. 국립한국문학관이 미국에 거주하는 심 작가의 유족으로부터 ‘상록수’와 시 ‘그날이 오면’을 비롯해 소설 ‘직녀성’ ‘영원의 미소’ 원고 등 자료 46건 59점을 기탁받았다. 친필 원고 등은 이날 처음으로 공개됐다. 해당 자료들은 그간 심 작가의 셋째 아들 심재호 씨(1936∼2021)가 모아 소장해 왔다. 동아일보 기자로 일하다 1974년 미국으로 이주한 그는 2007년 미 버지니아주 알링턴의 자택에 ‘심훈기념관’을 마련해 자료를 보관했다. 한국문학관은 2019년부터 알링턴 자택을</content:encoded>
+    </item>
+    <item>
+      <title>“좋은 AI는 좋은 데이터에서 시작됩니다”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260812/134459775/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260812/134459775/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134459301.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“인공지능(AI) 시대 경쟁력은 데이터를 얼마나 빠르고 효율적으로 확보하느냐에 달려 있습니다.” 정민욱 아이케미스트 대표(사진)는 AI 산업이 고도화될수록 데이터를 만드는 기술의 가치가 커질 것으로 내다봤다. 그는 “AI 모델은 빠르게 발전하고 있지만 실제 데이터를 확보하고 가공하는 데는 여전히 많은 시간과 비용이 든다”며 “특히 국방, 자율주행, 제조처럼 실제 데이터를 구하기 어렵거나 보안이 중요한 분야에서는 합성 데이터가 새로운 대안이 될 수 있다”고 설명했다. 아이케미스트는 이런 문제를 해결하기 위해 AI 학습용 합성 데이터를 자동 생성하는 플랫폼을 개발했다. 사용자가 원하는 환경을 가상공간에서 구현하고 데이터를 자동 생성하는 것은 물론 라벨링(정답표 붙이기)과 메타데이터(부가 정보) 구축까지 함께 수행해 AI 개발 기간을 크게 단축하는 것이 목표다. 이 회사는 최근 3년간 연평균 350%의 매출 성장을 기록했다. 지난해 5억 원이던 매출은 올해 2분기에 10억 원을 돌파</content:encoded>
+    </item>
+    <item>
+      <title>“책과 문화 향유하는 동대문구로 도약”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260812/134460735/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260812/134460735/2</guid>
+      <pubDate>2026-08-12T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134459207.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“서울시립동대문도서관을 중심으로 대학과 청년, 지역 예술가와 주민이 어울리는 문화도시로 만들겠습니다.” 최동민 서울 동대문구청장(57)은 지난달 28일 구청 집무실에서 진행한 동아일보와의 인터뷰에서 이같이 강조했다. 최 구청장은 “동대문구에는 경희대·한국외대·서울시립대와 홍릉의 연구·의료 인프라, 전통시장 등 다양한 생활·문화 자원이 있다”라며 “도서관은 이들을 서로 연결하고 주민이 머무는 중심 공간이 될 것”이라고 밝혔다. 최 구청장은 국토연구원 연구원과 더불어민주당 추미애 의원 보좌관, 대통령실 행정관 등을 거쳐 민주당 소속으로 6·3 지방선거에 당선됐다. 서울시립동대문도서관은 2031년 개관 목표로 전농동에 들어서는 서울 최대 규모의 목조 공공도서관이다. 최 구청장은 “도서관에는 서울 동북권 평생학습을 담당하는 시민대학과 중장년 인생 이모작을 준비하는 50플러스캠퍼스, 그리고 아이들을 위한 키즈카페 등이 함께 조성된다”라고 소개했다. 이어 “도서관 건립과 시설 관리는 서울시</content:encoded>
     </item>
   </channel>
 </rss>
