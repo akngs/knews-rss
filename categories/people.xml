@@ -1,37 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 인물/단체</title>
-    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
-    <description>에이블뉴스 - 인물/단체</description>
-    <lastBuildDate>2026-08-12T01:13:19.455Z</lastBuildDate>
-    <item>
-      <title>박지성 “일본은 100년을 내다보고 준비하는데···”  한국 축구에 쓴소리</title>
-      <link>https://www.khan.co.kr/article/202607301546001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607301546001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T15:46:00.000Z</pubDate>
-      <content:encoded>tvN 예능 ‘유 퀴즈 온 더 블럭’서 축구 철학 필요성 강조박 “장기적 계획 부족…감독 바뀌어도 시스템 이어져야”tvN 예능 프로그램 ‘유 퀴즈 온 더 블럭’ 출연한 박지성.  tvN 방송 캡처박지성이 한국 축구와 일본 축구의 격차를 장기적인 시스템의 차이에서 찾으며 일관성 있는 축구 철학의 필요성을 강조했다.29일 방송된 tvN 예능 프로그램 ‘유 퀴즈···</content:encoded>
-    </item>
-    <item>
-      <title>정몽규 “16강에 올랐다면 청문회 열리지 않았을 것”···‘감독 선임 적법’ 주장</title>
-      <link>https://www.khan.co.kr/article/202607301553001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607301553001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T15:53:00.000Z</pubDate>
-      <content:encoded>정몽규 전 대한축구협회장이 30일 국회 문화체육관광위원회에서 열린 대한축구협회 현안 관련 청문회에서 의원 질의에 답하고 있다.  [국회사진기자단]정몽규 전 대한축구협회장이 축구대표팀 감독 선임 과정과 문화체육관광부 특별감사 결과를 둘러싼 논란에 대해 기존 입장을 재확인했다.정 전 회장은 30일 국회 문화체육관광위원회의 대한축구협회 현안 청문회에 증인으로 출···</content:encoded>
-    </item>
-    <item>
-      <title>‘빵집 면접 부끄럽지 않나’ 질의에···홍명보 “특혜 요구·사적 이익 취한 적 없어”</title>
-      <link>https://www.khan.co.kr/article/202607301603001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607301603001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T16:03:00.000Z</pubDate>
-      <content:encoded>국회, 대한축구협회 현안 청문회 증인 출석“연봉은 계약상 못 밝혀…38억은 절대 아냐”사무처 직원 등 ‘측근 채용’ 의혹도 전면 부인홍명보 전 축구대표팀 감독이 30일 국회 문화체육관광위원회에서 열린 대한축구협회 현안 관련 청문회에서 의원 질의에 답하고 있다. [국회사진기자단]홍명보 전 축구대표팀 감독이 국가대표팀 감독 선임 과정과 고액 연봉, 측근 채용 ···</content:encoded>
-    </item>
-    <item>
-      <title>영화 ‘원스’ 글렌 핸사드, 오토바이 사고로 사망</title>
-      <link>https://www.khan.co.kr/article/202607302013005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
-      <guid>https://www.khan.co.kr/article/202607302013005/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
-      <pubDate>2026-07-30T20:13:00.000Z</pubDate>
-      <content:encoded>영화 &amp;lt;원스&amp;gt;의 주인공이자 아일랜드 싱어송라이터 겸 배우 글렌 핸사드가 29일(현지시간) 오토바이 사고로 세상을 떠났다. 향년 56세.음악 매니지먼트사인 ATC매니지먼트는 “오늘 새벽 핸사드가 더블린에서 발생한 교통사고로 세상을 떠났음을 슬픈 마음으로 알린다”고 이날 밝혔다.그는 아일랜드를 대표하는 싱어송라이터이자 배우다. 2007년 영화 &amp;lt···</content:encoded>
-    </item>
+    <title>동아일보 - 사람속으로</title>
+    <link>https://rss.donga.com/inmul.xml</link>
+    <description>동아일보 - 사람속으로</description>
+    <lastBuildDate>2026-08-13T01:15:09.993Z</lastBuildDate>
     <item>
       <title>유럽축구계, 인판티노 퇴진 압박 본격화…월드컵 지분 매각 철회에도 FIFA 리더십 최대 위기</title>
       <link>https://www.khan.co.kr/article/202608021033001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
@@ -269,97 +241,6 @@
       <guid>https://www.donga.com/news/People/article/all/20260807/134434933/2</guid>
       <pubDate>2026-08-07T04:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134435030.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;문화체육관광부는 6일 김은하 국악방송 방송본부장(59·사진)을 국악방송 사장에 임명했다. 임기는 3년. 김 신임 사장은 라디오제작부, 심의감사실 등에서 일했다.</content:encoded>
-    </item>
-    <item>
-      <title>[부고]이재철 별세 外</title>
-      <link>https://www.donga.com/news/People/article/all/20260807/134434928/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260807/134434928/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>◇이재철 씨 별세·숙현 찬현 미현 계현 상희 직현 숙이 씨 부친상·김홍식 전 KBS 홍보실장 송재구 법무사 김찬기 충청외과 원장 장인상=5일 충북 청주시 충북대병원, 발인 7일 오전 7시 043-269-6969 ◇최정순 씨 별세·박찬수 한겨레신문 대표이사 경수 전 BBS 불교방송 보도국장 모친상·박소현 KBS 아나운서 조모상=6일 서울대병원, 발인 8일 오전 10시 02-2072-2010</content:encoded>
-    </item>
-    <item>
-      <title>‘K-배터리 청소년 아카데미’ 오늘까지 열려</title>
-      <link>https://www.donga.com/news/People/article/all/20260807/134434940/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260807/134434940/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134434772.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2차전지 국가첨단전략산업 특화단지인 경북 포항에서 미래 배터리 인재를 키우기 위한 청소년 아카데미가 열렸다. 경북도와 포항시, 동아일보, 채널A는 6일 포스텍 체인지업그라운드에서 ‘2026 K-배터리 청소년 아카데미’를 열었다. 7일까지 이어지는 이번 행사에는 초중고교생 300명이 참가한다. 올해로 3회째인 아카데미는 청소년들의 2차전지 산업에 대한 이해를 높이고 진로 탐색 기회를 제공하기 위해 시작됐다. 2차전지 연구개발 동향과 미래 전망을 소개하고, 인공지능(AI)과 배터리 기술의 융합을 다루는 강연과 체험 프로그램이 마련됐다. 참가자들은 2개 조로 나뉘어 이틀 동안 같은 프로그램에 각각 참여한다. 온라인 사전 학습에 이어 홍지현 포스텍 친환경소재대학원 교수가 ‘전기자동차와 스마트폰 속 숨은 힘’을 주제로 강연한다. 과학 커뮤니케이터 강성주 박사는 ‘AI 시대, 배터리가 세상을 지배한다’를 주제로 AI와 배터리 기술의 융합이 가져올 산업 변화를 소개한다. 학생들은 조별 실험</content:encoded>
-    </item>
-    <item>
-      <title>김구 ‘한인애국단’ 권고문 실린 中신문 첫 공개</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434938/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434938/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134434783.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국인 항일 사료 수집가가 중국과 일본 등지에서 수집한 우리 독립운동 관련 사료를 독립기념관에 기증했다. 독립기념관은 “제81주년 광복절을 앞두고 중국수장가협회 분회 부회장 등을 지낸 왕진쓰(王錦思) 씨가 항일투쟁 및 일제 강점 관련 유물 12점을 기증해 왔다”고 6일 밝혔다. 기증 자료 중엔 백범 김구가 이끈 한인애국단의 한중 연대투쟁 권고문 ‘삼가 중국 혁명 동지들에게 보내는 글’이 게재된 중국 신문 ‘구망정보(救亡情報)’ 1936년 5월 17일자도 포함됐다(사진). 윤봉길 의거 4주년을 맞아 발표된 한인애국단의 이 글은 기존에도 내용은 알려져 있었으나 게재됐던 신문 실물이 공개되는 건 처음이라고 독립기념관은 설명했다. 이 밖에도 왕 씨는 1941년 1월 화북조선청년연합회 진찰기분회(晉察冀分會) 성립대회 사진, 윤봉길 의거 관련 기사가 보도된 ‘도쿄일일신문(東京日日新聞)’ 1932년 4월 30일자 등의 자료를 기증했다. 왕 씨는 “이번 기증을 계기로 한중 양국이 함께 겪은</content:encoded>
-    </item>
-    <item>
-      <title>원곡서예문화-학술상 정해천-김춘자씨</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434926/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434926/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134435018.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;원곡문화재단(이사장 김영기)은 제48회 원곡서예문화상 수상자로 정해천 한국미술협회 기획총괄 부이사장을 선정했다고 6일 밝혔다. 제17회 원곡서예학술상 수상자로는 김춘자 한국서예가협회장이 선정됐다. 상금은 각각 1000만 원이다. 시상식은 14일 서울 중구 한국프레스센터에서 열린다.</content:encoded>
-    </item>
-    <item>
-      <title>희망브리지, 폭염 취약층에 얼음 생수-포도당 등 전달</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434946/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434946/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>6일 희망브리지 전국재해구호협회는 무더위 대응을 위해 서울 마포구에서 시민들에게 얼음 생수 500병 등을 나눠주는 행사를 가졌다. 희망브리지는 이날 오후 1시부터 4시까지 일반 시민과 야외 근로자, 관광객 등을 대상으로 얼음 생수와 식염 포도당, 폭염 예방 부채 등을 건넸다. 이번 나눔은 수도권 폭염 중대경보 등이 이어지는 가운데 시민의 온열질환 예방 및 안전을 위해 진행됐다.</content:encoded>
-    </item>
-    <item>
-      <title>韓다누리, 스페이스X 로켓-달 충돌 흔적 포착</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434936/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434936/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134435012.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국 달 궤도선 ‘다누리’가 스페이스X 팰컨9 로켓 상단부의 달 표면 충돌 전후 변화를 선명하게 포착하는 데 성공했다. 우주항공청과 한국항공우주연구원은 팰컨9 로켓 상단부가 5일 오후 3시 34분 달 아인슈타인 분화구 인근에 충돌하는 장면을 다누리가 고해상도 카메라(LUTI)와 광시야 편광카메라로 촬영했다고 6일 밝혔다. 공개된 영상에는 충돌 이후 달 표면의 검은색 음영이 한층 짙어지고, 충돌 지점을 중심으로 방사형 흔적이 새로 나타난 모습이 담겼다. 충돌한 물체는 무게 약 4.9t인 팰컨9 상단부로, 달 남동쪽에서 북서쪽 방향으로 초속 2.43km의 속도로 날아와 표면에 부딪힌 것으로 분석됐다. 지난해 1월 민간 달 착륙선을 싣고 발사됐던 스페이스X 팰컨9은 임무를 마친 뒤 연료 고갈로 우주를 표류하다 이번에 달의 중력권에 들어가 추락했다.</content:encoded>
-    </item>
-    <item>
-      <title>국립발레단 단장에 김주원씨</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434949/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434949/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134435011.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;문화체육관광부는 6일 김주원 대한민국발레축제 예술감독 겸 대표(49·사진)를 국립발레단 단장 겸 예술감독으로 임명했다. 임기는 3년.</content:encoded>
-    </item>
-    <item>
-      <title>양쯔충, BIFF ‘올해의 亞영화인상’</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434942/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434942/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/07/134435096.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;홍콩 영화배우 양쯔충(楊紫瓊·양자경·사진)이 부산국제영화제(BIFF)의 ‘2026 올해의 아시아영화인상’ 수상자로 선정됐다. BIFF는 “나이, 틀에 얽매이지 않고 연기의 한계를 넓혀온 양쯔충의 발자취는 한 배우의 궤적이 어떻게 영화적 상상력의 새로운 지평이 될 수 있는지를 증명한 상징적인 이정표”라고 선정 이유를 밝혔다. 1980년대 영화 ‘예스 마담’ 시리즈로 인기를 끌었던 양쯔충은 2023년 ‘에브리씽 에브리웨어 올 앳 원스’로 아시아계 배우 최초로 미국 아카데미상 여우주연상을 수상했다.</content:encoded>
-    </item>
-    <item>
-      <title>美중간선거 판에 떠오른 한국계-무슬림 신인</title>
-      <link>https://www.donga.com/news/People/article/all/20260806/134434944/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260806/134434944/2</guid>
-      <pubDate>2026-08-07T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/06/134433119.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;올 11월 미국 중간선거를 앞두고 한국계 프란체스카 홍(한국명 홍윤정·37) 위스콘신 주지사 경선 후보(민주당)와 무슬림인 압둘 엘사예드 미시간주 연방 상원의원 후보(41·민주당)가 주목받고 있다. 이들은 모두 진보 성향의 젊은 신예들로 민주당 경선에서 돌풍을 일으키고 있다. 특히 5일(현지 시간) 도널드 트럼프 미국 대통령이 나서 홍 후보를 “공산주의 세력”이라고 비판하면서, 오히려 전국적인 인지도를 높이는 반사 효과를 얻고 있다는 평가도 나온다. 이날 트럼프 대통령은 미 네바다주 라스베이거스 연설에서 민주당을 공산주의 세력이라고 규정하며 맹공을 퍼부었다. 이 과정에서 홍 후보의 이름을 직접 언급하진 않았지만 “공산주의자들이 내세운 여자는 추수감사절이 폐지돼야 하고, 경찰이 백인우월주의 유지를 위해 존재한다고 주장한다”며 “이런 사람들은 위험하고 제정신이 아닌 사람들”이라고 비난했다. 앞서 홍 후보는 2020년 자신의 소셜미디어에 추수감사절이 미국의 식민주의를 미화하고, 원주민</content:encoded>
-    </item>
-    <item>
-      <title>‘2026년 전국장애인체스대회’ 9월 12일 한국잡월드에서 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232477</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232477</guid>
-      <pubDate>2026-08-07T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】대한장애인체스협회가 주최, 주관하는 &apos;2026년 사단법인 대한장애인체스협회장배 전국장애인체스대회&apos;가 오는 9월 12일 경기도 성남시 한국잡월드에서 개최된다.이번 대회는 올해 처음 개최되는 장애인들을 위한 전국적인 체스대회로, 참가 대상은 체스를 할 줄 아는 국내에 거주하거나 전국 장애인 관련 기관을 이용하는 초등학생 이상 장애인(지체,청각,시각장애인)이다.장애유형별로 학생부, 일반부 남자와 여자로 구분되어 진행된다. 장애유형은 지체장애인, 청각장애인, 시각장애인 부문으로 참여할 수 있다. 대회운영방식은 FI</content:encoded>
-    </item>
-    <item>
-      <title>2026 서울지역장애인파워싸커 동호인대회’ 오는 8일 개막</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232476</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232476</guid>
-      <pubDate>2026-08-07T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】서울장애인파워싸커협회가 주최하는 ‘2026 서울지역장애인파워싸커 동호인대회’가 오는 8일 오후 2시 30분 서울 정립회관 체육관에서 개막식을 열고 본격적인 리그 열전에 돌입한다.이번 대회는 9월 12일 결승일까지 매주 토요일 정립회관 체육관에서 진행된다. 1부(노마크·황금날개·영등포FC)와 2부(티키타카·어벤져스·노들판) 각 3개 팀, 총 6개 팀이 참가해 홈&amp;어웨이 방식의 더블 풀리그를 벌인다. 예선 12경기에 승강전과 1부 결승전을 더해 총 14경기가 치러지며, 매주 하루 두 경기(오후 3시 30분·4시</content:encoded>
-    </item>
-    <item>
-      <title>에이블뉴스, 장애인개발원과 ‘알기 쉬운 자료 확산’ 업무협약</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232483</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232483</guid>
-      <pubDate>2026-08-07T10:11:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】에이블뉴스(대표 백종환)와 한국장애인개발원(이하 개발원)이 지난 6일 ‘알기 쉬운 자료 확산을 위한 업무협약’을 체결했다.이번 협약은 발달장애인 등 정보 접근에 어려움을 겪는 사람들이 필요한 정보를 보다 쉽게 이해하고 활용할 수 있도록 알기 쉬운 자료의 보급을 확대하기 위해 마련됐다.양 기관은 협약에 따라 ▲개발원이 개발한 알기 쉬운 자료의 에이블뉴스 ‘쉬운 뉴스’ 게재 ▲게재 대상 자료의 선정과 활용 범위·운영 방식 협의 ▲게재 콘텐츠의 상호 홍보 및 게시 ▲알기 쉬운 정보 확산과 활용을 위한 공동사업 발</content:encoded>
-    </item>
-    <item>
-      <title>장대넷·양천IL센터, ‘청년 장애인 자립·권익증진 지역사회 참여 확대’ 맞손</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232485</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232485</guid>
-      <pubDate>2026-08-07T11:23:41.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】장애인권대학생·청년네트워크(이하 장대넷)는 사람사랑양천장애인자립생활센터(이하 양천센터)와 청년 장애인의 자립과 권익증진, 지역사회 참여 확대를 위한 업무협약(MOU)을 체결했다고 7일 밝혔다.양 기관은 상호 존중과 신뢰를 바탕으로 장애대학생과 청년장애인이 지역사회의 주체이자 변화의 주역으로 성장할 수 있도록 긴밀한 협력체계를 구축하기로 뜻을 모았다.이번 협약을 통해 양 기관은 ▲장애대학생 및 청년장애인의 인권 보장과 장애 의제 확산 ▲장애대학생 및 청년장애인의 자립생활 권리 증진과 지역사회 참여 확대 ▲중증</content:encoded>
     </item>
     <item>
       <title>[인사]서울시교육청</title>
@@ -843,6 +724,125 @@
       <guid>https://www.donga.com/news/Society/article/all/20260812/134460735/2</guid>
       <pubDate>2026-08-12T04:30:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134459207.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“서울시립동대문도서관을 중심으로 대학과 청년, 지역 예술가와 주민이 어울리는 문화도시로 만들겠습니다.” 최동민 서울 동대문구청장(57)은 지난달 28일 구청 집무실에서 진행한 동아일보와의 인터뷰에서 이같이 강조했다. 최 구청장은 “동대문구에는 경희대·한국외대·서울시립대와 홍릉의 연구·의료 인프라, 전통시장 등 다양한 생활·문화 자원이 있다”라며 “도서관은 이들을 서로 연결하고 주민이 머무는 중심 공간이 될 것”이라고 밝혔다. 최 구청장은 국토연구원 연구원과 더불어민주당 추미애 의원 보좌관, 대통령실 행정관 등을 거쳐 민주당 소속으로 6·3 지방선거에 당선됐다. 서울시립동대문도서관은 2031년 개관 목표로 전농동에 들어서는 서울 최대 규모의 목조 공공도서관이다. 최 구청장은 “도서관에는 서울 동북권 평생학습을 담당하는 시민대학과 중장년 인생 이모작을 준비하는 50플러스캠퍼스, 그리고 아이들을 위한 키즈카페 등이 함께 조성된다”라고 소개했다. 이어 “도서관 건립과 시설 관리는 서울시</content:encoded>
+    </item>
+    <item>
+      <title>테넥스, 서울시장애인아이스하키협회에 선수 회복 지원 제품 전달</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232587</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232587</guid>
+      <pubDate>2026-08-12T10:44:42.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】주식회사 테넥스가 서울특별시장애인아이스하키협회에 자사 헬스케어 브랜드 키네메디칼 제품을 기부하고 파라아이스하키 선수들의 회복과 컨디셔닝 지원에 나섰다.테넥스는 지난 10일 서울시장애인아이스하키협회 회장 김항진 대표가 운영하는 모던필라테스 본사에서 서울특별시장애인아이스하키협회에 키네메디칼 제품을 전달하는 기부 행사를 진행했다. 이날 행사에는 대한민국 파라아이스하키 1세대 선수 출신인 한민수 감독, 김항진 서울특별시장애인아이스하키협회 회장, 테넥스 이호진 이사, 박인규 팀장이 참석했다.한민수 감독은 2000년부</content:encoded>
+    </item>
+    <item>
+      <title>밀알복지재단·행복ICT, 전국 시청각장애인 지원체계 구축 맞손</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232588</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232588</guid>
+      <pubDate>2026-08-12T10:45:21.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】밀알복지재단과 행복ICT가 복지 사각지대에 놓인 시청각장애인을 발굴하고 전국적인 지원체계를 구축하기 위해 손을 맞잡았다.밀알복지재단과 행복ICT는 지난 7일 서울 강남구 밀알복지재단에서 ‘시청각장애인 지원 및 복지 서비스 전국화 사업’ 추진을 위한 업무협약을 체결했다.이번 협약은 복지 사각지대에 놓인 시청각장애인을 발굴하고 전국적인 네트워크와 자립 지원 체계를 구축하기 위해 마련됐다.SK그룹이 출연해 설립한 재단법인 행복ICT는 사회적기업이자 장애인표준사업장으로, 밀알복지재단과 함께 시청각장애인의 정보 접근</content:encoded>
+    </item>
+    <item>
+      <title>“창업주 손자 정도 인재는 도요타에 감자처럼 널렸다”··· 족벌주의 비판한 아웃사이더 회장 별세</title>
+      <link>https://www.khan.co.kr/article/202608121446001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608121446001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-12T14:46:00.000Z</pubDate>
+      <content:encoded>일본 자동차업체 도요타의 글로벌 성장을 이끈 전 최고경영자(CEO) 오쿠다 히로시가 별세했다고 교도통신과 AP통신 등이 12일 보도했다. 향년 93세. 정확한 사망 시점과 사인은 알려지지 않았다.오쿠다는 1932년 12월 29일 미에현 쓰시에서 태어났다. 집안은 지역 증권회사를 운영했다. 1955년 도쿄 히토쓰바시대학을 졸업한 뒤 도요타에 입사했다. 회계부···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 인사-재정경제부, 기획예산처, 경찰청 외</title>
+      <link>https://www.khan.co.kr/article/202608121508001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608121508001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-12T15:08:00.000Z</pubDate>
+      <content:encoded>■재정경제부 &amp;#9671;실장급 &amp;#9651;대변인 장정진■법제처 &amp;#9671;서기관 전보 &amp;#9651;법령정비국 법령정비총괄과 이규태 &amp;#9671;서기관 파견 &amp;#9651;고위공직자범죄수사처 박문성■기획예산처 &amp;#9671;과장급 &amp;#9651;국제재정협력과장 이준희■경찰청 &amp;#9671;치안정감 승진 &amp;#9651;전남경찰청장 고범석 &amp;#9651;경상남도경찰청···</content:encoded>
+    </item>
+    <item>
+      <title>오늘의 부고-김진구 명지의료재단 의료원장 모친상 외</title>
+      <link>https://www.khan.co.kr/article/202608121509001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608121509001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-12T15:09:00.000Z</pubDate>
+      <content:encoded>■유경열씨 별세, 재인·정미씨 부친상, 오신환 제19·20대 서울 관악을 국회의원 겸 전 서울시 부시장 장인상=12일 건국대병원. 발인 14일 (02)2030-7900■최중범 전 서울우유협동조합 유제품연구소장 겸 수의사 별세, 현용씨 부친상, 김성훈 전 OTTO 한국법인 대표이사 장인상, 김현지 파이낸셜뉴스 생활경제부 기자 외조부상=11일 서울성모병원, 발···</content:encoded>
+    </item>
+    <item>
+      <title>“호우~ 품절남 됐어요” 구찌 매장 직원과 10년 사랑 ‘결실’…호날두, 조지나와 결혼</title>
+      <link>https://www.khan.co.kr/article/202608121514001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</link>
+      <guid>https://www.khan.co.kr/article/202608121514001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=people_news</guid>
+      <pubDate>2026-08-12T15:14:00.000Z</pubDate>
+      <content:encoded>호날두가 지난해 약혼식에서 연인 로드리게스와 약혼 반지를 자랑하고 있다. 호날두 SNS세계적인 축구 스타 크리스티아누 호날두(41·알 나스르)가 오랜 연인 조지나 로드리게스(32)와 결혼했다.로이터통신 등 외신은 호날두 측 관계자를 인용해 두 사람이 11일 포르투갈 휴양도시 카스카이스에서 결혼식을 올렸다고 보도했다. 세계적인 스타 커플의 결혼식치고는 비교적···</content:encoded>
+    </item>
+    <item>
+      <title>제12회 ‘생명의 바다 그림대회’ 수상자 선정…대상에 장은지 양</title>
+      <link>https://www.donga.com/news/Society/article/all/20260812/134465512/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260812/134465512/1</guid>
+      <pubDate>2026-08-12T16:55:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134465555.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아일보와 채널A가 공동 주최하고 인천시가 후원한 제12회 ‘생명의 바다 그림대회’ 수상자가 12일 선정됐다. 올해 대회에서는 ‘바다의 오늘과 내일’을 주제로 창의적인 상상력을 담아낸 인천 신현여중 장은지 양(14·1학년)이 대상인 교육부장관상 수상자로 선정됐다.초등 저학년부(1∼3학년)에서는 인천 운서초 2학년 염은우 군(9)이 해양수산부장관상, 운서초 3학년 채민호 군(10)이 행정안전부장관상, 울산 동대초 3학년 이믿음 군(10)이 기후에너지환경부장관상 수상자로 각각 선정됐다.초등 고학년부(4∼6학년)에서는 인천 현송초 4학년 손범준 군(11)이 해수부장관상, 인천 박문초 6학년 박서윤 양(13)이 행안부장관상, 인천 청학초 6학년 김단희 양(13)이 기후부장관상을 받는다. 중·고등부에서는 서울 구암고 1학년 이유주 양(17)이 해수부장관상, 인천 연성중 2학년 전수혁 군(18)이 기후부장관상을 각각 수상한다. 이들을 포함해 총 27명에게 주요 기관장상과 단체장상이 수여된다</content:encoded>
+    </item>
+    <item>
+      <title>장애인재활협회, ‘S-OIL과 함께하는 감동의 마라톤’ 참가자 모집</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232601</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232601</guid>
+      <pubDate>2026-08-12T17:21:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 한국장애인재활협회는 오는 31일까지 S-OIL의 후원으로 장애인과 비장애인이 함께 달리는 ‘S-OIL과 함께하는 감동의 마라톤’ 참가자를 모집한다.오는 10월 4일 월드컵경기장 평화광장에서 열리는 이번 대회는 5km, 10km, Half 3개 코스로 운영되며 장애인과 비장애인 누구나 참여할 수 있다.‘감동의 마라톤’은 장애인이 일상에서 스포츠를 경험하고 지속적으로 생활체육에 참여할 수 있는 기회를 넓히는 동시에 장애인과 비장애인이 함께 완주하며 서로를 이해할 수 있는 접점을 확대하는 데 의미를 두고 있다.대</content:encoded>
+    </item>
+    <item>
+      <title>발달장애인 운동선수 지원사업 JUMP &apos;스포츠 유망주를 키우다&apos;</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=232569</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=232569</guid>
+      <pubDate>2026-08-12T17:24:00.000Z</pubDate>
+      <content:encoded>가능성의 씨앗이 자라도록, JUMP누구에게나 가능성의 씨앗이 있지만 그것을 온전히 꽃피울 수 있는 환경이 모두에게 주어지는 것은 아니다. 장애인 운동선수에게 환경은 때로 더욱 가혹하다. 실제로 장애인은 체육 분야에서 자신의 재능을 발견하고 기량을 펼칠 기회를 충분히 얻지 못한다.문화체육관광부의 2025년 국민생활체육조사와 장애인 생활체육조사에 따르면 전 국민의 생활체육 참여율이 62.9%인 반면 장애인은 34.8%에 불과한 것으로 집계되었다. 이처럼 체육을 접할 기회가 적은 현실 속에서 자신의 재능을 발견하지 못한 채 지나치기도 한</content:encoded>
+    </item>
+    <item>
+      <title>日 차별에 못받은 연필, 82년만에 ‘한 다스’ 채웠다</title>
+      <link>https://www.donga.com/news/People/article/all/20260813/134468741/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260813/134468741/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134469993.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일제강점기인 1944년, 일본 나고야시의 한 초등학교 운동장. 교내 종이비행기 날리기 대회에서 참가 학생 50명 중 1등을 한 1학년생은 상품인 ‘잠자리 연필’ 한 다스(12자루)를 받을 기대에 부풀었다. 그러나 일본인 담임교사는 “너는 조선인이라 다 줄 수 없다”며 연필을 한 자루만 꺼내 줬다. 그 자리에서 얼어붙은 소년은 아무 말도 못 한 채 집으로 돌아와 어머니 앞에서 눈물을 쏟았다. 어머니는 “그냥 잊어버리라”고 했지만, 그날의 기억은 조무판 씨(88)가 여든을 넘기도록 마음에 남았다. 그런데 조 씨가 받지 못했던 나머지 연필 11자루가 긴 세월을 지나 최근 일본에서 날아왔다. 당시 사건과 아무런 관련이 없는 일본인 퇴직 교사가 뒤늦게 그의 사연을 접하고 선물로 보낸 것이다. 연필이 조 씨에게 닿기까지 한국과 일본의 여러 사람이 손을 보탰다. 1938년 나고야에서 태어난 조 씨는 현지에서 학교를 다니다 1945년 광복과 함께 부모와 한국으로 건너왔다. 17세에 학도병으로</content:encoded>
+    </item>
+    <item>
+      <title>“아이들 눈에 비친 ‘바다의 미래’ 참신하게 담아”</title>
+      <link>https://www.donga.com/news/People/article/all/20260813/134468737/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260813/134468737/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134467003.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;동아일보와 채널A가 공동 주최하고 인천시가 후원한 제12회 ‘생명의 바다 그림대회’ 수상자가 12일 선정됐다. 올해 대회에서는 ‘바다의 오늘과 내일’을 주제로 창의적인 상상력을 담아낸 인천 신현여중 장은지 양(14·1학년)이 대상(사진)인 교육부장관상 수상자로 선정됐다. 초등 저학년부(1∼3학년)에서는 인천 운서초 2학년 염은우 군(9)이 해양수산부장관상, 운서초 3학년 채민호 군(10)이 행정안전부장관상, 울산 동대초 3학년 이믿음 군(10)이 기후에너지환경부장관상 수상자로 각각 선정됐다. 초등 고학년부(4∼6학년)에서는 인천 현송초 4학년 손범준 군(11)이 해수부장관상, 인천 박문초 6학년 박서윤 양(13)이 행안부장관상, 인천 청학초 6학년 김단희 양(13)이 기후부장관상을 받는다. 중·고등부에서는 서울 구암고 1학년 이유주 양(17)이 해수부장관상, 인천 연성중 2학년 전수혁 군(18)이 기후부장관상을 각각 수상한다. 이들을 포함해 총 27명에게 주요 기관장상과 단체장상</content:encoded>
+    </item>
+    <item>
+      <title>“오른쪽 귀 30%만 들려” BTS 뷔, 청력 이상 공개</title>
+      <link>https://www.donga.com/news/People/article/all/20260813/134468733/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260813/134468733/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134468732.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 방탄소년단(BTS) 멤버 뷔(사진)가 청력 이상으로 치료를 받고 있다고 밝혔다. 뷔는 12일 정국과 함께 진행한 팬 플랫폼 위버스 라이브에서 “2년 반 전부터 귀가 좋지 않았다”며 “왼쪽이 100 정도 들린다면 오른쪽은 30밖에 안 들린다. 그래서 꾸준히 약을 먹고 있다”고 말했다. 뷔가 자신의 청력 이상을 공개적으로 언급한 것은 이번이 처음이다. 두 사람은 11일(현지 시간) 미국 볼티모어 공연을 마친 뒤 팬들과 소통했다. 뷔는 군 복무 중 증세가 심해졌다고 했다. 그는 “군대에서 운동하는 사람들끼리 모여 있으니까 ‘정신력 문제’라고 하더라”며 “그 뒤로 나도 정신력 문제라고 생각했다”고 털어놨다. 정국 역시 다리 부상으로 공연에 어려움을 겪고 있다고 밝혔다. 정국은 “정강이 쪽에 피로골절이 오기 직전인 상황으로 염증이 많이 있는 것 같다”고 말했다. 올 3월 정규 앨범 ‘아리랑(ARIRANG)’을 발매하고 월드투어를 진행 중인 BTS는 15, 16일 미국 알링턴 AT&amp;</content:encoded>
+    </item>
+    <item>
+      <title>‘세계의 공장 中’ 발판 만든 주룽지 前총리 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20260813/134468730/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260813/134468730/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134469167.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국의 세계무역기구(WTO) 가입과 부실 국유기업의 구조조정 등을 추진하며 1990년대 후반부터 2000년대 초반까지 중국의 경제개혁을 이끌었던 주룽지(朱鎔基·사진) 전 중국 국무원 총리가 12일 베이징에서 숨졌다고 관영 신화통신이 전했다. 향년 98세. 장쩌민(江澤民) 전 국가주석의 핵심 경제 브레인으로 꼽혔던 주 전 총리는 1928년 후난성 창사에서 태어나 칭화대 전기공학과를 졸업했다. 특히 그는 덩샤오핑(鄧小平) 전 주석이 시작한 중국의 시장경제 개혁을 완성 단계로 끌어올리는 데 크게 기여했다는 평가를 받는다. 적자에 빠진 국유기업을 과감히 합병하고 대대적인 인원 감축을 주도해 1990년대 중국 경제의 체질을 바꾼 개혁가로 통한다. 일각에선 당시 대규모 실업자가 발생하고, 급속한 시장경제 도입으로 빈부 격차가 확대됐다는 비판도 나온다. 2001년 중국의 WTO 가입을 성사시켜 고속 경제 성장의 발판을 마련한 것도 그의 공로로 평가된다. 이후 중국은 글로벌 경제체제에 편입돼 ‘</content:encoded>
+    </item>
+    <item>
+      <title>‘日자동차 세계화’ 이끈 오쿠다 前도요타 회장 별세</title>
+      <link>https://www.donga.com/news/People/article/all/20260813/134468739/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260813/134468739/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134469165.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본 자동차의 글로벌화를 이끌고 경단련 회장을 지낸 오쿠다 히로시(奧田碩·사진) 전 도요타 회장이 8일 노환으로 별세했다. 향년 94세. 아사히신문 등 일본 언론에 따르면 1932년 미에현 쓰시에서 태어난 오쿠다 전 회장은 히토쓰바시대 상학부를 졸업한 뒤 1955년 도요타자동차판매에 입사했다. 이후 1982년 도요타자동차판매와 도요타자동차공업이 합병해 현재의 도요타자동차가 된 뒤, 1995년 사장에 취임했다. 창업가 일족 출신이 아닌 인물이 도요타의 최고경영자 자리에 오른 것은 28년 만이었다. 이후 1999년부터 2006년까지 회장을 지냈다. 고인은 사장 재임 당시 젊은 층을 겨냥한 판매점을 만드는 등 일본 국내 판매 확대에 힘을 쏟는 한편으로, 미국과 유럽 등에 공장을 신설하며 사업 확대 전략을 추진했다. 차세대 자동차의 핵심 키워드로 ‘환경’을 내세우면서 친환경차 시장에서도 도요타의 존재감을 높였다. 이후 도요타가 연간 세계 판매량 1000만 대를 달성하는 기반을 마련한 것</content:encoded>
+    </item>
+    <item>
+      <title>[부고]김덕연 별세 外</title>
+      <link>https://www.donga.com/news/People/article/all/20260813/134468735/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20260813/134468735/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>◇김덕연 씨 별세·송필남 경남 창녕군 길곡면장 모친상=12일 경남 창녕군공설장례식장, 발인 14일 오전 8시 055-533-8510 ◇김치관 씨 별세·윤호 전 서울문화사 부국장 미경 국제로타리클럽 한국지국 부지국장 미선 경희 씨 부친상·박영서 디지털타임스 논설위원 이택우 씨(MUFG은행 서울지점) 장인상=11일 서울성모병원, 발인 14일 오전 9시 02-2258-5940 ◇서판길 씨 별세·승룡 한국예탁결제원 지역서비스부 수석업무역 부친상=11일 충남 논산시 놀뫼시민장례원, 발인 13일 오전 8시 반 041-733-0404 ◇안판석 감독(드라마 연출가) 별세=12일 서울대병원, 발인 시간 미정 02-2072-2010 ◇유경열 씨 별세·연영동 씨 남편상·재인 정미 씨 부친상·오신환 전 국회의원(전 서울시 부시장) 장인상·오문정 씨 시부상=12일 서울 건국대병원, 발인 14일 오전 8시 반 02-2030-7940 ◇장세현 씨 별세·김진구 명지의료재단 의료원장 모친상·김지은 씨 시</content:encoded>
+    </item>
+    <item>
+      <title>[단독]빈라덴 제거 지휘한 패네타 “이란전, 美에 또 하나의 패전 우려”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20260813/134468793/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20260813/134468793/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/13/134467180.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;리언 패네타 전 미국 국방장관(88·사진)이 11일(현지 시간) 동아일보와의 화상 인터뷰에서 올해 2월 28일 발발해 6개월 가까이 지속되고 있는 이란 전쟁에 대해 “당분간 계속될 것이며 출구가 보이지 않는다”고 밝혔다. 그러면서 “(이란 전쟁이) 21세기에 미국이 패배한 또 하나의 전쟁(another lost war)이 될 것을 우려한다”고 강조했다. 그는 도널드 트럼프 미국 대통령이 “이란 상황을 매우 복잡하게 만든 일련의 잘못된 판단을 내렸다”고 지적했다. 또 현재 진행 중인 협상에 대해서도 “목표가 정확히 무엇인지, 우리가 이란에 무엇을 요구하고, 이란은 우리에게 무엇을 요구하는지 명확하지 않다”고 했다. 패네타 전 장관은 버락 오바마 행정부 시절 중앙정보국(CIA) 국장과 국방장관을 지냈다. 특히 CIA 국장 이던 2011년 5월엔 9·11테러를 주도한 알카에다의 지도자 오사마 빈 라덴 제거 작전을 총괄했다. ● “이란戰으로 인해 美 무기 고갈” 패네타 전 장관은 이란</content:encoded>
+    </item>
+    <item>
+      <title>“동작구 한강변에 100m 높이 타워 만들 것”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260812/134468134/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260812/134468134/2</guid>
+      <pubDate>2026-08-13T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134466768.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“한강 프리미엄을 활용해 동작구의 브랜드 가치를 높이겠습니다.” 류삼영 서울 동작구청장은 지난달 30일 구청 집무실에서 진행한 동아일보와의 인터뷰에서 한강을 활용한 지역 발전 구상을 강조했다. 동작구는 ‘한강벨트’로 분류되지만 정작 구를 대표할 만한 수변공원은 없다. 시민들이 한강 나들이를 할 때 흔히 여의도와 반포, 잠원, 뚝섬 한강공원을 찾는데, 앞으로는 동작을 떠올리게 하겠다는 것.  류 구청장은 “서울에서 잘 나가고 유명하고 인기 있는 곳에는 모두 한강이 있다”며 “동작구의 한강 주변을 개발해 접근성을 높이고 이목을 끌 수 있도록 만들겠다”고 말했다.  류 구청장은 동작구 본동 용양봉저정 주변 개발을 구상하고 있다. 용양봉저정은 조선시대 정조가 아버지 사도세자의 묘에 참배하러 가는 길에 잠시 쉬었던 정자다. 류 구청장은 “용양봉저정 일대에 ‘한강타워’라는 상징적인 랜드마크를 조성할 것”이라며 “전망대를 갖춘 타워로, 지형의 높이까지 포함하면 체감상 63빌딩만큼 높을 것”</content:encoded>
     </item>
   </channel>
 </rss>
