@@ -3,126 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-08-17T00:47:04.143Z</lastBuildDate>
-    <item>
-      <title>“AI와 대화하듯 주식 거래” 토스증권, 오픈API 서비스 정식 출시</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260814/134477804/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260814/134477804/2</guid>
-      <pubDate>2026-08-14T11:19:31.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134474017.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;토스증권이 챗GPT·클로드 등 LLM과 연동한 오픈API를 13일 정식 출시해 국내외 주식을 대화형으로 거래할 수 있게 됐다.</content:encoded>
-    </item>
-    <item>
-      <title>클로드 ‘AI 워터마크’ 시끌…앤스로픽 “AI가 썼다는 뜻 아니다”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260814/134477913/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260814/134477913/2</guid>
-      <pubDate>2026-08-14T11:39:07.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134477928.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;앤스로픽이 클로드가 생성하거나 처리한 텍스트에 보이지 않는 AI 워터마크를 적용하면서 논란이 일고 있다. 단순 교정·번역을 거친 글에도 워터마크가 남을 수 있다.</content:encoded>
-    </item>
-    <item>
-      <title>[스타트업-ing] 인포플라 “Record &amp; Replay 업무자동화, 온프레미스로 풀었다”</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134478504/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134478504/1</guid>
-      <pubDate>2026-08-14T13:56:13.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134478493.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 기업들 사이에서 떠오르고 있는 최대 화두는 AI, 그리고 이에 기반한 업무 자동화다. 하지만 AI 기술을 도입하기만 하면 업무 효율이 곧바로 향상될 것이라 기대한다면 실망할 수도 있다. 어떤 AI를 어떻게 도입할 것인지, 이를 이용해 어떤 업무를 어떻게 자동화할 것인지 등의 방법론이 제대로 잡혀있지 않은 상태라면 더더욱 그러하다.특히 AI에게 업무를 맡기기 위해 절차를 하나하나 프롬프트나 스크립트로 풀어써야 하고, 화면상의 UI가 바뀌었을 땐, 또다시 수정을 해야 하는 등 이를 시험적으로 적용해가며 각종 시행착오를 거쳐야 할 수도 있다. 조건에 따라 다르게 처리하거나 반복되는 값을 다뤄야 하는 업무라면, 결국 개발 지식을 갖춘 인력의 손을 빌려야 하는 상황도 생긴다. 업무 효율을 높이기 위해 도입한 AI가 오히려 일을 늘리는 셈이다.이런 시행착오가 특히 두드러지는 곳이 각 기관이 자체 구축한 ERP, 그룹웨어 같은 내부 업무 시스템이다. 화면 구조와 업무 규칙이 기관마다 제</content:encoded>
-    </item>
-    <item>
-      <title>[기고] 재무 데이터, AI가 모으고 전문가가 판단한다</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134478666/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134478666/1</guid>
-      <pubDate>2026-08-14T14:13:36.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134478594.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;요즘 경영진 사이에서 “우리도 AI 써야 하지 않나”라는 말이 부쩍 늘었다. 하지만 벤처스튜디오형 액셀러레이터인 알파브라더스가 말하는 AX(AI Transformation)는 단순한 AI 툴 도입이 아니다. 진짜 목표는 매출·비용·속도·품질 같은 비즈니스 임팩트고, AX는 그 임팩트를 가로막는 문제에서 출발해 가장 적합한 해결책을 찾는 과정이다. 즉 업무 흐름 자체를 바꾸는 것이 AX다. 알파브라더스는 1부에서 영업일지 수집을 자동화해 연 990만 원을 아낀 사례를, 2부에서 커뮤니케이션 품질을 개인 역량에서 분리해 주간보고 작성 시간을 3시간에서 30분으로 줄인 사례를 각각 다뤘다. 영업이 잘 되고 고객 소통이 원활해지면 자연스럽게 따라오는 것이 매출 규모의 증가다. 그리고 매출이 늘어날수록 함께 복잡해지는 것이 재무 데이터다. 이번 3부에서는 알파브라더스의 사내벤처 그로스파이낸스가 재무관리 업무에 AI를 어떻게 적용했는지 소개한다.1단계: 문제 제기그로스파이낸스는 중소기업에</content:encoded>
-    </item>
-    <item>
-      <title>3분 전력질주가 90분 중강도 운동보다 낫다?…혈액 속 놀라운 변화 [바디플랜]</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134478521/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134478521/2</guid>
-      <pubDate>2026-08-14T14:25:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134478470.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;운동은 무조건 오래 해야 효과가 클까. 총 3분의 전력질주가 90분 중강도 운동보다 혈액 속 건강 관련 신호를 훨씬 크게 변화시켰다는 연구 결과가 나왔다.특히 비만과 제2형 당뇨병 등 대사질환 위험이 낮은 것과 관련된 단백질 대부분이 짧고 강한 운동에 반응했다. 짧은 고강도 운동이 적은 시간 투자에도 강력한 전신 효과를 낼 수 있는 생물학적 이유를 보여주는 결과다.연구 결과는 국제 의학 학술지 ‘셀 리포츠 메디신(Cell Reports Medicine)’에 13일(현지 시각) 게재됐다.미국 록펠러대학교 연구진은 평균 연령 26세의 건강한 남성을 대상으로 고강도 스프린트 인터벌 운동(SIE)과 중강도 운동(MIE)에 따른 혈액 속 단백질과 대사물질의 변화를 비교했다.원 연구에는 28명이 참여해 최대 유산소 운동 능력을 기준으로 비슷한 수준끼리 맞춘 뒤 두 운동군에 무작위 배정됐다. 이들 가운데 혈액 샘플을 이용할 수 있었던 19명의 자료를 분석했다.고강도 운동 그룹은 실내</content:encoded>
-    </item>
-    <item>
-      <title>“유일한 박사 정신 새긴다”…유한양행, ‘윌로우하우스’ 전시 새단장</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134478846/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134478846/1</guid>
-      <pubDate>2026-08-14T14:42:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134478841.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;유한양행이 창립 100주년을 맞아 조성한 복합문화공간 ‘윌로우하우스’의 전시 공간을 리뉴얼했다고 14일 밝혔다.이번 리뉴얼은 유일한 박사와 유한양행의 과거·현재·미래를 소개하는 ‘유한아카이브’를 중심으로 진행됐다. 2층 메모리얼 홀에는 유일한 박사와 함께 사진을 찍을 수 있는 포토존을 새로 마련했고, 3층 비전홀은 공간을 넓혀 관람 동선을 재구성했다.윌로우하우스는 유한양행이 1962년부터 35년간 사용한 구사옥을 활용해 만든 복합문화공간이다. 유한양행은 창립 100주년을 맞아 건물을 리뉴얼하고 지난 6월 20일 정식 개관했다.개관 이후 방문객도 이어지고 있다. 유한양행에 따르면 유한아카이브에는 최근 한 달간 하루 평균 약 200명이 방문했으며 하루 최대 방문객은 443명으로 집계됐다. 주말에는 윌로우하우스 내 카페 등을 포함해 약 1000명이 방문한 것으로 회사 측은 추산했다.온라인에서도 관련 콘텐츠에 대한 관심이 이어지고 있다. 윌로우하우스 공식 인스타그램의 대표 영상 콘텐</content:encoded>
-    </item>
-    <item>
-      <title>딥시크에 고객 뺏길라…오픈AI·앤트로픽 ‘가격 전쟁’</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260814/134479101/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260814/134479101/1</guid>
-      <pubDate>2026-08-14T15:23:34.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479102.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가성비를 앞세운 중국 인공지능(AI) 업체들의 공세에 오픈AI와 앤트로픽 등 미국 주요 AI 기업들이 가격 인하로 맞불을 놓으며 경쟁에 뛰어들었다. 기업들이 치솟는 AI 사용 비용을 줄이기 위해 딥시크와 문샷AI 등 중국산 모델로 눈을 돌리자 미국 업체들도 중간급 모델 가격을 낮추며 고객 방어에 나섰다.14일(현지 시간) 파이낸셜타임스(FT)에 따르면 오픈AI는 최근 자사의 ‘가장 빠르고 저렴한 모델’인 GPT-5.6 루나(Luna)의 가격을 80% 인하했다. 앤트로픽도 자사 최고 성능 모델인 페이블 5의 절반 가격에 클로드 오퍼스 5를 출시했다.실리콘데이터의 토큰 가격지수에 따르면 미국 주요 AI 업체의 모델에 고객들이 지불하는 가격은 지난달 중순 이후 약 25% 하락했다.미국 AI 업체들은 그동안 주로 성능을 앞세워 경쟁해왔다. 그러나 개발자가 자유롭게 내려받아 수정할 수 있는 중국의 개방형 AI 모델이 빠르게 성능을 끌어올리면서 가격 경쟁 압력도 거세지고 있다.기업들의</content:encoded>
-    </item>
-    <item>
-      <title>SCL사이언스, 상반기 흑자전환…콜드체인 물류가 매출 성장 견인</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134479140/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134479140/2</guid>
-      <pubDate>2026-08-14T15:29:39.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479126.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;SCL사이언스가 상반기 별도 기준 영업흑자로 전환했다. 매출은 전년 동기 대비 116% 증가했으며 콜드체인 물류와 유전자검사 등 신규 사업도 성장세를 보였다.</content:encoded>
-    </item>
-    <item>
-      <title>고려사이버대, 로봇공학부 고연호 전임교원 임용</title>
-      <link>https://www.donga.com/news/Society/article/all/20260814/134478993/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260814/134478993/1</guid>
-      <pubDate>2026-08-14T15:53:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479095.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고려사이버대학교는 9월 1일 자로 로봇공학부 전임교원에 고연호 교수를 임용할 예정이라고 14일 밝혔다.고 교수는 충남대 기계설계공학과를 졸업하고 고려대 대학원에서 기계공학 박사학위를 받았다. 웨어러블 보조 로봇과 산업·건설 로봇, 로봇 메커니즘 설계 및 제어, 의료 로봇 등을 연구해 왔다. 건국대 강사와 고려대 박사후연구원을 거쳐 한국건설기술연구원에서 박사후연구원으로 연구를 수행했다. 연구 성과는 ‘IEEE Access’, ‘IEEE Robotics and Automation Letters’, ‘Automation in Construction’ 등 국제학술지에 게재됐다.고려사이버대에서는 로봇의 기구학과 동역학, 메커니즘 설계, 센서와 구동기, 제어 및 인공지능 기술을 하나의 시스템으로 연결하는 과정을 교육할 예정이다. 건설·산업·의료 현장의 사례를 활용해 이론을 로봇 시스템의 설계와 구현으로 연결하는 교육도 강화한다.고려사이버대 로봇공학부는 기계·전자·소프트웨어를 융합해 로봇</content:encoded>
-    </item>
-    <item>
-      <title>홍시궁 “한국적인 과일인 홍시로 K-푸드 지형을 확대하고 싶어요” [농업이 IT(잇)다]</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134479382/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134479382/1</guid>
-      <pubDate>2026-08-14T16:04:04.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479357.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[KOAT x IT동아] 한국농업기술진흥원과 IT동아는 우리나라 농업의 발전과 디지털 전환을 이끌 유망한 스타트업을 소개합니다. 기발한 아이디어와 상품, 그리고 독창적인 기술로 우리의 삶을 윤택하게 할 전국 각지의 농업 스타트업을 만나보세요.한동안 국내 디저트 시장은 크루아상, 도넛, 케이크, 마카롱, 타르트 등 서구식 디저트의 차지였다. 그런데 최근 디저트 소비 흐름이 바뀌었다. 떡과 약과, 식혜 등 우리나라 전통 간식이 옛날 먹거리에서 벗어나 디저트 시장 한복판으로 다시 들어왔다. K-문화의 확산과 함께 전통 식재료를 활용한 디저트 개발이 활발해진 덕분이다.K-디저트는 전통 떡과 한과를 그대로 수출하는 방식에서 벗어나, 서구식 디저트 문법에 한국의 맛을 이식하거나 전통 간식을 현대적으로 재구성하는 방향으로 확장되는 추세다. 섭취 전후의 죄책감이 낮고 재료의 이야기가 선명하며, 인공적이지 않은 단맛을 원하는 ‘헬시 플레저(Healthy Pleasure)’ 심리가 K-디저트의</content:encoded>
-    </item>
-    <item>
-      <title>추석 앞두고 불법스팸 차단 강화…이통3사·카카오도 대응 나선다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260814/134479498/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260814/134479498/1</guid>
-      <pubDate>2026-08-14T16:23:19.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479499.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부와 이동통신3사, 카카오 등이 9월 추석 연휴를 앞두고 불법스팸 차단을 강화한다. 무효번호를 이용한 대량문자와 해외발 스팸을 차단하고 인공지능(AI) 기반 필터링도 강화해 스미싱·보이스피싱 등으로 이어지는 이용자 피해를 줄인다는 방침이다.과학기술정보통신부는 방송미디어통신위원회와 ‘불법스팸 대응 민관협의체 제6차 전체회의’를 개최했다고 14일 밝혔다. 이날 회의에서는 세부과제별 추진 현황과 주요 이슈를 공유하고 민간사업자별 불법스팸 방지 노력 발표 및 의견수렴 등을 진행했다.이번 회의는 방미통위와 과기정통부가 공동 주최하고 한국인터넷진흥원(KISA)이 주관했다. 개인정보보호위원회·경찰청 등 관계부처 및 전문기관과 SK텔레콤·KT·LG유플러스 등 통신사업자, 삼성전자 등이 참석했다.50여명이 참석한 이날 회의에서는 2024년 말부터 추진 중인 ‘불법스팸 방지 종합대책’의 5대 전략과 12개 세부과제 수행 현황 전반을 점검하고 최근 환경 변화를 반영한 향후 정책 방안 등을 논의했</content:encoded>
-    </item>
-    <item>
-      <title>추론 AI 시대 ‘메모리’가 승부처··· 하이퍼엑셀, 생태계 확장에 가속 페달</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134479583/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134479583/1</guid>
-      <pubDate>2026-08-14T16:31:59.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479569.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI 반도체 기술 기업 하이퍼엑셀이 AI 인프라 기술 기업 애니브릿지와 함께 AI 인프라 공동 기술 개발 및 협력을 위한 업무협약을 체결했다. 하이퍼엑셀은 대규모 언어모델(LLM) 추론에 특화된 AI 반도체 LPU(LLM Processing Unit)을 개발 중이며 올해 말에서 내년 초를 목표로 1세대 제품인 베르다(Bertha) 양산을 준비 중이다.애니브릿지는 GPU를 포함한 다양한 AI 가속기에 LLM 추론을 효율적으로 제공하도록 돕는 LLM 서빙 런타임 소프트웨어를 개발 중이다. 두 기업 모두 협력을 통해 AI 가속기 인프라 시장에서의 저변을 확대하고, 서버 시장에 대한 확장성을 높여나갈 예정이다. 한편 하이퍼엑셀은 애니브릿지를 포함해 MHS·TDS 이노베이션과도 업무협약을 체결하며 생태계 확장에 속도전을 벌이고 있는데 그 배경을 짚어봤다.하이퍼엑셀, 베르다 500 출시 앞두고 생태계 확장에 초점하이퍼엑셀 LPU는 LLM의 특정 계산 패턴을 처리하도록 설계된 LLM 전용</content:encoded>
-    </item>
-    <item>
-      <title>“해양 분야 창업 R&amp;D부터 사업화, 세계화까지 잇는다”… 박진완 KIMST 산업진흥본부장</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134479634/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134479634/1</guid>
-      <pubDate>2026-08-14T16:38:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479600.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;박진완 KIMST 산업진흥본부장이 그리는 해양수산 창업 생태계우리나라는 국토 3면이 바다로 둘러 쌓여 있음에도 해양수산 분야는 여전히 창업 문턱이 높다. 바다 특유의 거대성과 고위험성 탓에 현장 실증(PoC)이 까다롭고, 기술 개발과 검증에도 긴 시간과 큰 비용이 들기 때문이다.해양수산과학기술진흥원(KIMST, 원장 전재우)은 이 분야에서 연구개발(R&amp;D)과 인재양성, 창업, 투자, 사업화를 한데 잇는 전담기관으로 해양 창업 생태계를 뒷받침해 왔다. 박진완 KIMST 산업진흥본부장을 통해 그간의 성과와 과제, 해양수산 창업 생태계가 나아갈 방향을 들어본다.R&amp;D 성과 확산에서 산업 진흥 싱크탱크로KIMST 산업진흥본부는 ‘해양수산과학기술 육성법 시행령’ 제21조에 따라, 해양수산 R&amp;D의 기획·평가·관리와 인재양성, 개발 기술의 이전·사업화 지원을 담당한다. 창업기업 발굴·육성, 기업 전용 사업화 R&amp;D 평가·관리, 연구인프라 공동활용 지원 등도</content:encoded>
-    </item>
-    <item>
-      <title>눈앞 캄캄, 주변이 빙빙…어지럼증, 더위만 탓했다간 낭패</title>
-      <link>https://www.donga.com/news/Culture/article/all/20260814/134479837/1</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20260814/134479837/1</guid>
-      <pubDate>2026-08-14T16:55:23.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134479838.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기온과 습도가 높은 여름철에는 갑자기 눈앞이 캄캄해지거나 몸이 휘청거리고 주변이 빙빙 도는 듯한 어지럼증을 호소하는 사람이 많다. 땀을 많이 흘려 발생한 탈수나 혈압 저하가 원인일 수 있지만 이석증과 같은 귀의 전정기관 질환이나 드물게 뇌졸중이 원인일 수도 있어 증상의 양상을 세심하게 살펴야 한다.어지럼증이 생겼다는 사실보다 중요한 것은 어지럼증이 언제, 어떤 상황에서 시작됐고 얼마나 지속됐는지다.조성윤 리젠에스신경외과의원 원장은 “여름철 어지럼증을 모두 빈혈이나 냉방병으로 생각하는 경우가 많지만 어지럼증은 하나의 질환명이 아니라 여러 원인으로 나타나는 증상”이라며 “어떤 느낌이었는지만큼 언제 시작됐고 얼마나 지속됐는지, 자세나 머리 움직임에 따라 유발됐는지를 확인하는 것이 중요하다”고 설명했다.일어설 때 눈앞이 캄캄하다면…탈수·혈압 저하 가능성더운 환경에서는 체온을 낮추기 위해 피부 혈관이 확장되고 땀 배출이 증가한다. 이때 수분을 충분히 보충하지 못하면 체내 혈액량이 감소</content:encoded>
-    </item>
-    <item>
-      <title>커피에 우유 넣었더니…염증 억제 효과 2배, 사실일까? [건강팩트체크]</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134479622/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134479622/2</guid>
-      <pubDate>2026-08-14T17:12:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134480354.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;건강을 생각해 커피는 블랙으로 마시는 게 낫다고 생각하기 쉽다. 우유를 넣으면 커피의 좋은 성분이 줄어들 것 같기도 하다. 그런데 오히려 커피의 폴리페놀과 우유의 단백질이 만나면 염증 반응을 억제하는 작용이 더 강해질 가능성을 보여준 연구가 있다.덴마크 코펜하겐대 연구진이 면역세포를 대상으로 실험한 결과, 커피 등에 들어 있는 폴리페놀에 단백질의 구성 성분인 아미노산이 결합했을 때 폴리페놀만 사용했을 때보다 염증 억제 효과가 약 2배 강하게 나타났다.연구진은 실제 우유가 들어간 커피에서도 폴리페놀과 단백질이 빠르게 결합한다는 사실을 확인했다.● 커피의 폴리페놀, 우유 단백질 만나면?커피에는 폴리페놀이라는 항산화 성분이 풍부하다. 과일과 채소, 차 등 식물성 식품에도 널리 들어 있는 성분으로 산화 스트레스와 염증 반응에 영향을 미치는 것으로 연구돼 왔다.코펜하겐대 식품과학과와 수의동물과학과 공동 연구진은 폴리페놀이 단백질의 구성 성분과 만났을 때 어떤 변화가 생기는지 살펴봤다</content:encoded>
-    </item>
-    <item>
-      <title>[리뷰] AI로 보컬 제거하는 휴대용 마이크, JBL 이지싱 마이크 미니</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134480920/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134480920/1</guid>
-      <pubDate>2026-08-14T17:56:05.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134480893.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하만 인터내셔널의 오디오 브랜드 JBL이 인공지능(AI) 기반 마이크 ‘이지싱 마이크 미니(EasySing Mic Mini)’를 출시했다. 야외나 이동 중 편하게 사용할 수 있는 휴대용 마이크로, 스피커에 재생 중인 음악의 보컬을 지워 반주만 남기는 ‘보컬 제거(Vocal separation)’ 기능이 특징이다. 덕분에 스피커나 스마트폰만 있으면 언제 어디서나 간편하게 노래방 분위기를 형성할 수 있다.마이크와 동글부터 케이스까지, 알찬 구성이지싱 마이크 미니는 마이크와 무선 동글로 구성된다. 이 외에 케이스, 자석 클립, 링 핸들, 파우치등 휴대용 마이크 활용을 돕는 유용한 액세서리를 기본으로 제공한다.마이크는 직사각형 디자인으로 모서리를 둥글게 처리했다. 크기는 33.6x61.2x24.3mm, 무게는 37g으로 일반적인 마이크보다는 작아 휴대하거나 이동하면서 사용하기 좋다.마이크 전면 가운데에는 원형 버튼을 달았다. 버튼을 누르면 AI 보컬 제거 수준을, 좌우로 돌리면 마이</content:encoded>
-    </item>
-    <item>
-      <title>AI 도입 후에도 성과 미진?…AI 활용 능력 평가가 필요한 이유</title>
-      <link>https://www.donga.com/news/It/article/all/20260814/134481030/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260814/134481030/1</guid>
-      <pubDate>2026-08-14T18:01:11.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/14/134480982.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기업의 인공지능(AI) 도입 경쟁이 새로운 국면을 맞고 있다. 이제 관심의 축은 ‘AI를 도입했느냐’가 아니라 ‘AI를 얼마나 제대로 활용하고 있느냐’로 이동하고 있다. 생성형 AI와 AI 에이전트가 빠르게 업무 현장에 확산됐지만, 실제 성과는 기업마다 크게 엇갈린다. 이에 따라 AI 도입 자체보다 이를 업무 성과로 연결할 수 있는 활용 역량이 기업 경쟁력을 가르는 새로운 기준으로 떠오르고 있다.AI로 고성과 얻은 조직 6%에 그쳐…AI 활용 역량 제고 시급글로벌 컨설팅사 맥킨지가 발간한 보고서(State of AI 2025)에 따르면, 조사 대상 조직의 88%가 이미 한 개 이상의 업무에 AI를 도입했다. 반면 AI를 활용해 EBIT(이자·세금 차감 전 영업이익)를 5% 이상 높인 고성과 조직은 6%에 그쳤다. 기업의 AI 투자가 곧바로 생산성과 수익성 향상으로 이어지지는 않는다는 의미다.전문가들은 이 간극의 원인을 ‘사람의 AI 활용 역량’에서 찾는다. 아무리 성능이 뛰어난</content:encoded>
-    </item>
+    <lastBuildDate>2026-08-18T00:45:02.963Z</lastBuildDate>
     <item>
       <title>[AI써봄] 카카오톡 챗GPT, PC 버전으로 확대···모바일 대화 그대로 이어질까</title>
       <link>https://www.donga.com/news/It/article/all/20260814/134481050/1</link>
@@ -351,8 +232,127 @@
       <title>‘1030·여성’ 홀린 갤럭시Z8 인기 비결은…‘3M 기능’</title>
       <link>https://www.donga.com/news/It/article/all/20260817/134487563/1</link>
       <guid>https://www.donga.com/news/It/article/all/20260817/134487563/1</guid>
-      <pubDate>2026-08-17T09:14:44.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487564.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자(005930)의 새로운 폴더블폰 ‘갤럭시Z8’ 시리즈가 국내 사전판매에서 144만 대를 기록하며 역대 최대 실적을 달성했다. 글로벌 사전판매는 500만대를 넘어설 것이라는 관측도 나온다. 특히 10·30세대와 여성 소비자 사이에서 높은 인기를 끌고 있는 가운데, 폴더블폰 특유의 폼팩터를 살린 카메라·멀티태스킹·미러 기능이 젊은 층의 마음을 사로잡은 것으로 분석된다.17일 삼성전자에 따르면 갤럭시Z8 시리즈는 지난 7월 28일부터 8월 3일까지 진행된 국내 사전판매에서 총 144만 대를 기록, 갤럭시 스마트폰 사상 역대 최대 사전판매량을 경신했다.흥행을 이끈 주인공은 젊은 소비자층과 여성 고객이다. 삼성닷컴 구매 고객 기준 10·30세대가 전체의 절반을 차지했으며, ‘갤럭시Z폴드8·폴드8 울트라’를 선택한 10·30대 여성 소비자는 전작 대비 약 2배나 급증했다.삼성전자는 이 같은 흥행 배경으로 폴더블 폼팩터에 최적화된 신기능을 꼽는다. 특히 이번 Z8 시리즈에는 △마</content:encoded>
+      <pubDate>2026-08-17T09:14:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134487564.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자(005930)의 새로운 폴더블폰 ‘갤럭시Z8’ 시리즈가 국내 사전판매에서 144만 대를 기록하며 역대 최대 실적을 달성했다. 글로벌 사전판매는 500만 대를 넘어설 것이라는 관측도 나온다. 특히 10·30세대와 여성 소비자 사이에서 높은 인기를 끌고 있는 가운데, 폴더블폰 특유의 폼팩터를 살린 카메라·멀티태스킹·미러 기능이 젊은 층의 마음을 사로잡은 것으로 분석된다.17일 삼성전자에 따르면 갤럭시Z8 시리즈는 지난 7월 28일부터 8월 3일까지 진행된 국내 사전판매에서 총 144만 대를 기록, 갤럭시 스마트폰 사상 역대 최대 사전판매량을 경신했다.흥행을 이끈 주인공은 젊은 소비자층과 여성 고객이다. 삼성닷컴 구매 고객 기준 10·30세대가 전체의 절반을 차지했으며, ‘갤럭시Z폴드8·폴드8 울트라’를 선택한 10·30대 여성 소비자는 전작 대비 약 2배나 급증했다.삼성전자는 이 같은 흥행 배경으로 폴더블 폼팩터에 최적화된 신기능을 꼽는다. 특히 이번 Z8 시리즈에는 △</content:encoded>
+    </item>
+    <item>
+      <title>한국산 달 방사선 측정기, NASA 착륙선 타고 2030년 달 남극 간다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134488184/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134488184/1</guid>
+      <pubDate>2026-08-17T12:07:53.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134488185.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;우리나라가 개발하는 우주방사선 측정기가 미국 항공우주청(NASA)의 민간 달 착륙선을 타고 달 남극으로 향한다. 이르면 2030년 발사돼 달 표면의 방사선 환경을 측정하고 향후 우주인과 무인 탐사 장비 등에 미치는 영향을 연구하는 데 활용된다.우주항공청은 지난 14일 우리나라가 개발하는 ‘달 표면 우주방사선 측정기(LVRAD·Lunar Vehicle RAdiation Dosimeter)’를 NASA 민간 달착륙선 탑재체 수송 서비스 프로그램의 착륙선에 탑재하기 위한 우주항공청-NASA 간 이행약정을 체결했다고 17일 밝혔다.달 표면 우주방사선 측정기는 달 남극 표면의 우주방사선을 측정하기 위한 탑재체다. 이번 이행약정에 따라 우주항공청은 2027년 비행모델 개발을 완료하고 NASA의 달 착륙선 일정에 맞춰 미국으로 이송할 예정이다.NASA는 우리나라가 개발한 측정기를 민간 달 착륙선에 탑재해 발사한 뒤 달 표면에서 측정기 운용과 데이터 전송 등을 지원한다. 발사는 2030년으</content:encoded>
+    </item>
+    <item>
+      <title>답변 넘어 일하는 AI로…젠스파크 CTO “韓, 글로벌 톱3 AI 에이전트 시장”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134482074/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134482074/1</guid>
+      <pubDate>2026-08-17T14:33:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134482365.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“인공지능(AI)이 내놓는 답변을 사람이 다시 가공하던 방식에서 벗어나, 이제는 목표 설정부터 실행까지 전 과정을 AI가 능동적으로 이끄는 단계로 진입했습니다.”미국 인공지능(AI) 스타트업 ‘젠스파크’의 케이 주 공동창업자 겸 최고기술책임자(CTO)는 14일 서울 서초구 SBVA(옛 소프트뱅크벤처스) 사무실에서 열린 대담에서 이같이 강조했다. 그는 앞으로 AI 업계의 경쟁이 AI 모델 개발을 넘어, 여러 AI 모델을 활용해 실제 업무를 얼마나 잘 수행할 수 있을지에 달려 있다고 강조했다.7000개 이상의 기업이 활용 중인 젠스파크는 사용자가 일을 맡기면 여러 AI를 활용해 업무를 대신 수행해 주는 ‘AI 워크스페이스’ 기업이다. 예를 들어 사용자가 자료 조사를 요청하면 젠스파크 AI 에이전트가 챗GPT, 클로드, 제미나이 등 70개 이상의 최신 AI 모델 중 적합한 것을 골라 사용한 뒤, 그 결과를 문서와 발표자료 등으로 만들어 준다. LG 등으로부터 6억4500만 달러(약</content:encoded>
+    </item>
+    <item>
+      <title>크래프톤, 게임업계 ‘3N’ 꺾고 매출·영업익 첫 1위…해외 공략 통했다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134488412/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134488412/1</guid>
+      <pubDate>2026-08-17T17:02:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134489395.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;크래프톤이 국내 게임업계의 오랜 ‘빅3’ 구도를 흔들고 매출 및 영업이익 1위 자리에 올랐다. 올 2분기(4~6월) 실적에서 기존 1위 넥슨을 제치면서, 넥슨·엔씨(NC)·넷마블로 이어지던 한국 게임업계의 이른바 ‘3N’ 구도를 깬 것이다.17일 금융감독원 전자공시시스템 및 각사 실적 자료에 따르면 크래프톤의 올 2분기 매출은 1조2902억 원으로 지난해 2분기 대비 94.9% 증가했다. 영업이익은 4109억 원으로 67% 증가해 역대 2분기 최고 실적을 나타냈다. 영업이익률 역시 크래프톤이 31.8%로 넥슨(25.8%), NC(22.6%), 넷마블(10.7%)을 모두 앞섰다. 매출과 영업이익 모두 전통 강호들을 제치며 분기 기준 1위에 처음 오른 것이다.● 적극적인 해외 공략에 1위 등극크래프톤의 이번 호실적은 적극적인 해외 공략이 가장 큰 원인으로 꼽힌다. 주력 게임인 배틀그라운드의 성장과 함께 해외 이용자들을 중심으로 한 서브노티카 2의 흥행, 지난해 인수한 일본 광고회사</content:encoded>
+    </item>
+    <item>
+      <title>하루 577㎜ 물폭탄…2002년 루사 이후 최대 ‘극한호우’ 왜?</title>
+      <link>https://www.donga.com/news/Society/article/all/20260817/134490488/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260817/134490488/1</guid>
+      <pubDate>2026-08-17T17:42:24.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134490489.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;광복절 연휴 경남 남해안에 쏟아진 비는 2002년 태풍 ‘루사’ 이후 전국적으로 가장 많은 일강수량을 기록할 정도로 강했다. 거제에는 하루에만 577.4㎜의 비가 쏟아졌고, 한 시간에 124.5㎜가 내리는 200년 빈도의 폭우까지 발생했다. 사흘이 채 안 되는 기간 누적 강수량은 평년 여름철 강수량의 90%를 넘어섰다. 남서쪽에서 북동진한 저기압과 한반도 북동쪽 고기압 사이로 남해의 뜨겁고 습한 공기가 한꺼번에 밀려들면서 비구름이 남해안에 집중된 탓이다.마치 남해에서 수증기를 가득 실은 바람이 비구름에 계속 연료를 공급한 셈이다. 강한 남풍이 남해의 수증기를 실어 나른 데다 남해안의 산지가 공기의 이동을 막아 위로 들어 올리면서 비구름이 더욱 강하게 발달했다. 여기에 27~28도에 달하는 높은 남해 수온까지 더해지면서 폭우의 위력을 키웠다.사흘 만에 여름비 다 내렸다…거제·통영, 관측 이래 최고 강수량17일 거제에는 오후 1시까지 일 강수량 577.4㎜가 기록됐다. 거제 관측</content:encoded>
+    </item>
+    <item>
+      <title>한국형 우주방사선 측정기, 2030년 달 남극 간다…NASA 민간 달 착륙선 탑재</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134489261/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134489261/1</guid>
+      <pubDate>2026-08-17T17:49:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134490529.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국이 독자 개발 중인 ‘달 표면 우주방사선 측정기(LVRAD)’가 미 항공우주국(NASA)의 달 탐사에 투입되는 민간 착륙선에 실려 2030년 달 남극으로 향한다. LVRAD가 수집한 자료는 장기 유인 달 탐사의 주요 위험 요인인 우주방사선이 인체에 미치는 영향을 분석하는 데 활용될 예정이다.우주항공청은 NASA 민간 달 착륙선에 국산 우주방사선 측정기를 탑재하기 위한 이행약정을 14일 체결했다고 17일 밝혔다. 약정에 따라 한국천문연구원이 개발하는 LVRAD는 2027년 실제 우주 비행에 사용할 비행모델로 완성돼 미국으로 보내진다. 이후 미 민간 우주기업 인튜이티브 머신스의 달 착륙선에 탑재돼 2030년 달 남극 표면으로 이송될 예정이다.LVRAD는 달 남극 표면에 도달하는 우주방사선의 투과량과 중성자 환경을 정밀하게 측정한다. 대기가 없는 달 표면은 태양과 은하에서 날아오는 고에너지 입자에 그대로 노출된다. 우주방사선은 인체 세포를 손상시킬 수 있어 장기간 달에 머무는 우주</content:encoded>
+    </item>
+    <item>
+      <title>크래프톤, 게임업계 ‘3N 아성’ 깨고 매출-영업이익 1위로</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134490844/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134490844/2</guid>
+      <pubDate>2026-08-18T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134491919.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;올 1분기 2위에 그쳤던 크래프톤이 국내 게임업계의 오랜 ‘빅3’ 구도를 흔들고 매출 및 영업이익 1위 자리에 올랐다. 올 2분기(4∼6월) 실적에서 기존 1위 넥슨을 제치면서, 넥슨·엔씨(NC)·넷마블로 이어지던 한국 게임업계의 이른바 ‘3N’ 구도를 깬 것이다. 17일 금융감독원 전자공시시스템 및 각 사 실적 자료에 따르면 크래프톤의 올 2분기 매출은 1조2902억 원으로 지난해 2분기 대비 94.9% 증가했다. 영업이익은 4109억 원으로 67% 증가해 역대 2분기 최고 실적을 나타냈다. 영업이익률 역시 크래프톤이 31.8%로 넥슨(25.8%), NC(22.6%), 넷마블(10.7%)을 모두 앞섰다. 매출과 영업이익 모두 전통 강호들을 제치며 분기 기준 1위에 처음 오른 것이다.● 적극적인 해외 공략에 1위 등극크래프톤의 이번 호실적은 적극적인 해외 공략이 가장 큰 원인으로 꼽힌다. 주력 게임인 배틀그라운드의 성장과 함께 해외 이용자들을 중심으로 한 ‘서브노티카 2’의 흥</content:encoded>
+    </item>
+    <item>
+      <title>“AI, 답변 넘어 목표 설정-실행 이끄는 단계로”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134490840/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134490840/2</guid>
+      <pubDate>2026-08-18T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134490431.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“인공지능(AI)이 내놓는 답변을 사람이 다시 가공하던 방식에서 벗어나, 이제는 목표 설정부터 실행까지 전 과정을 AI가 능동적으로 이끄는 단계로 진입했습니다.” 미국 AI 스타트업 ‘젠스파크’의 케이 주 공동창업자 겸 최고기술책임자(CTO·사진)는 14일 서울 서초구 SBVA(옛 소프트뱅크벤처스) 사무실에서 열린 대담에서 이같이 강조했다. 그는 앞으로 AI 업계의 경쟁이 여러 AI 모델을 활용해 실제 업무를 얼마나 잘 수행할 수 있을지에 달려 있다고 예측했다. 젠스파크는 사용자가 일을 맡기면 여러 AI를 활용해 업무를 대신 수행해주는 ‘AI 워크스페이스’ 기업이다. 예를 들어 사용자가 자료 조사를 요청하면 젠스파크 AI 에이전트가 챗GPT, 클로드, 제미나이 등 70개 이상의 최신 AI 모델 중 적합한 것을 골라 사용한 뒤 그 결과를 문서와 발표 자료 등으로 만들어 준다. 주 CTO와 에릭 징 최고경영자(CEO) 등 ‘중국의 구글’로 불리는 바이두 출신들이 주축이 돼 미국에서</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자 사내 커뮤니티 ‘나우톡’ 실명제 전환</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134490721/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134490721/2</guid>
+      <pubDate>2026-08-18T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134491911.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 사내 대표 커뮤니티인 ‘나우톡(NOW Talk)’을 익명제에서 실명제로 전환한다. 건전한 소통 문화 조성을 위해서다. 17일 삼성전자에 따르면 18일 0시부터 나우톡이 기존 익명제에서 전면 실명제로 전환된다. 나우톡은 삼성전자 임직원들이 회사 소식과 정책 등을 공유하는 사내 소통 공간이다. 익명으로 운영됐던 나우톡은 앞으로 게시글과 댓글 모두 작성자 이름이 공개된다. 이번 개편은 지난달 7일 시행된 개정 정보통신망법에 따른 것이다. 개정법은 타인의 인격권 침해와 허위·조작 정보 유통에 대한 손해배상 책임을 명문화했다. 삼성전자는 실명제 도입 취지를 설명하면서 그동안 익명성에 기대 타인을 비방하거나 확인되지 않은 사실을 유포하는 등 사내 소통 문화를 훼손하는 사례가 지속적으로 발생했다고 밝혔다. 특히 나우톡 내 폭언과 비방으로 권리 침해가 나타나면서 최근 고용노동부로부터 ‘직장 내 괴롭힘 개선 지도’를 받기도 했다고 설명했다. 삼성전자는 실명제 도입 취지로 “명예훼손</content:encoded>
+    </item>
+    <item>
+      <title>치매 원인 물질 없애는 치료제 나와… 문제는 年 4000만원 약값</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134490423/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134490423/2</guid>
+      <pubDate>2026-08-18T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134491861.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“아밀로이드 베타 양성입니다.” 불과 3, 4년 전만 해도 의사가 진료실에서 환자에게 이 말을 건네기가 쉽지 않았다. 알츠하이머병을 일으키는 주범으로 꼽히는 아밀로이드 단백질이 뇌에 쌓인 사실을 확인해도, 정작 이를 없앨 치료제가 없었기 때문이다. 하지만 이제는 사정이 달라졌다. 문소영 아주대병원 신경과 교수는 최근 서울 중구 더플라자호텔에서 열린 한국에자이 알츠하이머병 미디어 세션에서 “아밀로이드 양성 판정 뒤 의료진이 쓸 수 있는 치료 수단이 생겼다”고 말했다. 2024년 11월 국내에 출시된 치료제 ‘레켐비(성분명 레카네맙)’가 진료 현장에 자리 잡으면서 나타난 변화다.● 알츠하이머 원인 물질 지우는 첫 약 알츠하이머병은 ‘단백질 쓰레기’로 불리는 아밀로이드 베타가 뇌에서 비정상적으로 뭉치고, 여기에 타우 단백질까지 쌓이면서 신경세포가 파괴되는 퇴행성 질환이다. 이런 변화는 기억력이 떨어지는 등 관련 증상이 뚜렷해지기 최대 20년 전부터 소리 없이 진행된다. 문연실 건국</content:encoded>
+    </item>
+    <item>
+      <title>“운동할 때 나오는 단백질이 ‘치매 조기경보’ 역할 가능”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260817/134490425/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260817/134490425/2</guid>
+      <pubDate>2026-08-18T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134492096.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;운동할 때 근육에서 나오는 단백질이 치매 위험을 알려주는 ‘조기 경보’ 역할을 할 수 있다는 국내 연구 결과가 나왔다. 간단한 채혈만으로 알츠하이머병 위험을 증상이 나타나기 전에 가려낼 길이 열린 것이란 평가가 나온다. 특히 100만 원대에 이르는 고가의 뇌 영상 검사를 보완할 새 진단법으로 이어질지 학계의 관심이 쏠리고 있다. 17일 고려대 구로병원에 따르면 강성훈 신경과 교수 연구팀은 정영희 한림대 평촌성심병원 신경과 교수, 이은성 고려대 구로병원 핵의학과 교수, 김현수 고려대 의대 해부학교실 교수와 공동 연구를 통해 근육 단백질 ‘아이리신(Irisin)’과 알츠하이머병 발병의 연관성을 규명했다. 알츠하이머병은 뇌 속에 ‘아밀로이드 베타’라는 독성 단백질이 비정상적으로 뭉쳐 신경세포를 파괴하고 기억력을 떨어뜨리는 대표적인 퇴행성 뇌 질환이다. 앞서 동물실험에서 아이리신이 아밀로이드 단백질 제거를 촉진한다는 사실이 보고됐지만, 실제 사람을 대상으로 두 물질의 상관관계를 면밀히</content:encoded>
+    </item>
+    <item>
+      <title>사흘간 916㎜ 극한 폭우… 거제 산사태로 1명 숨져</title>
+      <link>https://www.donga.com/news/Society/article/all/20260818/134491951/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260818/134491951/2</guid>
+      <pubDate>2026-08-18T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492263.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;200년에 한 번 내릴 만한 수준의 ‘괴물 폭우’가 광복절 연휴에 남해안 일대를 덮쳤다. 경남 거제에는 평년 여름철 강수량과 맞먹는 폭우가 단 사흘 만에 쏟아졌다. 극한 폭우가 쏟아진 지역에서는 산사태와 침수 피해가 잇따랐다. 17일 기상청에 따르면 이날 거제에서는 오전 1시 32분부터 1시간 동안 124.5mm의 ‘송곳 폭우’가 쏟아졌다. 이날 하루 동안에는 642.6mm의 비가 내렸다. 1972년 거제에서 기상 관측을 시작한 이래 하루 강수량도, 시간당 강수량도 모두 역대 최고 기록이다. 15∼17일 누적 강수량은 916.1mm로, 거제의 평년 여름철 강수량(935.1mm)의 98%가 사흘 동안 집중됐다. 이날 경남 통영에서도 오전 5시 11분부터 1시간 동안 97.4mm의 비가 내렸다. 1968년 기상 관측 이래 가장 많은 양이다. 하루 강수량(454mm)도 최고 기록이다. 이 같은 강도의 비는 거제에서는 200년, 통영에선 100년에 한 번 내릴 수준이라고 기상청은 분석했</content:encoded>
+    </item>
+    <item>
+      <title>“새벽 지진난듯 우르르 소리” 산사태 아파트 1층 천장까지 흙더미</title>
+      <link>https://www.donga.com/news/Society/article/all/20260818/134491959/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260818/134491959/2</guid>
+      <pubDate>2026-08-18T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134491767.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“새벽에 지진이 난 것처럼 집이 흔들렸어요. 침대까지 휘청일 정도였습니다.” 17일 경남 거제시 옥포동 삼도로얄아파트 104동 8층의 한 주민은 “거센 진동에 깨어나 창밖을 내다봤다가 산비탈이 무너진 사실을 알았다”며 이렇게 말했다. 엘리베이터가 멈춘 탓에 계단으로 뛰어 내려가니 1층 일부 가구는 이미 천장까지 토사가 들어차 손을 댈 수 없는 상태였다. 황급히 119에 신고했지만 한 집에 살던 20대 남성은 심정지 상태로 구조됐고 끝내 숨졌다. 옆집에 있던 어린이는 주민들과 소방대원이 토사와 잔해를 치운 뒤 창문으로 가까스로 빼냈고, 어머니도 뒤이어 구조됐다.● 아파트 덮친 토사… 도심은 거대한 물길로17일 거제에 기상 관측을 시작한 이래 가장 많은 600mm가 넘는 비가 쏟아지면서 피해가 속출했다. 이 아파트 주민 최경순 씨(62)는 “오전 4시 20분쯤 ‘우르르’ 돌 쏟아지는 소리에 놀라 밖으로 나왔고, 얼마 지나지 않아 토사와 나무가 건물로 밀려들었다”고 말했다. 날이 밝</content:encoded>
+    </item>
+    <item>
+      <title>수증기 머금은 ‘제자리 저기압’ 물폭탄 뿌려… 남부 오늘도 비</title>
+      <link>https://www.donga.com/news/Society/article/all/20260818/134491957/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260818/134491957/2</guid>
+      <pubDate>2026-08-18T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492261.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;광복절 연휴 동안 남해안을 중심으로 시간당 100mm가 넘는 ‘송곳 폭우’가 쏟아진 것은 한반도 상공을 빠져나가지 못하고 정체된 이른바 ‘제자리 저기압’ 때문이다. 수증기를 잔뜩 머금은 대기가 반시계 방향으로 회전해 해안선과 충돌하면서 남해안과 제주에 기록적인 폭우를 뿌린 것이다. 17일 기상청에 따르면 소멸한 제13호 태풍 ‘돌핀’이 저기압으로 약화돼 광복절 연휴 기간에 한반도 남서쪽으로 접근하면서 전국에 비가 내렸다. 이 저기압은 한반도 동쪽에 버티고 있던 북태평양고기압에 막혀 빠져나가지 못하고 남해안에 특히 많은 비를 뿌렸다. 북반구에서는 저기압이 반시계 방향으로 회전하기 때문에 수증기를 머금은 남풍이 불면서 지형과 충돌하는 남해안과 제주에 집중적으로 비를 쏟아낸 것이다. 여기에다 남해의 해수면 온도가 평년보다 매우 높아 비구름대를 더 강하게 만들었다. 경남 거제(시간당 124.5mm), 통영(97.4mm) 등의 시간당 강수량이 역대 최고 기록을 경신한 배경이다. 주선명</content:encoded>
+    </item>
+    <item>
+      <title>[단독]정통망법 한달, 방미심위 내서도 “심의기준 없어”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260818/134491992/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260818/134491992/2</guid>
+      <pubDate>2026-08-18T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/17/134490802.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;허위조작정보를 악의적으로 유통하면 최대 5배의 배액배상을 청구할 수 있도록 한 정보통신망법 개정안이 시행된 지 한 달이 지났지만 주무기관인 방송미디어통신심의위원회가 아직 혐오 표현 등 불법 정보에 대한 구체적인 심의기준을 마련하지 않았다는 지적이 나온다. 17일 국회 과학기술정보방송통신위원회 소속 국민의힘 박정하 의원이 방미심위로부터 제출받은 회의록에 따르면 방미심위는 노무현 전 대통령을 조롱하거나 비하했다는 지적이 제기된 소셜네트워크서비스(SNS) 게시글 11건을 심사한 뒤 모두 보류 결정을 내렸다. 혐오 표현을 불법 정보로 규정한 정통망법 개정안을 적용할 수 있는지 추가 논의가 필요하다는 이유에서다. 이 과정에서 방미심위 법무팀은 “명확한 심의 기준 없이 개별 구체적인 사안을 판단하기보다는 위원회 차원의 구체적인 심의 기준 정립을 위한 정책적 논의가 선행될 필요가 있다”는 의견을 낸 것으로 나타났다. 특히 다수의 심의위원은 노 전 대통령 관련 SNS 글을 심의하는 과정에서</content:encoded>
+    </item>
+    <item>
+      <title>연휴 마지막날 텅 빈 도심 도로</title>
+      <link>https://www.donga.com/news/Society/article/all/20260818/134492013/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260818/134492013/2</guid>
+      <pubDate>2026-08-18T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134489907.5.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;광복절 연휴 마지막 날인 17일 오전 서울 중구 서울역 일대 도로가 한산한 모습이다. 이날 서울은 한때 내린 소나기로 낮 최고기온이 26도에 그쳤다. 하지만 18일부터 수도권과 충청권 등을 중심으로 습한 무더위가 이어져 체감온도가 최고 33도 안팎까지 오를 것으로 기상청은 전망했다.</content:encoded>
+    </item>
+    <item>
+      <title>정상체중 女 5명중 1명 “나는 비만”… 비만치료제 처방 절반은 2030세대</title>
+      <link>https://www.donga.com/news/Society/article/all/20260818/134492025/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260818/134492025/2</guid>
+      <pubDate>2026-08-18T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492208.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;체중이 정상 범위인 국내 성인 여성 5명 중 1명은 스스로 비만이라고 생각하는 것으로 나타났다. 최근 20, 30대를 중심으로 위고비, 마운자로 같은 주사형 비만치료제 사용이 크게 늘고 있어 오남용에 주의해야 한다는 지적이 나온다.  17일 대한비만학회에 따르면 2022∼2024년 질병관리청의 국민건강영양조사에 참여한 20세 이상의 체형 인식을 분석한 결과, 정상 체중 여성의 18.9%가 자신을 비만으로 인식했다. 정상 체중 남성이 스스로 비만이라고 생각한 비율은 4.1%에 그쳤다. 비만 전 단계에서는 여성의 66.9%, 남성의 31.8%가 자신이 비만이라고 답했다.  특히 젊은 층일수록 스스로를 비만이라고 여기는 비율이 높았다. 20∼39세는 정상 체중의 15.7%, 비만 전 단계의 54.8%가 자신을 비만으로 인식해 전 연령대에서 가장 높았다. 비만학회 진료 지침에 따르면 체질량지수(BMI) 18.5∼22.9는 정상 체중, 23∼24.9는 비만 전 단계, 25 이상은 비만으로</content:encoded>
+    </item>
+    <item>
+      <title>최연수 “방아쇠수지증후군에 단유…약 먹으니 아기 걱정돼”</title>
+      <link>https://www.donga.com/news/Culture/article/all/20260818/134492828/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20260818/134492828/1</guid>
+      <pubDate>2026-08-18T09:07:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/18/134492829.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최연수가 출산 후 방아쇠수지증후군 치료 과정에서 모유 수유를 중단했다고 밝혔다. 약과 파스 사용이 아기에게 영향을 줄까 걱정돼 단유를 결정했다고 설명했다.</content:encoded>
     </item>
   </channel>
 </rss>
