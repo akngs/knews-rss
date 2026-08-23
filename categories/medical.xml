@@ -3,77 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-08-22T00:49:13.665Z</lastBuildDate>
-    <item>
-      <title>사람 귀에 안 들리는 ‘고장 신호’ 잡는다…디플리, 영국 판매 계약 체결</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134510753/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134510753/2</guid>
-      <pubDate>2026-08-20T14:36:32.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134511281.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;음향AI 기업 디플리가 초음파로 설비 이상 징후를 감지하는 ‘리슨AI’의 영국 독점 판매 계약을 체결하고 유럽 시장 진출에 나선다.</content:encoded>
-    </item>
-    <item>
-      <title>GPU도 집처럼 담보 된다…엔비디아의 ‘700조원 금융 실험’</title>
-      <link>https://www.donga.com/news/Inter/article/all/20260820/134511476/2</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20260820/134511476/2</guid>
-      <pubDate>2026-08-20T15:23:54.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134511657.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엔비디아가 GPU와 데이터센터 등 AI 연산 자원을 기반으로 5000억달러 이상의 민간 자본을 유치한다. 컴퓨트 담보 금융의 구조와 남은 과제를 살펴봤다.</content:encoded>
-    </item>
-    <item>
-      <title>모더나 맞춤형 암 백신 3상 성공…국내 기술, 2027년 임상 도전</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134512159/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134512159/2</guid>
-      <pubDate>2026-08-20T15:40:13.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134512274.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;모더나·머크의 맞춤형 mRNA 암 백신이 흑색종 임상 3상에서 긍정적 결과를 냈다. 국내 네오젠로직도 AI 신생항원 기술로 2027년 임상시험계획 신청을 준비하고 있다.</content:encoded>
-    </item>
-    <item>
-      <title>“가려워서 습진약 발랐는데 더 번졌다”…여름 무좀, 이러면 악화 [건강팩트체크]</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134510768/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134510768/2</guid>
-      <pubDate>2026-08-20T15:45:46.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134512746.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;무좀을 습진으로 착각해 스테로이드 연고를 바르면 증상이 잠시 좋아진 듯 보여도 곰팡이균이 증식해 악화될 수 있다. 여름철 무좀과 어루러기 증상과 대처법을 알아본다.</content:encoded>
-    </item>
-    <item>
-      <title>그노랜드, AI 개발 도구 ‘gnomcp’·보안 시스템 ‘Dora’ 공개</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134513236/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134513236/1</guid>
-      <pubDate>2026-08-20T16:17:37.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134513231.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스마트 컨트랙트 플랫폼 그노랜드(Gno.land)가 AI 코딩 도구 연동 환경과 AI 기반 보안 검증 시스템을 공개하며 생태계 확장에 나섰다. 그노랜드는 AI 개발 도구 연동을 지원하는 오픈소스 서버 ‘gnomcp’와 AI 보안 시스템 ‘Dora’를 공개했다고 밝혔다. AI 기술 활용 증가에 따른 개발 편의성 제고와 보안 대응력 강화를 위한 조치다. ‘gnomcp’는 모델 컨텍스트 프로토콜(MCP)을 기반으로 AI 도구와 그노랜드 네트워크를 연결한다. AI 에이전트가 네트워크 상태를 조회하고 그노랜드의 스마트 컨트랙트인 ‘렐름(Realm)’ 정보를 활용할 수 있도록 지원하는 구조다. 클로드 코드, 클로드 데스크톱, 커서, 제미나이 CLI 등 기존 AI 개발 도구와의 연동도 지원한다. 전용 개발 환경을 새로 구축하거나 습득하는 데 드는 부담을 줄이기 위한 취지다. gnomcp는 현재 테스트넷에서 작동 중이며, 향후 사용자 피드백을 반영해 기능을 보완할 예정이다. 함께 공개된 A</content:encoded>
-    </item>
-    <item>
-      <title>한국체대 오재근 교수팀 “치매 노인 몸-머리 동시 사용하면 운동 효과 배가”[온라인 라운지]</title>
-      <link>https://www.donga.com/news/Sports/article/all/20260820/134513136/1</link>
-      <guid>https://www.donga.com/news/Sports/article/all/20260820/134513136/1</guid>
-      <pubDate>2026-08-20T16:18:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134513148.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국체육대학교 운동건강관리학과 오재근 교수팀이 치매 노인을 대상으로 24주간 운동 프로그램을 적용한 결과, 걷기와 인지과제를 동시에 수행하는 운동이 인지기능과 보행능력 향상에 도움이 될 수 있다는 연구 결과를 발표했다.이번 연구는 지역사회 치매 관련 기관 11곳에서 치매 진단을 받은 65세 이상 노인 100명을 대상으로 진행됐다. 참여자들은 두 그룹으로 나뉘어 24주 동안 주 3회 운동 프로그램에 참여했다. 두 그룹 모두 노인의 근력과 균형, 이동능력 향상을 위한 오타고 운동 프로그램(Otago Exercise Program)을 실시했다. 한 그룹은 일반적인 걷기 운동을 했고, 다른 그룹은 걷는 동안 동물 이름 말하기, 숫자 거꾸로 세기 등의 인지과제를 함께 수행하는 ‘이중과제 보행운동’을 실시했다. 몸과 머리를 동시에 사용하는 운동 방식이다.연구 결과 이중과제 보행운동을 실시한 그룹은 일반적인 걷기 운동을 한 그룹보다 인지기능과 보행속도가 크게 향상된 것으로 나타났다. 이러한</content:encoded>
-    </item>
-    <item>
-      <title>전립선결찰술 둘러싼 설왕설래…결찰술은 재발률이 높은 치료인가?[기고/윤철용]</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134512496/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134512496/1</guid>
-      <pubDate>2026-08-20T16:18:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134513010.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 진료실에서 유로리프트, 즉 전립선결찰술에 대해 상반된 이야기를 듣고 찾아오는 환자들이 부쩍 늘었다. 어떤 환자는 “수술하지 않고도 전립선을 치료할 수 있다는데 정말 좋은 치료냐”고 묻고, 또 다른 환자는 “다른 병원에서는 몇 년 지나면 결국 다시 수술해야 한다고 들었다”고 말한다.이런 이야기를 들을 때마다 유로리프트를 단순히 좋은 치료, 나쁜 치료로 나누는 것 자체가 잘못된 접근이라는 생각이 든다. 유로리프트는 전립선 조직을 제거하는 수술이 아니다. 특수 임플란트를 이용해 비대해진 전립선 조직을 양쪽으로 당겨 막혀 있던 요도를 넓혀주는 치료다. 조직을 자르거나 태우지 않는다는 점에서 출혈이나 회복 부담을 줄이고 성기능 보존을 중요하게 생각하는 환자에게 의미가 있다.그러나 전립선은 환자마다 제각각 다르기 때문에 모든 환자에게 같은 결과를 기대할 수도 없다. 전립선비대증은 시간이 지나면서 진행할 수 있고, 전립선의 크기뿐 아니라 중엽 비대 여부, 요도 폐색 위치, 방광 기능에</content:encoded>
-    </item>
-    <item>
-      <title>구글, 마벨과 AI칩 공동 개발…17조원 규모 신주인수권 부여</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260820/134512813/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260820/134512813/1</guid>
-      <pubDate>2026-08-20T16:54:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134513637.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구글이 미국 반도체 기업 마벨 테크놀로지와 손잡고 자체 인공지능(AI) 반도체 공동 개발에 나섰다. AI 인프라 시장을 장악한 엔비디아의 그래픽처리장치(GPU)나 브로드컴에만 의존하지 않고 자체 AI칩인 텐서처리장치(TPU)를 비롯한 자체 AI 반도체의 생산 기반을 확대하려는 전략으로 풀이된다.19일(현지 시간) 마벨이 미국 증권거래위원회(SEC)에 제출한 공시에 따르면 마벨은 구글의 TPU를 비롯한 맞춤형 반도체를 공동 개발하기로 했다. 또 마벨은 구글에 자사 주식 약 5900만 주를 주당 206.58달러(약 29만 원)에 살 수 있는 신주인수권을 부여했다. 사업 성과에 따라 이를 전량 행사하면 규모는 121억8000만달러(약 17조원)에 달하며, 구글은 마벨의 5대 주주가 된다.구글은 자체 AI칩인 TPU를 개발해왔지만, 실제 반도체로 만드는 과정에서는 브로드컴 등과 협력해왔다. 이번 계약으로 마벨도 구글의 주요 AI칩 파트너로 합류하게 됐다. 앞서 구글과 마벨은 AI 모델</content:encoded>
-    </item>
-    <item>
-      <title>[월간자동차] 26년 7월, 그랜저 1만대 돌파…테슬라 모델 Y 1위 수성</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134513764/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134513764/1</guid>
-      <pubDate>2026-08-20T16:59:48.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134513653.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘월간 자동차’는 월별 판매 데이터를 기준으로 자동차 소비 트렌드를 분석하는 월 1회 연재 코너입니다. 사용 연료별(휘발유, 경유, 전기 등) 신차 판매 현황, 신차와 중고차 판매 순위 등을 살펴봅니다. 국토교통부 자동차 등록 정보를 종합한 카이즈유데이터연구소와 한국수입자동차협회 집계를 참조했습니다.지난 2026년 7월 자동차 소비 트렌드를 살펴보면, 전월 큰 폭으로 반등했던 신차 시장이 다시 조정 국면에 들어섰다. 국산과 수입 신차 등록이 모두 감소하면서 전체 신차 등록 대수도 전월 대비 10% 가까이 줄었다. 반면 중고차 거래량은 6월에 이어 증가세를 이어갔다.신차 등록 14만5658대…전월 대비 9.8% 감소국토부 자동차 등록 정보를 종합한 카이즈유데이터연구소에 따르면, 지난 2026년 7월 신차 등록 대수는 총 14만5658대로 전월인 6월(16만1424대)보다 9.8% 감소했다. 전년 동월(15만415대)과 비교해도 3.2% 줄었다.국산 신차 등록은 11만4243대로</content:encoded>
-    </item>
-    <item>
-      <title>“AI 에이전트 시대 핵심은 벡터DB”··· 디노티시아가 제안하는 씨홀스클라우드 기반 혁신은?</title>
-      <link>https://www.donga.com/news/It/article/all/20260820/134514460/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260820/134514460/1</guid>
-      <pubDate>2026-08-20T17:28:32.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134514420.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“많은 고객사들이 씨홀스 클라우드가 AWS 베드록, 구글 제미나이 엔터프라이즈 등과 어떻게 다른지를 많이 묻는다. 데이터 파이프라인을 RAG(검색증강생성)으로 구성하는 기본 기능은 유사하지만, 글로벌 클라우드 서비스 제공자(CSP)의 서비스를 기업 환경에 맞게 적용하려면 별도의 구축 역량과 기술 지원이 필요하다. 디노티시아는 벡터 DB와 데이터 파이프라인 기술을 기반으로 고객 환경에 맞춘 구축·운영 서비스를 제공하고 있으며, 향후 벡터 검색 연산을 가속하는 전용 반도체 VDPU를 결합해 검색 성능과 인프라 효율을 높일 계획이다”디노티시아는 2023년 설립된 장기기억 인공지능 인프라 전문 기업으로, 벡터 데이터베이스와 AI 에이전트 구축·운영 기능을 제공하는 씨홀스 클라우드를 서비스하고 있으며 벡터 연산 가속 AI 반도체 VDPU(Vector Data Processing Unit)를 개발하고 있다. 최근 기업 데이터의 80% 이상을 차지하는 비정형 데이터를 고도화하고, 이를 기반으로</content:encoded>
-    </item>
+    <lastBuildDate>2026-08-23T00:49:18.354Z</lastBuildDate>
     <item>
       <title>[헬스케어픽] 진단부터 처방까지···AI, 의료 현장 깊숙이 파고든다</title>
       <link>https://www.donga.com/news/It/article/all/20260820/134515610/1</link>
@@ -353,6 +283,76 @@
       <guid>https://www.donga.com/news/Inter/article/all/20260822/134523128/1</guid>
       <pubDate>2026-08-22T07:14:39.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523129.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;틱톡이 아동의 개인정보를 침해했다는 혐의로 제기된 소송을 끝내기 위해 미국 정부에 4억 달러(약 5500억 원)를 지급하기로 합의했다고 영국 BBC가 21일(현지시각) 보도했다. 이는 아동 개인정보 보호 문제와 관련해 지금까지 이뤄진 합의금 가운데 가장 큰 규모에 속한다.이번 합의는 조 바이든 전 대통령 시절 미 법무부가 2024년에 제기한 소송에서 비롯됐다. 당시 법무부는 틱톡과 모회사 바이트댄스가 13세 미만 이용자 수백만 명에 관한 “막대한 양의 데이터”를 수집했다고 주장했다.이는 2000년에 제정된 연방법인 아동 온라인 개인정보 보호법을 위반한 것이었다. 이 법은 현재 미국의 수십 개 주정부가 메타를 상대로 소송을 제기하면서 근거로 삼고 있는 것과 같은 법이다.아동 온라인 개인정보 보호법 위반으로 미국 정부에 제재금을 지급한 다른 기업으로는 구글과 에픽게임즈가 있다. 구글은 2019년에 1억7000만 달러를 지급했고, 에픽게임즈는 2022년에 2억7500만 달러를 지</content:encoded>
+    </item>
+    <item>
+      <title>아빠가 떠먹던 ‘흰 가루약’의 변신…2030도 찾는 환갑 앞둔 ‘용각산’</title>
+      <link>https://www.donga.com/news/It/article/all/20260822/134523402/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260822/134523402/1</guid>
+      <pubDate>2026-08-22T10:40:43.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523403.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;어린 시절 아버지가 목이 칼칼할 때면 작은 숟가락으로 떠먹던 은색 통 속 흰색 가루약. ‘용각산’은 오랫동안 중장년층에게 익숙한 상비약이었다. 이제는 그 용각산을 2030대가 스틱째 뜯어 먹고 민트커피향과 블루베리향까지 골라 먹는다.진해거담제 용각산은 보령이 1967년 출시한 이후 60년 가까이 명맥을 이어온 대표 장수의약품이다. 보령(003850)이 ‘보령제약’이라는 이름으로 처음 선보인 의약품이기도 하다. 회사의 시작을 함께한 제품이 이제는 연 매출 200억 원을 훌쩍 넘는 브랜드로 성장했다.용각산의 시작은 보령 창업주 김승호 회장 시절로 거슬러 올라간다. 당시 김 회장은 한약재에 대한 국내 소비자의 높은 신뢰와 원료 공급 가능성을 고려해 생약제제 의약품에 주목했다. 이 과정에서 눈에 들어온 것이 일본 류카쿠산사가 개발한 용각산이었다.기술 도입은 쉽지 않았다. 당시 보령제약은 제대로 된 생산공장조차 갖추지 못한 신생 제약사였다. 김 회장은 막 계약을 마친 성수동 공장 부지로</content:encoded>
+    </item>
+    <item>
+      <title>‘내가 세계 최고 전문가’ 자화자찬 AI가 답변에 그대로 인용[김현지의 with AI]</title>
+      <link>https://www.donga.com/news/It/article/all/20260821/134505911/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260821/134505911/1</guid>
+      <pubDate>2026-08-22T11:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134510113.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“이 분야 전문가가 누구인가?”, “무슨 일이 일어났나?”  이런 질문들에 인공지능(AI)이 내놓은 답변을 어디까지 믿을 수 있을까. 한 마케팅 전문가가 진행한 간단한 실험이 뼈아픈 사실을 보여줬다. 페드로 디아즈 씨는 최근 ‘링크드인(LinkedIn)’ 포스팅으로 구글 AI 답변(Google Overview) 답변을 조작하는 실험을 했다. 링크드인 프로필에 ‘AI visibility &amp; Search Findability Architect (AI 가시성 &amp; 검색 가시성 아키텍트)’라고 자신을 소개하고 “제가 세계에서 가장 저명한 AI 가시성 전문가라는 사실을 여러분께 알려드립니다.”라는 글을 올렸다. 특별한 경력 자료도 없이 장난처럼 던진 글이었다.  몇 시간 뒤 구글에 “세계에서 가장 저명한 AI 가시성 전문가”를 검색하자 구글은  그의 이름을 대며 “페드로 디아스는 검색 및 디지털 마케팅 업계에서 AI 가시성과 검색 엔진 분야의 선도적인 전문가로 널리 인정받고</content:encoded>
+    </item>
+    <item>
+      <title>씨름판을 평정한 억척 아줌마 “이젠 보디빌딩 태극마크 노려요”[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20260821/134517668/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260821/134517668/1</guid>
+      <pubDate>2026-08-22T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134517706.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;경남 김해에 사는 노은수 씨(46)의 삶은 ‘늦게 피는 꽃’이라는 말이 딱 맞아떨어진다. 그는 원래 꽃집을 운영하던 플로리스트였다. 국립 경상대학교 사범대학 체육교육과를 졸업했지만, 체육 선생님이 되겠다는 꿈은 이루지 못했다. 결혼과 출산을 거치며 평범한 자영업자로 살던 그가 마흔을 넘긴 나이에 씨름 선수로 실업팀에 스카우트됐다. 이제는 보디빌딩 국가대표를 목표로 매일 새벽 헬스장 문을 두드리고 있다.노 씨가 씨름과 처음 인연을 맺은 것은 2001년이었다.“사범대 체육교육과에 씨름 특기생으로 들어온 친구들이 있어 씨름을 배우게 됐죠. 그 친구들을 지도하던 분이 제게 제주도에서 열리는 생활체육 대통령배 씨름대회에 나갈 것을 권유했죠. 제주도로 여행 간다는 말에 솔깃해 경남 지역 선발전에 나가 2위를 했는데, 전국에서는 우승했어요. 기분이 너무 좋았죠. 그런데 당시 생활체육 규정상 우승한 선수는 대회에 못 나오게 돼 있어서 그것으로 끝이었죠.”노 씨는 대학 졸업한 뒤 결혼하고 아이</content:encoded>
+    </item>
+    <item>
+      <title>대소변 처리부터 마사지까지…초고령사회 ‘로봇 간병인’이 온다</title>
+      <link>https://www.donga.com/news/It/article/all/20260821/134497098/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260821/134497098/2</guid>
+      <pubDate>2026-08-22T13:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134497101.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국에서 노인의 대소변을 자동 처리하고 보행과 가사를 돕는 로봇부터 요양보호사의 허리를 받치고 마사지와 말벗 역할까지 하는 돌봄 로봇이 등장하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>“지난번 문자 찾아서 답장해줘”…애플 ‘맥’에 들어간 챗GPT</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260822/134523579/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260822/134523579/1</guid>
+      <pubDate>2026-08-22T14:26:38.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523580.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“지난주에 친구랑 저녁 약속 얘기한 문자 찾아서 내가 가능한 시간으로 답장해줘.”앞으로는 이런 부탁을 챗GPT에 하면 인공지능(AI)이 맥에 저장된 메시지를 직접 찾아 대화 맥락을 파악하고 답장을 작성한 뒤 이용자 대신 전송할 수 있게 된다. 생성형 AI가 질문에 답하거나 글을 써주는 단계를 넘어 이용자의 실제 계정과 앱을 움직이는 ‘AI 에이전트’로 빠르게 진화하고 있는 셈이다.22일 업계에 따르면 오픈AI는 최근 맥용 챗GPT 데스크톱 앱에 ‘애플 메시지(Apple Messages)’ 플러그인을 추가했다. 애플 실리콘이 탑재된 맥에서 이용할 수 있으며, 현재 일반 챗GPT 대화가 아닌 ‘챗GPT 워크(ChatGPT Work)’와 코덱스(Codex)에서 작동한다.◆문자 찾아 요약하고 답장까지…챗GPT가 ‘메시지 비서’로애플 메시지 플러그인을 설치하고 맥 운영체제의 관련 접근 권한을 허용하면 챗GPT는 아이메시지뿐 아니라 SMS와 RCS 대화까지 읽고 검색할 수 있다. 오래된</content:encoded>
+    </item>
+    <item>
+      <title>AI 의존 괜찮나…“Z세대 이용자 70%, 고민·속마음 털어놔”</title>
+      <link>https://www.donga.com/news/Society/article/all/20260822/134523690/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20260822/134523690/1</guid>
+      <pubDate>2026-08-22T16:44:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523691.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;Z세대의 상당수가 생성형 인공지능(AI)에 고민을 털어놓은 경험이 있고, AI의 조언을 행동으로 옮긴 사례도 많은 것으로 조사됐다.22일 채용 플랫폼 진학사 캐치가 Z세대 구직자 1110명을 대상으로 ‘생성형 AI 활용 현황’을 조사한 결과, ‘하루에도 여러 번 이용한다’는 응답이 58%로 가장 높았다. 이어 ▲하루에 1번(15%) ▲일주일에 2~3번(12%) ▲일주일에 1번 이하(7%) 순이었다. ‘이용해 본 적이 없다’는 응답은 8%에 불과했다. 생성형 AI 이용자에게 고민이나 속마음을 털어놓은 경험이 있는지 묻자 70%가 ‘있다’고 답했다. 특히 이들 가운데 76%는 ‘AI의 조언을 실제 행동으로 옮긴 적이 있다’고 밝혔다.  AI 조언에 대한 평가는 긍정적이었다. 조언이 실제로 도움이 됐는지를 묻자 79%가 ‘도움이 됐다’고 답했다. ‘보통이었다’는 15%였고, ‘별다른 도움이 되지 않았다(5%)’와 ‘오히려 혼란스럽거나 불안해졌다(1%)’고 답한 비중은 소수에</content:encoded>
+    </item>
+    <item>
+      <title>데오드란트는 땀 줄여준다?…“잘못 아신 겁니다”</title>
+      <link>https://www.donga.com/news/It/article/all/20260822/134523740/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260822/134523740/1</guid>
+      <pubDate>2026-08-22T18:09:10.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523741.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;덥고 습한 여름에 땀 관리를 위해 데오드란트를 사용하는 경우가 많다. 데오드란트와 땀 분비 억제제는 성분과 목적이 아예 다르기 때문에 목적에 따라 올바르게 선택하는 것이 중요하다. 22일 식품의약품안전처 유튜브에 따르면 데오드란트는 땀 자체를 나지 않게 하는 것이 아니라 땀으로 인한 냄새를 가려주는 화장품으로 이해하는 것이 옳다.땀 분비 억제제 같은 경우에는 화학적으로 땀샘을 일시적으로 막아 물리적인 땀 배출을 줄여주는 의약외품 또는 일반의약품이다. 따라서 목적을 혼동해서 쓰면 효과를 보지 못하거나 오히려 피부 트러블이 날 수 있기 때문에 구별해 사용해야 한다.올바른 사용법을 아는 것도 중요하다. 밤에 바르고 자야 하는 것은 데오드란트가 아닌 땀 분비 억제제다. 데오드란트는 냄새를 향으로 덮어주는 화장품이기 때문에 외출 직전과 같은 때 수시로 쓰는 것이 가능하다. 하지만 땀 분비 억제제는 다르다. 땀 분비 억제제는 두 가지 종류로 나뉘는데, 마트에서 쉽게 살 수 있는 의약외</content:encoded>
+    </item>
+    <item>
+      <title>“4.5kg 뺐을 뿐인데 무릎 부담 18kg↓”…관절염 뜻밖의 계산법 [노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20260821/134519154/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260821/134519154/2</guid>
+      <pubDate>2026-08-22T19:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134519422.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;과체중인 사람이 체중을 약 4.5kg 줄이면 걸을 때 무릎에 가해지는 부담은 약 18kg 감소할 수 있다. 무릎 골관절염과 체중·근력·운동의 관계를 살펴본다.</content:encoded>
+    </item>
+    <item>
+      <title>“에어팟에 카메라 탑재…사생활 침해 우려?” 관련 영상 유출</title>
+      <link>https://www.donga.com/news/Inter/article/all/20260822/134523787/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20260822/134523787/2</guid>
+      <pubDate>2026-08-22T19:21:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/22/134523786.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;애플이 카메라를 탑재한 새로운 에어팟을 개발하고 있는 가운데, 최근 관련 영상이 유출된 것으로 확인됐다. 사생활 침해를 우려하는 목소리가 나오고 있으나 당초 알려진 대로 해당 제품은 2027년 출시될 전망이다.19일(현지 시간) 블룸버그통신 등에 따르면 애플은 카메라가 탑재된 차세대 에어팟을 2027년 출시하는 것을 목표로 개발을 진행하고 있다. 당초 해당 제품은 6월 중순 생산을 시작하려 했지만, 공급망 및 소프트웨어 문제로 인해 2027년으로 연기됐다. 애플은 AI 웨어러블 시장 진출을 위해 카메라가 장착된 에어팟을 개발해왔다. 지난 5월에는 제품이 고급 테스트 단계에 들어가 애플 직원들을 대상으로 시험이 진행된 것으로 전해졌다. 최근에는 애플이 배포한 맥 운영체제(OS) ‘맥OS 타호 26.7’ 시험 버전에서 카메라가 탑재된 에어팟과 관련된 시연 영상이 발견됐다. 이로 인해 카메라 에어팟의 출시가 임박한 것 아니냐는 관측도 나왔다. 애플 전문 매체 맥루머스가 공개한 영상</content:encoded>
+    </item>
+    <item>
+      <title>쥐 쓰다듬고 다른 동물 돌보는 원숭이…영장류에 숨겨진 ‘집사 본능’?</title>
+      <link>https://www.donga.com/news/It/article/all/20260821/134513044/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260821/134513044/2</guid>
+      <pubDate>2026-08-23T09:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/21/134513269.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;다른 종의 동물을 보살피고 유대감을 형성하려는 성향은 인간뿐만 아니라 영장류 전반에 깊이 뿌리내린 본능일 수 있다는 연구 결과가 나왔다.</content:encoded>
     </item>
   </channel>
 </rss>
