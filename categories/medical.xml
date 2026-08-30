@@ -3,28 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-08-29T04:58:34.384Z</lastBuildDate>
-    <item>
-      <title>[주간스타트업동향] 마키나락스, 삼성디스플레이 베트남 공장에 ‘AI 제어 최적화’ 협력 外</title>
-      <link>https://www.donga.com/news/It/article/all/20260827/134558879/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260827/134558879/1</guid>
-      <pubDate>2026-08-27T17:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/27/134558842.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;스타트업이 선보인 새 상품이나 서비스, 인사와 수상, 행사 참여와 간담회 개최 소식 등 최신 동정을 한 눈에 보기 쉽게 전해드립니다.마키나락스, 삼성디스플레이 베트남 공장에 ‘AI 제어 최적화’ 협력…“양산 라인 목전”피지컬 AI 기업 마키나락스(대표 윤성호)가 삼성디스플레이 베트남 공장의 설비 제어 최적화를 위한 협력에 나선다고 8월 26일 밝혔다. 상반기 완료된 개념검증(PoC) 성과를 바탕으로 연내 실제 양산 라인에 솔루션을 적용하는 것이 목표다.제조 설비는 ‘제어기(PLC)’라 불리는 소형 컴퓨터의 명령으로 움직이는데, 공정 변경과 신제품 대응이 반복되면서 수십 년간 쌓인 명령 코드가 정해진 PLC 메모리 용량의 한계에 부딪히는 경우가 많다. 새로운 기능이나 대형언어모델(LLM) 기반 연산을 처리할 공간이 부족해지는 셈이다. 이를 해결하려면 통상 설비나 라인 자체를 재구성해야 해 공장 가동을 멈춰야 하는 부담이 따른다. 마키나락스는 LLM이 코드 전체를 분석해 과거 공정</content:encoded>
-    </item>
-    <item>
-      <title>[SBA x IT동아] 매일새옷 “동네 세탁소와 상생하는 동반성장 플랫폼”</title>
-      <link>https://www.donga.com/news/It/article/all/20260827/134558936/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260827/134558936/1</guid>
-      <pubDate>2026-08-27T17:44:23.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/27/134558900.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[SBA x IT동아 공동기획] 서울특별시와 서울경제진흥원(SBA)이 마련한 서울창업허브 공덕은 유망 스타트업을 발굴, 초기 창업부터 성장기까지 단계별 프로그램을 지원해 육성합니다. 2026년 두드러진 활동을 펼친, 성장 가능성이 높은 유망 스타트업을 소개합니다.최근 대형 자본을 앞세운 비대면 세탁 서비스들이 늘고 있지만, 이 과정에서 동네 세탁소들은 오히려 설 자리를 잃는 경우가 많다. 대규모 공장을 짓고 수거·배달까지 직접 챙기는 방식이다 보니, 정작 골목 상권의 세탁소 사장님들과는 경쟁 관계가 되기 쉽다. 안 그래도 경기 둔화로 손님이 줄어든 소상공인 입장에서는 반갑지 않은 흐름이다.‘매일새옷(대표 서동광)’은 이런 흐름과 반대의 길을 택한 스타트업이다. 2003년부터 이어온 세탁업 ERP 사업의 데이터와 노하우를 바탕으로, 전국의 동네 세탁소들과 손잡고 비대면 문 앞 세탁 서비스를 제공하는 상생형 플랫폼 ‘매일새옷’을 운영하고 있다. 취재진은 서울 마포구 서울창업허브 공덕</content:encoded>
-    </item>
-    <item>
-      <title>[AI써봄] 챗GPT 품은 카카오톡, 이미지 재생성 기능 어떤 모습일까</title>
-      <link>https://www.donga.com/news/It/article/all/20260827/134558975/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260827/134558975/1</guid>
-      <pubDate>2026-08-27T17:50:41.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/27/134558950.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;※ 인공지능이 세상을 바꿉니다. IT동아 기자들이 만난 최신 인공지능 서비스와 기능을 독자들도 쉽게 접하도록 풀어서 알려드립니다.“카카오톡에서 주고받은 사진을 인공지능(AI)으로 재생성해준다고?”생성형 AI가 발전하면서 사진 한 장을 애니메이션, 일러스트, 심지어 이모티콘으로 바꿔주는 서비스는 이제 더 이상 낯설지 않다. 하지만 이런 기능이 별도 AI 전문 앱이 아니라 매일 쓰는 카카오톡 안에 들어왔다면 이야기가 달라진다.카카오는 7월 15일 보도자료를 통해 “이용자 편의를 위한 다양한 기능을 담아 카카오톡 6차 정기 업데이트(v26.6.0)를 진행했다”고 밝혔다. 이번 업데이트에는 채팅방별 메시지 요약, ‘챗GPT 포 카카오(ChatGPT for Kakao)’ PC 버전 확대, 오픈채팅 챗봇(beta) 등 다양 한 AI 편의 기능이 포함됐다.이 가운데 가장 눈에 띄는 것은 카카오톡 채팅방에서 주고받은 사진을 챗GPT 이미지 2.0으로 재생성해주는 기능이다. 별도 앱 설치나</content:encoded>
-    </item>
+    <lastBuildDate>2026-08-30T02:37:05.406Z</lastBuildDate>
     <item>
       <title>‘인생 첫 1000일’ 설탕 섭취가 평생 건강 좌우 [노화설계]</title>
       <link>https://www.donga.com/news/It/article/all/20260827/134558610/2</link>
@@ -351,8 +330,29 @@
       <title>명소와 문화 탐험하고 상금·경품 찾고…트레저헌터 in 진안 개막</title>
       <link>https://www.donga.com/news/It/article/all/20260829/134567822/1</link>
       <guid>https://www.donga.com/news/It/article/all/20260829/134567822/1</guid>
-      <pubDate>2026-08-29T13:19:23.000Z</pubDate>
+      <pubDate>2026-08-29T13:19:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/29/134567820.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전라북도 진안군(이하 진안군)과 한국수자원공사가 주최하고 동아일보와 퓨잇이 주관한 지역 탐방형 보물찾기 축제 ‘트레저헌터 in 진안’의 막이 열렸다. 진안군과 관계사, 트레저헌터(참가자)들은 8월 29일 전북 진안 마이산 북부관광단지 광장에서 출정식을 열고 트레저헌터 in 진안 개막을 알렸다.트레저헌터 in 진안은 한국수자원공사와 관계사들이 ‘댐 로컬브랜딩(댐 주변 수변 공간과 문화·관광 자원을 융합, 사람들이 체험하고 즐기며 체류하도록 이끄는 지역 상생 행사) 사업’의 일환으로 마련한 행사다. 주최측은 ▲마이산 북부 관광 단지 ▲금당사와 마이산 탑사 ▲용담 댐 조각공원과 가족테마공원 ▲운일암반일암과 주천생태공원 등 진안군 명소 일곱 곳의 역사를 토대로 다양한 관광 콘텐츠를 만들어 소개하는 한편, 곳곳에 구슬 모양의 실물 여의주(출정식 직후 1000개, 매 주 1000개씩 총 3000개)를 숨겼다.참가자들은 퓨잇의 로컬브랜딩 앱 로컬바이브에서 헌터 패스를 구입하고, 진안군 명소</content:encoded>
+    </item>
+    <item>
+      <title>AI가 일자리 대체하면 세금도 ‘휘청’…美 세수 최대 25% 줄 수도</title>
+      <link>https://www.donga.com/news/It/article/all/20260828/134564534/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260828/134564534/2</guid>
+      <pubDate>2026-08-29T14:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/28/134565122.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI가 노동 10%만 대체해도 미국 연방세수가 최대 4분의 1까지 줄어들 수 있다는 RAND 분석 결과가 나왔다</content:encoded>
+    </item>
+    <item>
+      <title>100세 이상 장수하는 최고 비결은 소식(小食)</title>
+      <link>https://www.donga.com/news/It/article/all/20260830/134568476/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260830/134568476/1</guid>
+      <pubDate>2026-08-30T08:11:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/30/134568472.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“노화는 해결 가능성이 매우 높은 문제다.”1월 일론 머스크 테슬라 최고경영자(CEO)가 스위스 다보스에서 열린 세계경제포럼(WEF)에 참석해 한 말이다. 샘 올트먼 오픈AI CEO는 2022년 바이오 스타트업 ‘레트로 바이오사이언스’에 1억8000만 달러(약 2500억 원)를 투자하며 “인간 수명을 10년 연장하겠다”고 선언했다. 제프 베이조스 아마존 창업자는 2021년 역노화(逆老化·Reverse Aging)를 목표로 한 스타트업 ‘알토스 랩스’에 투자했다. 역노화는 노화를 지연하는 항노화(抗老化·Anti-Aging)보다 한 단계 더 발전한 개념이다. 불로장생이라는 인간의 오랜 꿈은 이뤄질까.100세 이상 고령자 술·담배 안 했다8604명. 지난해 11월 1일 기준 국내 만 100세 이상 인구수다(그래프1 참조). 2015년(3159명) 대비 10년 만에 2.7배로 늘었다. 인구 10만 명당 100세 이상 고령자는 같은 기간 6.4명에서 17.3명으로 증가했다. 지난해 최고</content:encoded>
+    </item>
+    <item>
+      <title>29CM, 고객 정보 15만9000건 유출…배송정보 포함 2만건</title>
+      <link>https://www.donga.com/news/It/article/all/20260830/134568992/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260830/134568992/1</guid>
+      <pubDate>2026-08-30T10:45:26.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/30/134568993.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;무신사가 운영하는 패션·라이프스타일 플랫폼 29CM에서 15만9000여건의 고객 개인정보가 유출됐다. 30일 29CM는 홈페이지 공지를 통해 지난 27일 주문정보를 조회하는 연동 기능(API)에 외부의 비정상적인 접근이 발생해 일부 고객의 개인정보가 유출된 사실을 확인했다고 밝혔다.이름만 유출된 경우가 13만8841건, 이름과 이메일주소, 휴대전화번호, 배송정보가 함께 유출된 경우가 2만1011건이다.29CM는 문제를 확인한 즉시 해당 접근 경로를 차단하고 한국인터넷진흥원(KISA)에 개인정보 유출 사실을 자진 신고했다고 밝혔다.또 개인정보가 유출된 고객에게는 구체적인 유출 항목과 2차 피해 예방을 안내했다고 설명했다. 구체적인 유출 내역을 확인할 수 있는 페이지도 30일간 운영한다.29CM는 “결제정보와 아이디·비밀번호 등 고객 계정정보는 유출 항목에 포함되지 않았으며 안전하게 보호되고 있다”고 밝혔다.그러면서도 “일부 개인정보가 유출된 만큼 이를 악용한 2차 피해가 발</content:encoded>
     </item>
   </channel>
 </rss>
