@@ -1,16 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>미디어오늘 - 경제</title>
-    <link>https://www.mediatoday.co.kr/rss/S1N3.xml</link>
-    <description>미디어오늘 - 경제</description>
-    <lastBuildDate>2026-09-03T02:13:09.449Z</lastBuildDate>
-    <item>
-      <title>선관위의 심각한 부실 비판하되 음모론은 배격해야</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=335123</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=335123</guid>
-      <pubDate>2026-06-13T08:44:45.000Z</pubDate>
-      <content:encoded>중앙선거관리위원회의 부실한 선거관리 행태는 더 이상 방치할 수 없는 수준에 이르렀다. 6·3 전국동시지방선거와 국회의원 재보궐 선거의 ‘투표용지 부족 사태’로 인해 이 기관이 아무런 감시와 견제 없이는 더 이상 제대로 역할을 수행하기 어렵다는 사실이 자명하게 드러났다. 이미 밝혀진 내용만 봐도 ‘총체적 난국’이라는 표현도 모자랄 지경이다. 특히 투표 당일인 지난 3일 오전 11시경 이미 서울시 선거관리위원회가 투표용지 부족이 우려된다는 보고를 받았음에도 이에 따른 대책을 마련하지 않았다는 건 심각한 문제다. 사전에 투표 용지의 인쇄</content:encoded>
-    </item>
+    <title>미디어오늘 - IT</title>
+    <link>https://www.mediatoday.co.kr/rss/S1N7.xml</link>
+    <description>미디어오늘 - IT</description>
+    <lastBuildDate>2026-09-04T02:09:52.238Z</lastBuildDate>
     <item>
       <title>유튜브로 뉴스 보는 나라의 ‘저널리즘’</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=335255</link>
@@ -220,20 +213,6 @@
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336037</guid>
       <pubDate>2026-07-26T21:00:00.000Z</pubDate>
       <content:encoded>미국 도널드 트럼프 행정부가 전용기 보안 문제를 검증하는 보도를 낸 뉴욕타임스(NYT) 기자와 가족의 통화기록, 대배심 출석을 요구하는 소환장을 발부했다가 연방 재판부의 경고 끝에 철회했다.NYT 등에 따르면 미국 법무부는 지난 23일(현지 시간) 도널드 트럼프 대통령이 카타르로부터 기증받은 전용기 보안 기능 문제에 대해 보도한 NYT 기자들의 통화 기록과 대배심 증언을 요구하는 소환장을 철회했다.정부 조치는 이날 뉴욕 맨해튼 미 연방지방법원 재판부가 심리에서 법무부 측을 상대로 기자 소환장 발부에 대해 “가장 먼저 해야 할 일이</content:encoded>
-    </item>
-    <item>
-      <title>“뉴스 크롤러, 신원과 목적 밝혀라” 과징금까지 예고한 미국</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336047</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336047</guid>
-      <pubDate>2026-07-27T12:11:32.000Z</pubDate>
-      <content:encoded>언론사 홈페이지에 접속해 뉴스 콘텐츠를 학습하는 웹 크롤러(정보 수집 로봇 프로그램)를 규제하는 법안이 미국에서 등장했다. 한국언론진흥재단 미디어연구센터가 최근 발행한 ‘미디어브리프’에 따르면 미국 뉴욕주 의회에선 지난 6월 일명 ‘스텔스 크롤러 금지 법안’(Stealth Crawler Prohibition Act)으로 불리는 일반사업자법 개정안이 통과됐다. 뉴스 콘텐츠에 접근하는 크롤러의 신원과 이용 목적을 공개하도록 강제하고 이를 숨긴 크롤러가 언론사에 손해를 입힌 경우 과징금을 물리는 법안으로, AI시대 웹 크롤링의 투명성에</content:encoded>
-    </item>
-    <item>
-      <title>포털 다음 운영 AXZ, 업스테이지 인수 2개월 만에 사명 ‘다음’으로 변경</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336065</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336065</guid>
-      <pubDate>2026-07-28T11:44:50.000Z</pubDate>
-      <content:encoded>포털 다음(Daum) 서비스를 운영하는 주식회사 에이엑스지(AXZ, 대표 이건수)가 회사명을 ‘주식회사 다음’(다음)으로 변경한다고 밝혔다. 앞서 지난 5월 포털 다음을 운영하는 AXZ는 AI 기업 업스테이지가 100% 지분을 인수했다. 이후 2개월 뒤 다음은 곧바로 AI 요약 베타서비스를 시행하고 있다.AXZ는 지난 20일 개최한 임시주주총회에서 ‘주식회사 다음’으로의 사명 변경을 의결했다고 27일 밝혔다.AXZ는 “이번 사명 변경은 회사와 대표 서비스의 브랜드를 일치시켜 기업 정체성을 명확히 하고, 다음 포털 이용자 및 파트너와</content:encoded>
     </item>
     <item>
       <title>오픈AI, 지역 저널리즘 지원 확대… 2년 간 800만 달러 추가 지원</title>
@@ -670,116 +649,11 @@
       <content:encoded>뉴욕타임스(NYT)가 50년 만에 명예훼손 소송에서 패소했다.NYT는 지난 20일(현지시간) &lt;뉴욕타임스, 앨라배마주에서 명예훼손 소송에서 패소&gt; 기사를 내고 “8명으로 구성된 앨라배마주 배심원단은 앨라배마 북부 연방지방법원에서 9일간 진행된 재판 끝에 925만 달러(약 127억 원)의 손해배상금을 NYT에 선고했다”고 보도했다.NYT는 2023년 1월 터스컬루사(앨라배마주 도시)에서 발생한 총격 사고를 다루며 앨라배마대 농구선수 카이 스피어스가 사고 현장에 있었던 차량의 동승자였다고 보도했다. 해당 차량과 관련된 앨라배마대 농구선</content:encoded>
     </item>
     <item>
-      <title>김승원 지명에 “李 공소취소, 사법리스크 덜어주는 수단” 정의당도 비판</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336784</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336784</guid>
-      <pubDate>2026-08-30T19:57:23.000Z</pubDate>
-      <content:encoded>이재명 대통령이 법무부장관 등 6개 부처 장관에 대한 개각 인선을 발표한 것을 두고 쇄신의미도 떨어지고 ‘공소취소모임’ 공동대표를 법무부장관 후보로 지명했다는 점에서 공소취소 추진 가능성에 대한 우려도 나왔다. 청와대가 공소취소를 하라고 김 후보자를 내정한건가라는 반문이 검찰 내에서도 나온 것으로 알려졌다. 정의당 대표도 대통령에 불리한 사건을 정리하고 사법리스크를 덜어주기 위한 인선이라고 비판했다.이 대통령은 휴일인 30일 오전 경제부총리 겸 재정경제부 장관 이형일 재경부 1차관을, 법무부장관 후보에 김승원 더불어민주당 의원(법사</content:encoded>
-    </item>
-    <item>
-      <title>김어준과 경쟁? 김민석 “민주당TV 교과서, 타미디어는 학습지” 봉지욱 “한심”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336785</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336785</guid>
-      <pubDate>2026-08-30T22:04:08.000Z</pubDate>
-      <content:encoded>김민석 더불어민주당 대표가 새로 출범시키겠다는 민주당TV와 다른 미디어의 성격을 두고 “민티(민주당티비)는 교과서, 다른 미디어는 학습지라고 할까”라고 규정했다. 민주당은 김어준의 겸손은힘들다 뉴스공장이 방송되는 같은 시간대에 방송하겠다고 밝혔다. 봉지욱 기자는 민주당TV를 두고 “그게 되겠냐”, “인식 자체가 한심하다”라고 혹평했다. 국민의힘은 이 방송을 민주당의 관제방송국이라고 비판했다.김민석 대표는 30일 페이스북에 “민티(민주당티비)는 기조방송, 즉 민주당과 개혁진영의 공식적 정무정책기조 및 국정홍보의 기조를 잡는 민주당 공</content:encoded>
-    </item>
-    <item>
-      <title>김어준 “김경수 정무특보 발탁, 李대통령의 차기 대선 후보군 관리 일환”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336790</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336790</guid>
-      <pubDate>2026-08-31T12:15:02.000Z</pubDate>
-      <content:encoded>김어준 ‘김어준의 겸손은 힘들다 뉴스공장’ 진행자가 김경수 더불어민주당 정당개혁추진단장을 대통령 정무특별보좌관(정무특보)에 임명한 것을 두고 “차기 대선 후보군 관리 일환”이라고 했다. 앞서 김 진행자는 김민석 민주당 대표의 총리시절, 강훈식 대통령비서실장이 해외를 방문한 것을 두고 차기 대선 후보군을 육성하는 차원이라고 말한 바 있다. 김 진행자는 31일 오전 뉴스공장 방송에서 “김경수 전 (경남)지사는 최근에 당에서 역할을 준 것으로 아는데 청와대가 발탁을 했다”며 “이재명 대통령이 차기대선 후보군 관리 일환으로 발탁한 거라고</content:encoded>
-    </item>
-    <item>
-      <title>김어준 “이진숙, 국힘 대선후보 됐으면 좋겠다, 응원한다” 왜?</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336792</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336792</guid>
-      <pubDate>2026-08-31T12:20:08.000Z</pubDate>
-      <content:encoded>김어준씨가 5·18 폄훼 국회 포럼을 개최해 이진숙 국민의힘 의원을 두고 돌연 국민의힘 대선후보가 됐으면 좋겠다, 응원한다고 촉구하고 나섰다.김씨는 31일 유튜브 ‘김어준의 겸손은힘들다 뉴스공장’에 출연한 여론조사 전문가와 주말 실시한 여론조사결과 분석을 하면서 이같이 언급했다.여론조사 꽃이 지난 28~29일 무선전화면접으로 실시한 조사에서 ‘역사적 진실을 훼손·왜곡하는 등의 물의를 일으킨 국회의원에 대해 직무를 정지시키는 국회법 개정을 하는 것에 대해 어떻게 생각하느냐’는 질문에 찬성 79.8%, 반대 17.9%, 모름/무응답 2</content:encoded>
-    </item>
-    <item>
-      <title>한학자 통일교 총재 정교유착 유죄 징역 2년 “죄책 가볍지 않아”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336799</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336799</guid>
-      <pubDate>2026-08-31T16:08:47.000Z</pubDate>
-      <content:encoded>법원이 한학자 통일교 총재의 정치자금법 위반 등 정교유착 혐의를 유죄로 판단하고 징역 2년의 실형을 선고했다. 권성동 전 국민의힘 의원 1억 원 수수등 정치자금법 위반과 윤석열 국민의힘 대선 후보 지지선언 등 정교유착이 모두 유죄로 인정됐다. 죄질이 안좋다고 판단했다.서울중앙지법 형사합의27부(재판장 우인성 부장판사)는 31일 오후 한 총재 등에 대한 정치자금법 위반 사건 선고공판에서 징역 2년을 선고했다. 정원주 전 통일교 총재 비서실장은 징역 1년6월에 집행유예 2년, 윤영호 전 세계본부장은 징역 6월, 이신혜 전 총무처 재장국</content:encoded>
-    </item>
-    <item>
-      <title>한학자 통일교 총재 정교유착 유죄 징역 2년 “죄책 가볍지 않아”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336799</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336799</guid>
-      <pubDate>2026-08-31T16:08:47.000Z</pubDate>
-      <content:encoded>법원이 한학자 통일교 총재의 정치자금법 위반 등 정교유착 혐의를 유죄로 판단하고 징역 2년의 실형을 선고했다. 권성동 전 국민의힘 의원 1억 원 수수등 정치자금법 위반과 윤석열 국민의힘 대선 후보 지지선언 등 정교유착이 모두 유죄로 인정됐다. 죄질이 안좋다고 판단했다.서울중앙지법 형사합의27부(재판장 우인성 부장판사)는 31일 오후 한 총재 등에 대한 정치자금법 위반 사건 선고공판에서 징역 2년을 선고했다. 정원주 전 통일교 총재 비서실장은 징역 1년6월에 집행유예 2년, 윤영호 전 세계본부장은 징역 6월, 이신혜 전 총무처 재장국</content:encoded>
-    </item>
-    <item>
       <title>기후위기가 만든 네팔 대홍수, 바로 서야 하는 기후보도</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336800</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336800</guid>
       <pubDate>2026-08-31T16:32:58.000Z</pubDate>
       <content:encoded>세명대 저널리즘대학원 부설 저널리즘연구소가 기후위기 및 에너지전환에 관한 국내외 우수보도와 최신 지식·정보 등을 한눈에 볼 수 있는 온라인 플랫폼 ‘기후아고라’를 31일 공개했다.세명대 저널리즘대학원은 보도자료를 내고 “‘기후아고라’는 언론인의 정확한 기후·에너지 보도를 지원하기 위해 최신 데이터·보고서 등 공신력 있는 취재 자료를 제공하고, 완성도 높은 보도를 돕는 교육·세미나 영상도 제공한다”고 밝혔다.세명대 저널리즘대학원은 “국내외 우수 기후·에너지 보도와 전문가 검증을 거친 팩트체크 결과를 종합 전달함으로써, 기후위기 현실과</content:encoded>
-    </item>
-    <item>
-      <title>기후위기가 만든 네팔 대홍수, 바로 서야 하는 기후보도</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336800</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336800</guid>
-      <pubDate>2026-08-31T16:32:58.000Z</pubDate>
-      <content:encoded>세명대 저널리즘대학원 부설 저널리즘연구소가 기후위기 및 에너지전환에 관한 국내외 우수보도와 최신 지식·정보 등을 한눈에 볼 수 있는 온라인 플랫폼 ‘기후아고라’를 31일 공개했다.세명대 저널리즘대학원은 보도자료를 내고 “‘기후아고라’는 언론인의 정확한 기후·에너지 보도를 지원하기 위해 최신 데이터·보고서 등 공신력 있는 취재 자료를 제공하고, 완성도 높은 보도를 돕는 교육·세미나 영상도 제공한다”고 밝혔다.세명대 저널리즘대학원은 “국내외 우수 기후·에너지 보도와 전문가 검증을 거친 팩트체크 결과를 종합 전달함으로써, 기후위기 현실과</content:encoded>
-    </item>
-    <item>
-      <title>민주TV 진행 박영식 안태훈 … 김어준 “반갑긴 해” 주진우 “방향성이 7시 김어준?”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336797</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336797</guid>
-      <pubDate>2026-08-31T19:18:28.000Z</pubDate>
-      <content:encoded>더불어민주당이 공식 유튜브 채널을 민주당티비(TV, 약칭 민티)로 전면 확대 개편하고 박영식 전 MBN 앵커와 안태훈 전 JTBC 기자를 메인 진행자로 정했다고 밝혔다. 9월1일부터 오전 7시에 방송된다. 김어준씨는 ‘김어준의 겸손은힘들다 뉴스공장’ 방송시간과 같은 7시로 정한 것을 두고 “반갑다, 파이가 커졌으면 좋겠다”고 말했고, 주진우 기자는 “방향성을 김어준으로 잡았느냐”고 반문했다.민주당은 31일 오후 보도자료에서 델리민주를 민주당티비 전면 확대 개편한다면서 9월1일(화) 오전 7시 첫 파일럿(시범) 라이브 방송을 시작한다</content:encoded>
-    </item>
-    <item>
-      <title>민주TV 진행 박영식 안태훈 … 김어준 “반갑긴 해” 주진우 “방향성이 7시 김어준?”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336797</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336797</guid>
-      <pubDate>2026-08-31T19:18:28.000Z</pubDate>
-      <content:encoded>더불어민주당이 공식 유튜브 채널을 민주당티비(TV, 약칭 민티)로 전면 확대 개편하고 박영식 전 MBN 앵커와 안태훈 전 JTBC 기자를 메인 진행자로 정했다고 밝혔다. 9월1일부터 오전 7시에 방송된다. 김어준씨는 ‘김어준의 겸손은힘들다 뉴스공장’ 방송시간과 같은 7시로 정한 것을 두고 “반갑다, 파이가 커졌으면 좋겠다”고 말했고, 주진우 기자는 “방향성을 김어준으로 잡았느냐”고 반문했다.민주당은 31일 오후 보도자료에서 델리민주를 민주당티비 전면 확대 개편한다면서 9월1일(화) 오전 7시 첫 파일럿(시범) 라이브 방송을 시작한다</content:encoded>
-    </item>
-    <item>
-      <title>김현정 CBS 앵커, 유튜브로 돌아온다</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336802</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336802</guid>
-      <pubDate>2026-08-31T19:20:20.000Z</pubDate>
-      <content:encoded>CBS라디오 ‘김현정의 뉴스쇼’를 진행했던 김현정 앵커가 유튜브로 돌아온다.31일 유튜브 채널 ‘김현정의 고수다’에 &lt;“다시 뛰고 싶었어요”, 김현정 앵커가 돌아왔습니다&gt; 영상이 올라왔다.김현정 앵커는 채널 제목 ‘고수다’를 ‘고수들의 수다’로 설명하며 “각 분야의 고수들이 나와서 그들의 인사이트를 전해 주는 것이다. 그게 뭐 대단한 것이 아니더라도 그분들에겐 분명히 숨겨진 무언가가 있다. 그걸 뽑아낼 것”이라고 말했다.첫 번째 인터뷰 영상은 오는 1일 공개 예정이다. 오는 3일 두 번째 영상이 올라온 뒤 오는 4일 ‘개장특집 LI</content:encoded>
-    </item>
-    <item>
-      <title>용혜인 장관 지명 쏟아지는 비판, 후보자와 기본소득당 해명은?</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336803</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336803</guid>
-      <pubDate>2026-08-31T20:08:12.000Z</pubDate>
-      <content:encoded>이재명 대통령이 용혜인 기본소득당 원내대표를 성평등가족부 장관 후보자로 지명하자 이를 두고 비판이 쏟아지고 있다. 지난 30일자 ‘중편’ 개각에 대해 인사청문회 최대 관심은 용 후보자가 될 것이란 전망이 나온 가운데 기본소득당은 31일 비판에 대해 조목조목 반박에 나섰다. 비례 재선, 관례 깨고 의원직 사퇴 안해 논란용 후보자에 대해 많이 나오는 비판은 통상 비례대표 의원은 장관으로 갈 때 의원직을 사퇴하는데 용 후보자의 경우 그렇지 않기로 한 것이 부적절하다는 지적이다. 비례대표는 직능 대표이기 때문에 해당 부처의 장관으로 가면</content:encoded>
-    </item>
-    <item>
-      <title>용혜인 장관 지명 쏟아지는 비판, 후보자와 기본소득당 해명은?</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336803</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336803</guid>
-      <pubDate>2026-08-31T20:08:12.000Z</pubDate>
-      <content:encoded>이재명 대통령이 용혜인 기본소득당 원내대표를 성평등가족부 장관 후보자로 지명하자 이를 두고 비판이 쏟아지고 있다. 지난 30일자 ‘중편’ 개각에 대해 인사청문회 최대 관심은 용 후보자가 될 것이란 전망이 나온 가운데 기본소득당은 31일 비판에 대해 조목조목 반박에 나섰다. 비례 재선, 관례 깨고 의원직 사퇴 안해 논란용 후보자에 대해 많이 나오는 비판은 통상 비례대표 의원은 장관으로 갈 때 의원직을 사퇴하는데 용 후보자의 경우 그렇지 않기로 한 것이 부적절하다는 지적이다. 비례대표는 직능 대표이기 때문에 해당 부처의 장관으로 가면</content:encoded>
-    </item>
-    <item>
-      <title>김민석 “여론조작 시비 유튜버 감찰 지시”에 “친청계 솎아내기”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336804</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336804</guid>
-      <pubDate>2026-08-31T20:29:41.000Z</pubDate>
-      <content:encoded>김민석 더불어민주당 대표가 전당대회 기간 동안 제기된 여론조사 조작 의혹을 받는 유튜버 당원에 대해 윤리감찰단 감찰을 지시했다고 밝혀 논란이다. 친청계 솎아내기 아니냐는 반발도 나온다.김민석 대표는 30일 밤 페이스북에 돌연 “시사타파 이종원씨의 전대 여론조사 조작 시비와 관련하여, 이씨가 당원임을 확인하고 윤리감찰단에 긴급감찰을 통해 긴급징계 필요여부를 보고하라 특별지시를 내렸다”라고 썼다.김 대표는 지난 24일 최고위원회의에서도 “각종 여론조사 등 관련 자료는 사무총장을 통해 보존 지시를 해 놓았다”라며 “전대 여론조사와 관련해</content:encoded>
-    </item>
-    <item>
-      <title>김민석 “여론조작 시비 유튜버 감찰 지시”에 “친청계 솎아내기”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336804</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336804</guid>
-      <pubDate>2026-08-31T20:29:41.000Z</pubDate>
-      <content:encoded>김민석 더불어민주당 대표가 전당대회 기간 동안 제기된 여론조사 조작 의혹을 받는 유튜버 당원에 대해 윤리감찰단 감찰을 지시했다고 밝혀 논란이다. 친청계 솎아내기 아니냐는 반발도 나온다.김민석 대표는 30일 밤 페이스북에 돌연 “시사타파 이종원씨의 전대 여론조사 조작 시비와 관련하여, 이씨가 당원임을 확인하고 윤리감찰단에 긴급감찰을 통해 긴급징계 필요여부를 보고하라 특별지시를 내렸다”라고 썼다.김 대표는 지난 24일 최고위원회의에서도 “각종 여론조사 등 관련 자료는 사무총장을 통해 보존 지시를 해 놓았다”라며 “전대 여론조사와 관련해</content:encoded>
-    </item>
-    <item>
-      <title>이재명 정부 개각에 조선일보 “이게 쇄신인가” 한겨레 “통합 중시”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336786</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336786</guid>
-      <pubDate>2026-08-31T22:54:21.000Z</pubDate>
-      <content:encoded>대법관 후보 재제청, 이재명 정부 2기 내각 구성을 위한 개각, 자영업자 채무조정과 청년 예산 등을 두고 신문들은 헌법기관의 권한, 정책 책임, 재정 지원의 기준을 다르게 해석했다. 대법관 인선 문제에서는 제청권 침해 가능성과 대통령·국회의 민주적 통제 및 절차 책임 중 어느 쪽에 더 무게를 둘지를 놓고 의견이 갈렸고, 개각 보도에서는 이번 인사가 정책 쇄신의 출발점이 될 가능성을 얼마나 긍정적으로 평가할지와 일부 인선을 얼마나 우려할지를 두고 논지가 엇갈렸다. 31일 주요신문 사설을 정리했다.1. 대법관 재제청 사태 제청권과 임명</content:encoded>
     </item>
     <item>
       <title>70개 시리즈 유료화 매일경제… “양질의 콘텐츠, 시장에서 검증 받겠다”</title>
@@ -789,41 +663,6 @@
       <content:encoded>2026년 한국 주식시장 변동성은 매우 컸다. 그만큼 국민이 주식 등 재테크에 대한 관심이 과거보다 더 높아졌다는 걸 보여준 일이기도 하다. 부동산과 주식, 금, 비트코인 등 여러 자산 시장이 뜨거운 만큼, 재테크·투자·경제 관련 정보를 얻고 싶어 하는 욕구도 커졌다. 이런 상황에서 매일경제는 지난해 10월부터 유료화 서비스인 ‘매경플러스’를 약 6개월간 준비해 지난 5월 초부터 지금까지 총 70개 시리즈의 콘텐츠를 내놨다.노영우 매일경제 디지털혁신센터장은 지난해 10월부터 TF팀을 운영하며 수많은 매체의 수많은 기사가 쏟아지는 포</content:encoded>
     </item>
     <item>
-      <title>70개 시리즈 유료화 매일경제… “양질의 콘텐츠, 시장에서 검증 받겠다”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336751</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336751</guid>
-      <pubDate>2026-08-31T23:08:14.000Z</pubDate>
-      <content:encoded>2026년 한국 주식시장 변동성은 매우 컸다. 그만큼 국민이 주식 등 재테크에 대한 관심이 과거보다 더 높아졌다는 걸 보여준 일이기도 하다. 부동산과 주식, 금, 비트코인 등 여러 자산 시장이 뜨거운 만큼, 재테크·투자·경제 관련 정보를 얻고 싶어 하는 욕구도 커졌다. 이런 상황에서 매일경제는 지난해 10월부터 유료화 서비스인 ‘매경플러스’를 약 6개월간 준비해 지난 5월 초부터 지금까지 총 70개 시리즈의 콘텐츠를 내놨다.노영우 매일경제 디지털혁신센터장은 지난해 10월부터 TF팀을 운영하며 수많은 매체의 수많은 기사가 쏟아지는 포</content:encoded>
-    </item>
-    <item>
-      <title>용혜인 이해민 발탁에 언론 “진보·개혁 결집 의도” “왼쪽 단단하게”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336787</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336787</guid>
-      <pubDate>2026-08-31T23:23:01.000Z</pubDate>
-      <content:encoded>이재명 대통령이 부동산 투기 억제와 서울 주택 공급 확대 방침을 직접 밝힌 가운데, 재정경제부와 국토교통부를 포함한 6개 부처 개각도 이뤄졌다. 기본소득당과 조국혁신당, 친문재인계 인사의 발탁은 범여권 결집 신호로 해석됐고, 조희대 대법원장의 국회 법제사법위원회 불출석 문제와 청와대의 재제청 요구, 대법원 측의 검토를 둘러싼 논란도 이어졌다. 30일 주요신문 기사를 정리했다.1. 부동산 투기 경고와 공급 확대를 함께 내세운 대통령 발언이재명 대통령은 30일 사회관계망서비스 엑스(X)에 부동산 투기 억제, 조세제도 정비, 서울 주택</content:encoded>
-    </item>
-    <item>
-      <title>의원직 포기 못한다는 용혜인… 중앙 “특권 내려놔라”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336807</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336807</guid>
-      <pubDate>2026-09-01T07:38:27.000Z</pubDate>
-      <content:encoded>용혜인 성평등가족부 장관 후보자가 장관에 임명된다고 해도 기본소득당 의원직을 유지하겠다고 밝히면서 주요 일간지 비판이 거세지고 있다. 그간의 관례를 깨고 의원직을 유지하는 것이 보조금 등을 위한 것 아니냐는 비판과 함께 “정당 사정이 문제라면 수락하지 말았어야 했다”(경향신문), “과도한 욕심이다”(한국일보) 등 비판이 이어진다.비례의원직 못 놓겠다는 용혜인에 일간지 “하나만 선택하라”용 후보자는 지난달 31일 “(의원직 유지가) 특권이나 혜택으로 비춰질 수 있다는 여러 우려에 대해 잘 알고 있다”면서도 “당 소속 유일한 국회의원인</content:encoded>
-    </item>
-    <item>
-      <title>이 대통령 김용범 청와대 정책실장 사표 수리</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336810</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336810</guid>
-      <pubDate>2026-09-01T10:36:35.000Z</pubDate>
-      <content:encoded>이재명 정부의 부동산 및 경제 정책을 총괄했던 김용범 청와대 정책실장이 물러났다. 강유정 청와대 수석대변인은 1일 “김용범 정책실장이 어제(지난달 31일) 사의를 표명했다. 이 대통령은 오늘 사표를 수리했다”고 밝혔다. 김 실장은 주식시장 급변동 원인으로 지목된 단일종목 레버리지 상장지수펀드(ETF) 도입과 세제 개편안 마련 등을 주도했다. 부동산 등 경제 정책에 대한 부정적 여론 속 지지율 하락세가 계속 된 가운데 나온 사의 표명이다. 이 대통령은 지난달 30일 구윤철 경제부총리 겸 재정경제부 장관과 김윤덕 국토교통부 장관을 교체</content:encoded>
-    </item>
-    <item>
-      <title>이 대통령 김용범 청와대 정책실장 사표 수리</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336810</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336810</guid>
-      <pubDate>2026-09-01T10:36:35.000Z</pubDate>
-      <content:encoded>이재명 정부의 부동산 및 경제 정책을 총괄했던 김용범 청와대 정책실장이 물러났다. 강유정 청와대 수석대변인은 1일 “김용범 정책실장이 어제(지난달 31일) 사의를 표명했다. 이 대통령은 오늘 사표를 수리했다”고 밝혔다. 김 실장은 주식시장 급변동 원인으로 지목된 단일종목 레버리지 상장지수펀드(ETF) 도입과 세제 개편안 마련 등을 주도했다. 부동산 등 경제 정책에 대한 부정적 여론 속 지지율 하락세가 계속 된 가운데 나온 사의 표명이다. 이 대통령은 지난달 30일 구윤철 경제부총리 겸 재정경제부 장관과 김윤덕 국토교통부 장관을 교체</content:encoded>
-    </item>
-    <item>
       <title>기본소득당 오준호 “소수정당 정부 참여, 원내지위 포기 강요하나”</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336811</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336811</guid>
@@ -831,53 +670,11 @@
       <content:encoded>용혜인 성평등가족부 장관 후보자가 관례를 깨고 장관에 임명돼도 비례대표 의원직을 유지하겠다는 입장을 밝히자 야당과 다수 언론에서 장관직과 의원직 중 하나만 선택해야 한다며 용 후보자를 비판하고 있다. 기본소득당에서는 이러한 요구가 ‘거대양당의 관례를 소수정당에게 기계적으로 적용하는 것으로 공정하지 않다’고 반박했다. 오준호 기본소득당 대표 후보(현 기본소득정책연구소장)는 1일 페이스북에 “거대정당에서 비례대표 의원이 입각하면서 사퇴하면 같은 당 비례대표 후보가 의원직을 승계하는데 사람만 바뀌고 거대정당 의석은 그대로 유지된다”며 “</content:encoded>
     </item>
     <item>
-      <title>기본소득당 오준호 “소수정당 정부 참여, 원내지위 포기 강요하나”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336811</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336811</guid>
-      <pubDate>2026-09-01T10:36:57.000Z</pubDate>
-      <content:encoded>용혜인 성평등가족부 장관 후보자가 관례를 깨고 장관에 임명돼도 비례대표 의원직을 유지하겠다는 입장을 밝히자 야당과 다수 언론에서 장관직과 의원직 중 하나만 선택해야 한다며 용 후보자를 비판하고 있다. 기본소득당에서는 이러한 요구가 ‘거대양당의 관례를 소수정당에게 기계적으로 적용하는 것으로 공정하지 않다’고 반박했다. 오준호 기본소득당 대표 후보(현 기본소득정책연구소장)는 1일 페이스북에 “거대정당에서 비례대표 의원이 입각하면서 사퇴하면 같은 당 비례대표 후보가 의원직을 승계하는데 사람만 바뀌고 거대정당 의석은 그대로 유지된다”며 “</content:encoded>
-    </item>
-    <item>
-      <title>법원, KBS 사내 ‘과반 노조’ 논란 마침표</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336818</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336818</guid>
-      <pubDate>2026-09-01T11:36:54.000Z</pubDate>
-      <content:encoded>상당 기간 KBS 편성위원회 개최를 막아왔던 ‘과반 노조’ 논란이 법원 판단으로 사실상 마침표를 찍었다. 서울남부지법은 지난달 31일 전국언론노동조합 KBS본부의 과반 노조 지위를 인정하고 KBS노동조합이 제기한 가처분을 모두 기각했다. 서울남부지법은 “현재까지 제출된 소명자료에 의하면 채무자 노조가 근로자 과반수 노조에 해당한다”고 밝혔다. 과반 노조는 노사협의회 근로자위원 선출 및 편성위원회 종사자측 편성위원 선정 권한을 갖고 과반 노조 위원장은 종사자 대표가 된다. 지난해 방송법 개정 이후 방송미디어통신위원회 규칙에 따라 KB</content:encoded>
-    </item>
-    <item>
-      <title>‘선 넘는’ 유튜브 막으려면… ‘회장님’ 손주·사위·아들이 뉴스로?</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336805</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336805</guid>
-      <pubDate>2026-09-01T12:23:31.000Z</pubDate>
-      <content:encoded>JTBC가 자사 유튜브 채널 ‘장르만 여의도’에서의 이른바 ‘인혁당 희화화 논란’에 공식 사과했다. 강원 지역민영방송 G1방송 뉴스에 대주주인 SG건설 회장 가족이 잇따라 등장해 ‘방송 사유화’ 논란이 일고 있다. 31일 미디어오늘 유튜브 ‘미디어오늘내일 라이브’에선 두 사안이 시사하는 언론계의 현실, 이런 문제를 막기 위한 방안을 다뤘다.‘장르만 여의도’에서의 문제 발언은 지난 26일 패널 중 한 명인 김준일 평론가가 조국혁신당 새 당명을 ‘민주혁신당’으로 제안하다, 이를 ‘민혁당’이라 줄여 말한 다른 출연자 말을 듣고 ‘다 사형</content:encoded>
-    </item>
-    <item>
       <title>김어준 맞짱? 민티 “김대표 이발한 것 같다” 불편한 질문 없어</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336820</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336820</guid>
       <pubDate>2026-09-01T12:31:03.000Z</pubDate>
       <content:encoded>김어준 방송과 동시간대에 방송하면서 여론을 주도하겠다고 야심차게 나선 민주당TV 이른바 ‘민티07(민주당티비07)’가 첫 방송에서 논란이 되고 있는 이재명 대통령의 개각 주요 인물 문제나 지지율 하락 문제, 당내 갈등 문제 등 핵심 이슈에 대한 질문이나 언급은 전혀 없었다. 진행자가 처음 한 질문은 김민석 더불어민주당 대표에 “이발하신 것 같다”였다.노영희 변호사는 앞서 “관제방송국은 재미없다”라고 우려하기도 했다.민주당티비(민티) 첫 방송을 맡은 박영식 진행자는 1일 1부에 출연한 김민석 민주당 대표에 “우리 대표님을 처음 어 뵙</content:encoded>
-    </item>
-    <item>
-      <title>김어준 맞짱? 민티 “김대표 이발한 것 같다” 불편한 질문 없어</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336820</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336820</guid>
-      <pubDate>2026-09-01T12:31:03.000Z</pubDate>
-      <content:encoded>김어준 방송과 동시간대에 방송하면서 여론을 주도하겠다고 야심차게 나선 민주당TV 이른바 ‘민티07(민주당티비07)’가 첫 방송에서 논란이 되고 있는 이재명 대통령의 개각 주요 인물 문제나 지지율 하락 문제, 당내 갈등 문제 등 핵심 이슈에 대한 질문이나 언급은 전혀 없었다. 진행자가 처음 한 질문은 김민석 더불어민주당 대표에 “이발하신 것 같다”였다.노영희 변호사는 앞서 “관제방송국은 재미없다”라고 우려하기도 했다.민주당티비(민티) 첫 방송을 맡은 박영식 진행자는 1일 1부에 출연한 김민석 민주당 대표에 “우리 대표님을 처음 어 뵙</content:encoded>
-    </item>
-    <item>
-      <title>방미통위, 허위조작정보 대응 강화한다</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336812</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336812</guid>
-      <pubDate>2026-09-01T13:12:16.000Z</pubDate>
-      <content:encoded>방송미디어통신위원회(방미통위)의 미디어 기본사회 구현을 위한 내년도 예산안과 기금운용계획안이 편성됐다. 방미통위는 이번 편성을 통해 개정 정보통신망법에 따른 ‘투명성센터’ 예산을 확보했다며 온라인상 허위조작정보 대응을 강화하겠다고 밝혔다.방미통위는 1일 전년 대비 346억 원(13.2%) 늘어난 총 2977억 원으로 2027년도 예산안과 기금운용계획안을 편성했다고 밝혔다. 방미통위가 구상하는 ‘미디어 기본사회’는 정치·경제·사회·문화 등 국민 일상 전반이 미디어를 통해 영위되는 상황에서 누구나 미디어에 쉽고 안전하게 접근하고 그 혜</content:encoded>
-    </item>
-    <item>
-      <title>자유통일당·정의당, 청와대에 “용혜인 지명 철회하라”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336821</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336821</guid>
-      <pubDate>2026-09-01T14:29:34.000Z</pubDate>
-      <content:encoded>용혜인 성평등가족부 장관 후보자에 대한 비판이 쏟아지는 가운데 일부 원외정당에서 ‘지명 철회’ 주장이 나왔다. 전광훈 사랑제일교회 원로목사가 명예고문으로 있는 자유통일당은 1일 이재명 대통령을 향해 “2030 청년 가슴에 못을 박는 용혜인 장관 지명을 즉각 철회하고 국민 앞에 사죄하라”고 주장했다. 이강산 자유통일당 수석대변인은 이날 &lt;이재명 정부의 ‘공정’은 위선이자 청년 기만인가&gt;란 성명을 내고 “성평등가족부 장관 후보자로 지명된 용혜인 의원은 2020년 더불어시민당, 2024년 더불어민주연합 등 민주당이 주도한 비례 위성정당</content:encoded>
     </item>
     <item>
       <title>자유통일당·정의당, 청와대에 “용혜인 지명 철회하라”</title>
@@ -892,27 +689,6 @@
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336822</guid>
       <pubDate>2026-09-01T16:27:46.000Z</pubDate>
       <content:encoded>5·18민주화운동 유공자들이 국민의힘 이진숙 의원을 상대로 SNS 게시물을 삭제하고 게시·전파를 금지하도록 하는 가처분을 신청했다. 앞서 이 의원은 5·18민주화운동을 두고 “소요”이자 “폭동”이라고 주장하는 유튜브 영상을 공유하면서 “가장 충실한 설명”이라고 주장했다.법무법인 정세는 지난 31일 양기남 5·18민중항쟁 기동타격대 동지회 회장 등 4명을 대리해 이진숙 의원을 상대로 서울중앙지법에 게시물 삭제와 게시·전파금지 가처분을 신청했다.이 의원은 지난달 27일 자신의 페이스북에 “5·18에 대해 최근 나온 유튜브 방송 중 가장</content:encoded>
-    </item>
-    <item>
-      <title>전남도청 지킨 5·18유공자 “이진숙, 국가폭력 언어 되살려”… SNS글 삭제 가처분</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336822</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336822</guid>
-      <pubDate>2026-09-01T16:27:46.000Z</pubDate>
-      <content:encoded>5·18민주화운동 유공자들이 국민의힘 이진숙 의원을 상대로 SNS 게시물을 삭제하고 게시·전파를 금지하도록 하는 가처분을 신청했다. 앞서 이 의원은 5·18민주화운동을 두고 “소요”이자 “폭동”이라고 주장하는 유튜브 영상을 공유하면서 “가장 충실한 설명”이라고 주장했다.법무법인 정세는 지난 31일 양기남 5·18민중항쟁 기동타격대 동지회 회장 등 4명을 대리해 이진숙 의원을 상대로 서울중앙지법에 게시물 삭제와 게시·전파금지 가처분을 신청했다.이 의원은 지난달 27일 자신의 페이스북에 “5·18에 대해 최근 나온 유튜브 방송 중 가장</content:encoded>
-    </item>
-    <item>
-      <title>“과방위원장 자녀 안 된다” 경고 묵살했던 KBS</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336824</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336824</guid>
-      <pubDate>2026-09-01T16:33:42.000Z</pubDate>
-      <content:encoded>KBS가 국회 과학기술정보방송통신위원회(과방위) 위원장 자녀를 자문 변호사로 위촉해 논란이 된 가운데, 위촉 전부터 이해충돌을 우려하는 문제 제기가 있었던 것으로 드러났다. 앞서 더불어민주당은 지난달 1일 국회 과방위 후반기 위원장으로 송기헌 의원을 선출했는데, 24일 뒤 송 위원장 자녀가 자문 변호사로 위촉됐다. 이해충돌 가능성이 있다는 미디어오늘 보도 이후 송 변호사는 자문 변호사직에서 스스로 물러났다. 이후 KBS기자협회는 사태의 심각성을 감안해 사내 문서, 업무 기록, 관계자 진술, 서면 질의 등을 통해 사건을 파악해 지난달</content:encoded>
-    </item>
-    <item>
-      <title>경실련 “공정위, 구글에 8500억 과징금 부과하라”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336826</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336826</guid>
-      <pubDate>2026-09-01T18:27:09.000Z</pubDate>
-      <content:encoded>경제정의실천시민연합(이하 경실련)이 국내외 게임사를 상대로 최혜대우를 요구한 구글에 법정 최고 수준의 과징금이 부과돼야 한다고 밝혔다. 미국과 유럽연합이었으면 천문학적인 합의금을 지불해야 하는 사건인 만큼, 공정위가 엄정한 제재에 나서야 한다는 것이다.경실련과 한국게임이용자협회·한국게임소비자협회는 지난달 31일 공정거래위원회에 구글 과징금을 요구하는 입장문을 발표했다. 공정거래위원회에 따르면 구글은 2019년 국내외 게임사에 ‘다른 애플리케이션 마켓보다 유리하거나 동등한 조건을 제공해 달라’고 최혜대우를 요구했다.구글은 게임사가 유</content:encoded>
     </item>
     <item>
       <title>경실련 “공정위, 구글에 8500억 과징금 부과하라”</title>
@@ -950,20 +726,6 @@
       <content:encoded>국민 10명 중 7명은 청소년의 소셜미디어 이용 제한에 찬성한다는 여론조사 결과가 나왔다.한국언론진흥재단 미디어연구센터가 8월14일부터 19일까지 14~58세 1000명을 대상으로 온라인 설문조사를 실시한 결과(표본오차 95% 신뢰수준에 ±3.0% 포인트) 인스타그램, 틱톡, X, 페이스북 등 소셜미디어의 청소년 이용 제한 정책에 70.7%가 찬성했다. 반대는 29.3%였다. 청소년은 찬성 41.0%, 반대 59.0%로 반대가 18.0%p 더 많았던 반면 아동·청소년 자녀가 있는 성인은 77.5%, 자녀가 없는 성인은 78.3%가</content:encoded>
     </item>
     <item>
-      <title>국민 70.7% “청소년 SNS 이용 제한 찬성”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336829</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336829</guid>
-      <pubDate>2026-09-01T18:46:24.000Z</pubDate>
-      <content:encoded>국민 10명 중 7명은 청소년의 소셜미디어 이용 제한에 찬성한다는 여론조사 결과가 나왔다.한국언론진흥재단 미디어연구센터가 8월14일부터 19일까지 14~58세 1000명을 대상으로 온라인 설문조사를 실시한 결과(표본오차 95% 신뢰수준에 ±3.0% 포인트) 인스타그램, 틱톡, X, 페이스북 등 소셜미디어의 청소년 이용 제한 정책에 70.7%가 찬성했다. 반대는 29.3%였다. 청소년은 찬성 41.0%, 반대 59.0%로 반대가 18.0%p 더 많았던 반면 아동·청소년 자녀가 있는 성인은 77.5%, 자녀가 없는 성인은 78.3%가</content:encoded>
-    </item>
-    <item>
-      <title>피해자 보호 중심 보도 위한 ‘여성폭력 사건보도 권고기준’ 마련됐다</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336823</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336823</guid>
-      <pubDate>2026-09-01T18:49:29.000Z</pubDate>
-      <content:encoded>성평등가족부와 한국기자협회가 ‘여성폭력 사건보도 권고기준 1.0’을 마련했다. 언론이 피해자 보호를 중심에 두고 여성폭력 사건을 보도하기 위해 지켜야 할 기본 원칙과 권고 사항을 담았다.지난달 31일 공개된 권고기준에는 여성노동법률지원센터의 연구를 바탕으로 한국기자협회가 추천한 현직 기자들의 자문과, 지난 6월 개최된 ‘더 나은 여성폭력 사건보도를 위해 현장의 목소리를 듣다’ 포럼에서 제시된 언론계·전문가 의견을 반영했다. 이번 권고기준은 지난해 12월30일 개정돼 올해 7월1일부터 시행된 여성폭력방지기본법에 따라 처음 마련됐다.</content:encoded>
-    </item>
-    <item>
       <title>피해자 보호 중심 보도 위한 ‘여성폭력 사건보도 권고기준’ 마련됐다</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336823</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336823</guid>
@@ -983,13 +745,6 @@
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336828</guid>
       <pubDate>2026-09-01T20:16:00.000Z</pubDate>
       <content:encoded>성평등가족부장관 후보자로 지명된 용혜인 기본소득당 의원이 비례의원직 사퇴를 거부한 것을 두고 뭇매를 맞고 있다. JTBC 앵커는 다양한 인재 등용이라는 비례대표의 취지와 달리 기존에 가졌던 기회도 유지하고, 새로운 기회도 잡겠다고 한다면, 다른 누군가에게는 기회가 돌아가지 않는다면 자신이 그토록 비판해온 ‘기득권 정치’와 어떤 점에서 다를까라고 질타했다. TV조선 앵커는 장관을 하든, 의원을 하든 하나만 선택하라라고 촉구했다.용 후보자는 지난달 31일 페이스북에 비례의원직을 사퇴하면 순번상 민주당으로 넘어가게 되고 그렇게 되면 보조</content:encoded>
-    </item>
-    <item>
-      <title>대주주 아들·사위·외손자 뉴스 출연에 “G1방송은 대주주 가족앨범 아냐”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336827</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336827</guid>
-      <pubDate>2026-09-01T20:18:38.000Z</pubDate>
-      <content:encoded>대주주 일가 소식을 수차례 보도해온 사실이 드러난 강원 지상파 방송사 G1방송에 철저한 진상조사를 촉구하는 목소리가 높아지고 있다. 사내 인사들이 연루된 만큼 노조는 외부 진상조사를 요구해왔지만, 사측은 내부 기구를 통해 조사하겠다는 입장을 고수하고 있다. 대주주인 SG건설의 조창진 회장은 이번 사태와 관련해 노조에 면담을 요청했다.전국언론노동조합 G1방송지부는 1일 오후 강원 춘천시 G1방송 사옥 앞에서 기자회견을 열고 최근 불거진 대주주의 방송 사유화 사태에 대한 진상조사를 촉구했다. 앞서 미디어오늘은 G1방송 대주주인 SG건설</content:encoded>
     </item>
     <item>
       <title>대주주 아들·사위·외손자 뉴스 출연에 “G1방송은 대주주 가족앨범 아냐”</title>
@@ -1020,20 +775,6 @@
       <content:encoded>2일 주요 일간지들의 1면 핵심 키워드는 ‘821조 원 규모로 편성된 내년 예산안’, ‘1일 경질된 김용범 청와대 정책실장’, 여전한 ‘용혜인 성평등부 장관 지명에 대한 자질 논란’으로 정리할 수 있다. 그 외에도 △‘서울대 10개 만들기’ 정책 첫발 △65세 이상 기초연금 구조 개편 무산 △제주도 실종 사건 잇달아 허위 종결한 경찰관 등이 주요하게 다뤄졌다.정부가 내년 예산안을 올해보다 93조 원(12.8%) 늘어난 821조 원 규모로 편성해 국회에 제출하기로 한 것이 2일 주요 신문들의 1면 톱기사를 차지했다. 경향신문, 동아일</content:encoded>
     </item>
     <item>
-      <title>821조 슈퍼 예산안에 한국일보 “반도체 호황 기댄 ‘위험한 도박’”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336834</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336834</guid>
-      <pubDate>2026-09-02T07:40:45.000Z</pubDate>
-      <content:encoded>2일 주요 일간지들의 1면 핵심 키워드는 ‘821조 원 규모로 편성된 내년 예산안’, ‘1일 경질된 김용범 청와대 정책실장’, 여전한 ‘용혜인 성평등부 장관 지명에 대한 자질 논란’으로 정리할 수 있다. 그 외에도 △‘서울대 10개 만들기’ 정책 첫발 △65세 이상 기초연금 구조 개편 무산 △제주도 실종 사건 잇달아 허위 종결한 경찰관 등이 주요하게 다뤄졌다.정부가 내년 예산안을 올해보다 93조 원(12.8%) 늘어난 821조 원 규모로 편성해 국회에 제출하기로 한 것이 2일 주요 신문들의 1면 톱기사를 차지했다. 경향신문, 동아일</content:encoded>
-    </item>
-    <item>
-      <title>징역 3년 구형받은 한상혁 전 방통위원장 “공영방송 장악 위한 수사”</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336835</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336835</guid>
-      <pubDate>2026-09-02T09:57:22.000Z</pubDate>
-      <content:encoded>검찰이 한상혁 전 방송통신위원회 위원장을 TV조선 재승인 심사 부당개입 혐의로 징역 3년을 구형했다.검찰은 지난 1일 서울북부지방법원 형사합의13부가 진행한 결심공판에서 한 전 위원장에게 징역 3년을 선고해달라고 요청했다. 한 전 위원장은 위계에 의한 공무집행방해, 직권남용 권리행사방해, 허위공문서작성 등 혐의를 받고 있다.또 검찰은 당시 방통위 방송정책국장·운영지원과장에게 각각 징역 2년6개월을 구형했다. 재승인 심사위원장에게 징역 2년, 심사위원 2명에게 각각 징역 1년6개월을 구형했다. 검찰은 “공정한 재승인 심사 과정의 근간</content:encoded>
-    </item>
-    <item>
       <title>징역 3년 구형받은 한상혁 전 방통위원장 “공영방송 장악 위한 수사”</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336835</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336835</guid>
@@ -1048,32 +789,11 @@
       <content:encoded>TBS가 신임 대표이사를 공개 모집한다. 빠르면 6개월 안에 TBS 정상화가 실현될 수 있다는 관측도 나온다.TBS는 2일 보도자료를 통해 비상경영체제를 극복하고 재단 정상화를 이끌어갈 신임 대표이사와 비상근 이사, 비상근 감사 등 총 3인을 공개 모집한다고 밝혔다. 대표이사 공모는 2024년 3월 정태익 대표 사임 이후 약 2년6개월 만으로, 현재는 주용진 라디오제작본부장이 대표이사 직무대리를 맡고 있다.최근 TBS는 서울시장 추천 2인, 서울시의회 추천 3인, TBS 이사회 추천 2인 등 총 7인으로 구성되는 TBS 임원추천위원</content:encoded>
     </item>
     <item>
-      <title>TBS 차기대표 공모… 6개월 내 정상화 가능성 나온다</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336838</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336838</guid>
-      <pubDate>2026-09-02T11:30:00.000Z</pubDate>
-      <content:encoded>TBS가 신임 대표이사를 공개 모집한다. 빠르면 6개월 안에 TBS 정상화가 실현될 수 있다는 관측도 나온다.TBS는 2일 보도자료를 통해 비상경영체제를 극복하고 재단 정상화를 이끌어갈 신임 대표이사와 비상근 이사, 비상근 감사 등 총 3인을 공개 모집한다고 밝혔다. 대표이사 공모는 2024년 3월 정태익 대표 사임 이후 약 2년6개월 만으로, 현재는 주용진 라디오제작본부장이 대표이사 직무대리를 맡고 있다.최근 TBS는 서울시장 추천 2인, 서울시의회 추천 3인, TBS 이사회 추천 2인 등 총 7인으로 구성되는 TBS 임원추천위원</content:encoded>
-    </item>
-    <item>
       <title>미국 공화당, ‘쿠팡 개인정보 유출 제재’ 외교 문제로 비화시키나</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336836</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336836</guid>
       <pubDate>2026-09-02T11:38:57.000Z</pubDate>
       <content:encoded>이용자 3387만 명의 개인정보가 유출된 쿠팡 대규모 해킹 사태가 한미 외교 문제로 확산되고 있다. 미국 정부와 공화당이 한국 정부의 쿠팡 제재를 문제삼고, 이를 관세 등 외교 문제로 비화시킬 것이라는 전망이 나오고 있다.미국 CNBC는 지난달 31일(이하 현지시간) &lt;쿠팡 분쟁으로 미국이 한국에 관세 압력을 가하고 있다&gt; 보도를 통해 한국 정부의 쿠팡 제재가 통상 문제로 불거졌다고 밝혔다. 한미 양국이 타협점을 찾지 못할 경우 미국 정부의 관세 보복 조치가 시행될 수 있다는 것이다. 특히 공화당 측은 쿠팡 개인정보 유출 규모는 경</content:encoded>
-    </item>
-    <item>
-      <title>미국 공화당, ‘쿠팡 개인정보 유출 제재’ 외교 문제로 비화시키나</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336836</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336836</guid>
-      <pubDate>2026-09-02T11:38:57.000Z</pubDate>
-      <content:encoded>이용자 3387만 명의 개인정보가 유출된 쿠팡 대규모 해킹 사태가 한미 외교 문제로 확산되고 있다. 미국 정부와 공화당이 한국 정부의 쿠팡 제재를 문제삼고, 이를 관세 등 외교 문제로 비화시킬 것이라는 전망이 나오고 있다.미국 CNBC는 지난달 31일(이하 현지시간) &lt;쿠팡 분쟁으로 미국이 한국에 관세 압력을 가하고 있다&gt; 보도를 통해 한국 정부의 쿠팡 제재가 통상 문제로 불거졌다고 밝혔다. 한미 양국이 타협점을 찾지 못할 경우 미국 정부의 관세 보복 조치가 시행될 수 있다는 것이다. 특히 공화당 측은 쿠팡 개인정보 유출 규모는 경</content:encoded>
-    </item>
-    <item>
-      <title>박장범 KBS 사장 “새 사장 선임 절차 중단하라” 가처분 신청</title>
-      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336840</link>
-      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336840</guid>
-      <pubDate>2026-09-02T11:43:19.000Z</pubDate>
-      <content:encoded>박장범 KBS 사장이 지난달 31일 서울남부지법에 새 사장 선임 절차 중단을 요구하는 ‘이사회 결의 효력정지’ 가처분 소송을 제기했다. 앞서 KBS 이사회는 지난달 26일 ‘28대 사장 임명제청을 위한 절차와 방법에 관한 건’을 상정해 만장일치로 의결했다. 이사회는 오는 10일부터 새 사장 공모에 나설 예정이다. 소송 심문기일은 오는 9일로 잡혔다.KBS 이사회는 개정 방송법에 따라 서류심사 등으로 사장 후보자 6명을 뽑고, 100명 이상의 국민들로 구성된 사장후보국민추천위원회가 정책발표회 등을 통한 검증으로 6명 중 3명을 뽑으면</content:encoded>
     </item>
     <item>
       <title>박장범 KBS 사장 “새 사장 선임 절차 중단하라” 가처분 신청</title>
@@ -1307,14 +1027,14 @@
       <content:encoded>주진우 국민의힘 의원이 용혜인 성평등가족부 장관 후보자에 대해 “안산시 주택을 11개월 만에 중국인에 되팔아 2000만원 차익을 얻었다”고 주장한 것을 두고 진보당이 “70억 자산가의 적반하장”이라고 비판했다.이해지 진보당 대변인은 지난 2일 “정작 주 의원은 고위공직자 재산공개에서 70억 원이 넘는 재산을 신고했다. 2022년 당시 17세였던 아들도 조부로부터 물려받은 7억4000만 원이 넘는 예금을 신고했고, 이후 7억8000만 원대로 늘었다”고 밝혔다. 그러면서 “그런 주 의원이 2천만 원의 매매가격 차이를 두고 장관 자격을</content:encoded>
     </item>
     <item>
-      <title>허위조작정보 자율규제 현황 첫 공개… 총 27건 중 삭제 결정 0</title>
+      <title>허위조작정보 자율규제 현황 첫 공개… 총 27건 중 삭제 결정 0건</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336859</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336859</guid>
       <pubDate>2026-09-03T10:53:52.000Z</pubDate>
       <content:encoded>인터넷 자율규제 기구인 한국인터넷자율정책기구(KISO) 허위조작정보심의특별위원회가 개정 정보통신망법 시행 이후 허위조작정보 자율규제 심의 현황을 처음으로 공개했다. 심의에 나선 총 27건 중 허위조작정보로 판단해 삭제를 결정한 사례는 한 건도 없었다. KISO 허위조작정보심의특별위원회는 지난 2일 서울 광화문 인근에서 기자간담회를 열고 소속 회원사로부터 심의 요청이 접수된 27건 가운데 23건에 대해 최종 심의를 마쳤다고 밝혔다. 나머지 4건은 심의 중 게시물이 삭제됐거나 명예훼손성 권리침해에 따른 임시조치가 이뤄져 심의 대상에서</content:encoded>
     </item>
     <item>
-      <title>허위조작정보 자율규제 현황 첫 공개… 총 27건 중 삭제 결정 0</title>
+      <title>허위조작정보 자율규제 현황 첫 공개… 총 27건 중 삭제 결정 0건</title>
       <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336859</link>
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336859</guid>
       <pubDate>2026-09-03T10:53:52.000Z</pubDate>
@@ -1333,6 +1053,286 @@
       <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336861</guid>
       <pubDate>2026-09-03T11:03:27.000Z</pubDate>
       <content:encoded>용혜인 기본소득당 의원이 성평등가족부 장관 후보자로 지명되면서 용 후보자를 비롯해 그의 가족과 기본소득당의 당직자들에 대해서도 다수 언론의 취재가 이뤄지고 있다. 이런 가운데 기본소득당 측이 후보자 검증과 무관한 당직자 개인에 대한 과도한 취재를 자제해달라며 사생활을 침해하는 등의 행위에 법적 조치 하겠다는 경고 메시지를 냈다. 노서영 기본소득당 대변인은 3일 오전 기자들에게 “당직자 개인의 실명, 보수, 과거 이력 등 개인정보가 취재진 사이에서 공유되고, 다수의 당직자에게 반복적·과도한 연락이 이어지고 있다”며 “공적 사안에 대한</content:encoded>
+    </item>
+    <item>
+      <title>김민석도 용혜인에 “국민 목소리 자체 존중” 진중권 “얼굴 철판 깔았나”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336864</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336864</guid>
+      <pubDate>2026-09-03T12:42:39.000Z</pubDate>
+      <content:encoded>성평등가족부장관 후보자로 지명된 용혜인 기본소득당 의원이 비례대표도 사퇴하지 않겠다고 버티는 것을 두고 김민석 더불어민주당 대표가 “국민 목소리와 판단도 그 자체로써 존중하며 생각할 필요가 있다”라고 밝혔다. 당내에서는 “욕심이 지나치다”, “직 내려놓는 것도 이미 늦었다”라는 지적이 나왔고, 진중권 교수는 장관과 “낯짝에 철판을 깔았느냐”라고 질타했다.김민석 민주당 대표는 3일 민주당TV(민티07)에 출연해 용혜인 후보 관련 내용을 어떻게 보느냐는 박영식 진행자 질의에 “엊그제는 (진보정당 인사와) 마침 약속을 했던 점심 식사를</content:encoded>
+    </item>
+    <item>
+      <title>김민석도 용혜인에 “국민 목소리 자체 존중” 진중권 “얼굴 철판 깔았나”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336864</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336864</guid>
+      <pubDate>2026-09-03T12:42:39.000Z</pubDate>
+      <content:encoded>성평등가족부장관 후보자로 지명된 용혜인 기본소득당 의원이 비례대표도 사퇴하지 않겠다고 버티는 것을 두고 김민석 더불어민주당 대표가 “국민 목소리와 판단도 그 자체로써 존중하며 생각할 필요가 있다”라고 밝혔다. 당내에서는 “욕심이 지나치다”, “직 내려놓는 것도 이미 늦었다”라는 지적이 나왔고, 진중권 교수는 장관과 “낯짝에 철판을 깔았느냐”라고 질타했다.김민석 민주당 대표는 3일 민주당TV(민티07)에 출연해 용혜인 후보 관련 내용을 어떻게 보느냐는 박영식 진행자 질의에 “엊그제는 (진보정당 인사와) 마침 약속을 했던 점심 식사를</content:encoded>
+    </item>
+    <item>
+      <title>노동당·녹색당·정의당 “성평등·민주주의 없는 위성정당 편법 정치 끝내야”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336863</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336863</guid>
+      <pubDate>2026-09-03T13:47:31.000Z</pubDate>
+      <content:encoded>이재명 대통령의 용혜인 성평등가족부 장관 후보자 지명에 대해 노동당·녹색당·정의당 등 원외 진보 3당이 공동성명을 내고 지명 철회를 주장했다. 진보3당은 지난 2일 &lt;성평등도 민주주의도 없는 위성정당 편법 정치를 끝내라&gt;란 성명을 내고 “용 후보자가 더불어민주당의 위성정당인 더불어시민당과 더불어민주연합 소속으로 비례대표에 두 번 당선”된 것을 두고 “이는 거대 정당이 선거제도의 허점을 이용해 의석을 늘리는 편법에 편승한 결과일 뿐, 결코 연합정치가 아니다”라고 한 뒤 “만약 이번 장관 임명이 철회되지 않는다면, 편법 정치의 수혜자가</content:encoded>
+    </item>
+    <item>
+      <title>노동당·녹색당·정의당 “성평등·민주주의 없는 위성정당 편법 정치 끝내야”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336863</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336863</guid>
+      <pubDate>2026-09-03T13:47:31.000Z</pubDate>
+      <content:encoded>이재명 대통령의 용혜인 성평등가족부 장관 후보자 지명에 대해 노동당·녹색당·정의당 등 원외 진보 3당이 공동성명을 내고 지명 철회를 주장했다. 진보3당은 지난 2일 &lt;성평등도 민주주의도 없는 위성정당 편법 정치를 끝내라&gt;란 성명을 내고 “용 후보자가 더불어민주당의 위성정당인 더불어시민당과 더불어민주연합 소속으로 비례대표에 두 번 당선”된 것을 두고 “이는 거대 정당이 선거제도의 허점을 이용해 의석을 늘리는 편법에 편승한 결과일 뿐, 결코 연합정치가 아니다”라고 한 뒤 “만약 이번 장관 임명이 철회되지 않는다면, 편법 정치의 수혜자가</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 이 대통령 “경찰, 뼈를 깎는 각오로 자정해야”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336867</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336867</guid>
+      <pubDate>2026-09-03T15:11:05.000Z</pubDate>
+      <content:encoded>이재명 대통령이 3일 열린 제45차 대통령 주재 수석보좌관회의에서 경찰을 향해 “뼈를 깎는 각오로 내부 자정과 제도 개선에 나서야 한다”고 주문했다. 최근 광주에선 현직 경찰이 여고생 살해범인 아들을 위해 증거를 인멸한 사실이 드러나 충격을 줬고, 제주에선 경찰이 실종신고를 허위로 종결한 사건이 여러 건 드러나며 사회적 파장으로 이어졌다. 오는 10월 중수청 출범을 앞두고 경찰에 대한 여론이 악화된 가운데 이 대통령이 직접 경찰의 쇄신을 촉구하고 나선 것이다. 이 대통령은 이날 모두 발언에서 “국민의 안전을 책임지는 치안에는 단 한</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 이 대통령 “경찰, 뼈를 깎는 각오로 자정해야”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336867</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336867</guid>
+      <pubDate>2026-09-03T15:11:05.000Z</pubDate>
+      <content:encoded>이재명 대통령이 3일 열린 제45차 대통령 주재 수석보좌관회의에서 경찰을 향해 “뼈를 깎는 각오로 내부 자정과 제도 개선에 나서야 한다”고 주문했다. 최근 광주에선 현직 경찰이 여고생 살해범인 아들을 위해 증거를 인멸한 사실이 드러나 충격을 줬고, 제주에선 경찰이 실종신고를 허위로 종결한 사건이 여러 건 드러나며 사회적 파장으로 이어졌다. 오는 10월 중수청 출범을 앞두고 경찰에 대한 여론이 악화된 가운데 이 대통령이 직접 경찰의 쇄신을 촉구하고 나선 것이다. 이 대통령은 이날 모두 발언에서 “국민의 안전을 책임지는 치안에는 단 한</content:encoded>
+    </item>
+    <item>
+      <title>아직도 이진숙 징계 안 하는 국힘… “이진숙, 이제 사과하고 사퇴하라”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336866</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336866</guid>
+      <pubDate>2026-09-03T17:05:47.000Z</pubDate>
+      <content:encoded>국민의힘이 국회의 이진숙 의원 제명 촉구 결의안 통과와 시민사회단체의 비판에도 이 의원 징계에 나서지 않고 있는 가운데, 5·18서울기념사업회와 전두환 군사정권 피해자들은 국회를 방문해 이진숙 의원 자진사퇴를 요구하고 나섰다. 또 5·18민주화운동 유공자들은 이 의원을 상대로 손해배상 소송까지 제기하겠다고 밝혔다.5·18서울기념사업회, 80년해직언론인협의회, 강제징집녹화선도공작진상규명위원회는 3일 서울 영등포구 국회 의원회관에서 이진숙 의원 2차 항의방문을 진행했다. 이진숙 의원이 지난달 13일 5·18민주화운동 역사왜곡·폄훼 발언</content:encoded>
+    </item>
+    <item>
+      <title>아직도 이진숙 징계 안 하는 국힘… “이진숙, 이제 사과하고 사퇴하라”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336866</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336866</guid>
+      <pubDate>2026-09-03T17:05:47.000Z</pubDate>
+      <content:encoded>국민의힘이 국회의 이진숙 의원 제명 촉구 결의안 통과와 시민사회단체의 비판에도 이 의원 징계에 나서지 않고 있는 가운데, 5·18서울기념사업회와 전두환 군사정권 피해자들은 국회를 방문해 이진숙 의원 자진사퇴를 요구하고 나섰다. 또 5·18민주화운동 유공자들은 이 의원을 상대로 손해배상 소송까지 제기하겠다고 밝혔다.5·18서울기념사업회, 80년해직언론인협의회, 강제징집녹화선도공작진상규명위원회는 3일 서울 영등포구 국회 의원회관에서 이진숙 의원 2차 항의방문을 진행했다. 이진숙 의원이 지난달 13일 5·18민주화운동 역사왜곡·폄훼 발언</content:encoded>
+    </item>
+    <item>
+      <title>김어준, 조국 李유죄 언급 발언 ‘배은망덕’에 “언론에 낚이면 안돼”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336871</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336871</guid>
+      <pubDate>2026-09-03T17:26:52.000Z</pubDate>
+      <content:encoded>조국 조국혁신당 혁신정책연구원장이 이재명 대통령의 공직선거법 위반 사건 대법원 유죄 취지 파기 환송사건의 유죄 가능성과 공소취소 강행시 정치적 낭패를 볼 가능성을 언급한 것을 두고 박선원 더불어민주당 의원이 배은망덕이라고 발끈했다. 박지원 의원은 봉창 두들기는 사람이라고도 했다. 이에 김어준씨는 싸움붙이려는 언론의 기사에 낚이지 말고, 글 전문을 보라, A4 한장도 안 되는 글이라고 반박했다.경향신문은 조국 원장의 경고에 대해 이 대통령과 김승원 법무부장관 후보자 모두 흘려듣지 말아야 한다고 쓴소리했다.법리상 이 대통령의 공직선거법</content:encoded>
+    </item>
+    <item>
+      <title>김어준, 조국 李유죄 언급 발언 ‘배은망덕’에 “언론에 낚이면 안돼”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336871</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336871</guid>
+      <pubDate>2026-09-03T17:26:52.000Z</pubDate>
+      <content:encoded>조국 조국혁신당 혁신정책연구원장이 이재명 대통령의 공직선거법 위반 사건 대법원 유죄 취지 파기 환송사건의 유죄 가능성과 공소취소 강행시 정치적 낭패를 볼 가능성을 언급한 것을 두고 박선원 더불어민주당 의원이 배은망덕이라고 발끈했다. 박지원 의원은 봉창 두들기는 사람이라고도 했다. 이에 김어준씨는 싸움붙이려는 언론의 기사에 낚이지 말고, 글 전문을 보라, A4 한장도 안 되는 글이라고 반박했다.경향신문은 조국 원장의 경고에 대해 이 대통령과 김승원 법무부장관 후보자 모두 흘려듣지 말아야 한다고 쓴소리했다.법리상 이 대통령의 공직선거법</content:encoded>
+    </item>
+    <item>
+      <title>트럼프 행정부, 언론과 저작권 소송 중인 오픈AI 손 들어줬다</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336869</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336869</guid>
+      <pubDate>2026-09-03T18:00:02.000Z</pubDate>
+      <content:encoded>뉴욕타임스와 오픈AI가 기사 무단 사용 의혹에 대한 소송을 진행 중인 가운데, 트럼프 행정부가 오픈AI 손을 들어줬다. 국가적 이익을 위해 AI 기업에 승소 판단을 내려야 한다는 것이다.미국 법무부는 지난 1일 연방법원에 뉴욕타임스와 오픈AI 소송에 대한 의견서를 제출했다. 법무부가 AI 기업에 대한 저작권 문제에 입장을 밝힌 건 이번이 처음이다. 법무부는 AI 개발은 국가 안보와 관련된 문제이며, AI 기업이 저작권법을 위반하지 않고 기사를 AI 훈련에 활용할 수 있다고 주장했다.법무부는 “트럼프 대통령은 인공지능 경쟁력이 국가</content:encoded>
+    </item>
+    <item>
+      <title>트럼프 행정부, 언론과 저작권 소송 중인 오픈AI 손 들어줬다</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336869</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336869</guid>
+      <pubDate>2026-09-03T18:00:02.000Z</pubDate>
+      <content:encoded>뉴욕타임스와 오픈AI가 기사 무단 사용 의혹에 대한 소송을 진행 중인 가운데, 트럼프 행정부가 오픈AI 손을 들어줬다. 국가적 이익을 위해 AI 기업에 승소 판단을 내려야 한다는 것이다.미국 법무부는 지난 1일 연방법원에 뉴욕타임스와 오픈AI 소송에 대한 의견서를 제출했다. 법무부가 AI 기업에 대한 저작권 문제에 입장을 밝힌 건 이번이 처음이다. 법무부는 AI 개발은 국가 안보와 관련된 문제이며, AI 기업이 저작권법을 위반하지 않고 기사를 AI 훈련에 활용할 수 있다고 주장했다.법무부는 “트럼프 대통령은 인공지능 경쟁력이 국가</content:encoded>
+    </item>
+    <item>
+      <title>한국언론진흥재단 차기 이사장 공모</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336875</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336875</guid>
+      <pubDate>2026-09-03T18:01:21.000Z</pubDate>
+      <content:encoded>한국언론진흥재단이 차기 이사장 공모에 나섰다. 임기는 3년이다. 현 김효재 이사장 임기는 오는 10월18일까지다. 지난 2일 접수 마감 결과 예상보다 많은 지원자가 몰린 것으로 전해졌다. 3년 전 공모 당시 지원자가 2명에 불과했던 것과 비교해 보면 대조적이라는 평가다. 한국언론진흥재단 이사회는 오는 11일 지원자들을 대상으로 면접을 진행하고 오는 16일 이사회를 열고 최종 후보자를 3~5배수로 정해 문화체육관광부에 추천할 계획이다. 이후 문체부 장관이 차기 이사장을 최종결정하게 된다. 언론재단 안팎에선 차기 이사장 후보로 청와대</content:encoded>
+    </item>
+    <item>
+      <title>한국언론진흥재단 차기 이사장 공모</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336875</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336875</guid>
+      <pubDate>2026-09-03T18:01:21.000Z</pubDate>
+      <content:encoded>한국언론진흥재단이 차기 이사장 공모에 나섰다. 임기는 3년이다. 현 김효재 이사장 임기는 오는 10월18일까지다. 지난 2일 접수 마감 결과 예상보다 많은 지원자가 몰린 것으로 전해졌다. 3년 전 공모 당시 지원자가 2명에 불과했던 것과 비교해 보면 대조적이라는 평가다. 한국언론진흥재단 이사회는 오는 11일 지원자들을 대상으로 면접을 진행하고 오는 16일 이사회를 열고 최종 후보자를 3~5배수로 정해 문화체육관광부에 추천할 계획이다. 이후 문체부 장관이 차기 이사장을 최종결정하게 된다. 언론재단 안팎에선 차기 이사장 후보로 청와대</content:encoded>
+    </item>
+    <item>
+      <title>박장범 ‘새 사장 선임 효력정지’ 신청에 민주당 “억지 멈추라”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336874</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336874</guid>
+      <pubDate>2026-09-03T18:01:58.000Z</pubDate>
+      <content:encoded>박장범 KBS 사장이 새 사장 선임 절차를 중단시켜 달라며 법원에 ‘이사회 결의 효력정지’를 신청한 것을 두고 더불어민주당이 “억지 소송을 멈추고 공영방송 정상화에 협조하라”고 밝혔다.전은수 민주당 원내대변인은 3일 서면브리핑에서 “현 이사회는 법이 정한 정원 15명의 과반인 8명 이사 전원이 참석해 만장일치로 사장 임명제청 절차를 의결했다. 법적 시비의 여지를 없애기 위한 결정”이라며 이같이 밝혔다.전 원내대변인은 “박 사장은 이사회가 8인뿐이라는 점을 문제 삼는다. 그러나 시청자위원회와 임직원 추천 몫 이사 5명을 선임하려면 편</content:encoded>
+    </item>
+    <item>
+      <title>박장범 ‘새 사장 선임 효력정지’ 신청에 민주당 “억지 멈추라”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336874</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336874</guid>
+      <pubDate>2026-09-03T18:01:58.000Z</pubDate>
+      <content:encoded>박장범 KBS 사장이 새 사장 선임 절차를 중단시켜 달라며 법원에 ‘이사회 결의 효력정지’를 신청한 것을 두고 더불어민주당이 “억지 소송을 멈추고 공영방송 정상화에 협조하라”고 밝혔다.전은수 민주당 원내대변인은 3일 서면브리핑에서 “현 이사회는 법이 정한 정원 15명의 과반인 8명 이사 전원이 참석해 만장일치로 사장 임명제청 절차를 의결했다. 법적 시비의 여지를 없애기 위한 결정”이라며 이같이 밝혔다.전 원내대변인은 “박 사장은 이사회가 8인뿐이라는 점을 문제 삼는다. 그러나 시청자위원회와 임직원 추천 몫 이사 5명을 선임하려면 편</content:encoded>
+    </item>
+    <item>
+      <title>계정 3954만 개 피해… 고개 숙인 티빙 대표 “보안 체계 근본부터 재구축”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336873</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336873</guid>
+      <pubDate>2026-09-03T18:22:53.000Z</pubDate>
+      <content:encoded>온라인동영상서비스(OTT) 플랫폼 티빙에서 약 3954만 개의 계정 정보와 소스코드가 유출된 것으로 정부 조사 결과 확인됐다. 유출된 정보도 이름·휴대전화번호·결제이력·생년월일 등 70종에 달했다. 티빙 대표는 “안전한 서비스를 제공해 드리지 못한 점에 대해 무거운 책임을 느낀다”며 머리 숙여 사과한 후 정보 보호 혁신 방안과 고객 보상 계획을 발표했다.최주희 티빙 대표는 3일 오후 서울 중구 코리아나호텔에서 진행된 ‘사이버 침해사고 관련 설명회’에서 “사이버 침해사고 민관협동조사단의 최종 조사 결과를 겸허히 받아들이며 지적된 사항</content:encoded>
+    </item>
+    <item>
+      <title>계정 3954만 개 피해… 고개 숙인 티빙 대표 “보안 체계 근본부터 재구축”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336873</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336873</guid>
+      <pubDate>2026-09-03T18:22:53.000Z</pubDate>
+      <content:encoded>온라인동영상서비스(OTT) 플랫폼 티빙에서 약 3954만 개의 계정 정보와 소스코드가 유출된 것으로 정부 조사 결과 확인됐다. 유출된 정보도 이름·휴대전화번호·결제이력·생년월일 등 70종에 달했다. 티빙 대표는 “안전한 서비스를 제공해 드리지 못한 점에 대해 무거운 책임을 느낀다”며 머리 숙여 사과한 후 정보 보호 혁신 방안과 고객 보상 계획을 발표했다.최주희 티빙 대표는 3일 오후 서울 중구 코리아나호텔에서 진행된 ‘사이버 침해사고 관련 설명회’에서 “사이버 침해사고 민관협동조사단의 최종 조사 결과를 겸허히 받아들이며 지적된 사항</content:encoded>
+    </item>
+    <item>
+      <title>장동혁, 연찬회서 기자들에 “신의 심판 받을 것” 발언했나</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336870</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336870</guid>
+      <pubDate>2026-09-03T18:26:06.000Z</pubDate>
+      <content:encoded>장동혁 국민의힘 대표가 최근 당 연찬회 만찬 자리에서 한 출입기자에게 기사에 대해 언급하면서 “신의 심판을 받을 것”이라고 발언했다는 주장이 나왔다. 박충권 국민의힘 대변인은 관련해 방송에서 “직접 들으신 기자님들께 송구하다”고 했다가, 이후 미디어오늘 질의에 “정론직필에 대한 덕담”이라고 밝혔다.</content:encoded>
+    </item>
+    <item>
+      <title>장동혁, 연찬회서 기자들에 “신의 심판 받을 것” 발언했나</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336870</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336870</guid>
+      <pubDate>2026-09-03T18:26:06.000Z</pubDate>
+      <content:encoded>장동혁 국민의힘 대표가 최근 당 연찬회 만찬 자리에서 한 출입기자에게 기사에 대해 언급하면서 “신의 심판을 받을 것”이라고 발언했다는 주장이 나왔다. 박충권 국민의힘 대변인은 관련해 방송에서 “직접 들으신 기자님들께 송구하다”고 했다가, 이후 미디어오늘 질의에 “정론직필에 대한 덕담”이라고 밝혔다.</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령 “방송은 가장 신뢰받는 정보의 원천이자 일상의 동반자”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336878</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336878</guid>
+      <pubDate>2026-09-03T19:06:37.000Z</pubDate>
+      <content:encoded>이재명 대통령이 3일 열린 제63회 방송의날 기념식 축사에서 “그간 방송은 가장 신뢰받는 정보의 원천이자 일상의 동반자로서 늘 국민과 함께 해왔다. 사회적 약자의 목소리에 귀 기울이고, 시대의 아픔을 함께 나누며, 국민에게 즐거움과 감동을 선사해 왔다”면서 “오늘날에는 창의적이고 흡입력 있는 다양한 K-콘텐츠가 대한민국의 문화와 가치를 세계에 널리 알리고 있다”고 평가했다. 이어 “이 자리에 계신 방송인 여러분의 독창적인 기획과 끊임없는 도전이 K-콘텐츠를 세계의 중심으로 이끈 진정한 원동력”이라고 말했다.이 대통령은 “최근 인공지</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령 “방송은 가장 신뢰받는 정보의 원천이자 일상의 동반자”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336878</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336878</guid>
+      <pubDate>2026-09-03T19:06:37.000Z</pubDate>
+      <content:encoded>이재명 대통령이 3일 열린 제63회 방송의날 기념식 축사에서 “그간 방송은 가장 신뢰받는 정보의 원천이자 일상의 동반자로서 늘 국민과 함께 해왔다. 사회적 약자의 목소리에 귀 기울이고, 시대의 아픔을 함께 나누며, 국민에게 즐거움과 감동을 선사해 왔다”면서 “오늘날에는 창의적이고 흡입력 있는 다양한 K-콘텐츠가 대한민국의 문화와 가치를 세계에 널리 알리고 있다”고 평가했다. 이어 “이 자리에 계신 방송인 여러분의 독창적인 기획과 끊임없는 도전이 K-콘텐츠를 세계의 중심으로 이끈 진정한 원동력”이라고 말했다.이 대통령은 “최근 인공지</content:encoded>
+    </item>
+    <item>
+      <title>방송의날, 웃을 수 없는 방송인들</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336865</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336865</guid>
+      <pubDate>2026-09-03T19:07:49.000Z</pubDate>
+      <content:encoded>1947년 9월3일, 국제무선통신회의에서 대한민국 방송이 일제시대 호출부호(JODK) 대신 독자적 호출부호(HL)를 배당받으며 매년 9월3일은 방송 독립을 기념하는 날이 되었다. 방송의날이 돌아오면 으레 방송 광고 규제 완화나 방송산업 활성화를 위한 지원책이 필요하다는 내용이 등장하지만 여전히 해결되지 않은 방송계 현안을 돌아보는 것이 먼저다. KBS에선 윤석열 내란 정권이 임명한 박장범 사장이 여전히 자리를 지키며 새 사장 선임에 가처분 소송으로 맞서고 있다. 2024년 12월3일 내란 당일 저녁 박 사장의 수상한 통화 행적을 둘</content:encoded>
+    </item>
+    <item>
+      <title>방송의날, 웃을 수 없는 방송인들</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336865</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336865</guid>
+      <pubDate>2026-09-03T19:07:49.000Z</pubDate>
+      <content:encoded>1947년 9월3일, 국제무선통신회의에서 대한민국 방송이 일제시대 호출부호(JODK) 대신 독자적 호출부호(HL)를 배당받으며 매년 9월3일은 방송 독립을 기념하는 날이 되었다. 방송의날이 돌아오면 으레 방송 광고 규제 완화나 방송산업 활성화를 위한 지원책이 필요하다는 내용이 등장하지만 여전히 해결되지 않은 방송계 현안을 돌아보는 것이 먼저다. KBS에선 윤석열 내란 정권이 임명한 박장범 사장이 여전히 자리를 지키며 새 사장 선임에 가처분 소송으로 맞서고 있다. 2024년 12월3일 내란 당일 저녁 박 사장의 수상한 통화 행적을 둘</content:encoded>
+    </item>
+    <item>
+      <title>국회의장 “국민에게 진실 전한 한국 방송, 필요한 지원 아끼지 않겠다”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336881</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336881</guid>
+      <pubDate>2026-09-03T20:59:26.000Z</pubDate>
+      <content:encoded>제63회 방송의 날 기념식에서 방송산업 위기 타개를 위해 규제 완화가 필요하다는 요구가 나왔다. 방송협회장인 안형준 MBC 사장은 “방송을 규제 대상이 아닌 전략산업으로 인식해달라”고 요청했고, 조정식 국회의장은 국회가 필요한 지원을 하겠다고 밝혔다.조정식 국회의장은 3일 서울 용산구 서울드래곤시티호텔에서 열린 제63회 방송의 날 기념식 영상 축사에서 한국 방송에 대해 “현대사의 결정적 순간마다 현장으로 달려가 국민에게 진실을 전한 시대의 기록자”라며 “백범 김구 선생님께서 염원하셨던 ‘높은 문화의 힘’은 더 이상 이상이 아닌 현실</content:encoded>
+    </item>
+    <item>
+      <title>국회의장 “국민에게 진실 전한 한국 방송, 필요한 지원 아끼지 않겠다”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336881</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336881</guid>
+      <pubDate>2026-09-03T20:59:26.000Z</pubDate>
+      <content:encoded>제63회 방송의 날 기념식에서 방송산업 위기 타개를 위해 규제 완화가 필요하다는 요구가 나왔다. 방송협회장인 안형준 MBC 사장은 “방송을 규제 대상이 아닌 전략산업으로 인식해달라”고 요청했고, 조정식 국회의장은 국회가 필요한 지원을 하겠다고 밝혔다.조정식 국회의장은 3일 서울 용산구 서울드래곤시티호텔에서 열린 제63회 방송의 날 기념식 영상 축사에서 한국 방송에 대해 “현대사의 결정적 순간마다 현장으로 달려가 국민에게 진실을 전한 시대의 기록자”라며 “백범 김구 선생님께서 염원하셨던 ‘높은 문화의 힘’은 더 이상 이상이 아닌 현실</content:encoded>
+    </item>
+    <item>
+      <title>“이재명 정부, 정상화 약속지켜라” YTN 노동자들의 절규</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336879</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336879</guid>
+      <pubDate>2026-09-03T21:04:19.000Z</pubDate>
+      <content:encoded>제63회 방송의날 기념식이 열린 3일 오후 서울 용산구 드래곤시티호텔 앞에서 언론노조 YTN지부 조합원 등 110명이 YTN 불법 민영화 취소를 촉구하는 피케팅을 벌였다.</content:encoded>
+    </item>
+    <item>
+      <title>“이재명 정부, 정상화 약속지켜라” YTN 노동자들의 절규</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336879</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336879</guid>
+      <pubDate>2026-09-03T21:04:19.000Z</pubDate>
+      <content:encoded>제63회 방송의날 기념식이 열린 3일 오후 서울 용산구 드래곤시티호텔 앞에서 언론노조 YTN지부 조합원 등 110명이 YTN 불법 민영화 취소를 촉구하는 피케팅을 벌였다.</content:encoded>
+    </item>
+    <item>
+      <title>“YTN 문제 언제 해결?” 110명 구성원 외침에도 묵묵부답</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336883</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336883</guid>
+      <pubDate>2026-09-03T21:24:24.000Z</pubDate>
+      <content:encoded>“YTN 조합원이다. 저희 문제 언제 해결해 주실 건지 여쭤봐도 될까요?”3일 ‘방송의 날’을 기념하기 위해 행사장을 찾은 김종철 방송미디어통신위원회(방미통위) 위원장을 향해 YTN 구성원들이 여러 번 질문을 던졌으나, 김종철 위원장은 대답하지 않고 행사장으로 향했다.지상파 3사와 EBS, TBS, CBS 등을 회원사로 둔 한국방송협회가 주최한 제63회 ‘방송의 날’ 행사가 서울 용산 드래곤시티에서 열렸다. 이날 전준형 전국언론노동조합 YTN지부장은 행사에 참석한 성기홍 대통령비서실 홍보소통수석, 송기헌 국회 과학기술정보방송통신위원</content:encoded>
+    </item>
+    <item>
+      <title>“YTN 문제 언제 해결?” 110명 구성원 외침에도 묵묵부답</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336883</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336883</guid>
+      <pubDate>2026-09-03T21:24:24.000Z</pubDate>
+      <content:encoded>“YTN 조합원이다. 저희 문제 언제 해결해 주실 건지 여쭤봐도 될까요?”3일 ‘방송의 날’을 기념하기 위해 행사장을 찾은 김종철 방송미디어통신위원회(방미통위) 위원장을 향해 YTN 구성원들이 여러 번 질문을 던졌으나, 김종철 위원장은 대답하지 않고 행사장으로 향했다.지상파 3사와 EBS, TBS, CBS 등을 회원사로 둔 한국방송협회가 주최한 제63회 ‘방송의 날’ 행사가 서울 용산 드래곤시티에서 열렸다. 이날 전준형 전국언론노동조합 YTN지부장은 행사에 참석한 성기홍 대통령비서실 홍보소통수석, 송기헌 국회 과학기술정보방송통신위원</content:encoded>
+    </item>
+    <item>
+      <title>미디어 비정규직 절규에 체포 나선 경찰… “기자회견 끝냈는데 연행? 처음 본다”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336880</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336880</guid>
+      <pubDate>2026-09-03T21:48:29.000Z</pubDate>
+      <content:encoded>“방송의 날이 거대 방송사만의 화려한 축제가 되어선 안 된다”9월3일 제63회 방송의 날 행사가 열리는 서울 용산구 서울드래곤시티 호텔에서 방송계 비정규직·프리랜서 노동자들에게 근로기준법 적용을 요구하는 기자회견이 개최됐다. 방송의 날이 지상파 방송사만의 행사로 끝나선 안 되며, 실제 방송을 제작하는 비정규직 노동자를 위한 최소한의 권리가 보장돼야 한다는 것이다.방송을 만드는 사람들의 이름 엔딩크레딧, 문화예술노동연대, 직장갑질119 온라인노조, 비정규직 이제그만 공동투쟁 등 시민단체는 3일 방송의 날 행사가 열리는 드래곤시티호텔</content:encoded>
+    </item>
+    <item>
+      <title>미디어 비정규직 절규에 체포 나선 경찰… “기자회견 끝냈는데 연행? 처음 본다”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336880</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336880</guid>
+      <pubDate>2026-09-03T21:48:29.000Z</pubDate>
+      <content:encoded>“방송의 날이 거대 방송사만의 화려한 축제가 되어선 안 된다”9월3일 제63회 방송의 날 행사가 열리는 서울 용산구 서울드래곤시티 호텔에서 방송계 비정규직·프리랜서 노동자들에게 근로기준법 적용을 요구하는 기자회견이 개최됐다. 방송의 날이 지상파 방송사만의 행사로 끝나선 안 되며, 실제 방송을 제작하는 비정규직 노동자를 위한 최소한의 권리가 보장돼야 한다는 것이다.방송을 만드는 사람들의 이름 엔딩크레딧, 문화예술노동연대, 직장갑질119 온라인노조, 비정규직 이제그만 공동투쟁 등 시민단체는 3일 방송의 날 행사가 열리는 드래곤시티호텔</content:encoded>
+    </item>
+    <item>
+      <title>김승원 비판에 ‘지귀연’ 소환한 조선 “민주, ‘법복 벗기라’ 맹폭하더니”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336885</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336885</guid>
+      <pubDate>2026-09-04T07:40:43.000Z</pubDate>
+      <content:encoded>정부가 내년 상반기부터 수도권에 남아 있는 중앙행정기관과 공공기관 상당수를 지방으로 이전하고 전체 공공기관의 5분의 1인 109개 기관을 감축하는 방안을 추진한다. 신문들이 이 소식을 1면과 사설에 주요 소식으로 전했다. 동아일보는 “철저한 구조조정”을 주문한 반면, 한겨레는 “국민이 받는 공공서비스가 위축돼선 안 된다”고 했다. 한국일보는 “갈등 최소화”을 관건으로 전했다.정부는 3일 공공기관운영위원회를 거쳐 ‘공공기관 기능개혁 추진 방안’을 발표했다. 한성숙 국무총리는 “2027년 상반기부터 파급효과가 큰 중앙행정기관부터 세종특</content:encoded>
+    </item>
+    <item>
+      <title>김승원 비판에 ‘지귀연’ 소환한 조선 “민주, ‘법복 벗기라’ 맹폭하더니”</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336885</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336885</guid>
+      <pubDate>2026-09-04T07:40:43.000Z</pubDate>
+      <content:encoded>정부가 내년 상반기부터 수도권에 남아 있는 중앙행정기관과 공공기관 상당수를 지방으로 이전하고 전체 공공기관의 5분의 1인 109개 기관을 감축하는 방안을 추진한다. 신문들이 이 소식을 1면과 사설에 주요 소식으로 전했다. 동아일보는 “철저한 구조조정”을 주문한 반면, 한겨레는 “국민이 받는 공공서비스가 위축돼선 안 된다”고 했다. 한국일보는 “갈등 최소화”을 관건으로 전했다.정부는 3일 공공기관운영위원회를 거쳐 ‘공공기관 기능개혁 추진 방안’을 발표했다. 한성숙 국무총리는 “2027년 상반기부터 파급효과가 큰 중앙행정기관부터 세종특</content:encoded>
+    </item>
+    <item>
+      <title>실종 허위종결 사건 두고 확산되는 혐오, 스피커 된 미디어</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336868</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336868</guid>
+      <pubDate>2026-09-04T08:25:20.000Z</pubDate>
+      <content:encoded>최근 제주에서 발생한 실종 허위종결 사건 이후 제주 지역 혐오에 기반한 SNS 게시물이 확산되고 있다. 다수 언론도 커뮤니티 글을 인용하면서 ‘괴담’이라는 이름 아래 혐오를 확산시키고 낙인을 굳혔다. 사건의 본질은 경찰의 허위 종결과 지휘·감독 실패에 있지만, 혐오에 기반한 자극적 음모론이 이를 가리고 있다는 지적이 나온다. 허위종결 사건 후 SNS에서 확산된 ‘제주 혐오’제주에서 실종 신고된 장씨가 숨진 채 발견된 데 이어 잇따른 실종자 시신이 발견되면서, 제주 지역 전체를 ‘위험한 범죄 도시’로 낙인찍는 비난이 확산되고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>실종 허위종결 사건 두고 확산되는 혐오, 스피커 된 미디어</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336868</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336868</guid>
+      <pubDate>2026-09-04T08:25:20.000Z</pubDate>
+      <content:encoded>최근 제주에서 발생한 실종 허위종결 사건 이후 제주 지역 혐오에 기반한 SNS 게시물이 확산되고 있다. 다수 언론도 커뮤니티 글을 인용하면서 ‘괴담’이라는 이름 아래 혐오를 확산시키고 낙인을 굳혔다. 사건의 본질은 경찰의 허위 종결과 지휘·감독 실패에 있지만, 혐오에 기반한 자극적 음모론이 이를 가리고 있다는 지적이 나온다. 허위종결 사건 후 SNS에서 확산된 ‘제주 혐오’제주에서 실종 신고된 장씨가 숨진 채 발견된 데 이어 잇따른 실종자 시신이 발견되면서, 제주 지역 전체를 ‘위험한 범죄 도시’로 낙인찍는 비난이 확산되고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령 사건에 “공소취소 권한 없다” 김승원 발언 주목</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336886</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336886</guid>
+      <pubDate>2026-09-04T09:48:06.000Z</pubDate>
+      <content:encoded>정부는 3일 ‘행정·공공기관 이전 계획 및 공공기관 기능 개혁 방안’을 발표했다. 법무부와 성평등가족부 등 수도권 중앙행정기관의 세종특별자치시 이전을 추진하고, 수도권 공공기관 350여 곳도 ‘잔류 최소화’ 원칙 아래 지방 이전 대상으로 검토한다는 내용이다. 전체 공공기관 524곳 가운데 109곳을 통폐합하거나 감축하고, 한국전력공사 산하 발전 자회사 5곳과 한국석유공사, 한국가스공사, 지역 항만공사 등의 조직을 재편하는 방안도 포함됐다.경향신문은 에서 1차 이전의 한계를 먼저 짚었다. “지방 거점도시의 인프라를 확충했다는 평가를</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령 사건에 “공소취소 권한 없다” 김승원 발언 주목</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336886</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336886</guid>
+      <pubDate>2026-09-04T09:48:06.000Z</pubDate>
+      <content:encoded>정부는 3일 ‘행정·공공기관 이전 계획 및 공공기관 기능 개혁 방안’을 발표했다. 법무부와 성평등가족부 등 수도권 중앙행정기관의 세종특별자치시 이전을 추진하고, 수도권 공공기관 350여 곳도 ‘잔류 최소화’ 원칙 아래 지방 이전 대상으로 검토한다는 내용이다. 전체 공공기관 524곳 가운데 109곳을 통폐합하거나 감축하고, 한국전력공사 산하 발전 자회사 5곳과 한국석유공사, 한국가스공사, 지역 항만공사 등의 조직을 재편하는 방안도 포함됐다.경향신문은 에서 1차 이전의 한계를 먼저 짚었다. “지방 거점도시의 인프라를 확충했다는 평가를</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령 갤럽 지지율 40% 또 최저치 경신… 용혜인·김승원 개각 직격탄</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336889</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336889</guid>
+      <pubDate>2026-09-04T10:57:45.000Z</pubDate>
+      <content:encoded>한국갤럽 조사에서 이재명 대통령 국정 지지도가 40%까지 하락에 또다시 취임 최저치를 경신했다. 지난달 30일 일요일 ‘기습’ 개각이 긍정 효과가 아니라 되레 지지도를 끌어내린 직격탄이 됐다는 분석이 나온다. 일주일 전에 비해 2% 포인트 격차여서 오차범위 이내지만, 6월 지방선거 직전 64% 지지도였던 점을 감안하면 3개월 만에 24% 포인트의 여론이 이 정권에 등을 돌리고 있음을 보여줬다. 특히 호남을 제외하면 모두 30%대여서 민심이반이 심각해보인다.한국갤럽이 2026년 9월 첫째 주인 지난 1~3일 전국 만 18세 이상 유권</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령 갤럽 지지율 40% 또 최저치 경신… 용혜인·김승원 개각 직격탄</title>
+      <link>https://www.mediatoday.co.kr/news/articleView.html?idxno=336889</link>
+      <guid>https://www.mediatoday.co.kr/news/articleView.html?idxno=336889</guid>
+      <pubDate>2026-09-04T10:57:45.000Z</pubDate>
+      <content:encoded>한국갤럽 조사에서 이재명 대통령 국정 지지도가 40%까지 하락에 또다시 취임 최저치를 경신했다. 지난달 30일 일요일 ‘기습’ 개각이 긍정 효과가 아니라 되레 지지도를 끌어내린 직격탄이 됐다는 분석이 나온다. 일주일 전에 비해 2% 포인트 격차여서 오차범위 이내지만, 6월 지방선거 직전 64% 지지도였던 점을 감안하면 3개월 만에 24% 포인트의 여론이 이 정권에 등을 돌리고 있음을 보여줬다. 특히 호남을 제외하면 모두 30%대여서 민심이반이 심각해보인다.한국갤럽이 2026년 9월 첫째 주인 지난 1~3일 전국 만 18세 이상 유권</content:encoded>
     </item>
   </channel>
 </rss>
