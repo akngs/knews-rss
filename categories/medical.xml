@@ -3,84 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-09-06T02:05:15.192Z</lastBuildDate>
-    <item>
-      <title>“AI 일탈 막아라”… 오픈AI, ‘자동 셧다운’ 기능 개발 나서</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260903/134601818/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260903/134601818/2</guid>
-      <pubDate>2026-09-04T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/03/134603166.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI가 인공지능(AI) 작동을 강제로 중단시키는 ‘자동 셧다운’ 기능 개발에 나섰다. 최근 AI가 스스로 보안망을 뚫고 외부 시스템에 침투하는 일이 잇달아 벌어지면서 그동안 성능에 집중하던 빅테크들의 AI 개발 경쟁이 이제 ‘통제력 강화’로 옮겨가고 있다. ● 700개 모델 일탈에… ‘자동 셧다운’ 도입 2일(현지 시간) 로이터통신에 따르면 오픈AI는 최근 그레그 카사르 미국 하원의원 등에게 보낸 서한에서 “AI 시스템의 ‘자동 셧다운 기능(automated shutdown capabilities)’을 개발하고 있다”고 밝혔다. 위험성이 크다고 판단되면 인간이 AI 시스템을 멈출 수 있게 하는 것이다. AI가 사용하는 도구와 행동을 더 촘촘하게 감시하고, 안전성 시험 때 외부 인터넷에 접근할 수 있는 경로도 제한하기로 했다. 오픈AI가 셧다운 기능 개발에 나선 계기는 올 7월 벌어진 보안 사고, 이른바 ‘허깅페이스 사태’다. 당시 소프트웨어의 취약점을 공격하는 보안 평가를</content:encoded>
-    </item>
-    <item>
-      <title>“AI 시대, 진짜 이해는 ‘읽기’의 고군분투서 온다”</title>
-      <link>https://www.donga.com/news/Culture/article/all/20260904/134602924/2</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20260904/134602924/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134603680.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도널드 트럼프 미국 대통령이 5월 트루스소셜에 올린 사진 한 장이 있다. 미 국기가 그려진 군함에서 빨간 레이저 광선이 나와 이란 국기가 그려진 비행기를 격추하는 조악한 합성물. 사진 속엔 단 네 단어가 적혀 있었다. “레이저: 빙, 빙, 끝!!!” 3일 서울 강남구 코엑스에서 열린 독서 플랫폼 ‘kt 밀리의서재’가 창립 10주년을 맞아 개최한 콘퍼런스 ‘읽는 미래’에서 김재인 경희대 비교문화연구소 학술연구교수는 이 사진을 스크린에 띄웠다. 직관적인 이미지와 파편화된 언어로 상황을 단순화하는 트럼프식 소통을 보여준다. 김 교수는 “트럼프는 ‘문자를 벗어난’ 최초의 미 대통령이란 평가를 받기도 한다”며 “읽기가 사라져가는 시대의 소통 방식을 대표하는 사례”라고 설명했다. 이날 콘퍼런스는 인공지능(AI)이 등장하며 급속도로 달라지고 있는 독서의 의미와 미래의 읽기를 모색하는 자리였다. 김경일 아주대 심리학과 교수와 소설가 은희경·김초엽, 신형철 문학평론가, 홍한별 번역가 등이 연사로</content:encoded>
-    </item>
-    <item>
-      <title>18년 만에 수컷 초파리 뇌 지도 ‘커넥톰’ 완성</title>
-      <link>https://www.donga.com/news/It/article/all/20260904/134602286/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260904/134602286/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134603644.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;수컷 초파리의 중추신경계를 구성하는 16만6000개 이상의 뉴런을 연결한 전체 신경 연결지도인 ‘커넥톰’이 완성됐다. 감각정보를 받아 행동으로 이어지는 신경회로를 추적하고 성별에 따른 행동 차이를 분석하는 데 활용될 것으로 기대된다. 미국 하워드휴스의학연구소(HHMI) 자넬리아 연구캠퍼스 연구팀과 구글리서치, 영국 분자생물학연구소, 케임브리지대 공동연구팀은 성체 수컷 초파리의 뇌와 복부신경삭 커넥톰을 구축한 연구 결과를 국제 학술지 ‘셀’에 3일(현지 시간) 공개했다. 커넥톰은 뇌의 신경세포 연결을 종합적으로 표현한 뇌 회로도다. 중추신경계는 뇌와 복부신경삭으로 구성된다. 복부신경삭은 뇌와 몸을 연결해 감각정보를 뇌로 전달하고 뇌의 운동 명령을 몸으로 보내는 신경조직이다. 초파리 전체 중추신경계의 신경 연결망을 완성하려는 시도는 2008년 시작됐다. 연구팀은 2020년 초파리 뇌 절반에 해당하는 약 2만5000개 뉴런의 연결망인 ‘헤미브레인’을 공개했다. 당시 가장 크고 정교했</content:encoded>
-    </item>
-    <item>
-      <title>위고비 맞은 생쥐, 92일 더 살았다</title>
-      <link>https://www.donga.com/news/It/article/all/20260904/134602284/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260904/134602284/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134603636.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인기 비만치료제 ‘위고비’와 당뇨병 치료제 ‘오젬픽’의 주성분이기도 한 ‘세마글루타이드’가 동물실험에서 수명 연장 효과를 나타냈다. 사람에게도 수명 연장 효과를 일으키는지 규명하려면 장기적인 임상 연구가 필요하다.  대니카 첸 미국 버클리 캘리포니아대(UC버클리) 대사생물학·영양학·독성학과 교수 연구팀은 ‘글루카곤 유사 펩타이드-1(GLP-1) 약물’이 생쥐의 건강 상태를 개선하고 수명을 연장한다는 점을 확인하고 연구 결과를 2일(현지 시간) 국제학술지 ‘네이처’에 발표했다. 세마글루타이드는 장에서 분비되는 호르몬인 GLP-1의 작용을 흉내 내는 약물 성분이다. GLP-1 수용체에 직접 결합해 포만감을 높이고 식욕을 억제하며 혈당을 조절하는 효과를 내 비만과 제2형 당뇨병 치료제로 쓰인다. 심혈관 질환, 신장 질환, 간 질환 등 다양한 질환 발생 위험을 낮추는 등 건강상 이점도 확인되고 있다. 이 같은 효과가 나타나는 생물학적 근거는 아직 불분명하다. 세마글루타이드를 투약하면</content:encoded>
-    </item>
-    <item>
-      <title>배란기 여성들의 ‘욕구’… ‘로고 큰 명품’에 끌린다</title>
-      <link>https://www.donga.com/news/It/article/all/20260904/134602290/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20260904/134602290/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134603676.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;여성들이 배란기에 다른 사람들에게 티가 잘 나는 과시적인 명품을 선호하는 경향이 커진다는 연구 결과가 나왔다. 김애경 전북대 경영학과 교수 연구팀은 배란기 여성에게서 눈에 잘 띄는 명품 소비 욕구가 증가한다는 실험 결과를 2일(현지 시간) 국제학술지 ‘플로스 원’에 공개했다. 난소에서 난자가 나오는 배란기는 임신 가능성이 가장 높은 생리 주기다. 선행 연구에 따르면 배란기에 성적 욕구가 높아지거나 사람들과 더 많이 어울리려 하고, 더 눈에 띄는 옷을 선택한다. 가임력이 높은 시기에 행동과 소비 패턴이 달라질 수 있다는 뜻이다. 연구팀은 커다란 로고가 붙은 명품도 눈에 잘 띄는 ‘신호’로 작용할 수 있다고 봤다. 명품이 단지 값비싼 물건이 아니라 다른 사람에게 지위와 부, 명성을 보여주는 도구로 기능한다는 관점이다. 연구팀은 먼저 호르몬 피임제를 쓰지 않는 평균 연령 22.6세의 여성 대학생 70명을 대상으로 실험을 했다. 실험 참가자들은 구찌나 샤넬 등 명품 브랜드 로고를 보</content:encoded>
-    </item>
-    <item>
-      <title>티빙 계정 3954만개 유출… 암호화키 털리고 해외전송 정황도</title>
-      <link>https://www.donga.com/news/Economy/article/all/20260904/134602965/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20260904/134602965/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134603555.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;5월 티빙에서 유출된 이용자 계정이 총 3954만 개로 확인됐다. 활성 계정은 물론이고 휴면·탈퇴·시험용 계정까지 티빙이 보관해 온 계정 정보가 사실상 모두 새 나갔다. 서비스의 설계도 격인 소스코드 361건이 통째로 빠져나갔고, 유출 정보가 해외 서버로 전송된 정황도 드러났다. 정확한 피해 인원은 아직 나오지 않았지만 최소 1300만 명이 넘을 것으로 추정하고 있다.● 휴면·탈퇴 계정까지 모두 유출과학기술정보통신부는 3일 이 같은 내용의 티빙 침해사고 민관합동조사단의 조사 결과를 발표했다. 이번 사고는 티빙이 올 5월 30일 서버 과부하 원인을 살피던 중 비인가자의 내부 서버 접근 사실을 확인하고 6월 1일 한국인터넷진흥원(KISA)에 신고하면서 드러났다. 유출 계정은 서비스 접속이 가능한 활성 2206만 개, 휴면·탈퇴 1737만 개, 시험용 11만 개다. 임정규 과기정통부 정보보호네트워크정책관은 “휴면·탈퇴 계정을 포함해 모든 계정이 유출됐다”고 말했다. 다만 한 사람이</content:encoded>
-    </item>
-    <item>
-      <title>여객 1위 인천공항, 세계 첫 5년 연속 서비스 최고등급</title>
-      <link>https://www.donga.com/news/People/article/all/20260904/134603270/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260904/134603270/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>올 상반기(1∼6월) 국제여객 수 세계 1위에 오른 인천국제공항이 공항 서비스 분야에서도 세계 최고 기록을 세웠다. 국제공항협의회(ACI)의 고객경험 인증에서 5년 연속 최고 등급을 받았다. 3일 인천국제공항공사에 따르면 인천공항은 튀르키예 이스탄불에서 열린 ACI ‘제8회 글로벌 고객경험 서밋’에서 고객경험 인증 최고 등급인 5단계를 획득했다. ACI가 2019년 고객경험 인증 프로그램을 도입한 이후 최고 등급을 5년 연속 받은 공항은 세계 주요 공항 143곳 중 인천공항이 처음이다. 인천공항은 2022년 처음 5단계 인증을 받은 뒤 매년 재인증에 성공했다.  올해 재인증 심사에서 인천공항은 빅데이터를 활용해 고객 특성을 심층 분석하고, 이동 과정에서 발생할 수 있는 불편을 선제적으로 개선한 점 등이 높은 평가를 받았다. 인공지능(AI) 등 스마트 기술을 활용해 공항 서비스를 혁신한 점도 인정받았다.</content:encoded>
-    </item>
-    <item>
-      <title>박장선 회장, 항공대에 10억 기부</title>
-      <link>https://www.donga.com/news/People/article/all/20260904/134603266/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20260904/134603266/2</guid>
-      <pubDate>2026-09-04T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134603510.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중소기업중앙회는 박장선 중기중앙회 부회장 겸 한국인쇄협동조합연합회 회장(사진)이 한국항공대에 발전기금 10억 원을 추가로 기부하기로 약정했다고 3일 밝혔다. 이는 2024년 10억 원 기부에 이은 두 번째 기탁이다. 박 회장은 이날 한국항공대 학술정보관에서 열린 ‘박장선 라운지’ 개관식에서 “항공우주 분야 발전을 이끌어갈 미래 인재들이 이곳에서 꿈을 키워 나가는 데 작은 보탬이 되길 바란다”고 기부 취지를 밝혔다.</content:encoded>
-    </item>
-    <item>
-      <title>담배 못끊는 암환자들…44% “진단 후에도 흡연”</title>
-      <link>https://www.donga.com/news/Society/article/all/20260904/134604101/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20260904/134604101/1</guid>
-      <pubDate>2026-09-04T09:02:50.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134604102.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;암 환자 10명 중 4명은 암 진단을 받은 후에도 담배를 끊지 못한다는 분석결과가 나왔다. 반면, 암 진단후 금연할 경우 담배를 계속 피운 환자와 비교해 심근경색 등 심혈관 질환 위험을 36% 낮추는 것으로 나타났다. 삼성서울병원 암병원 암환자삶의질연구소(신동욱·최혜림 가정의학과 교수, 김홍관 폐식도외과 교수, 강단비  임상역학연구센터 교수 연구팀)는 2015∼2022년 국민건강보험공단 빅데이터를 활용해 암 진단 당시 흡연자 4만6834명을 분석한 결과 이 같이 나타났다고 4일 밝혔다.암 진단 후 연초를 지속한 사람은 1만7418명(37.2%), 전자담배로 전환한 사람은 3507명(7.5%)로 전체의 44.7%는 여전히 흡연을 하는 것으로 나타났다. 반면 완전히 금연한 사람은 2만5909명(55.3%)이었다. 전자담배 전환군 중 2252명(64.2%)는 연초를 함께 피운 이중 사용자였다.중앙 추적기간 4.2년 동안 나이, 성별, 소득, 암종, 치료 방식, 진단 전 흡연량,</content:encoded>
-    </item>
-    <item>
-      <title>세븐가드너스 “해외 가든센터 구현한 가드닝 플랫폼…가드닝 어렵다는 인식 바꿀 것” [농업이 잇(IT)다]</title>
-      <link>https://www.donga.com/news/It/article/all/20260904/134604148/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260904/134604148/1</guid>
-      <pubDate>2026-09-04T09:12:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134604138.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[KOAT x IT동아] 한국농업기술진흥원과 IT동아는 우리나라 농업의 발전과 디지털 전환을 이끌 유망한 스타트업을 소개합니다. 기발한 아이디어와 상품, 그리고 독창적인 기술로 우리의 삶을 윤택하게 할 전국 각지의 농업 스타트업을 만나보세요.국내 ’가드닝(Gardening)’ 유통 시장의 약 95% 이상은 화분과 식물에만 쏠려 있고, 다른 용품이 차지하는 비중은 턱없이 낮다. 도구와 장비를 갖추고 즐기는 취미로서의 가드닝 문화가 자리 잡지 못했기 때문이다. 그동안 가드닝은 정원이 있어야만 가능하다는 인식과 식물 관리가 까다롭다는 부담 탓에 대중적인 취미로 자리 잡지 못했다.세븐가드너스는 이러한 시장의 한계와 인식을 개선하기 위해 시작된 가드닝 스타트업이다. 가드닝 입문자부터 정원을 가꾸는 하이엔드 고객까지 전 구간을 아우르는 용품을 제공한다. 국내에서 접하기 힘들었던 해외 프리미엄 용품을 소개하고, 온·오프라인 플랫폼을 통해 선진 가든센터 문화를 확산시키는 데 앞장서고 있다.해</content:encoded>
-    </item>
-    <item>
-      <title>[기고] AI 챗봇으로 사내 지식을 관리하는 법</title>
-      <link>https://www.donga.com/news/It/article/all/20260904/134604533/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20260904/134604533/1</guid>
-      <pubDate>2026-09-04T09:54:17.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134604474.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;요즘 경영진 사이에서 “우리도 AI 써야 하지 않나”라는 말이 부쩍 늘었다. 하지만 벤처스튜디오형 액셀러레이터인 알파브라더스가 말하는 AX(AI Transformation)는 단순한 AI 툴 도입이 아니다. 진짜 목표는 매출·비용·속도·품질 같은 비즈니스 임팩트고, AX는 그 임팩트를 가로막는 문제에서 출발해 가장 적합한 해결책을 찾는 과정이다. 어떤 문제엔 AI가, 어떤 문제엔 단순 자동화나 업무 문화 개선이 더 나은 답일 수 있다.알파브라더스는 앞서 1부에서 영업일지 수집을 자동화해 연 990만 원을 아낀 사례를, 2부에서 커뮤니케이션 품질을 개인 역량에서 분리해 주간보고 작성 시간을 3시간에서 30분으로 줄인 사례를, 3부에서는 사내벤처 그로스파이낸스가 재무 데이터 취합과 PL 제작에 AI와 사람의 역할을 나눠 연 2800만 원 이상을 절감한 사례를 각각 다뤘다. 영업, 고객 소통, 재무관리까지 외부 거래를 중심으로 한 AX를 살펴봤다면 이번 4부에서는 시선을 내부로 돌린다.</content:encoded>
-    </item>
+    <lastBuildDate>2026-09-07T02:02:48.901Z</lastBuildDate>
     <item>
       <title>녹내장 수술 후 시력…수술법 아닌 ‘이것’이 좌우</title>
       <link>https://www.donga.com/news/Society/article/all/20260904/134604535/1</link>
@@ -353,6 +276,83 @@
       <guid>https://www.donga.com/news/It/article/all/20260904/134604453/2</guid>
       <pubDate>2026-09-06T09:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134604345.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;달리기를 하면 무릎 연골이 닳는다는 속설이 있다. 이 때문에 관절이 좋지 않은 사람 가운데 상당수는 지레 겁을 먹고 달릴 생각조차 하지 않는다. 걷기는 꾸준히 하지만 운동 강도를 조금 더 높이고 싶은 사람도 있다. 이럴 때  걷는 속도로 천천히 뛰는 ‘슬로우 조깅’이 대안이 될 수 있을까. 고려대학교 안암병원 스포츠의학센터 이진혁 박사와 가톨릭대학교 서울성모병원 재활의학과 허양록 임상강사에게 무릎이 어느 정도 상태라면 슬로우 조깅을 해도 되는지, 반대로 어떤 신호가 나타나면 달리기를 피해야 하는지 물었다.달리면 연골 닳는다?달리기를 하면 충격 때문에 연골이 계속 닳는다고 생각할 수 있다. 하지만 현재까지 축적된 연구 결과는 이러한 통념을 뒷받침하지 않는다.허 강사는 “일반인이 건강 목적으로 하는 수준의 달리기는 하지 않는 사람과 비교해 무릎 관절염 위험을 높이지 않는다는 연구들이 있으며, 일부 연구에서는 오히려 관절염의 유병률이 낮게 나타나기도 했다”고 설명했다.이어 “적</content:encoded>
+    </item>
+    <item>
+      <title>바닷속 산호에 ‘유산균’ 주니 폭염 거뜬…산호초 살릴 해법 될까</title>
+      <link>https://www.donga.com/news/It/article/all/20260904/134607116/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260904/134607116/2</guid>
+      <pubDate>2026-09-06T13:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/04/134607461.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사람이 장 건강을 위해 유산균을 챙겨 먹듯, 산호에도 유산균을 투여하면 폭염 속에서도 더 잘 견딘다는 흥미로운 연구 결과가 나왔다. 이번 연구는 실험용으로 조성된 수조 환경이 아니라 실제 바다에서 효과를 확인했다는 점에서 더 주목받고 있다.사우디아라비아 킹압둘라과학기술대학교(KAUST) 해양미생물체연구실 연구팀은 3일(현지시간) 국제학술지 &amp;apos;셀 리포츠(Cell Reports)&amp;apos;에 산호의 폭염 스트레스를 줄이기 위한 미생물 치료법 연구 결과를 발표했다.</content:encoded>
+    </item>
+    <item>
+      <title>“두발로 걷는 홈 로봇 준비중… 안전 검증 위해 공장 우선 투입”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260906/134614742/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260906/134614742/2</guid>
+      <pubDate>2026-09-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134614528.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;5일(현지 시간) 찾은 유럽 최대 가전·정보기술(IT) 전시회 ‘IFA 2026’의 LG전자 부스. 전시장에 들어서자 오케스트라 음악과 함께 가로 16m, 세로 4m의 대형 키네틱 발광다이오드(LED)가 열렸고, 무대 한가운데 홈로봇 ‘LG 클로이드’가 ‘오케스트라 지휘자’로 등장했다. 클로이드가 양팔을 움직이자 반원 형태로 늘어선 냉장고와 세탁기, 올레드TV, 에어컨 등 31개 가전에 차례로 조명이 들어왔다. 집 안의 다양한 가전을 인공지능(AI)으로 연결해 클로이드가 ‘총괄’하는 LG전자의 ‘제로 레이버 홈(Zero Labor Home)’ 구상을 한눈에 보여준 것이다.  LG전자는 이렇듯 미래 가정의 핵심 폼팩터가 ‘로봇’이 될 것이라 내다보며 IFA 2026을 기점으로 로봇 플랫폼은 물론이고 액추에이터 등 부품 사업까지 로봇 생태계 전반으로 사업 영역을 확장할 계획이다. 백승태 LG전자 HS사업본부장은 5일 독일 베를린에서 열린 IFA 2026 기자간담회에서 “각각의 가전제품</content:encoded>
+    </item>
+    <item>
+      <title>하반기 스마트폰 가로폭 넓힌 ‘와이드 폴드’ 대전</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260906/134614740/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260906/134614740/2</guid>
+      <pubDate>2026-09-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134611062.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;하반기 프리미엄 스마트폰 시장에서 접었을 때 여권처럼 가로로 넓은 ‘와이드 폴드’ 대전이 본격화하고 있다. 삼성전자가 지난달 화면을 넓힌 갤럭시 Z 폴드8을 출시한 데 이어 샤오미가 애플의 신제품 공개를 이틀 앞두고 와이드형 ‘샤오미 18 폴드’를 선보였다. 4일(현지 시간) 찾은 독일 베를린 ‘IFA 2026’ 샤오미 부스 한쪽에는 붉은색 ‘샤오미 18 폴드’가 펼쳐진 채 놓여 있었다. 샤오미가 이번 IFA에서 실물을 처음 공개한 제품이지만, 관람객이 직접 제품을 들어 접고 펴보는 것도 허용되지 않았다.  샤오미는 7일 중국에서 열리는 가을 신제품 행사에서 18 폴드를 전면에 내세울 예정이다. 18 폴드는 접었을 때 여권에 가까운 넓고 짧은 형태가 특징이다. 자료에 따르면 펼쳤을 때 화면 크기는 7.58형이다. 샤오미가 자체 개발한 차세대 모바일 애플리케이션프로세서(AP) ‘엑스링(XRING) O3’를 처음 탑재한 플래그십 스마트폰이기도 하다. 자체 인공지능(AI) 모델과 신경</content:encoded>
+    </item>
+    <item>
+      <title>“AI 데이터센터 발열 잡아라”… 정유사 ‘액체냉각’ 새 시장 경쟁</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260906/134614964/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260906/134614964/2</guid>
+      <pubDate>2026-09-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134615943.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 데이터센터의 발열 문제가 지속적으로 제기되는 가운데 정유 업계가 ‘액침냉각유’ 시장에 본격적으로 뛰어들고 있다. AI 데이터센터에 들어가는 그래픽처리장치(GPU)의 성능이 점점 높아지며 발열 문제도 심화되고 있는데 기존 냉각방식을 보완할 대안으로 액침냉각이 주목받고 있어서다. 6일 업계에 따르면 최근 AI 데이터센터 내 고성능 GPU 서버 밀도가 높아지며, 공기를 이용해 열을 식히는 ‘공랭식 냉각’의 한계가 드러나고 있다. 기존 공랭식 데이터센터는 전체 전력 소비량의 약 30∼40%를 냉각에 소진하는 등 전력 부담도 크다. 이에 전기가 통하지 않는 절연성 냉각유에 서버 전체를 직접 담가 열을 식히는 ‘액침냉각’이 공랭식보다 적은 전력과 비용으로 열을 효율적으로 제거할 수 있는 대안으로 부상하고 있다. 글로벌 시장조사기관 포천비즈니스인사이트는 데이터센터 액침냉각 시장 규모가 2025년 2억8729만 달러(약 3877억 원)에서 2034년 16억9411만 달러(약 2</content:encoded>
+    </item>
+    <item>
+      <title>오픈AI 에이전트 또 일탈, 이번엔 獨위키 장악</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260906/134614980/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260906/134614980/2</guid>
+      <pubDate>2026-09-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/02/134589060.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI의 인공지능(AI) 에이전트들이 독일의 프로그래밍 사이트를 장악해 서로 정보를 주고받은 사건이 일어났다. 올 7월 AI 에이전트들이 시험 환경을 벗어나 AI 플랫폼 허깅페이스 시스템에 침투한 ‘허깅페이스 사태’에 이어 또 다른 AI 에이전트의 일탈이 확인된 것이다. 회사 측은 사건을 공식적으로 인정하고 AI의 일탈 사고에 대한 공개 범위를 확대하겠다고 전했다. 5일(현지 시간) 로이터통신에 따르면 오픈AI의 AI 에이전트들은 올 5월부터 독일 웹사이트 ‘DseWiki’를 자신들의 비밀 게시판처럼 사용하며 1만5000건이 넘는 무단 편집을 감행했다. DseWiki는 위키피디아처럼 이용자들이 공동으로 내용을 수정하는 독일어 프로그래밍 정보 사이트다. 당시 오픈AI의 테스트 과제를 수행하던 에이전트들은 해당 사이트에 무단으로 접근해 과제의 답이나 오픈AI의 제한을 우회하는 방법 등을 주고받았다. 이 과정에서 사이트 문서를 편집하는 방식을 사용했다. 일부는 자신들의 활동이 탐지되지</content:encoded>
+    </item>
+    <item>
+      <title>매일 음식 담는데… 포장-주방용품 87% 안전성 검증 약하다</title>
+      <link>https://www.donga.com/news/It/article/all/20260906/134613088/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260906/134613088/2</guid>
+      <pubDate>2026-09-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134613087.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;식품 포장재, 주방용품 등 식품과 접촉하는 물질에 사용되는 1만5159종 화학물질의 안전성 데이터를 살펴본 결과 약 87%는 데이터가 부족한 것으로 나타났다. 스위스 취리히 소재 비영리 연구재단 ‘식품포장포럼재단(Food Packaging Forum Foundation)’은 이 같은 내용을 담은 연구 결과를 1일(현지 시간) 국제학술지 ‘환경 과학&amp;기술’에 공개했다. 식품과 접촉하는 화학물질 중에는 인체에 유해한 것들이 많다. 문제는 유해성을 하나하나 검증해 규제하기에는 식품에 접촉하는 화학물질이 너무 많다는 점이다. 연구팀은 이런 문제를 해결하기 위해 유해한 화학물질을 빠르고 명확하게 구분하기 위한 지침을 개발했다.● 방대한 데이터로 유해한 화학물질 구분 연구팀은 식품 포장 포럼에서 관리하는 식품 접촉 화학물질(FCC·Food Contact Chemicals) 데이터베이스 2건을 통합해 총 1만5159종의 화학물질 데이터베이스를 만들었다. 각 화학물질이 얼마나 유해한</content:encoded>
+    </item>
+    <item>
+      <title>KAIST 연구진, 금속 결합 법칙 ‘70년 정설’ 뒤집었다</title>
+      <link>https://www.donga.com/news/It/article/all/20260906/134613085/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20260906/134613085/2</guid>
+      <pubDate>2026-09-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/06/134613081.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난 70여 년간 무기화학 교과서에서 불변의 기본 원리로 통했던 ‘금속 결합 안정성 법칙’을 국내 연구진이 뒤집었다. 가장 안정적으로 결합하는 금속으로 알려진 구리를 ‘결합 1위’ 자리에서 밀어냈다. KAIST는 백윤정 화학과 교수 연구팀이 비타민 B2의 핵심 골격인 ‘플라빈’을 이용해 금속 착물을 합성하고 주변부 수소결합을 제어해 기존 ‘어빙-윌리엄스 계열(Irving―Williams series)’과 반대되는 안정성 경향을 구현했다고 6일 밝혔다. 금속 착물은 금속 이온 주위를 결합 분자(리간드)나 이온들이 둘러싸 결합해 있는 화학물질을 의미한다. 73년 전인 1953년 발표된 어빙-윌리엄스 계열은 망간, 철, 코발트, 니켈, 구리, 아연 등 2가 전이금속이 주변 분자와 안정적으로 결합하는 순서다. 전자 구조와 이온 크기 특성상 원자번호 순서인 망간에서 구리로 갈수록 안정성이 높아지다가 아연에서 안정성이 다시 꺾여 떨어진다. 구리는 이온 크기가 작아 중심 전하 밀도가 높기</content:encoded>
+    </item>
+    <item>
+      <title>어린시절 뚱뚱한 아이…80%는 “성인돼서도 비만”</title>
+      <link>https://www.donga.com/news/It/article/all/20260907/134616175/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260907/134616175/1</guid>
+      <pubDate>2026-09-07T02:25:04.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/07/134616176.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;소아·청소년 비만은 단순히 많이 먹고 덜 움직여서 생기는 문제가 아니다. 식욕과 포만감을 조절하는 호르몬 체계, 에너지를 저장하고 소비하는 대사 방식 자체가 개인마다 다르게 작동하는 만성질환이다. 7일 대한비만학회의 ‘2025년 비만 팩트시트’에 따르면, 부모가 모두 비만일 경우 자녀의 비만 위험은 최대 5.9배, 딸은 최대 7배까지 높아지는 것으로 나타났다. 유전적 요인과 가정 내 생활환경 등이 복합적으로 작용한다는 뜻이다. 그렇기에 비만은 의지의 문제가 아니라, 관리하고 치료해야 할 대상이다.문제는 비만을 방치했을 때다. 약 20만 명의 비만 소아·청소년을 추적한 해외 한 대규모 코호트 분석에 따르면 청소년기에 비만이었던 아이들 중 약 80%는 성인이 돼서도 비만으로 이어지는 것으로 나타났다2. 어릴 때 잡지 못한 체중이 평생을 따라다니는 셈이다.더 심각한 건 비만으로 인한 합병증이 이미 청소년기부터 시작된다는 점이다. 국내 비만 학생을 대상으로 한 조사에서는 2023년 기</content:encoded>
+    </item>
+    <item>
+      <title>갤폴드8에 빠진 1030세대…아이폰→갤폴드 환승 ‘2배 폭증’</title>
+      <link>https://www.donga.com/news/Economy/article/all/20260907/134616676/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20260907/134616676/1</guid>
+      <pubDate>2026-09-07T08:59:03.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/07/134616677.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난달 국내 이동전화 번호이동자 수가 68만명을 넘어서며 연중 최대 수준으로 치솟았다. 삼성전자의 8세대 폴더블폰 ‘갤럭시 Z 폴드8’ 시리즈가 폭발적인 반응을 얻으면서, 아이폰(iOS) 이용자들의 ‘갤럭시 갈아타기’ 비중도 전작 대비 2배 급증한 것으로 나타났다. 7일 한국통신사업자연합회(KTOA)에 따르면 지난 8월 이동전화 번호이동자 수는 약 68만명으로 전월 및 전년 동기 대비 모두 증가세를 나타냈다. 지난 8월 출시된 8세대 갤럭시 폴더블 시리즈의 신제품 효과가 단말기 교체 수요를 대거 자극한 결과다.눈에 띄는 대목은 애플 iOS 이용자의 대규모 이탈이다. 통신업계에 따르면 이번 8세대 갤럭시 폴더블 시리즈로 기기를 전환한 고객 중 기존 아이폰 사용자가 차지하는 비중은 7세대(Z 폴드7·플립7) 대비 약 2배 늘어난 것으로 집계됐다.아이폰 충성도가 높은 10~30대 젊은 층이 대거 폴드8으로 이동한 일등 공신으로는 ‘디자인과 화면비의 대변신’이 꼽힌다.갤럭시 Z 폴드</content:encoded>
+    </item>
+    <item>
+      <title>디자인셀, 세포외소포(EV) 플랫폼 연구 속도… 메타콤과 MOU</title>
+      <link>https://www.donga.com/news/It/article/all/20260903/134601295/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260903/134601295/1</guid>
+      <pubDate>2026-09-07T09:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/03/134601230.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;디자인셀 주식회사가 줄기세포와 동물 조직 유래 세포외소포(EV)를 활용한 재생의학 및 약물 전달체 기초 연구에 속도를 낸다. 디자인셀은 메타콤(METACOM) 주식회사와 ‘세포외소포 기반 기술 연구 및 사업화 협력을 위한 업무협약(MOU)’을 체결했다고 밝혔다. 양사는 이번 협약을 통해 R&amp;D 성과의 상용화 가능성을 검토하고 시장 커뮤니케이션을 공동 추진하기로 했다. 세포외소포는 세포가 외부로 분비하는 지질 이중막 구조의 미세 입자로, 생체 물질을 포함해 다른 세포와 상호작용하는 특성이 있다. 최근 바이오 업계에서는 재생의학, 바이오마커, 약물 전달 기술 등의 분야에서 핵심 연구 소재로 주목받고 있다. 디자인셀은 줄기세포 및 동물 조직 유래 EV 기술을 바탕으로 기능성 후보물질을 탐색하는 한편, 분리·정제와 특성 분석, 생산공정 검토 등 초기 R&amp;D 단계를 단계적으로 진행한다는 구상이다. 상대적으로 규제 문턱이 낮은 식물 유래 EV의 경우 화장품 원료 등 비의료</content:encoded>
+    </item>
+    <item>
+      <title>“아이폰→갤폴드 환승 찐이었네”…폴드8 환승족 전년比 2배↑</title>
+      <link>https://www.donga.com/news/It/article/all/20260907/134617162/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20260907/134617162/1</guid>
+      <pubDate>2026-09-07T09:47:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/07/134617307.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자(005930) 갤럭시Z폴드8 시리즈가 흥행에 성공하며 지난달 애플 아이폰에서 갤럭시Z 시리즈로 갈아타는 소비자도 큰 폭으로 늘어났다.7일 통신·유통업계에 따르면 삼성전자 갤럭시Z폴드8·울트라·플립8로 단말을 교체한 사람 중 애플 iOS에서 넘어온 사람의 비중이 전작 대비 2배 증가했다.한국통신사업자연합회(KTOA)에 따르면 지난달 전체 번호이동자는 68만 346명을 기록했다. 전년 동기(64만 4618건), 전월(63만 5361명) 수치보다 증가한 수치다.전체 번호이동자가 증가한 가운데, 아이폰에서 갤럭시로 교체하는 수요까지 급증한 건 올해 하반기 처음 출시된 ‘4 대 3’ 비율의 와이드 폴더블 폰 갤럭시Z폴드8의 인기 때문으로 풀이된다.갤럭시Z8 시리즈는 지난 7월 28일부터 8월 3일까지 진행된 국내 사전판매에서 총 144만 대를 기록한 바 있다. 역대 최대 수치다.갤럭시Z폴드8의 경우, 여권 크기와 유사한 화면 비율에 세련된 컬러, 슬림한 폼팩터를 갖췄다. 이</content:encoded>
     </item>
   </channel>
 </rss>
