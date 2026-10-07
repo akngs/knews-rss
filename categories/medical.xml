@@ -3,336 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-10-06T03:59:10.587Z</lastBuildDate>
-    <item>
-      <title>전 금융권서 동시다발 AI 해킹… 동일 공격자 정황 포착</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134784563/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134784563/2</guid>
-      <pubDate>2026-10-05T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/04/134784015.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)을 활용한 것으로 보이는 해킹 공격이 5대 은행에 이어 저축은행, 캐피털사 등으로 번지면서 금융사 7곳에서 7만 건에 육박하는 개인정보가 유출됐다. 동일 공격자가 AI 도구를 활용해 사실상 전 금융권에서 동시다발적으로 시도한 정황이 발견되고 있다. 이재명 대통령은 이번 금융권 해킹에 대해 철저한 조사를 주문했다.4일 금융권에 따르면 예가람저축은행에서는 지난달 30일 해킹으로 고객 약 4만 명의 정보가 유출됐다. 현대캐피탈에서는 대출모집인 146명의 이름과 주민등록번호 등이, 웰컴저축은행에서는 법인고객 정보 2200여 건이 빠져나갔다. 이번에 해킹으로 털린 정보는 회사마다 다르지만 고객명, 전화번호, 연 소득, 주소, 직장명, 이메일 주소 등 민감한 개인정보가 많다. 공격자는 AI를 이용해 여러 금융사에 자동화된 공격을 한 것으로 추정된다. 금융보안 관계자에 따르면 은행을 공격한 인터넷 주소(IP)에서 아텍스(ARTEX) AI의 흔적이 확인돼 현재 경찰청 사이버수사국</content:encoded>
-    </item>
-    <item>
-      <title>악성코드 없이 8개국 IP 이용 무차별 해킹… ‘중국어 AI’ 흔적 조사</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134784557/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134784557/2</guid>
-      <pubDate>2026-10-05T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134784697.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 금융권에 확산 중인 연쇄 해킹은 악성코드를 심고 서버를 장악하던 기존 방식에서 벗어나 인공지능(AI)을 활용한 무차별 동시다발적 공격을 통해 상대적으로 취약한 ‘뒷문’을 노렸다. AI의 무수한 반복 작업으로 시간과 비용을 절감한 흔적이 서버에서 발견된 것이다.  AI 사이버 위협이 일상화되고 있지만 주요 시중은행들의 대응 역량과 정보 보호 투자는 제자리걸음인 것으로 나타났다. 금융권 AI 해킹으로 대규모 금전 피해나 2차 범죄가 나타나지 않을지 국민들의 불안감이 커지는 가운데, 금융 당국은 연휴에 은행장 등을 소집해 긴급회의를 열었다. ● 악성코드로 서버 장악→무차별 동시다발 공격4일 금융권에 따르면 은행 4곳과 저축은행 2곳, 캐피털사 1곳 등 금융회사 7곳을 대상으로 진행된 외부 공격은 시스템을 장악하지 않고 접속해 조회하는 방식으로 고객과 임직원 등의 정보를 가져간 것으로 파악됐다. 신한은행을 공격한 해커는 ‘대출상담사 접수 대출 진행 현황 조회’ 서비스에 고객번호</content:encoded>
-    </item>
-    <item>
-      <title>은행 사칭해 대출상담 ‘피싱’ 2차피해 우려</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261004/134784553/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261004/134784553/2</guid>
-      <pubDate>2026-10-05T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/04/134783282.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 금융권에 확산되는 연쇄 해킹으로 고객 정보가 유출되는 일이 발생하면서 소비자들의 불안이 커지고 있다. 금융당국은 현재까지 부정결제 등에 직접 활용될 수 있는 정보는 유출되지 않았지만, 향후 보이스피싱 같은 2차 피해로 이어질 가능성이 있다고 경고했다. 이억원 금융위원장은 4일 정부서울청사에서 전 금융권 긴급 점검회의를 갖고 “현재까지 부정결제 등에 직접 활용될 수 있는 민감한 정보가 유출된 정황은 확인되지 않았다”면서도 “보이스피싱, 스미싱 등 2차 피해로 이어질 가능성도 배제할 수 없는 만큼 긴장의 끈을 놓지 않고 선제적으로 대응해야 한다”고 강조했다. 현재 외부 공격으로 고객과 임직원의 정보를 탈취당한 금융회사들은 금융거래 시스템과 관련된 데이터는 외부에 유출되지 않았다고 설명했다. 다만 현재 조사가 진행 중인 만큼 추가 피해가 확인될 가능성이 있다. 개인정보 가운데 세부 민감 데이터 일부가 유출됐다는 점도 추가 피해 우려를 키우고 있다. 가장 먼저 해킹 피해가 알려진</content:encoded>
-    </item>
-    <item>
-      <title>한전 직원 2만4000명 개인정보 외부 노출</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261004/134784555/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261004/134784555/2</guid>
-      <pubDate>2026-10-05T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/04/134783664.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국전력공사 직원 2만4000여 명의 개인정보가 외부 웹페이지에 노출되는 사고가 발생했다. 해당 정보가 어떤 경로로 외부에 공개됐는지 등 구체적인 사고 원인은 아직 확인되지 않았다. 일반 고객 정보 유출은 없었다는 게 한전 측의 설명이지만, 금융권의 인공지능(AI) 해킹 사고가 잇따르는 가운데 국내 전력 인프라를 책임지는 공공기관에서 발생한 사이버 사고라 우려를 사고 있다. 한전은 1일 오후 3시 59분경 외부 웹페이지에 직원 개인정보가 노출된 사실을 확인했다고 4일 밝혔다. 노출된 정보는 사실상 직원 전체인 2만4000여 명의 이름과 소속, 전화번호 등이다. 주민등록번호와 같은 고유식별번호와 민감정보는 포함되지 않았다고 한전 측은 설명했다. 한전은 사고를 인지한 직후 직원 개인정보와 관련된 내부 시스템 접속을 차단하고 외부 웹페이지 운영사에 정보 삭제를 요청했다. 현재 해당 웹페이지에 노출됐던 정보는 삭제된 상태다. 한전은 비상 대응 종합상황실을 꾸리고 유관 기관과의 합동 및</content:encoded>
-    </item>
-    <item>
-      <title>박지윤, 자궁선근종 투병 고백…“호르몬 치료 후 살 너무 쪄”</title>
-      <link>https://www.donga.com/news/Entertainment/article/all/20261005/134784938/1</link>
-      <guid>https://www.donga.com/news/Entertainment/article/all/20261005/134784938/1</guid>
-      <pubDate>2026-10-05T07:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134784939.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;박지윤이 자궁선근종 호르몬 치료 과정에서 체중 증가를 겪었다고 밝혔다. 자궁선근종의 주요 증상과 호르몬 치료법, 체중 변화 가능성을 살펴본다.</content:encoded>
-    </item>
-    <item>
-      <title>르세라핌 사쿠라, 새틴 드레스로 드러낸 직각 어깨…관리 비법은 ‘필라테스’</title>
-      <link>https://www.donga.com/news/Entertainment/article/all/20261005/134784941/1</link>
-      <guid>https://www.donga.com/news/Entertainment/article/all/20261005/134784941/1</guid>
-      <pubDate>2026-10-05T07:40:51.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134784942.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;르세라핌 사쿠라가 새틴 드레스 스타일링으로 또렷한 어깨선과 슬림한 실루엣을 드러냈다.사쿠라는 지난달 29일 자신의 SNS에 여러 장의 사진을 올리며 근황을 전했다. 공개된 사진에는 거울 앞에서 카메라를 들고 다양한 포즈를 취하는 사쿠라의 모습이 담겼다.사쿠라는 은은한 광택이 돋보이는 새틴 소재의 의상을 선택했다. 블랙 레이스가 더해진 디자인에 가느다란 스트랩이 어깨선을 따라 자리하면서 가녀린 상체가 자연스럽게 드러났다. 짧은 헤어스타일과 차분한 메이크업까지 어우러지며 평소 무대에서 보여준 이미지와는 또 다른 매력을 선보였다.특히 의상 위로 드러난 반듯한 어깨 라인이 눈길을 끌었다. 잘록한 상체와 매끈하게 이어지는 어깨선이 새틴 특유의 부드러운 소재감과 어우러져 한층 세련된 분위기를 자아냈다.사쿠라는 평소에도 꾸준한 자기관리로 몸매를 관리해온 것으로 알려졌다. 과거 유튜브 채널 ‘일일칠’의 프로그램 ‘사나의 냉터뷰’에 출연한 사쿠라는 자신의 관리 비법 중 하나로 필라테스를 언급</content:encoded>
-    </item>
-    <item>
-      <title>차주영, 반복되는 코피로 수술까지…그냥 넘기면 안 되는 코피는</title>
-      <link>https://www.donga.com/news/Culture/article/all/20261002/134777688/2</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20261002/134777688/2</guid>
-      <pubDate>2026-10-05T10:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/02/134777604.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 차주영이 반복적인 비출혈로 수술받은 뒤 뉴욕 근황을 공개했다. 코피가 반복되거나 잘 멎지 않을 때 확인해야 할 원인과 대처법을 알아본다.</content:encoded>
-    </item>
-    <item>
-      <title>“남들은 행복한데”…남과 비교하는 SNS 이용자 ‘외로움’ 더 느낀다</title>
-      <link>https://www.donga.com/news/Society/article/all/20261005/134785800/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261005/134785800/1</guid>
-      <pubDate>2026-10-05T11:38:49.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134785801.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;소셜네트워크서비스(SNS) 이용자 가운데 다른 사람을 자신보다 행복하다고 느끼거나 소외감을 경험한 경우 외로움을 느끼는 비율이 높은 것으로 나타났다. 다만 SNS 이용자 전체로 볼 때는 비이용자보다 외로움을 느끼는 비율이 낮아 이용 방식에 주목할 필요가 있다는 분석이다.5일 대한예방의학회 국제학술지에 게재된 논문에 따르면 민경복 서울대 의과대학 예방의학교실 교수 연구팀은 ‘2024년 서울서베이’에 참여한 서울 거주 성인 3만 4142명의 SNS 이용 행태와 외로움의 연관성을 분석했다.평균 연령은 52.3세였다. SNS 이용자는 2만 5134명이며 비이용자는 9008명이었다. 가족이나 가족 이외의 사람들과의 관계에서 외로움을 느낀다는 문항 중 하나 이상에 동의하면 외로움을 느끼는 사람으로 분류했다.전체 응답자의 28.2%가 외로움을 보고했다. SNS 이용자는 26.3%로 비이용자 33.5%보다 낮았다.그러나 이용 행태별로는 차이가 뚜렷했다. 다른 사람의 SNS 게시물을 보며 상</content:encoded>
-    </item>
-    <item>
-      <title>세계 홀린 KIST ‘로봇 가구’</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134786041/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134786041/1</guid>
-      <pubDate>2026-10-05T12:42:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134786047.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;아이가 공부할 땐 책상이 되고, 놀 땐 자동차로 바뀌는 로봇 가구가 국제 대회 최고상을 받았다.한국과학기술연구원(KIST)은 곽소나 임윤섭 박사 연구팀의 모듈형 로봇 가구 ‘봇스퀘어(BoT²)’가 국제 학술대회인 국제 로봇 및 인간 인터랙티브 커뮤니케이션 학술대회(RO-MAN 2026)의 로봇 디자인 대회에서 시연 부문 최고상을 받았다고 4일 밝혔다.봇스퀘어는 가로세로 40cm, 높이 50cm의 상자형 모듈 여러 개로 이뤄진다. 옆 판을 움직여 테이블, 의자, 수납장 등으로 모양을 바꾸고 필요한 곳으로 이동한다. 자석 부품을 붙이면 공부에 필요한 물건을 내준다. 가구를 옮기고 물건을 챙기는 부모의 수고를 덜어주려는 기술이다. 곽 박사는 “봇스퀘어를 아이와 부모의 일상을 돕는 로봇 생활 환경으로 발전시켜 나가겠다”고 말했다.</content:encoded>
-    </item>
-    <item>
-      <title>AMRO, 韓 경제성장률 전망 0.2%P 올려 3.3%로…반도체 수출 영향</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134785975/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134785975/1</guid>
-      <pubDate>2026-10-05T13:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134786299.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;아세안+3 거시경제조사기구(AMRO)는 올해 한국 경제가 3.3% 성장할 것으로 내다봤다. 국내외 주요 기관들이 잇따라 3%대 경제성장률을 예상하고 있지만 중동 분쟁 등 지정학적 요인과 금융시장 불확실성 등 위험 요인이 남아 있다는 분석이 나온다.5일(현지 시간) AMRO는 지역경제전망 보고서 수정전망을 통해 올해 한국 경제성장률을 3.3%로 제시했다. 7월(3.1%)보다 0.2%포인트 높였다. 내년 경제성장률 전망치 역시 2.2%에서 2.7%로 0.5%포인트 상향했다.전 세계적으로 인공지능(AI) 투자 수요가 커지면서 반도체를 중심으로 한국의 수출이 크게 늘어난 영향으로 풀이된다. 올해 들어 지난달까지 수출액이 처음으로 8000억 달러를 넘어서는 등 올해 수출 1조 달러 달성이 가시권에 들어온 상황이다. 이를 반영해 경제협력개발기구(OECD·3.7%), 아시아개발은행(ADB·3.2%), 한국은행(3.3%), 한국개발연구원(KDI·3.2%) 등 국내외 주요 기관들도 올해 한국 경</content:encoded>
-    </item>
-    <item>
-      <title>美NASA, 중러 추격에 ‘달표면 원자로’ 개발 2030년까지 마치기로</title>
-      <link>https://www.donga.com/news/Inter/article/all/20261005/134786564/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20261005/134786564/1</guid>
-      <pubDate>2026-10-05T14:15:58.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134786565.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 항공우주국(NASA)이 중국·러시아의 추격을 의식해 우주 원자로 개발 속도를 높였다고 뉴욕타임스(NYT)가 보도했다.NYT는 4일(현지 시간) “NASA는 8월 말 달 남극 인근에서 우주 여행을 견뎌내고 유지보수 작업 없이 작동할 수 있는 원자로 제작 준비를 하도록 계약 업체들에 요청했다”며 “NASA는 2030년 12월까지 발사 가능 상태를 원한다”고 전했다.중국이 러시아와의 협력을 통해 2036년까지 달 원자로를 가동하기로 하면서 NASA가 일정을 앞당겼다는 것이다.중국은 러시아와 우주 전 분야에서 협력을 이어가고 있는데, 이 중 원자로 문제는 사실상 러시아에 맡긴 상태로 알려졌다.러시아는 냉전 시기인 1970~1980년대 원자로 30여기를 우주 궤도로 발사한 경험이 있는 세계 유일 국가다. 세계 최대 우라늄 공급망을 갖춘 원전 선도국이기도 하다.미국도 1965년 원자로를 우주로 쏘아올렸지만, 다른 우주선 사고가 발생한 뒤 해당 원자로 가동을 중단했고 이후로는 추가</content:encoded>
-    </item>
-    <item>
-      <title>독자 AI 파운데이션 모델, 2개팀 예정대로 선발…사업중단 우려 불식</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134786430/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134786430/1</guid>
-      <pubDate>2026-10-05T15:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134787084.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부가 ‘독자 인공지능(AI) 파운데이션 모델(독파모)’ 사업에서 2개 정예팀을 최종 선발한다는 기존 계획을 예정대로 진행한다.  내년부터 AI 모델 정책을 ‘글로벌 최상위 모델 개발’과 ‘국산 AI 산업 확산’의 두 축으로 재편한다.5일 과학기술정보통신부에 따르면 독파모는 내년 2월 중순경 3차 단계평가를 거쳐 LG AI연구원, SK텔레콤, 업스테이지 중 2개 팀을 선정한다. 독파모는 국내 기업이 자체 AI 파운데이션 모델을 개발하도록 정부가 그래픽처리장치(GPU)와 데이터 등을 지원하는 사업이다. 지난해 5개 정예팀을 선정한 뒤 단계평가를 거쳐 현재 3개 팀이 남았다. 최근 정부가 대규모 ‘프론티어AI’ 개발 사업을 추진하면서 독파모가 사실상 중단되는 것 아니냐는 논란이 나왔지만 기존 2개 팀 선발은 끝까지 진행하기로 한 것이다.내년부터는 정부의 AI 모델 개발·지원 체계가 ‘프론티어AI’와 ‘산업 확산’의 두 트랙으로 재편된다. 프론티어AI에는 대규모 자원을 집중해 글로벌 최상</content:encoded>
-    </item>
-    <item>
-      <title>누리호, 발사대 기립 절차 돌입…7일 한낮에 우주로 쏜다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134786779/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134786779/1</guid>
-      <pubDate>2026-10-05T15:38:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134786507.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;7일 발사가 예정된 한국형 우주발사체 누리호가 조립을 마치고 발사대에 수직으로 세우는 기립 절차에 들어간다.5일 한국항공우주연구원(항우연)과 한화에어로스페이스 등에 따르면 전남 고흥군 나로우주센터에서 5차 발사 준비 작업 중인 누리호는 이날 조립 절차와 최종 점검을 마치고 6일 발사대로 이동해 일으켜세우는 절차에 들어간다.이날까지 진행된 조립 과정에서 발사 일정에 지장을 줄 만한 문제는 없었던 것으로 알려졌다. 지난달 추석연휴 전까지 1·2단 조립과 3단 위성 탑재 등을 진행한 누리호 제작팀은 명절 이후에는 1·2단과 3단을 연결해 발사체를 하나로 결합하는 과정을 끝냈다.일정에 변화가 없다면 누리호는 6일 발사체 전용 무진동 특수차량인 ‘트랜스포터’에 실려 발사대로 옮겨질 예정이다. 발사체 조립동에서 발사대까지 이동 거리는 약 1.8km지만 트랜스포터가 이 구간을 이동하는 데는 약 1시간 이상이 걸린다.이번 발사 예정 시간은 오후 12시 23분~1시 23분 사이다. 누리호 발사로는</content:encoded>
-    </item>
-    <item>
-      <title>뚫린건 은행인데…비밀번호 바꾸느라 분주한 시민들</title>
-      <link>https://www.donga.com/news/Society/article/all/20261005/134786576/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261005/134786576/1</guid>
-      <pubDate>2026-10-05T15:47:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134787175.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 은행권 등에서 인공지능(AI)을 악용한 계정 탈취 해킹이 잇따르자 시민들이 비밀번호를 바꾸는 등 자구책에 나서고 있다. 한 계정이 뚫려도 다른 계정으로 피해가 번지지 않게 하려는 조치다.정모 씨(28)는 5일 대체공휴일을 이용해 모든 사이트의 비밀번호를 바꿨다. 정 씨는 “가상자산(코인) 지갑 주소가 바뀐 것을 보고 해킹이 의심돼 생성형 AI를 활용해 검사한 뒤 악성코드를 삭제했다”며 “내친김에 사이트 비밀번호도 서로 다르게 바꿨다”고 했다. 최근 포털 계정이 해킹당한 김민재 씨(25)는 “자주 쓰는 비밀번호가 뚫려 불안해 2단계 인증까지 추가했다”고 했다. 시민들이 나선 것은 이번 사고가 AI를 악용한 ‘크리덴셜 스터핑’으로 알려지면서다. 공격자가 한 서비스에서 빼낸 아이디와 비밀번호 목록을 AI로 여러 사이트에 대량 입력하는 수법이다. 사용자가 비슷한 비밀번호를 여러 사이트에서 쓰면 한꺼번에 뚫릴 수 있다.일부 기업은 서비스를 멈췄다. 하루 이용자가 4만 명인 한 디지</content:encoded>
-    </item>
-    <item>
-      <title>AI 공격 시작됐는데…신한 15시간-KB 68시간 동안 몰랐다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134787180/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134787180/1</guid>
-      <pubDate>2026-10-05T17:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134788131.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)을 활용한 것으로 추정되는 해킹을 당한 신한·KB국민·하나은행이 공격을 알아채는 데 짧게는 15시간, 길게는 68시간이 걸린 것으로 나타났다. 시중은행과 저축은행, 캐피털사 해킹 유출이 확인된 가운데 보험사와 핀테크 기업에서도 해킹 시도가 있었던 것으로 확인됐다.24시간 보안관제 체계를 갖췄다고 강조해 온 은행들이 장시간 이어진 공격을 제때 탐지하지 못하면서 금융권 보안 체계의 허점이 드러났다는 지적이 나온다.5일 국회 정무위원회 소속 더불어민주당 손명수 의원이 신한은행에서 받은 침해사고 보고서에 따르면 신한은행은 지난달 28일 오후 6시 4분 공격이 시작된 뒤 15시간가량 흐른 29일 오전 9시 30분 공격을 인지했다.신한은행은 해커가 정상적 접근과 공격 행위를 판별하기 어렵게 위장한 탓에 바로 알아채지 못했다고 설명했다. 신한은행은 해외 인터넷주소(IP주소)를 차단하고, 같은 유형의 공격이 들어오면 경보가 울리도록 하는 보안장비를 추가했지만, 공격은 은행이 인</content:encoded>
-    </item>
-    <item>
-      <title>노벨 생리의학상에 美-獨 ‘광유전학’ 연구자 3인</title>
-      <link>https://www.donga.com/news/Inter/article/all/20261005/134788697/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20261005/134788697/1</guid>
-      <pubDate>2026-10-05T18:57:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134789056.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;올해 노벨 생리의학상은 광유전학 분야 연구자 3명에게 돌아갔다. 광유전학(optogenetics)은 빛을 이용해 신경 신호를 제어하는 ​것을 연구하는 것이다. 광유전학을 통해 연구자들은 신경계 및 정신 질환과 관련된 특정 기억, 감정, 행동을 조절하는 신경 회로 등을 밝혀냈다. 임상 의학에서는 시각 장애인의 시력을 회복시키기 위해 이 방법을 활용하고 있다.스웨덴 카롤린스카 연구소 노벨위원회는 5일(현지 시간) 2026년 노벨 생리의학상 수상자로 칼 다이서로스(Karl Deisseroth·미국·55), 페터 헤게만(Peter Hegemann·독일·72), 게오르크 나겔 (Georg Nagel·독일·73) 등 3명을 공동 수상자로 선정했다고 밝혔다. 이들은 상금으로 1200만 크로나(약 16억800만 원)를 셋이서 균등 배분해 받는다. 노벨위원회는 광개폐성 이온 채널(light-gated ion channels)과 광유전학에 관한 발견을 한 공로로 이들을 수상자로 선정했다고 밝혔다</content:encoded>
-    </item>
-    <item>
-      <title>뇌 신경세포에 ‘빛 스위치’ 달아…광유전학 개척 3인 노벨 생리의학상</title>
-      <link>https://www.donga.com/news/It/article/all/20261005/134788918/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261005/134788918/1</guid>
-      <pubDate>2026-10-05T20:45:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134789200.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;빛을 비춰 뇌 속 원하는 신경세포를 켜거나 끄는 ‘광유전학(optogenetics)’을 개척한 과학자 3명이 올해 노벨 생리의학상을 받았다. 이 기술로 사람이 두려움을 느끼고 기억을 만들며 보상을 좇는 등의 행동에 어떤 신경세포가 실제로 관여하는지 확인할 수 있게 된 공로를 인정한 것이다.  스웨덴 카롤린스카의대 노벨총회는 5일(현지 시간) 칼 다이서로스 미국 스탠퍼드대 교수, 페터 헤게만 독일 베를린 훔볼트대 교수, 게오르크 나겔 독일 뷔르츠부르크대 교수를 공동 수상자로 선정했다. 노벨위원회는 세 사람이 “빛으로 열리는 이온 통로와 광유전학에 관한 발견에 이른 공로를 인정해 수상자로 선정했다”고 밝혔다. 광유전학은 뇌에서 개별 신경세포의 활동을 켜거나 끌 수 있게 한 기술로, 세계 신경과학 연구 패러다임을 바꾼  것으로 평가 받는다.  광유전학의 출발점은 물속에 사는 단세포 조류 ‘클라미도모나스’였다. 헤게만 교수와 나겔 교수는 2000년대 초 이 작은 생물이 빛을 감지해 움직</content:encoded>
-    </item>
-    <item>
-      <title>韓 성장률 3.1→3.3% 상향… AMRO, 내년은 2.7% 예상</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134788602/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134788602/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>아세안+3 거시경제조사기구(AMRO)는 올해 한국 경제가 3.3% 성장할 것으로 내다봤다. 국내외 주요 기관들이 잇달아 3%대 성장률을 예상하고 있지만 중동 분쟁 등 지정학적 요인과 금융시장 불확실성 등 위험 요인이 남아 있다는 분석이 나온다. AMRO는 5일 지역경제전망 보고서 수정전망을 통해 올해 한국 경제성장률을 3.3%로 제시했다. 7월(3.1%)보다 0.2%포인트 높아졌는데 올 4월(1.9%)과 비교하면 반년 만에 1.4%포인트 상향됐다. 내년 성장률 전망치 역시 7월(2.2%)보다 0.5%포인트 높은 2.7%로 예상됐다. 전 세계적으로 인공지능(AI) 투자 수요가 커지면서 반도체를 중심으로 한국의 수출이 크게 늘어난 영향으로 풀이된다. 올해 들어 지난달까지 수출액이 처음으로 8000억 달러를 넘어서는 등 올해 수출 1조 달러 달성이 가시권에 들어온 상황이다. 이를 반영해 경제협력개발기구(OECD·3.7%), 아시아개발은행(ADB·3.2%), 한국은행(3.3%) 등 국내</content:encoded>
-    </item>
-    <item>
-      <title>정부, ‘독파모’ 2곳 선정 예정대로… ‘프런티어AI-산업 확산’ 투트랙으로</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134788598/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134788598/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>정부가 ‘독자 인공지능(AI) 파운데이션 모델’(독파모) 사업에서 2개 정예팀을 최종 선발한다는 기존 계획을 예정대로 진행한다. 내년부터 AI 모델 정책을 ‘글로벌 최상위 모델 개발’과 ‘국산 AI 산업 확산’의 두 축으로 재편한다. 5일 과학기술정보통신부에 따르면 독파모는 내년 2월 중순 3차 단계평가를 거쳐 LG AI연구원, SK텔레콤, 업스테이지 중 2개 팀을 선정한다. 독파모는 국내 기업이 자체 AI 파운데이션 모델을 개발하도록 정부가 그래픽처리장치(GPU)와 데이터 등을 지원하는 사업이다. 지난해 5개 정예팀을 선정한 뒤 단계평가를 거쳐 현재 3개 팀이 남았다. 최근 정부가 대규모 ‘프런티어AI’ 개발 사업을 추진하면서 독파모가 사실상 중단되는 것 아니냐는 논란이 나왔지만 기존 2개 팀 선발은 끝까지 진행하기로 한 것이다. 내년부터는 정부의 AI 모델 개발·지원 체계가 ‘프런티어AI’와 ‘산업 확산’의 두 트랙으로 재편된다. 프런티어AI에는 대규모 자원을 집중해 글로벌</content:encoded>
-    </item>
-    <item>
-      <title>앤스로픽, 사상 최대규모 상장 채비… 국내 증시엔 ‘찬물’ 우려</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134788544/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134788544/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134789821.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 모델 ‘클로드’를 개발한 앤스로픽이 다음 달 미국 뉴욕 증시에서 나스닥 상장을 추진한다. 올 6월 증시에 입성한 우주기업 스페이스X를 뛰어넘는 역대 최대 규모의 공모 기업이 될 것으로 보인다. 일각에서는 앤스로픽의 상장이 국내 증시의 자금 이탈을 늘려 주가를 하락시키고 원-달러 환율을 끌어올리는 요인이 될 수 있다는 우려도 나온다.● AI 랠리 지속 여부 가르는 분수령5일 블룸버그통신 등에 따르면 앤스로픽은 다음 달 초부터 기업공개(IPO)에 앞서 연기금, 공제회, 자산운용사 등 기관투자가들을 대상으로 마케팅에 착수할 예정이다. 회사 측은 미국의 추수감사절인 11월 26일 이전에 나스닥에 상장하는 것을 목표로 하고 있다. 금융가에서는 앤스로픽의 상장 행보에 높은 관심을 보인다. AI 기업의 수익성과 재무 구조가 IPO 시장에서 처음으로 검증받는 사례여서다. 앤스로픽 상장 흥행 여부에 따라 AI 거품론이 재점화하거나 빅테크 중심의 대형 랠리가 지속될 수 있다. 오</content:encoded>
-    </item>
-    <item>
-      <title>美-中-러, 이번엔 ‘달 원전’ 건설 경쟁</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134788548/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134788548/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>미국과 중국·러시아가 달에 원자력 발전소를 세우기 위한 경쟁을 본격화하고 있다.  뉴욕타임스(NYT)는 4일(현지 시간) 미국 항공우주국(NASA·나사)이 최근 계약 업체들에 2030년 12월까지 달 남극 근처에서 구동할 원자로를 준비해줄 것을 요청했다고 보도했다. 나사는 해당 원자로를 우주로 실어 나를 수 있어야 하고 정비 없이 5년 이상 작동해야 한다는 조건을 달았다.  미국이 이처럼 달 원전 건설에 나선 것은 중국과 러시아가 달 원자로 가동을 추진하고 있기 때문으로 풀이된다. 우주 분야 협력을 이어가고 있는 중국과 러시아는 2036년까지 ‘셀레나’라는 이름의 10kW 용량 달 원자로를 구축해 10년간 운영하겠다는 계획이다. 현재 태양광 발전과 방사성동위원소 발전 등으로 달 탐사 로버 등을 구동하고 있지만, 밤이 2주간 이어지는 달에서 태양광 발전은 안정적이지 않다는 것. 이에 따라 달 기지를 안정적으로 운영하기 위해서는 꾸준히 전력을 공급할 수 있는 원전이 필수적이라는 판단</content:encoded>
-    </item>
-    <item>
-      <title>LG전자 냉각솔루션, AI데이터센터 최대시장 북미서 대형 계약</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134788578/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134788578/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134789766.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG전자가 인공지능 데이터센터(AIDC) 최대 시장인 북미에서 총 5GW(기가와트) 규모의 대형 냉각솔루션 장기 공급 계약을 따냈다. 최근 AI의 고성능화에 따라 AIDC 냉각 솔루션의 중요성이 커져가는 가운데 LG전자는 이번 대형 계약을 계기로 확대되는 냉각 솔루션 시장에서 입지를 굳히겠다는 전략이다. 5일 LG전자는 LG전자 미국법인이 최근 북미의 대표적인 인프라 플랫폼 기업인 에어컨트롤콘셉트(에어)와 AIDC용 냉각 칠러 장기 공급 본계약을 체결했다고 밝혔다. 이번 계약으로 LG전자는 총 5GW 규모 AIDC의 열을 관리하는 고효율 칠러 등 냉각 솔루션을 순차적으로 공급한다. 계약 대상자인 에어는 미국과 캐나다에서 데이터센터 설계와 구축, 조달 등을 총괄하는 기업으로, 데이터센터 전문 자회사 AMC를 통해 글로벌 주요 AIDC 사업자를 고객으로 두고 있다.  최근 AIDC에 고성능 그래픽처리장치(GPU) 탑재가 늘어나며 ‘열 관리’가 화두로 떠오르고 있다. 시장조사기관 포천</content:encoded>
-    </item>
-    <item>
-      <title>KT, 대형산불 통신 대응체계 점검</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134788573/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134788573/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134788145.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;KT가 경북 칠곡군에서 열린 행정안전부 주관 ‘2026 레디 코리아 산불 진화 통합훈련’에 참여했다고 5일 밝혔다. KT는 대형 산불 발생 시 통신 서비스 지원 체계와 네트워크 복구 역량을 점검했다.</content:encoded>
-    </item>
-    <item>
-      <title>[애널리스트의 마켓뷰]AI 에이전트 수익화를 주시하라</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261005/134787966/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261005/134787966/2</guid>
-      <pubDate>2026-10-06T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134787965.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 메타가 선보인 개인용 인공지능(AI) 에이전트 ‘뮤즈’가 주목을 받고 있다. 이는 AI 경쟁이 답변의 정확성을 넘어 일상의 업무를 대신 수행하는 단계로 진입하고 있음을 보여준다. 새로운 AI 서비스들이 빠르게 등장하고 확산되면서, 국내 플랫폼을 향한 시장의 시각은 앞으로의 변화에 대한 우려에 맞춰져 있다. 글로벌 AI의 국내 시장 침투와 서비스 경쟁에 필요한 투자 부담이 미래 수익성에 대한 불확실성을 키우고 있는 것이다. 그러나 AI 에이전트의 확산이 국내 플랫폼의 경쟁력 약화를 뜻하는 것은 아니다. 사용자의 요청을 이해하고 좋은 식당을 추천하는 것과 실제로 빈자리를 확인해 예약하고 결제하는 것은 다르다. 후자에는 정확한 현지 정보와 가맹점 연결, 이용자 인증, 취소와 환불까지 처리하는 실행 체계가 필요하다. 앞으로 모델의 성능 자체보다 실행 역량을 결합해 사용자의 요청과 업무를 완수하는 능력이 중요해질 것이다. 네이버와 카카오는 국내 시장에서 기존 이용자 접점과 생활 서비스</content:encoded>
-    </item>
-    <item>
-      <title>[단독]‘20대 직원’ 줄어든 대기업, 비중 20%도 깨졌다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134789545/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134789545/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790084.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 4대 그룹의 한 전자 계열사 제품 개발 조직은 직원 수가 100여 명이지만 이 중 20대 직원은 10명도 안 된다. 이 조직의 팀장은 “공개채용이 줄면서 신입 보기가 힘들어졌다”며 “중간 관리자급은 많은데 사원·대리급이 귀한 상황”이라고 했다. 재계 10대 그룹에서 이처럼 20대 ‘사원’ ‘대리’가 줄어들어 이들이 차지하는 비중이 20% 선 아래로 내려간 것으로 나타났다. 10대 그룹 대표 기업 10곳에서 최근 3년 새 줄어든 20대 직원은 약 2만 명에 달한다. 5일 본보가 10대 그룹의 최대 고용 기업 10곳의 최근 3년 치 지속가능경영보고서와 팩트북을 조사한 결과 30세 미만 직원 비중이 2023년 22.1%에서 지난해 18.7%로 떨어졌다. 삼성전자, SK하이닉스, 현대자동차, 롯데쇼핑, 포스코, GS리테일, 이마트 등 조사 대상 10곳 중 7곳에서 30세 미만 직원 비중이 줄었다. 같은 기간 10개사의 전체 직원은 59만5341명에서 59만8514명으로 3173명</content:encoded>
-    </item>
-    <item>
-      <title>AI가 키운 ‘해킹 속도전’… 상반기 하루 7건꼴 발생</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134789543/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134789543/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790045.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 국내 금융사 7곳의 연쇄 해킹에 인공지능(AI) 침투 도구가 쓰인 것으로 추정되며 AI발(發) 사이버 위협 우려가 현실화되고 있다. 방어자가 대응할 틈도 없이 쏟아지는 AI의 자동화 공격이 강력한 보안을 자랑해 온 금융권 핵심 망까지 위협한 것이다.  AI를 이용한 해킹 속도전은 보안 위협의 상시화로 이어지고 있다. 5일 한국인터넷진흥원(KISA)에 따르면 스스로 공격을 수행하는 자율형 ‘AI 에이전트’가 보편화된 올해 상반기(1∼6월) 침해 사고 신고는 1236건으로 1년 전보다 19.5% 늘었다. 하루 평균 7건꼴로 침해 사고 신고가 이뤄진 셈이다. 연간 신고도 2023년 1277건에서 지난해 2383건으로 2년 새 두 배 가까이로 증가했다. 사이버 보안 기업 티오리의 천호진 이사는 “최근 침해 사고 현장을 가보면 일반적인 해커가 쓰지 않을 법한 공격 경로나 파일명 등이 다수 발견된다”고 말했다.  해외에서도 AI발 해킹 위기감이 고조되고 있다. 코딩을 돕던 ‘보조자’</content:encoded>
-    </item>
-    <item>
-      <title>해외서도 ‘AI 쇼크’ 청년채용 줄었지만… TSMC 등 오히려 20대 직원 비중 늘어</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134789582/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134789582/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790205.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;검증된 경력직 선호 현상과 인공지능(AI)의 확산으로 청년 일자리가 줄어드는 현상은 해외에서도 확인되고 있다. 다만 TSMC 등 주요 경쟁 반도체 기업에서는 오히려 20대 직원 비중이 늘어나는 현상이 포착되기도 했다. 5일 업계에 따르면 미국 스탠퍼드대 디지털경제연구소의 에릭 브린욜프슨 교수팀은 올해 8월 미국 급여관리업체 ADP의 급여 데이터를 분석해, AI에 많이 노출된 직종의 신규 고용률을 조사했다.  그 결과 22∼25세의 젊은 근로자의 고용률은 AI에 노출 정도가 높은 산업의 경우 그렇지 않은 산업에 비해 19%가량 낮았다. 반면 경력직 근로자의 경우 이 같은 격차가 나타나지 않았다. AI 노출이 많은 기업들이 기존 근로자를 해고하기보다는 청년 신규 채용을 축소하는 방향으로 일자리를 줄여나가고 있다는 의미다. 연구진은 “AI 자동화가 활발한 직종에서 젊은 근로자의 채용 감소가 집중적으로 나타났으며, 연령대에 따라 뚜렷한 차이를 보였다”고 설명했다. 스탠퍼드대 연구처럼</content:encoded>
-    </item>
-    <item>
-      <title>‘AI 지휘’ 금융권 해킹 규모-속도 과거와 달라… “방어도 AI로”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134789518/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134789518/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790045.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 금융사 7곳을 해킹한 것으로 추정되는 인공지능(AI) 침투 도구 ‘아르텍스(ARTEX)’. 아르텍스와 같은 AI 침투 도구는 인간 해커가 목표만 정해주면 직접 타깃의 약점을 파악해 침입 경로를 짜고 자료 탈취와 정리까지 끝낸다.  AI가 과거 해커의 ‘보조자’에서 공격을 총괄하는 ‘사령관’으로 바뀌고 있다는 경고가 나오는 가운데, 국내 전문가들도 이번 공격의 규모와 속도가 사람의 대응 한계를 넘어섰다고 우려한다. ● “금융권 해킹 규모와 속도, 과거와 달라” 실제로 AI에 힘입어 해킹 공격 횟수 자체가 급증해 국내 침해사고 신고는 3시간 반에 한 건꼴로 접수되고 있다. 5일 한국인터넷진흥원(KISA)에 따르면 침해 신고는 2023년 1277건에서 지난해 2383건으로 늘었고, 올해 상반기(1∼6월)에도 1236건으로 1년 전보다 19.5% 증가했다. 특히 서버를 마비시키는 디도스(DDoS) 공격은 상반기 373건으로 2024년 한 해(285건)를 넘었다. AI를 활용한 해</content:encoded>
-    </item>
-    <item>
-      <title>해킹 68시간 뒤 알아, ‘보안 국제인증’ 무색</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134789515/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134789515/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790198.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)을 활용한 것으로 추정되는 해킹을 당한 신한·KB국민·하나은행이 공격을 알아채는 데 짧게는 15시간, 길게는 68시간이 걸린 것으로 나타났다. 시중은행과 저축은행, 캐피털사 해킹 유출이 확인된 가운데 보험사와 핀테크 기업에서도 해킹 시도가 있었던 것으로 확인됐다. 24시간 보안관제 체계를 갖췄다고 강조해 온 은행들이 장시간 이어진 공격을 제때 탐지하지 못하면서 금융권 보안 체계의 허점이 드러났다는 지적이 나온다. 5일 국회 정무위원회 소속 더불어민주당 손명수 의원이 신한은행에서 받은 침해사고 보고서에 따르면 신한은행은 지난달 28일 오후 6시 4분 공격이 시작된 뒤 15시간가량 흐른 29일 오전 9시 30분 공격을 인지했다. 신한은행은 해커가 정상적 접근과 공격 행위를 판별하기 어렵게 위장한 탓에 바로 알아채지 못했다고 설명했다. 신한은행은 해외 인터넷주소(IP주소)를 차단하고, 같은 유형의 공격이 들어오면 경보가 울리도록 하는 보안장비를 추가했지만, 공격은 은행이</content:encoded>
-    </item>
-    <item>
-      <title>“비밀번호 다르게 변경” 자구책 나선 시민들</title>
-      <link>https://www.donga.com/news/Society/article/all/20261006/134789513/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261006/134789513/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790234.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 은행권 등에서 인공지능(AI)을 악용한 계정 탈취 해킹이 잇따르자 시민들이 비밀번호를 바꾸는 등 자구책에 나서고 있다. 한 계정이 뚫려도 다른 계정으로 피해가 번지지 않게 하려는 조치다. 정모 씨(28)는 5일 대체공휴일을 이용해 모든 사이트의 비밀번호를 바꿨다. 정 씨는 “가상자산(코인) 지갑 주소가 바뀐 것을 보고 해킹이 의심돼 생성형 AI를 활용해 검사한 뒤 악성코드를 삭제했다”며 “내친김에 사이트 비밀번호도 서로 다르게 바꿨다”고 했다. 최근 포털 계정이 해킹당한 김민재 씨(25)는 “자주 쓰는 비밀번호가 뚫려 불안해 2단계 인증까지 추가했다”고 했다.  시민들이 나선 것은 이번 사건이 AI를 악용한 ‘크리덴셜 스터핑’으로 알려지면서다. 공격자가 한 서비스에서 빼낸 아이디와 비밀번호 목록을 AI로 여러 사이트에 대량 입력하는 수법이다. 사용자가 비슷한 비밀번호를 여러 사이트에서 쓰면 한꺼번에 뚫릴 수 있다. 일부 기업은 서비스를 멈췄다. 하루 이용자가 4만 명인 한</content:encoded>
-    </item>
-    <item>
-      <title>누리호, 위성 15개 싣고 내일 낮 우주로</title>
-      <link>https://www.donga.com/news/People/article/all/20261006/134789923/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20261006/134789923/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134787580.6.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;7일 발사가 예정된 한국형 우주발사체 누리호가 조립을 마치고 발사대에 수직으로 세우는 기립 절차에 들어간다. 5일 한국항공우주연구원(항우연)과 한화에어로스페이스 등에 따르면 전남광주 고흥군 나로우주센터에서 5차 발사 준비 작업 중인 누리호는 이날 조립 절차와 최종 점검을 마치고 6일 발사대로 이동해 일으켜세우는 절차에 들어간다. 5일까지 진행된 조립 과정에서 발사 일정에 지장을 줄 만한 문제는 없었던 것으로 알려졌다. 지난달 추석 연휴 전까지 1·2단 조립과 3단 위성 탑재 등을 진행한 누리호 제작팀은 명절 이후에는 1·2단과 3단을 연결해 발사체를 하나로 결합하는 과정을 끝냈다. 일정에 변화가 없다면 누리호는 6일 발사체 전용 무진동 특수차량인 ‘트랜스포터’에 실려 발사대로 옮겨질 예정이다. 발사체 조립동에서 발사대까지 이동 거리는 약 1.8km지만 트랜스포터가 이 구간을 이동하는 데는 약 1시간 이상이 걸린다. 이번 발사 예정 시간은 낮 12시 23분∼오후 1시 23분 사</content:encoded>
-    </item>
-    <item>
-      <title>‘빛으로 뇌 신경세포 조절’… 광유전학 3人에 노벨생리의학상</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134789538/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134789538/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790128.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;빛을 비춰 뇌 속 원하는 신경세포를 켜거나 끄는 ‘광유전학(optogenetics)’을 개척한 과학자 3명이 올해 노벨 생리의학상을 받았다. 이 기술로 사람이 두려움을 느끼고 기억을 만들며 보상을 좇는 등의 행동에 어떤 신경세포가 실제로 관여하는지 확인할 수 있게 된 공로를 인정한 것이다. 스웨덴 카롤린스카의대 노벨총회는 5일(현지 시간) 칼 다이서로스 미국 스탠퍼드대 교수, 페터 헤게만 독일 베를린 훔볼트대 교수, 게오르크 나겔 독일 뷔르츠부르크대 교수를 공동 수상자로 선정했다. 노벨위원회는 세 사람이 “빛으로 열리는 이온 통로와 광유전학에 관한 발견에 이른 공로를 인정해 수상자로 선정했다”고 밝혔다. 광유전학은 뇌에서 개별 신경세포의 활동을 켜거나 끌 수 있게 한 기술로, 세계 신경과학 연구 패러다임을 바꾼 것으로 평가받는다.  광유전학의 출발점은 물속에 사는 단세포 조류 ‘클라미도모나스’였다. 헤게만 교수와 나겔 교수는 2000년대 초 이 작은 생물이 빛을 감지해 움직이는</content:encoded>
-    </item>
-    <item>
-      <title>연구실 기술을 기업으로… 대전서 바이오 산학연 교류의 장</title>
-      <link>https://www.donga.com/news/Society/article/all/20261005/134788480/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261005/134788480/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>대전시는 유성구 대전컨벤션센터에서 한국분자, 세포생물학회 정기학술대회와 연계한 2026 대전바이오교류회를 연다고 5일 밝혔다. 8일까지 진행되는 이번 행사는 국내외 연구자가 참여하는 정기학술대회를 활용해 지역 바이오기업의 기술과 연구 성과를 알리고 기업·연구자·투자자 간 공동연구 등을 위해 마련됐다. 시와 한국분자·세포생물학회는 지난해 4월 ‘대전 바이오산업의 발전 및 학회 성공을 위한 업무협약’을 체결했다. 두 기관은 2030년까지 정기학술대회의 대전 개최와 지역 바이오산업 발전을 위해 협력하기로 했다. 시가 주최하고 대전테크노파크가 주관하는 이번 행사에는 국내외 연구자와 바이오기업인, 학생 등 3000여 명이 참여할 예정이다. 행사에서는 총 23개 학술 심포지엄과 기조 강연을 중심으로 기업 연계 프로그램, 대학·연구기관 연계 프로그램, 신진연구자 프로그램 등이 진행된다. 포스터 발표와 기업·기관 전시도 함께 마련돼 최신 생명과학 연구 성과와 바이오 기술·제품을 공유한다.</content:encoded>
-    </item>
-    <item>
-      <title>‘극한가뭄’에 대수력댐 발전량 반토막</title>
-      <link>https://www.donga.com/news/Society/article/all/20261005/134789412/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261005/134789412/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134789992.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 주요 댐 10곳에서 전력생산량이 2년 새 40% 넘게 줄어든 것으로 나타났다. 특히 최근 2년간 가뭄이 극심했던 경북 지역에서는 발전량이 70% 가까이 감소했다. 폭우, 폭염 등 극한기후 현상이 잦아지며 기후변화의 영향을 상대적으로 덜 받으면서 발전량을 유지할 수 있는 방법을 마련해야 한다는 지적이 나온다.● 원전 1기 한 달 전력 생산량 줄어5일 한국수자원공사가 김위상 국민의힘 의원실에 제출한 자료에 따르면 전국 대수력댐 10곳의 발전량은 2024년 1∼7월 160만4983MWh(메가와트시)에서 올해 1∼7월 90만2438MWh로 43.8% 줄었다. 이는 설비용량 1000MW(메가와트)급 원전 1기를 한 달간 최대 출력으로 돌려야 생산할 수 있는 전력량과 비슷한 규모다. 가뭄 등 강수량이 적었던 곳은 감소 폭이 더 컸다. 낙동강 상류의 경북 임하댐 발전량은 2024년 1∼7월 4만1715MWh에서 올해 같은 기간 1만3050MWh로 68.7% 줄었다. 경북 안동댐 역시</content:encoded>
-    </item>
-    <item>
-      <title>울산, 200병상 ‘어린이 의료원’ 짓는다</title>
-      <link>https://www.donga.com/news/Society/article/all/20261005/134788492/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261005/134788492/2</guid>
-      <pubDate>2026-10-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/05/134787524.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;울산시가 소아·청소년 필수의료 공백을 메우기 위한 ‘어린이 치료 특화 울산의료원’ 건립에 속도를 내고 있다. 예비타당성조사 면제와 시민 10만 명 서명 등을 통해 사업 추진에 힘을 싣는다는 계획이다.● 예타 면제·10만 명 서명, 사업 절차 본격화 울산시는 북구 송정동 일원에 200병상 규모의 어린이 치료 특화 울산의료원을 건립하기 위한 기본계획을 마련하고 관련 절차를 진행하고 있다고 5일 밝혔다. 새 의료원은 소아·청소년 진료를 중심으로 응급·감염병 등 부족한 필수의료 기능을 보강하는 데 초점을 맞춘다. 울산 소아 환자의 관내 입원 의료 이용률은 87.8%로 7개 특·광역시 가운데 두 번째로 낮아 일부 환자는 다른 지역 의료기관을 이용하고 있다. 공공의료 기반도 취약하다. 울산은 전국 광역자치단체 가운데 국립대 병원과 지방의료원이 모두 없는 유일한 지역이다. 2024년 기준 인구 1000명당 공공의료기관 병상수는 0.14개로 전국 평균 1.18개의 약 8분의 1이다. 울산시는</content:encoded>
-    </item>
-    <item>
-      <title>누리호 5호기, 발사대 이송 시작…내일 최종 발사시각 결정</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134790285/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134790285/1</guid>
-      <pubDate>2026-10-06T06:52:27.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790286.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국형발사체 누리호가 발사를 앞두고 제2발사대로 이동을 시작했다. 이송과 기립, 엄빌리칼 연결 등 준비 과정에 문제가 없으면 6일 중 발사대 설치가 완료될 예정이다.우주항공청과 한국항공우주연구원은 6일 오전 6시부터 누리호의 발사대 이송을 시작했다고 밝혔다.항우연은 전날인 5일 오후 6시30분 발사준비위원회를 열어 누리호의 기술적 준비 상태와 기상 상황 등을 점검했다. 검토 결과 발사대로 이송하는 데 문제가 없다고 판단해 이날 이동을 결정했다.누리호는 무인 특수이동차량인 트랜스포터에 실려 나로우주센터 발사체종합조립동에서 제2발사대까지 이동한다. 이송에는 약 1시간30분이 걸릴 예정이다.발사대에 도착한 누리호는 관련 준비를 마친 뒤 수직으로 세워진다.기립이 끝나면 발사체에 전원과 추진제인 연료·산화제 등을 공급하기 위한 엄빌리칼 연결 작업을 진행한다. 이어 연결 부위 등에 대한 기밀점검을 비롯한 발사 준비 절차가 이뤄진다.발사대 이송부터 기립과 엄빌리칼 연결까지 각 단계에</content:encoded>
-    </item>
-    <item>
-      <title>“가을 맞나” 강릉 왕산 1도·대관령 1.6도…21년 만에 가장 이른 한파특보</title>
-      <link>https://www.donga.com/news/Society/article/all/20261006/134790333/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261006/134790333/1</guid>
-      <pubDate>2026-10-06T07:18:55.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790334.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;6일 강원 산간지역의 아침 기온이 1도 안팎까지 떨어지는 등 때 이른 가을 추위가 찾아왔다.강원지방기상청에 따르면 이날 오전 6시 현재 주요 지점의 아침 최저기온은 강릉 왕산 1.0도, 삽당령 1.2도, 대관령 1.6도, 양구 해안 2.3도, 태백 4.6도 등을 기록했다.내륙에서도 철원 마현과 횡성 둔내가 각각 1.9도까지 떨어졌다. 평창 면온 2.5도, 화천 사내 2.9도, 춘천 남산·원주 신림 각각 3.3도, 홍천 시동 4.3도 등 대부분 5도 아래로 내려갔다.동해안도 고성 죽정 8.1도, 속초 조양 8.2도, 강릉 주문진 9.4도 등 10도를 밑도는 곳이 많았다.특히 평창산지와 태백에는 한파주의보가 발효 중이다.기상청에 따르면 이번 한파특보는 관련 전산 데이터베이스(DB)가 체계적으로 구축된 2005년 이후 전국에서 가장 이른 시기에 발표된 한파특보다.북서쪽에서 찬 공기가 남하하면서 이날 아침 강원 내륙과 산지를 중심으로 전날보다 기온이 5도가량 떨어졌고, 일부 산지</content:encoded>
-    </item>
-    <item>
-      <title>카즈하, 빨간색 후드티 완벽한 피지컬…7분 복근운동 따라해볼까</title>
-      <link>https://www.donga.com/news/Entertainment/article/all/20261006/134790385/1</link>
-      <guid>https://www.donga.com/news/Entertainment/article/all/20261006/134790385/1</guid>
-      <pubDate>2026-10-06T07:35:46.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790386.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 르세라핌(LE SSERAFIM) 멤버 카즈하가 최근 개인 사회관계망서비스(SNS)에 게시한 사진에서 탄탄한 건강미를 과시하며 평소 그가 실천해온 운동과 식단 관리법에 관심이 쏠리고 있다.공개된 사진 속 카즈하는 대형 공연장 객석을 배경으로 선명한 빨간색 후드티를 입은 채 카메라를 응시하고 있다. 사진을 접한 네티즌들은 “카즈하의 피지컬은 언제나 완벽하다”, “후드티 하나만 걸쳐도 독보적인 존재감이 느껴진다” 등 뜨거운 반응을 나타냈다.15년 동안 발레를 전공한 카즈하는 팀 내에서도 단단한 코어 근육과 선명한 11자 복근으로 유명하다. 카즈하는 평소 방송과 인터뷰에서 “매일 잊지 않고 7분 동안 복근 운동을 몰아서 진행한다”라며 “짧은 시간이라도 꾸준히 몸을 움직이는 게 핵심”이라고 자신의 운동 루틴을 설명했다. 실제로 그는 플랭크와 레그레이즈, 버피 테스트 등 맨몸 운동을 조합해 코어 근육을 강화한다.식단 관리 역시 무작정 굶기보다 영양 요소를 골고루 챙기는 방식에 집중한</content:encoded>
-    </item>
-    <item>
-      <title>누리호, 1시간30분 만에 발사대 도착…오전 중 수직으로 선다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261006/134790480/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261006/134790480/1</guid>
-      <pubDate>2026-10-06T08:00:53.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790481.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국형발사체 누리호가 5번째 발사를 앞두고 제2발사대까지 이송을 마쳤다. 누리호는 오전 중 발사대에 수직으로 세워지고, 오후에는 전원과 추진제 공급을 위한 엄빌리칼 연결과 기밀점검 등 후속 작업에 들어간다.우주항공청은 6일 오전 7시30분 누리호의 발사대 이송이 완료됐다고 밝혔다.누리호는 이날 오전 6시부터 무인 특수이동차량인 트랜스포터에 실려 나로우주센터 발사체종합조립동에서 제2발사대로 이동했다. 출발 약 1시간30분 만에 발사대에 도착하며 당초 예정된 이송 절차를 마쳤다.앞서 한국항공우주연구원은 전날인 5일 오후 6시30분 발사준비위원회를 열고 누리호의 기술적 준비 상태와 기상 상황 등을 점검했다. 검토 결과 발사대 이송에 문제가 없다고 판단해 이날 오전 이동을 결정했다.발사대에 도착한 누리호는 기립 준비 과정을 거쳐 오전 중 수직으로 세워질 예정이다.기립을 마친 뒤 오후부터는 발사체에 전원과 추진제인 연료·산화제 등을 공급하기 위한 엄빌리칼 연결 작업이 진행된다. 연결</content:encoded>
-    </item>
-    <item>
-      <title>KMI, 뉴욕·뉴저지 한인단체 3곳과 협약…재외동포 건강검진 협력 확대</title>
-      <link>https://www.donga.com/news/It/article/all/20261006/134790883/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261006/134790883/2</guid>
-      <pubDate>2026-10-06T09:35:36.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790876.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;KMI는 세계한인무역협회(World-OKTA) 뉴욕지회인 뉴욕한인경제인협회, 뉴저지한인회, 뉴저지대한체육회와 각각 업무협약을 체결했다고 6일 밝혔다.</content:encoded>
-    </item>
-    <item>
-      <title>“치매 예방, 안경으로 가능할까”…투명 OLED로 감마파 변화 확인 [노화설계]</title>
-      <link>https://www.donga.com/news/It/article/all/20261006/134790955/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261006/134790955/2</guid>
-      <pubDate>2026-10-06T09:42:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790999.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;분당서울대병원·KAIST 연구팀이 주변을 보면서 빛으로 뇌를 자극하는 투명 OLED 안경을 개발했다. 건강한 성인 20명에서 감마파 변화를 확인했다.</content:encoded>
-    </item>
-    <item>
-      <title>미용의학·기능의학 국제 학술대회, 17일 서울서 개막 …CLAS·KFCC 공동 개최</title>
-      <link>https://www.donga.com/news/It/article/all/20261002/134775195/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261002/134775195/1</guid>
-      <pubDate>2026-10-06T10:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/02/134775134.2.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국제레이저·미용의학·외과학회(ICLAS)와 대한미용기능의학회(KFCC)가 오는 17일부터 19일까지 사흘간 서울 광진구 그랜드 워커힐 서울 등에서 합동 국제 학술대회 ‘ICLAS × KFCC Seoul 2026’을 연다.올해 주제는 ‘Designing Responses, Engineering Healing’이다. 주최 측은 레이저·에너지 기반 치료, 필러, 톡신, 리프팅, 재생의학 등 미용의학 분야와 염증, 대사, 호르몬, 면역 등 기능의학 분야를 함께 다룰 계획이라고 밝혔다.첫날에는 시술 과정과 판단 기준, 임상적 의사결정 과정을 공유하는 라이브 세미나 ‘라이브 클리니컬 시어터(The Live Clinical Theater)’가 열린다.둘째 날인 18일에는 메인 심포지엄이 진행된다. ICLAS는 비스타홀에서 스킨부스터, 톡신, 에너지 기반 장비 치료, 리프팅, 필러, 눈 주변 시술, 합병증 관리 등을 다룬다. KFCC는 그랜드홀에서 염증, 대사, 호르몬, 면역 반응, 산화</content:encoded>
-    </item>
-    <item>
-      <title>소금, 적게 먹을수록 좋다?…극단적 저염식도 기억력 ↓ [건강팩트체크]</title>
-      <link>https://www.donga.com/news/It/article/all/20261006/134791322/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261006/134791322/2</guid>
-      <pubDate>2026-10-06T10:10:35.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791268.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;음식의 맛은 ‘간’이 좌우한다. 소금을 너무 많이 넣어도, 반대로 너무 적게 넣어도 최상의 맛을 내기 어렵다. 그런데 인지 건강에 미치는 영향도 비슷한 것으로 나타났다.소금을 지나치게 많이 먹는 것은 물론, 극단적으로 적게 먹는 것도 기억력에 영향을 미칠 가능성이 동물실험에서 관찰됐다.국제 학술지 ‘푸드 리서치 인터내셔널(Food Research International)’에 이번 달 발표된 연구에 따르면 장기간 고염식을 먹은 생쥐뿐 아니라 소금을 심하게 제한한 생쥐에서도 인지 기능이 떨어졌다. 다만 뇌에 영향을 미치는 것으로 추정되는 과정은 서로 달랐다.연구진은 소금 섭취량에 따른 장과 뇌의 변화를 사람의 장내 환경과 좀 더 비슷한 조건에서 살펴보기 위해 ‘인간화 생쥐’를 이용했다.수컷 생쥐 32마리에게 먼저 항생제를 투여해 원래 가지고 있던 장내 세균을 줄인 뒤 사람의 분변에서 얻은 장내 미생물을 이식했다. 사람의 장내 미생물이 생쥐의 장에 자리 잡도록 한 것이다.연구</content:encoded>
-    </item>
-    <item>
-      <title>李 “AI 해킹 엄중한 상황…사전탐지 역량 갖춰야”</title>
-      <link>https://www.donga.com/news/Politics/article/all/20261006/134791461/2</link>
-      <guid>https://www.donga.com/news/Politics/article/all/20261006/134791461/2</guid>
-      <pubDate>2026-10-06T10:27:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791462.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이재명 대통령이 6일 최근  인공지능(AI)을 활용한 해킹 사고를 언급하며 “공격을 사전에 탐지하고 선제적으로 차단하는 보안 역량을 갖춰야 한다”고 밝혔다. 이날 국무회의는 중대범죄수사청(중수청)과 공소청 수장 출범 직후 처음으로 열렸다. 중수청장 직무대행인 전종민 차장과 검찰총장 직무대행인 이정현 차장이 나란히 참석했다.이 대통령은 이날 청와대에서 주재한 국무회의에서 “최근 금융기관과 공공기관에서 개인정보 유출 사고가 잇따라 발생하고 있다”며 “특히 일부 해킹의 경우에는 인공지능이 활용된 정황도 드러나 국민들의 우려와 불안이 매우 크다”고 말했다.이어 “이제 인공지능을 활용해서 특별한 능력이 없는 경우에도 해킹을 쉽게 할 수 있는 상황이 됐다”며 “관계 당국은 사건 경위를 신속하게 그리고 명확하게 파악하고 피해를 최소화하기 위해 필요한 인력과 자원을 신속하게 집중 투입해 달라”고 당부했다.이 대통령은 인공지능 기술 발전에 따른 사이버 위협 고도화에 대해서도 경각심을 가져야 한</content:encoded>
-    </item>
-    <item>
-      <title>서울과기대 “3차 글로벌 역량강화교육, 초기창업패키지 기업 세계화”</title>
-      <link>https://www.donga.com/news/It/article/all/20261006/134791539/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261006/134791539/1</guid>
-      <pubDate>2026-10-06T10:32:49.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791527.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울과학기술대학교(총장 김동환, 이하 서울과기대) 창업지원단은 예비창업패키지와 초기창업패키지, 메이커스페이스 등 정부의 주요 창업 지원 정책을 수 년간 수행했다. 이 과정에서 최우수 기관 자격을 받고 수많은 창업 기업을 배출하는 등 성과를 거뒀다. 덕분에 서울과 수도권 지역의 창업 명가로 자리매김했다.그 일환으로 서울과기대 창업지원단은 2026년 초기창업패키지 기업의 세계화 프로그램 ‘글로벌 역량강화 프로그램’을 선보였다. 초기창업패키지는 유망한 기술과 성장 가능성을 가진 초기 창업 기업이 시장에 뿌리를 내리고 발전하도록 돕는 제도다. 글로벌 역량강화 프로그램은 초기창업패키지를 딛고 발전한 초기 창업 기업이 세계 무대에서 활동할 역량을 갖추도록, 나아가 세계 진출 관련 직간접 경험을 하도록 돕는 서울과기대 창업지원단 고유의 지원이다.글로벌 역량강화 프로그램은 ‘교육’과 ‘IR(기업공개) 역량강화’, ‘모의 IR’과 ‘글로벌 홍보 지원’ 등 크게 네 종류로 나뉜다. 이 가운데 서울</content:encoded>
-    </item>
-    <item>
-      <title>앤스로픽 떠난 연구원 “AI 통제법 아직 모른다…이대로면 인류 멸종”</title>
-      <link>https://www.donga.com/news/It/article/all/20261006/134791453/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261006/134791453/2</guid>
-      <pubDate>2026-10-06T10:52:23.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791454.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;앤스로픽 출신 연구원 제이컵 콕슨이 뉴욕 시의회 AI 청문회에서 인류가 AI 통제권을 잃을 가능성이 더 크다고 증언했다.</content:encoded>
-    </item>
-    <item>
-      <title>고도근시 19세 남성 22%…성인 돼도 망막·황반 계속 살펴야</title>
-      <link>https://www.donga.com/news/It/article/all/20261006/134791563/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261006/134791563/2</guid>
-      <pubDate>2026-10-06T10:53:11.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791579.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울지역 19세 남성의 73.69%가 근시, 22.04%가 고도근시로 나타났다. 대한안과학회는 소아기 야외활동부터 성인기 합병증까지 평생 관리를 권고했다.</content:encoded>
-    </item>
+    <lastBuildDate>2026-10-07T03:26:56.967Z</lastBuildDate>
     <item>
       <title>6000억달러 날렸다가 다시 1조달러…머스크 재산 롤러코스터</title>
       <link>https://www.donga.com/news/Economy/article/all/20261006/134791764/2</link>
@@ -353,6 +24,335 @@
       <guid>https://www.donga.com/news/It/article/all/20261006/134792060/1</guid>
       <pubDate>2026-10-06T11:40:55.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134792061.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;다섯 번째 우주 비행을 하루 앞둔 한국형 발사체 누리호가 나로우주센터 제2발사대에 우뚝 섰다. 누리호는 추진제 공급을 위한 엄빌리칼을 연결 등 막바지 발사 준비를 진행하고 7일 발사될 예정이다.우주항공청과 한국항공우주연구원은 6일 오전 10시 35분 발사대에 기립 및 고정 작업이 완료됐다고 밝혔다.항우연은 전날 오후 6시 30분 발사준비위원회를 열고 누리호의 기술적 준비 상황과 기상 상황 등을 검토한 뒤 발사대로 이송하기로 결정했다.이날 오전 6시부터 시작된 누리호 이송은 약 1시간 30분에 걸쳐 마무리됐다.이날 오후에는 누리호에 전원과 연료·산화제 등 추진제를 공급하기 위한 엄빌리칼을 연결하고 기밀점검 등을 진행한다. 후속 작업 진행 후 이날 오후 누리호의 발사대 설치 작업이 마무리된다.누리호는 7일 다섯 번째 우주 비행에 나설 예정이다.우주청은 당일 오전 누리호 발사관리위원회를 열고 발사체의 기술적 준비 상황과 기상·우주환경, 우주물체와의 충돌 가능성 등을 종합적으로</content:encoded>
+    </item>
+    <item>
+      <title>“몸값 500억달러” 中 AI 스타 문샷, 내년 홍콩 IPO 추진</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261006/134792095/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261006/134792095/2</guid>
+      <pubDate>2026-10-06T13:47:28.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134792093.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국 AI 스타트업 문샷AI가 기업가치 500억달러로 마지막 비공개 투자를 마치고 2027년 1분기 홍콩 IPO를 추진한다. 최대 50억달러 조달도 검토 중이다.</content:encoded>
+    </item>
+    <item>
+      <title>테헤란 한복판에 걸린 ‘트럼프 조롱’ 광고판…“美 챗GPT로 만든다”</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261006/134791857/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261006/134791857/2</guid>
+      <pubDate>2026-10-06T13:47:46.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791853.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이란 테헤란 도심에 걸리는 트럼프 조롱 반미 광고판 제작에 챗GPT 등 AI가 쓰인다고 AFP통신이 제작 스튜디오를 전했다.</content:encoded>
+    </item>
+    <item>
+      <title>‘DPU로 시작해 AI 인프라 전반으로 사업 확장’··· 권동업 망고부스트 CTO에게 듣다</title>
+      <link>https://www.donga.com/news/It/article/all/20261006/134793006/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261006/134793006/1</guid>
+      <pubDate>2026-10-06T14:01:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134792970.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“GPU가 AI 인프라의 중심이던 시절일 때 AI-NIC(네트워크 인터페이스 카드), DPU(데이터 처리 장치)의 핵심 역량은 여러 GPU가 동시에 학습을 수행할 때 발생하는 전체 데이터 병합(All-Reduce)과 결과 배포(Broadcast), 집계 통신(Collective Communication)을 얼마나 가속화하는가에 달려있었다. 하지만 장문맥과 다단계 추론을 반복하는 에이전틱 AI가 확산하면서 지금은 GPU, 네트워크로 연결된 대규모 공유 저장장치를 얼마나 가속할 수 있는지, CPU에 가해지는 부담을 얼마나 DPU로 잘 분산, 적재하는지가 새로운 경쟁의 축으로 부상하고 있다”에이전틱 AI와 장문맥 추론은 AI 인프라 시장에서 새로운 인터페이스 수요를 만들어내고 있다. 대형언어모델(LLM) 추론 작업은 단순한 요청 및 응답 중심이라면 AI 에이전트는 여러 차례 모델을 호출하고, 도구를 사용하며 과거 문맥을 다시 참조한다. 이에 따라 KV캐시(Key Value)가 GPU 메</content:encoded>
+    </item>
+    <item>
+      <title>인프라지스틱스, 29일 서울서 개발자 세미나…AI 시대 UI 개발 트렌드 공유</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134793611/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134793611/1</guid>
+      <pubDate>2026-10-06T14:39:14.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134793591.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;UI 컴포넌트·개발 도구 기업 인프라지스틱스는 오는 29일 서울 강남구 토즈타워 강남역점에서 개발자 세미나 ‘인프라지스틱스 데이 서울 2026’을 개최한다고 밝혔다. 개발자 커뮤니티 Dot4와 공동으로 여는 이 행사는 올해로 2회째다. ‘AI 시대의 UI 툴, 미국·일본 개발 트렌드’를 주제로 낮 12시부터 오후 5시까지 열린다. 세션에 앞서 도시락을 곁들인 네트워킹 시간을 마련해 참가자와 연사가 교류할 수 있도록 했다. 첫 연사는 제이슨 베레스 인프라지스틱스 부회장 겸 최고운영책임자(COO)다. 베레스 부회장은 AI 코딩 도구가 UI 코드를 자동으로 만들어 주는 상황에서 서드파티 UI 도구의 역할이 어떻게 달라지고 있는지 미국 개발팀의 선택 사례를 중심으로 설명할 예정이다. 이어 시미즈 켄지 인프라지스틱스 재팬 솔루션 컨설턴트가 일본 기업의 WPF 개발 현황을 소개한다. AI 코딩 도구 도입 이후 일본 개발 현장이 코드 리뷰·유지보수·사양 협의에서 겪는 어려움과 기업별 대응</content:encoded>
+    </item>
+    <item>
+      <title>엔비디아 시총 6조 달러 눈앞…“주가 3.8%만 더 오르면 달성”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134793273/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134793273/1</guid>
+      <pubDate>2026-10-06T14:41:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134793623.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엔비디아 주가가 5일(현지 시간) 사상 최고치를 기록하며 연내 사상 최초 시가총액 6조 달러(약 8057조 원) 돌파 가능성이 커졌다는 분석이 나왔다. 앞서 2023년 6월 처음으로 시총 1조 달러(약 1343조 원)를 돌파한 뒤 3년여 만에 몸값이 5조 달러 불어난 것이다.엔비디아는 이날 뉴욕 증시에서 전 거래일 대비 2.1% 오른 238.9달러에 거래를 마쳤다. 장중에는 24.1달러까지 올라 사상 최고가 기록을 쓰기도 했다. 종가 기준 엔비디아의 시가총액은 5조7575억 달러(7731조 원)까지 늘어났다.엔비디아의 시총이 6조 달러를 넘어서려면 주가가 248달러로 앞으로 3.8% 더 오르면 된다. 미 CNBC 분석에 따르면 엔비디아의 시총이 10월 중 6조 달러를 넘어설 확률이 약 50%로 나타났다. 올 12월 18일까지 시총 6조 달러를 달성할 가능성은 약 67%다. 엔비디아는 2023년 6월 14일 종가 기준으로 처음으로 시총 1조 달러를 돌파하며 ‘트릴리언 클럽’에 가</content:encoded>
+    </item>
+    <item>
+      <title>“韓 가상자산 규모 4491억 달러…日·中 제치고 동아시아 최대”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134793537/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134793537/2</guid>
+      <pubDate>2026-10-06T14:51:12.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134793538.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국의 가상자산 경제 규모가 최근 1년간 4491억 달러로 집계돼 일본, 홍콩, 중국, 대만을 제치고 동아시아 1위에 올랐다.</content:encoded>
+    </item>
+    <item>
+      <title>백내장으로 좁아지는 어르신 일상, 함께 관심을 기울여야 할 때[기고/최준호]</title>
+      <link>https://www.donga.com/news/It/article/all/20261006/134792379/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261006/134792379/1</guid>
+      <pubDate>2026-10-06T14:55:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134792552.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;매년 10월 2일은 노인복지법에 따라 지정된 ‘노인의 날’로, 고령층의 건강과 삶의 질을 돌아보는 날이다. 우리나라는 2024년 말 65세 이상 인구가 전체 주민등록인구의 20%를 넘어서며 초고령사회에 진입했다. 나이가 들어서도 원하는 활동을 이어갈 수 있도록 건강을 관리하는 일은 중요한 사회적 의제가 됐다. 눈 건강은 이러한 활동을 유지하는 데 필수적이다. 시야가 흐려지면 독서나 외출 등 익숙한 일상에도 어려움이 생기기 때문이다.노년기 시력 저하를 일으키는 대표적인 질환이 백내장이다. 건강보험심사평가원의 2025년도 다빈도 질병 통계에 따르면, 노년 백내장은 입원환자 수가 가장 많은 질환으로 한 해 약 35만 명이 입원 치료를 받았다. 백내장 치료에서는 이러한 질병의 규모와 함께 환자 개개인이 겪는 불편에도 주목해야 한다. 치료를 통해 어떤 시야를 회복하고 필요한 활동을 이어갈 수 있을지가 환자에게는 중요하기 때문이다.그 출발점은 시력 변화를 나이 탓으로만 여기지 않고 진료를</content:encoded>
+    </item>
+    <item>
+      <title>한국도박문제예방치유원, 가명정보 활용 경진대회 최우수상</title>
+      <link>https://www.donga.com/news/Society/article/all/20261006/134791417/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261006/134791417/1</guid>
+      <pubDate>2026-10-06T14:57:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791611.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;도박 문제 대응 방식이 상담과 신고를 통한 사후 대응에서 데이터에 기반한 선제적 예방으로 넓어지고 있다. 한국도박문제예방치유원(이하 예방치유원)은 도박 이용 행태와 재정적 위험의 연관성 등을 가명정보로 분석한 사례로 ‘2026 가명정보 활용 경진대회’에서 최우수상을 받았다.예방치유원은 지난달 30일 서울 EL타워에서 열린 개인정보보호위원회 주최 ‘2026 가명정보 활용 경진대회’ 우수사례 부문에서 최우수상을 수상했다고 6일 밝혔다. 예방치유원 협력지원본부 정책협력팀은 ‘도박 문제 선제적 예방시스템 구축을 위한 분석’을 주제로 이번 대회에 참가했다.이번 분석은 온라인·모바일 환경에서 이뤄지는 도박 이용 행태를 가명정보를 결합해 파악하는 데 초점을 맞췄다. 그동안 도박 문제 관련 정책은 이용자의 자기보고식 설문이나 상담 과정에서 확보한 정보에 의존하는 경우가 많았다. 한국도박문제예방치유원은 가명정보 분석을 통해 이 같은 방식으로 파악하기 어려웠던 도박 이용 특성을 확인하고 예방 정</content:encoded>
+    </item>
+    <item>
+      <title>삼성 갤럭시탭 S12 내일 출시…동영상 최대 23시간 재생</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134793416/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134793416/1</guid>
+      <pubDate>2026-10-06T15:11:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794051.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 7일 국내에 ‘갤럭시 탭 S12 시리즈’와 ‘갤럭시 스마트태그3’를 출시한다.  이번에 출시된 갤럭시 탭 S12 시리즈는 얇은 두께와 길어진 충전 시간이 특징이다. 갤럭시 탭 S12 울트라의 경우 5.1mm의 얇은 두께에 14.6형 대화면을 적용했다. 한 번 충전 시 동영상 재생 기준 최대 23시간까지 사용할 수 있다. 갤럭시 탭 S12+ 역시 전작보다 얇은 5.3mm 두께에 553g 무게로 휴대성을 강화했다. 한 번 충전 시 동영상 재생 기준 최대 21시간 사용할 수 있다.   두 제품 모두 대화면에 ‘갤럭시 AI’ 기능과 드로잉을 지원하는 S펜 등을 사용해 업무 생산성을 높일 수 있도록 설계됐다. 안드로이드 태블릿 최초로 ‘어도비 포토샵’도 탑재됐다. 가격은 메모리 등 세부 사양에 따라 갤럭시 탭 S12 울트라의 경우 189만9700원부터 301만8400원까지, 갤럭시 탭 S12+는 154만9900원부터 206만9100원으로 형성됐다.   태블릿과 함께 출시되</content:encoded>
+    </item>
+    <item>
+      <title>LG, 누리호에 부품 5종 탑재…우주서 기술 실증</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134793943/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134793943/1</guid>
+      <pubDate>2026-10-06T15:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794226.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG가 7일 발사 예정인 누리호 5차에 부품을 실어 기술 실증에 나선다. 카메라, 배터리 등 LG 계열사 제품들이 극한의 우주 환경에서 정상 작동하는지 검증하는 작업이다. LG 계열사들이 우주 공동 실증에 나서는 것은 이번이 처음이다. LG사이언스파크는 달 탐사 로버 개발 스타트업 ‘무인탐사연구소’와 함께 준비한 큐브위성에 LG 계열사 부품 5종을 탑재한다고 6일 밝혔다. 큐브위성은 10x10x10cm를 기본 규격으로 하는 초소형 인공위성으로 지구 관측, 기술 검증 등 다양한 임무에 활용된다. 누리호가 성공적으로 궤도에 안착하면 큐브위성은 고도 570km 상공에서 약 60일간 부품별 작동 시험을 순차 수행한다. 지난해 11월 누리호 4차 발사에는 총 12기의 큐브위성이 탑재된 바 있다. 탑재되는 LG 제품은 △LG이노텍의 카메라 모듈 △LG에너지솔루션의 배터리팩 △LG전자의 파워모듈, 자세제어 구동기, 위성 통신용 안테나 등이다. 카메라 모듈은 한반도 상공을 촬영해 데이터를</content:encoded>
+    </item>
+    <item>
+      <title>오픈AI 에이전트, 위키백과 수백만 페이지 수집·내용 편집 시도…서비스 장애 영향 가능성</title>
+      <link>https://www.donga.com/news/It/article/all/20261006/134793366/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261006/134793366/1</guid>
+      <pubDate>2026-10-06T16:20:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794675.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI의 인공지능(AI) 에이전트가 공개 자료를 대량으로 수집하는 과정에서 온라인 백과사전인 ‘위키피디아(위키백과)’ 서비스 장애에 영향을 줬을 가능성이 제기됐다.  AI가 단순히 허용된 권한을 벗어나는데 그치지 않고, 과도한 자동 접속으로 다른 이용자의 서비스 이용을 방해할 수 있다는 우려가 나온다.5일(현지 시간) 온라인 백과사전 위키피디아를 운영하는 위키미디어재단의 자체 조사에 따르면 에이전트들은 지식 데이터베이스 위키데이터와 사진·영상 저장소 위키미디어커먼스의 공개 페이지 수백만 건을 수집했다. 위키데이터 자료 조회 서비스에도 수십만 차례 조회를 요청했고, 백과사전 내용 편집을 시도하기도 했다. 재단은 “이런 접속이 5월 위키데이터 자료 조회 서비스의 일부 장애에 영향을 줬을 수 있다”고 밝혔다. 당시 장애 보고서에 따르면 과도한 접속으로 인해 서버에 과부하가 걸렸고, 가장 심할 때는 자료 조회 요청의 절반이 제때 처리되지 못했다. 과도한 접속을 제한하자 조회 실패율은 평소</content:encoded>
+    </item>
+    <item>
+      <title>사투리 알아듣고 역사왜곡 바로잡는 AI…페르소나AI, 국가AI대상 특별상</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134791826/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134791826/1</guid>
+      <pubDate>2026-10-06T17:10:00.000Z</pubDate>
+      <content:encoded>AI 기업 페르소나에이아이(페르소나AI)가 ‘2026 국가AI대상’에서 특별상인 국회 과학기술정보방송통신위원회 위원장상 수상자로 선정됐다. 페르소나AI는 6일 이같이 밝히며 “생성형 AI 컨택센터(GEN AICC)에 사투리 인식과 역사왜곡 대응 기능을 결합하고, 신뢰성과 보안성을 하나의 운영체계로 구현한 점이 평가받았다”고 설명했다. 시상식은 이날부터 8일까지 서울 코엑스에서 열리는 ‘인공지능 페스타 2026’에서 진행된다. 국가AI대상은 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)가 주관한다. 회사에 따르면 자체 개발한 음성인식 모델 ‘SSTT’는 약 5만 시간 분량의 한국어 발화를 학습했다. 이 중 1만 3,200시간은 강원·경상·전라·제주·충청 등 5대 권역의 사투리 데이터다. 표준어 중심의 기존 AI가 알아듣기 어려웠던 지역 방언과 60대 이상 고령층의 말투를 인식하도록 설계했다. 자체 테스트 기준으로 최대 20명의 목소리를 구분할 수 있다.</content:encoded>
+    </item>
+    <item>
+      <title>고혈압이 무릎까지 망가뜨린다?…관절염 악화 원리 규명 [노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20261006/134794370/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261006/134794370/2</guid>
+      <pubDate>2026-10-06T17:10:28.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794326.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;골 관절염은 나이가 들수록 흔해지는 대표적인 관절질환이다. 세계보건기구(WHO)에 따르면 골관절염 환자의 약 73%가 55세 이상이다. 그동안 노화나 신체적 외상 등에 따른 관절의 마모와 손상이 주요 원인으로 여겨져 왔다. 그런데 고혈압이 노화나 손상으로 이미 취약해진 관절의 골관절염 진행을 가속할 수 있다는 점과 그 구체적인 작동 원리를 국내 연구진이 밝혀냈다. 고혈압이 단순히 혈압과 혈관만의 문제가 아니라 노화하거나 다친 관절의 연골 파괴를 촉진할 수 있다는 것이다.류제황 전남대 교수와 인제대 전장수 석좌교수 공동연구팀이 수행한 이번 연구는 국제 학술지 ‘사이언스(science)’에 지난 1일(현지 시각) 게재됐다.골관절염과 고혈압은 서로 별개의 질환처럼 보인다. 하지만 고혈압이 있는 사람에게 골관절염 위험이 높거나 질환이 더 심하게 나타나는 연관성은 이전 연구에서도 보고돼 왔다. 하지만 두 질환이 어떤 생물학적 기전으로 연결되는지는 불분명했다.연구팀은 45세 이상 성인</content:encoded>
+    </item>
+    <item>
+      <title>펜 쥔 로봇, 스스로 작곡하는 피아노…AI가 그린 미래도시의 모습은</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134795745/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134795745/2</guid>
+      <pubDate>2026-10-06T18:05:23.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134795772.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI·로봇 박람회 &amp;apos;스마트라이프위크 2026&amp;apos;이 6일 코엑스에서 개막했다. 515곳이 참여해 8일까지 쇼룸과 로봇쇼를 연다.</content:encoded>
+    </item>
+    <item>
+      <title>금융권 해킹 IP, 카카오·케이·토스뱅크에도 접근 시도</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134793609/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134793609/1</guid>
+      <pubDate>2026-10-06T18:48:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134796516.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 에이전트가 활용된 것으로 추정되는 해킹이 주요 시중은행과 2금융권을 넘어 모바일 거래가 훨씬 활발한 인터넷전문은행 3사에도 전방위적으로 시도된 것으로 확인됐다. 다만 인터넷 은행 3사에선 실제 정보 유출 피해가 발생하진 않았다. 해커는 최근 금융권에서 10여 개국의 인터넷주소(IP주소) 28개로 공격을 시도한 것으로 조사됐다.6일 금융권에 따르면 최근 금융사를 공격한 IP주소 중 일부는 올해 카카오·케이·토스뱅크 등 인터넷은행 3사 서버에도 접근을 시도했다. 해당 IP주소는 올해 1월부터 여러 차례 카카오뱅크에 접근했고, 케이뱅크에도 접속을 시도한 사실이 확인됐다. 올해 1~8월 총 10여 차례에 걸쳐 토스뱅크 서버에도 접근을 시도했다. 다만 이 은행들에서 고객 개인정보 유출 등 침해 피해는 발생하지 않았다.금융 당국은 이날 금융권 해킹 공격 관련 IP주소 28개를 특정했다. 금융감독원은 최근 공격받은 금융사에 해킹을 시도한 IP주소가 33개인데 중복된 IP주소를</content:encoded>
+    </item>
+    <item>
+      <title>[르포] 테니스 치고 순찰도 도는 로봇, 일상 속으로 성큼… ’2026 서울AI로봇쇼’</title>
+      <link>https://www.donga.com/news/It/article/all/20261006/134796841/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261006/134796841/1</guid>
+      <pubDate>2026-10-06T19:07:57.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134796795.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;테니스 코트에 들어선 로봇이 네트를 사이에 두고 사람과 마주 섰다. 사람이 코트 구석으로 공을 찔러 넣자, 로봇이 몸을 틀어 라켓을 휘둘렀다. 라켓에 맞은 공이 네트를 넘어가며 랠리가 이어지자, 코트 주변을 둘러싼 관람객들이 일제히 탄성을 쏟아냈다.6일 서울 강남구 코엑스에서 개막한 ‘2026 서울AI로봇쇼’의 풍경이다. 2026 서울AI로봇쇼 주제는 ‘우리 삶과 동행하는 일상 속의 로봇’이다. 서울시와 서울경제진흥원(SBA)이 행사를 주최·주관하며 6일부터 8일까지 사흘간 코엑스에서 열린다.올해 2회째를 맞은 행사에는 현대차·기아 로보틱스랩, LG CNS, 두산로보틱스를 비롯해 국내 피지컬 AI 혁신기업 등 총 51개사가 참여했다. 주최 측은 국내 로봇기업을 중심으로 산업 생태계를 보여주는 동시에 단순 제품 전시에서 벗어나, 관람객이 로봇 기술을 직접 보고 즐길 수 있도록 체험형 콘텐츠를 강화했다.축구·테니스·복싱…스포츠경기로 보여주는 로봇 기술가장 먼저 로봇 스포츠 공간으</content:encoded>
+    </item>
+    <item>
+      <title>‘부캉이’ 정체는 멸종위기 흑상어, 3m 암컷이었다</title>
+      <link>https://www.donga.com/news/Society/article/all/20261006/134796478/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261006/134796478/1</guid>
+      <pubDate>2026-10-06T19:58:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134797000.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;부산 북항친수공원 인공수로에서 19일째 머물고 있는 상어 ‘부캉이’가 당초 알려졌던 무태상어가 아닌 흑상어로 판명됐다.6일 국립수산과학원(수과원)은 지난달 18일부터 인공수로에 머물고 있는 부캉이의 근접 촬영 영상을 분석한 결과 흑상어로 판명됐다고 밝혔다. 앞서 부캉이는 무태상어 또는 흑상어로 추정됐다. 두 종은 육안으로 구별하기 어렵지만 제1·제2등지느러미 사이에 융기선이 있으면 흑상어, 없으면 무태상어다.  수과원은 영상에서 부캉이의 등지느러미 사이 융기선을 확인했다.또 부캉이 몸길이는 약 3m의 암컷으로 확인됐다. 흑상어는 최대 4.2m까지 자라며 한국 연근해를 비롯한 전 세계 열대·온대 해역에 분포한다. 수온 18~26도를 선호하며 수온 변화에 따라 장거리를 회유한다. 어류와 오징어류 등을 먹으며 성장과 번식이 느려 국제자연보전연맹(IUCN) 적색목록에서 개체수 감소에 따른 ‘위기(EN)’ 종으로 분류돼 있다.한편 부캉이를 보려고 북항친수공원을 찾은 누적 방문객은 5일</content:encoded>
+    </item>
+    <item>
+      <title>“AI 6조 예산중 안전관련 274억뿐” 지적…배경훈 “해킹 맞설 프론티어AI 개발”</title>
+      <link>https://www.donga.com/news/Politics/article/all/20261006/134794436/1</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20261006/134794436/1</guid>
+      <pubDate>2026-10-06T20:57:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134797188.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)을 활용한 해킹 위협이 커지는 데 맞서 정부가 사이버 안보용 고성능 AI를 개발하고 침해사고가 반복되는 기업에 대한 제재를 강화한다. 국회에서는 공격 기술 발전 속도를 국내 방어 체계가 따라가지 못하고 있다는 질타도 이어졌다.6일 국회 과학기술정보방송통신위원회 국정감사에서 이주희 더불어민주당 의원은 정부의 AI 안전 투자가 성능·인프라 투자에 비해 부족하다고 지적했다. 내년 AI 성능·인프라 예산은 6조1490억 원인 반면 안전·신뢰 분야는 274억 원에 그친다. 이 의원은 “가속페달은 빨라지는데 브레이크는 그대로”라며 AI안전연구소 인력도 38명에 불과하다고 비판했다. 배경훈 부총리 겸 과기정통부 장관은 “AI 성능이 발전하는 만큼 신뢰와 안전도 중요하다”며 연구소 인력과 예산을 늘리겠다고 답했다. 또 사이버 안보 등에 대응할 고성능 ‘프론티어AI’를 개발하고 있다고 설명했다.기존 침해사고 대응 역량도 도마에 올랐다. 서천호 국민의힘 의원은 지난해 침해사고가 전년</content:encoded>
+    </item>
+    <item>
+      <title>노벨물리학상에 美 할전…남극서 우주 비밀 풀 ‘중성미자’ 포착</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261006/134796526/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261006/134796526/1</guid>
+      <pubDate>2026-10-06T21:21:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134796844.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;남극의 얼음을 활용해 태양계 바깥에서 온 고에너지의 ‘중성미자(Neutrino)’를 처음으로 포착한 프랜시스 할젠 미국 매디슨 위스콘신대 교수(82)가 올해 노벨 물리학상을 받았다. 노벨 물리학상 단독 수상자가 나온 것은 1992년 조르주 샤르파크 유럽 원자력연구소(CERN) 교수 이후 34년 만이다.스웨덴 왕립과학원은 6일(현지 시간) 벨기에 출신 미국 물리학자인 할젠 교수를 노벨 물리학상 단독 수상자로 선정했다. 노벨위원회는 “(남극의) 중성미자 관측소 ‘아이스큐브(IceCube)’ 건설에 결정적으로 기여하고 천체에서 비롯된 고에너지 중성미자를 발견한 공로”를 할젠 교수의 수상 사유로 꼽았다. 중성미자는 우주 곳곳에 존재하는 아주 작은 입자다. 전하가 없고 질량이 매우 작다. 태양에서도 끊임없이 만들어져 매초 수백억 개가 손톱만 한 면적을 지나가지만 지구, 심지어 우리 몸을 통과하면서도 다른 물질과 좀처럼 반응하지 않는다. 존재를 알아차리기 어렵다는 점에서 ‘유령입자(Ghos</content:encoded>
+    </item>
+    <item>
+      <title>“한판 할까요” 테니스 치는 휴머노이드 로봇</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134795736/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134795736/2</guid>
+      <pubDate>2026-10-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134795738.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;6일 서울 강남구 삼성동 코엑스에서 열린 2026 스마트라이프위크에서 휴머노이드 로봇이 인간 테니스 코치와 테니스를 치고 있다. 피지컬 AI와 로봇, 스마트 모빌리티 등 미래도시 기술을 선보이는 이번 행사는 8일까지 열린다.</content:encoded>
+    </item>
+    <item>
+      <title>공정위 “서비스몰 첫 화면에 회원 탈퇴 버튼을”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134795742/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134795742/2</guid>
+      <pubDate>2026-10-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794606.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;공정거래위원회가 다크패턴을 방지하기 위한 온라인 인터페이스 운영 가이드라인을 마련해 6일 배포했다. 가이드라인에 따르면 사업자는 소비자가 원할 때 서비스에서 탈퇴할 수 있도록 탈퇴 버튼을 잘 보이는 화면에 두는 등 소비자가 오인하지 않도록 온라인 웹사이트를 만들어야 한다. 다크패턴은 온라인에서 교묘하게 소비자의 착각을 불러일으켜 비합리적인 소비를 유도하는 행위로 전자상거래법 위반이다. 취소·탈퇴 절차를 복잡하게 하거나 정기결제 대금이 증액될 때 별도의 동의 없이 계약을 갱신하는 행위 등이 포함된다. 가이드라인은 취소·탈퇴 버튼을 소비자가 찾기 어려운 ‘개인정보 수정’ ‘보안 설정’ 등이 아닌 사이버몰에 로그인한 첫 화면이나 ‘마이페이지’에서 한 번에 연결되는 화면에 둘 것을 권고했다. 정기결제 금액이 오르거나 무료 혜택이 끝나 유료로 전환될 때는 일정 기간 동안 팝업창, 모바일 알림, 전자우편 등을 통해 소비자에게 관련 사항을 고지하고 명시적인 동의를 받아야 한다. 할인율 등</content:encoded>
+    </item>
+    <item>
+      <title>LG, 누리호 5차에 부품 5종 탑재 첫 우주 실증</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134796285/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134796285/2</guid>
+      <pubDate>2026-10-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794226.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;LG가 7일 발사 예정인 누리호 5차에 부품을 실어 기술 실증에 나선다. LG 계열사들이 우주 공동 실증에 나서는 것은 이번이 처음이다. LG사이언스파크는 달 탐사 로버 개발 스타트업 ‘무인탐사연구소’와 함께 준비한 큐브위성에 LG 계열사 부품 5종을 탑재한다고 6일 밝혔다. 누리호가 성공적으로 궤도에 안착하면 큐브위성은 고도 570km 상공에서 약 60일간 부품별 작동 시험을 순차 수행한다. 탑재되는 LG 제품은 △LG이노텍의 카메라 모듈 △LG에너지솔루션의 배터리팩 △LG전자의 파워모듈, 자세제어 구동기, 위성 통신용 안테나 등이다.  우주는 극저온과 진공, 방사선이 공존하는 환경으로 부품의 작동 조건이 지상과 크게 다르다. LG사이언스파크는 이번 실증을 통해 각 부품이 실제 우주환경에서 정상적으로 작동하는지 확인하고, 운용 과정에서 확보되는 데이터를 향후 기술 보완과 고도화에 활용할 예정이다.</content:encoded>
+    </item>
+    <item>
+      <title>위키피디아 “AI 에이전트 과도한 접속, 서비스 장애 불렀을수도”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134796374/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134796374/2</guid>
+      <pubDate>2026-10-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134794675.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI의 인공지능(AI) 에이전트가 공개 자료를 대량으로 수집하는 과정에서 온라인 백과사전인 ‘위키피디아(위키백과)’ 서비스 장애에 영향을 줬을 가능성이 제기됐다. AI가 단순히 허용된 권한을 벗어나는 데 그치지 않고, 과도한 자동 접속으로 다른 이용자의 서비스 이용을 방해할 수 있다는 우려가 나온다. 5일(현지 시간) 온라인 백과사전 위키피디아를 운영하는 위키미디어재단의 자체 조사에 따르면 에이전트들은 지식 데이터베이스 위키데이터와 사진·영상 저장소 위키미디어커먼스의 공개 페이지 수백만 건을 수집했다. 위키데이터 자료 조회 서비스에도 수십만 차례 조회를 요청했고, 백과사전 내용 편집을 시도하기도 했다.  재단은 “이런 접속이 5월 위키데이터 자료 조회 서비스의 일부 장애에 영향을 줬을 수 있다”고 밝혔다. 당시 장애 보고서에 따르면 과도한 접속으로 인해 서버에 과부하가 걸렸고, 가장 심할 때는 자료 조회 요청의 절반이 제때 처리되지 못했다. 과도한 접속을 제한하자 조회 실패율</content:encoded>
+    </item>
+    <item>
+      <title>“AI가 쓴 글입니다” 챗GPT - 코덱스에 워터마크 도입</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134796382/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134796382/2</guid>
+      <pubDate>2026-10-07T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134791967.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오픈AI가 유럽연합(EU) 지역에서 챗GPT와 코덱스가 쓴 글에 인공지능(AI)이 만든 글임을 알아볼 수 있는 ‘텍스트 워터마크’를 도입한다. 오픈AI는 5일(현지 시간) EU AI법에 따라 몇 주 안에 ‘텍스트그레인’을 적용한다고 밝혔다. 텍스트그레인은 AI가 단어를 고를 때 비밀 규칙을 따르게 하는 워터마크다. 사람에게는 평범한 글로 보이지만, 전용 프로그램은 이 규칙을 따른 흔적을 살펴 AI가 작성한 글인지 판단한다. 다만 사람이 글을 고치면 워터마크 식별률이 떨어졌다. 오픈AI의 자체 실험에 따르면 AI로 쓴 약 1600자 분량의 영어 글의 단어 10%를 비슷한 의미의 다른 단어로 바꾸자, 전용 프로그램이 해당 워터마크를 찾아낸 비율이 92%에서 66%로 떨어졌다. 단어 25%를 바꿨을 때는 17%까지 낮아졌다. 워터마크를 찾아낼 수 있는 전용 프로그램은 승인받은 연구자와 전문기관에 한해 우선 제공될 계획이다.</content:encoded>
+    </item>
+    <item>
+      <title>두산에너빌 380MW급 가스터빈… 머스크의 스페이스XAI에 출하</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261006/134796362/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261006/134796362/2</guid>
+      <pubDate>2026-10-07T00:30:00.000Z</pubDate>
+      <content:encoded>두산에너빌리티는 6일 경남 창원시 가스터빈 조립 공장에서 미국 인공지능(AI) 기업 스페이스XAI에 수출하는 380MW급 가스터빈 ‘DGT6-300H’ 제작을 완료하고 출하식을 진행했다.  두산에너빌리티가 자체 기술로 개발한 이 가스터빈 발전기는 일론 머스크가 이끄는 스페이스XAI의 미국 내 에너지 인프라 구축 프로젝트에 활용된다. 두산에너빌리티는 이번 수출로 글로벌 빅테크의 요구 성능을 충족한다는 점이 입증된 만큼 전 세계 빅테크의 추가 수주가 이뤄질 것으로 기대하고 있다.  손승우 두산에너빌리티 파워서비스BG장은 “대한민국 가스터빈의 기술력과 품질을 세계적 AI 기업들이 인정해준 것”이라며 “향후 북미를 비롯해 글로벌 대형 가스터빈 시장 진출에 속도를 붙이겠다”고 말했다.</content:encoded>
+    </item>
+    <item>
+      <title>[단독]‘해킹 AI’에 표적 주소 입력하자 43초만에 뚫어… 사용료 20원</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261007/134798021/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261007/134798021/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798354.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 금융사 연쇄 해킹에 사용 흔적이 나온 중국어권 인공지능(AI) 침투 도구 ‘아르텍스(ARTEX)’를 사용해 보니 1분도 지나지 않아 표적으로 삼은 서버가 뚫렸다. 사용료 20원을 내고 표적 주소만 입력하면 AI가 나머지 해킹 과정을 모두 수행한다. 동아일보 취재진은 6일 외부망과 차단한 가상 실험실에서 아르텍스 해킹 실험을 진행했다. 표적은 기자 소유 노트북에 만든 가상 서버 한 대다. 아르텍스에 목표를 입력하자 AI는 서버 내 서비스를 한꺼번에 훑어 43초 만에 치명적 약점 두 곳을 파고들었다. 한 곳에서는 오래된 파일 전송 프로그램에 숨은 백도어(비밀번호 없이 드나드는 통로)로 들어가 최고 관리자 권한을 탈취했다. 다른 한 곳에서는 웹사이트 입력창에 명령어를 끼워 넣은 뒤 원격으로 서버를 조종했다. 해킹을 시도하다 막히면 AI 스스로 방법을 바꿔 재시도했고 보고서까지 내놨다. 보고서 작성까지 걸린 시간이 약 4분, 사용료는 20원에 불과했다. 아르텍스는 AI에 손발을</content:encoded>
+    </item>
+    <item>
+      <title>대형 교회 2곳도 해킹… “100만건 정보유출 가능성”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261007/134798126/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261007/134798126/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798358.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;국내 대형 교회 2곳에서 인공지능(AI)이 활용된 것으로 추정되는 해킹 정황이 확인됐다. 금융권 AI 해킹 우려가 확산되는 가운데 이에 앞서 100만 건에 달하는 교인 개인정보, 헌금 자료 등이 외부로 유출됐을 가능성이 제기된 것이다. 6일 보안업체 오아시스시큐리티에 따르면 해킹에 사용된 것으로 의심되는 인터넷주소(IP) 추적 중 해외 공격자 서버에서 국내 대형 기관 2곳과 관련된 대규모 개인정보 탈취 문서가 발견됐다. 해당 교회는 서울 여의도순복음교회와 서울 서초구 사랑의교회로, 유출된 데이터는 약 100만 건에 달하는 것으로 알려졌다. 김근용 오아시스시큐리티 대표는 “탈취된 데이터를 정리해 둔 문서들이 다수 발견되었는데, 포맷 자체가 AI를 활용했을 때 나오는 전형적인 형태였다”며 “파일 내부에 중국어 주석으로 ‘서브에이전트(Sub-agent)’ 같은 용어들도 등장했다”고 말했다. 이어 “3일 만에 대형 교회 2곳을 털면서 내부 네트워크를 이동하며 관련 데이터를 전부 빼간 속</content:encoded>
+    </item>
+    <item>
+      <title>남극서 우주 비밀 풀 ‘중성미자’ 포착… 노벨물리학상에 美할전</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134797435/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134797435/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134796844.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;남극의 얼음을 활용해 태양계 바깥에서 온 고에너지의 ‘중성미자(Neutrino)’를 처음으로 포착한 프랜시스 할젠 미국 매디슨 위스콘신대 교수(82)가 올해 노벨 물리학상을 받았다. 노벨 물리학상 단독 수상자가 나온 것은 1992년 조르주 샤르파크 유럽 원자력연구소(CERN) 교수 이후 34년 만이다.스웨덴 왕립과학원은 6일(현지 시간) 벨기에 출신 미국 물리학자인 할젠 교수를 노벨 물리학상 단독 수상자로 선정했다. 노벨위원회는 “(남극의) 중성미자 관측소 ‘아이스큐브(IceCube)’ 건설에 결정적으로 기여하고 천체에서 비롯된 고에너지 중성미자를 발견한 공로”를 할젠 교수의 수상 사유로 꼽았다.중성미자는 우주 곳곳에 존재하는 아주 작은 입자다. 전하가 없고 질량이 매우 작다. 태양에서도 끊임없이 만들어져 매초 수백억 개가 손톱만 한 면적을 지나가지만 지구, 심지어 우리 몸을 통과하면서도 다른 물질과 좀처럼 반응하지 않는다. 존재를 알아차리기 어렵다는 점에서 ‘유령입자(Ghost</content:encoded>
+    </item>
+    <item>
+      <title>강원 산지 올가을 첫 한파특보, 작년보다 3주 빨라</title>
+      <link>https://www.donga.com/news/Society/article/all/20261007/134797221/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261007/134797221/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798353.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;북쪽에서 내려온 찬 공기의 영향으로 강원 산지 일부에선 7일 아침 기온이 2도까지 떨어지는 등 전국에 쌀쌀한 가을 날씨가 이어질 것으로 보인다. 5일 밤 강원 산지엔 올가을 첫 한파특보가 발효됐다. 기상청에 따르면 7일 아침 최저기온은 2∼14도, 낮 최고기온은 21∼25도로 예보돼 낮과 밤의 기온 차가 15도 안팎으로 크게 벌어질 것으로 보인다. 주요 지역 아침 최저기온은 서울 10도, 춘천 5도, 청주 10도, 대전 10도, 광주 11도, 대구 11도, 부산 14도 등이다. 강원 내륙·산지는 아침 기온이 5도 이하로 내려가는 곳이 있을 것으로 전망된다. 이번 추위는 북서쪽에서 찬 공기가 유입된 데 따른 것이다. 5일 밤 강원 태백과 평창 산지에는 올가을 첫 한파특보가 발효됐다. 2005년 한파특보 체계가 정비된 이후 전국에서 가장 이른 시기에 내려진 한파특보다. 지난해 첫 한파특보보다 약 3주 빠르다. 한파특보는 6일 오전 기온이 오르면서 해제됐지만 찬 북풍 계열 바람이 계속</content:encoded>
+    </item>
+    <item>
+      <title>수직으로 세워진 누리호, 오늘 5번째 우주비행</title>
+      <link>https://www.donga.com/news/Society/article/all/20261007/134797271/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261007/134797271/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134795501.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;7일 5차 발사를 앞둔 한국형 발사체 누리호가 6일 전남광주 고흥군 나로우주센터 제2발사대에 기립해 있다. 이날 오전 발사대로 옮겨진 누리호는 전원과 추진제 공급 장치를 연결하고 기밀 상태를 점검하는 등 발사대 설치에 필요한 작업을 마쳤다. 누리호는 7일 주탑재위성인 초소형 군집위성 ‘네온샛’ 5기를 비롯해 역대 가장 많은 위성 15기를 싣고 5번째 우주비행에 나선다.</content:encoded>
+    </item>
+    <item>
+      <title>“부캉이, 멸종위기 흑상어”</title>
+      <link>https://www.donga.com/news/Society/article/all/20261007/134797269/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261007/134797269/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798192.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;부산 북항친수공원 인공수로에서 19일째 머물고 있는 상어 ‘부캉이’가 당초 알려졌던 무태상어가 아닌 흑상어로 판명됐다. 6일 국립수산과학원(수과원)은 지난달 18일부터 인공수로에 머물고 있는 부캉이의 근접 촬영 영상을 분석한 결과 흑상어로 판명됐다고 밝혔다. 앞서 부캉이는 무태상어 또는 흑상어로 추정됐다. 두 종은 육안으로 구별하기 어렵지만 제1·제2등지느러미 사이에 융기선이 있으면 흑상어, 없으면 무태상어다. 수과원은 영상에서 부캉이의 등지느러미 사이 융기선을 확인했다. 또 부캉이는 몸길이가 약 3m인 암컷으로 확인됐다. 흑상어는 최대 4.2m까지 자라며 한국 연근해를 비롯한 전 세계 열대·온대 해역에 분포한다. 수온 18∼26도를 선호하며 수온 변화에 따라 장거리를 회유한다. 어류와 오징어류 등을 먹으며 성장과 번식이 느려 국제자연보전연맹(IUCN) 적색목록에서 개체수 감소에 따른 ‘위기(EN)’ 종으로 분류돼 있다. 한편 부캉이를 보려고 북항친수공원을 찾은 누적 방문객은</content:encoded>
+    </item>
+    <item>
+      <title>홀몸-요양원 어르신 돌보는 AI… 내년 400가구-12개 시설에 설치</title>
+      <link>https://www.donga.com/news/Society/article/all/20261007/134797277/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261007/134797277/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798347.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;다음 달부터 인공지능(AI)이 돌봄이 필요한 홀몸노인 등을 24시간 살피는 ‘스마트홈’ 시범사업이 시작된다. 2030년부터는 건강 관리와 말동무를 해 주는 가정용 돌봄 로봇도 도입된다.  보건복지부는 6일 국무회의에서 이런 내용의 ‘복지·돌봄 AI 대전환 로드맵’을 발표했다. 급속한 고령화와 1인 가구 증가에 따른 돌봄 수요 증가에 대비하기 위해서다. 한국개발연구원(KDI)은 2043년 요양보호사 99만 명이 부족할 것으로 전망했다. 현재 재가 돌봄 대상자는 최대 6시간 동안 움직임이 없어야 위기 알림이 전송된다. 스마트홈은 AI가 이용자의 생활 방식과 대화 내용 등을 분석해 위기 징후를 1시간 안에 감지할 수 있다. 요양원 등 돌봄 시설에는 스마트 기저귀와 낙상·움직임 감지 센서를 도입해 야간 돌봄 부담을 줄일 방침이다. 정부는 내년까지 400가구와 12개 시설에 이 같은 ‘스마트 돌봄’ 서비스를 단계적으로 도입하기로 했다. 2030년부터는 위기 감지, 건강 관리, 대화 기능</content:encoded>
+    </item>
+    <item>
+      <title>마포 밤-휴일 민원전화, ‘AI 당직’이 접수한다</title>
+      <link>https://www.donga.com/news/Society/article/all/20261006/134797135/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261006/134797135/2</guid>
+      <pubDate>2026-10-07T04:30:00.000Z</pubDate>
+      <content:encoded>서울 마포구가 야간과 휴일 민원전화를 인공지능(AI)이 우선 응대하는 ‘AI 당직 보이스봇’을 서울 25개 자치구 가운데 처음 도입한다. 마포구는 10월부터 12월까지 3개월간 AI 당직 보이스봇을 시범 운영한다고 6일 밝혔다. 평일 야간과 주말 및 공휴일에 구청 당직실로 전화하면 AI가 문의 내용을 파악해 관련 정보를 안내하거나 민원을 접수한다. 부서 전화번호와 업무 문의는 AI가 바로 답변한다. 불법 주정차와 공사장 소음, 쓰레기 미수거 등 생활민원은 AI가 민원인과의 대화하며 위치와 상황 등을 확인해 접수한다. 야간 진료기관·약국, 상수도 누수·단수, 층간소음 등 당직실에서 직접 처리가 어려운 민원은 관련 기관이나 신고 방법을 안내한다. 도로 침하나 맨홀 파손처럼 현장 확인이 필요한 사안은 당직근무자에게 연결한다. 화재나 위험 동물 출몰 등 긴급상황은 119·112 등 관계기관을 안내한다. AI가 접수한 민원은 통화 뒤 접수 내용을 문자로 발송해 민원인이 그 내용을 다시</content:encoded>
+    </item>
+    <item>
+      <title>“잘 막아도 가시방석”…AI 해킹 공포에 카드사들 ‘초긴장’</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261007/134798423/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261007/134798423/1</guid>
+      <pubDate>2026-10-07T05:38:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134799883.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;금융권이 인공지능(AI)을 활용한 사이버 공격으로 비상이 걸리자, 카드사들도 발 빠른 대응에 나섰다. 아직 유출된 사례가 확인된 건 아니지만 자동화된 AI로 취약점을 찾아낼 수 있다는 공포감이 확산하면서 긴장감을 늦추지 않고 있다.7일 금융권에 따르면 전업 카드사들은 금융당국의 지침에 따라 최근 불거진 정보유출 사건 관련 긴급 점검을 마쳤다. 카드사들의 보안 부서는 개천절 연휴 기간에도 비상근무 체제를 가동해 전반적인 시스템을 점검하고 상시 모니터링 수준을 강화했다.이번 사고는 AI를 활용해 비교적 보안이 약한 직원, 대출모집인 등이 사용하는 외부 연계 시스템을 파고든 공격으로 추정된다.이에 시중은행 해킹 사고 이후 금융당국은 해킹에 활용된 공격자 인터넷주소(IP)와 공격 유형, 보안 유의 사항 등의 정보를 전체 금융권에 전파하며 보안점검 체크리스트를 배포했다. 카드업계는 6일까지 긴급 점검 결과서를 제출해야 했다.따라서 카드사들은 외부에 노출된 전산 시스템과 서비스를 살피는</content:encoded>
+    </item>
+    <item>
+      <title>“140원이면 챗GPT 계정 산다”…다크웹 파고든 ‘AI 해킹 장터’</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261007/134798617/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261007/134798617/1</guid>
+      <pubDate>2026-10-07T08:23:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134797025.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;‘도난된 인공지능(AI) 계정 10센트(약 140원), 딥페이크 영상 80달러….’생성형 AI가 빠르게 발전하면서 다크웹과 텔레그램 등 지하 사이버범죄 시장에서 AI 범죄 도구가 일반 온라인 상품처럼 거래되고 있는 것으로 나타났다. 과거 전문 해커만 갖출 수 있었던 기술을 초보 범죄자도 돈만 내면 살 수 있게 되면서 AI가 사이버범죄의 ‘가격’과 ‘진입장벽’을 동시에 낮추고 있다는 우려가 나온다.● 무료로 고객 모으고 고급기능 유료화미 사이버보안업체 할시온 랜섬웨어연구센터가 6일(현지 시간) 공개한 ‘서비스형 지하 AI(Underground AI-as-a-Service)’ 보고서에 따르면 지하 사이버범죄 시장에서 AI 도구를 광고하는 게시물은 지난해 말 월 50건 미만에서 올 2월 1400건 이상으로 급증했다. 연구진이 지난해 10월 1일부터 올 5월 1일까지 텔레그램 채널 77곳, 다크웹 포럼 20곳, 전문 지하 시장 5곳에 올라온 약 4000개 게시물을 분석한 결과다.특히 범죄용</content:encoded>
+    </item>
+    <item>
+      <title>[속보]누리호 오늘 낮 12시 25분 발사</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134798859/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134798859/1</guid>
+      <pubDate>2026-10-07T08:57:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798865.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[속보]누리호 오늘 낮 12시 25분 발사</content:encoded>
+    </item>
+    <item>
+      <title>누리호, 오늘 낮 12시 25분 발사…우주청 “모든 준비 순조롭다”</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134798978/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134798978/2</guid>
+      <pubDate>2026-10-07T09:10:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798979.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;누리호가 예정대로 7일 12시 25분경 5차 발사에 나선다.우주항공청은 이날 오전 발사관리위원회를 개최하고 누리호 5차 발사 시간을 확정했다고 밝혔다. 우주항공청은 발사체의 기술적 준비 상황과 기상 상황·우주환경, 우주물체와의 충돌 가능성 등을 종합적으로 검토한 결과 예정대로 5차 발사를 진행하기로 결정했다.누리호는 전날 전남 고흥 나로우주센터 제2발사대로 이송돼 기립했다. 이후 추진제와 전기 등을 공급하기 위한 엄빌리칼 연결을 마치고 관련 점검과 추가 작업을 진행했다. 이날 오전 5시부터 발사체와 발사대의 센서·장비 등을 점검하고 있으며, 현재까지 기술적 문제가 발생하지 않은 것으로 전해졌다. 오태석 우주항공청 청장은 “현재까지 모든 준비는 순조롭게 진행되고 있다”며 “앞으로 발사 마지막 순간까지 남은 절차도 차질없이 진행될 수 있도록 최선을 다하겠다”고 전했다.</content:encoded>
+    </item>
+    <item>
+      <title>“비만치료제 써볼까?”…발생 가능 부작용은 ‘이것’</title>
+      <link>https://www.donga.com/news/Society/article/all/20261007/134799283/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261007/134799283/1</guid>
+      <pubDate>2026-10-07T09:38:01.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134799284.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 다이어트를 목적으로 마운자로, 위고비 등 GLP-1 계열 비만치료제를 처방받는 사람들이 늘고 있다. 체중 감량 효과가 알려지면서 수요가 증가한 가운데, 온라인에서 비만치료제를 불법 판매하거나 알선·광고하는 게시물이 식품의약품안전처에 적발되기도 했다.비만치료제는 체중 감량에 도움을 줄 수 있지만 부작용이 나타날 수 있어 의료진의 처방과 복약 지시에 따라 사용하는 것이 중요하다. 민세희 서울아산병원 내분비내과 교수의 도움말로 GLP-1 계열 비만치료제의 주요 부작용과 안전하게 사용하는 방법을 알아본다.7일 의료계에 따르면 최근 많이 사용하는 위고비, 마운자로 등의 비만치료제는 전반적으로 안전성이 충분히 확인된 약이지만 드물게 주의해야 할 부작용은 있다.우선 온라인 등을 중심으로 알려진 부작용 가운데 하나가 췌장염이다. 췌장염은 비만치료제로 인한 발병 가능성은 있지만 흔한 부작용은 아니라는 것이 의료계의 설명이다. 대규모 임상시험 결과에서도 비만치료제를 사용한 사람에게서 췌장</content:encoded>
+    </item>
+    <item>
+      <title>여성, 남성보다 통증 더 많이 겪는다…신체 11곳 모두 [노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134799452/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134799452/2</guid>
+      <pubDate>2026-10-07T10:09:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134799385.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;여성이 남성보다 더 많은 통증을 겪는다는 대규모 연구 결과가 나왔다.전 세계 인구 기반 연구 네트워크에서 수집된 개인별 통증 보고 데이터를 활용해 측정한 모든 종류의 통증에서 성별 격차가 나타났다. 이러한 결과는 여성의 통증이 의료 현장에서 과소 평가되거나 충분히 치료되지 않을 수 있다는 이른바 ‘성별 통증 격차’에 대한 우려가 이어지는 가운데 나왔다.국제 학술지 ‘네이처 메디신(Nature Medicine)’에 발표된 이번 연구는 전 세계 장애의 주요 원인인 통증이 세계 각 지역과 인간의 생애 전반에 걸쳐 어떻게 분포하는지를 분석했다.국제 연구진은 1990년부터 2025년까지 118개국에서 600만 명 이상의 자료를 수집했다. 대상자의 연령은 5세부터 100세 이상까지 폭넓게 포함됐다.연구진은 “현재까지 통증 역학 분야에서 이뤄진 최대 규모의 데이터 통합 작업 가운데 하나”라고 평가했다.연구 결과, 여성은 조사한 신체 11개 부위 모두에서 통증을 보고한 비율이 일관되게 남</content:encoded>
+    </item>
+    <item>
+      <title>“청소년 비만 치료 선택지 넓힌다”…HK이노엔, GLP-1 신약 임상서 체중 최대 12.6%↓</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261007/134799708/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261007/134799708/1</guid>
+      <pubDate>2026-10-07T10:19:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/01/22/133212850.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;HK이노엔이 도입한 GLP-1 계열 비만치료제 ‘에크노글루타이드’가 비만 청소년을 대상으로 한 초기 임상에서 20주 만에 체질량지수(BMI)를 최대 12.6% 낮춘 것으로 나타났다.HK이노엔은 중국 파트너사 사이윈드 바이오사이언스가 지난달 30일(현지시간) 이탈리아 밀라노에서 열린 유럽당뇨병학회(EASD)에서 에크노글루타이드의 비만 청소년 대상 임상 1b상 결과를 발표했다고 밝혔다.에크노글루타이드는 cAMP(고리형 아데노신 일인산) 편향 GLP-1 수용체 작용제다. GLP-1 수용체에서 특정 신호전달 경로를 선택적으로 활성화하도록 설계된 약물이다. HK이노엔은 2024년 사이윈드로부터 에크노글루타이드를 도입했으며 현재 비만과 당뇨병 치료제로 국내 임상 3상을 진행하고 있다.이번 임상에는 12~17세 중국인 비만 청소년 48명이 참여했다. 참가자들은 에크노글루타이드 1.2mg, 1.8mg, 2.4mg 투여군과 위약군으로 무작위 배정돼 20주 동안 치료를 받았다.연구 결과 에크노</content:encoded>
+    </item>
+    <item>
+      <title>한중일 청년 51명, 부산서 6박7일 e스포츠 교류…발로란트 결승은 한일전</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134799511/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134799511/2</guid>
+      <pubDate>2026-10-07T10:39:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134799507.3.jpeg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국·중국·일본 청년 51명이 부산에서 6박7일간 e스포츠 경기와 직무교육, 문화교류에 참여했다. 발로란트 결승은 한국과 일본 팀의 맞대결로 치러졌다.</content:encoded>
+    </item>
+    <item>
+      <title>샌드버그, DB손보와 AI 보험서류 위변조 탐지 실증</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261007/134799853/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261007/134799853/1</guid>
+      <pubDate>2026-10-07T10:48:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134799829.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;위변조 탐지 솔루션 기업 샌드버그가 DB손해보험과 손잡고 보험금 청구 서류의 위변조 여부를 인공지능(AI)으로 가려내는 기술 실증에 나섰다. 샌드버그는 DB손보와 실증 계약을 맺고 자사 AI 솔루션 ‘SCRYN(스크린)’을 실제 청구 서류에 시험 적용하고 있다고 7일 밝혔다. 계약은 지난 7월 SVCS 오픈이노베이션을 통해 이뤄졌다. 실증은 기술의 효과와 활용 가능성을 현장에서 검증하는 단계로, 정식 도입과는 다르다. 검증 대상은 DB손보에 접수되는 보험금 청구 서류다. 여행자보험 청구 때 제출되는 해외 발급 문서도 포함됐다. 샌드버그는 나라마다 언어와 양식이 다른 문서에서도 위변조를 잡아내도록 기술을 개선하는 데 중점을 두고 있다고 설명했다. 자동차보험 분야에서는 차량 사진과 대시보드 사진의 조작 여부를 가려내는 실증을 따로 진행 중이다. 보험사기 적발 규모는 해마다 커지고 있다. 금융감독원에 따르면 올해 상반기 보험사기 적발금액은 6200억원으로 1년 전보다 9.1% 늘</content:encoded>
+    </item>
+    <item>
+      <title>여의도순복음교회 해킹당해…신도 85만명 개인정보 유출 의심</title>
+      <link>https://www.donga.com/news/Society/article/all/20261007/134800093/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261007/134800093/1</guid>
+      <pubDate>2026-10-07T11:04:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134798358.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사이버 공격을 받은 정황이 확인된 여의도순복음교회에서 성도 약 85만 명의 이름과 생년월일 등 개인정보가 유출됐을 가능성이 제기됐다. 일부 자료에는 주민등록번호와 전화번호, 주소 변경 이력 등 민감 정보도 포함됐다. 금융 정보에 해당하는 헌금 내역 등을 둘러싼 우려도 커질 전망이다.여의도순복음교회는 7일 “한국인터넷진흥원(KISA)으로부터 전날 오후 3시 교회 정보시스템 침해 사고 발생 정황을 통보받은 직후 긴급 보안 점검에 착수했다”며 외부 보안 전문기관과 유출 의심 자료와 시스템 접속 기록 등을 분석했다고 밝혔다.교회에 따르면 유출 의심 자료 7건 중 교구 전입·전출 이력, 직분 임명 내역, 침례 이력 등 6건에는 개인정보가 포함되지 않았다. 다만 성도 정보 변경 이력 1건에는 총 85만 명의 이름과 생년월일, 변경 내용 등이 담긴 것으로 확인됐다.이 중 주민등록번호 변경 이력은 2629건, 전화번호 변경 이력은 3964건, 주소 변경 이력은 7202건이었다. 과거 헌금</content:encoded>
+    </item>
+    <item>
+      <title>“아침에 일어나니 몸 뻣뻣”…‘이렇게’ 해보세요</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134800295/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134800295/1</guid>
+      <pubDate>2026-10-07T11:32:18.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134800296.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일교차가 커지는 가을철에는 평소보다 무릎이나 허리가 뻣뻣하게 느껴져 병원을 찾는 사람이 많다. 갑작스러운 기온 변화에 몸이 적응하는 과정에서 평소 잠잠했던 관절이나 허리의 불편함을 더 민감하게 만들기 때문이다. 잠자리에서 일어나 첫발을 디딜 때 무릎이 바로 펴지지 않거나, 오래 앉아 있다가 일어설 때 허리를 한 번에 펴기 어렵다면 퇴행성관절염을 의심해 봐야 한다. 7일 의료계에 따르면 퇴행성관절염은 관절을 보호하는 연골의 점진적인 손상이나 퇴행성 변화로 인해 관절을 이루는 뼈와 인대 등에 손상이 생겨 염증과 통증이 발생하는 질환을 말한다. 오랫동안 움직이지 않은 뒤 처음 몸을 움직일 때 통증이나 뻣뻣함이 두드러졌다가, 움직이면서 조금씩 풀리는 양상을 흔히 ‘시동통’으로 부르기도 한다. 잠자는 동안이나 장시간 앉아 있는 동안 관절의 움직임이 줄고 주변 근육과 인대, 힘줄도 한 자세로 머물면서 다시 움직이기 시작할 때 불편함이 나타나는 것이다.전문가들은 퇴행성관절염이 있는 경우</content:encoded>
+    </item>
+    <item>
+      <title>[자동차와 法] 보행자가 된 배달로봇, 교통사고에 대한 책임은?</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134800419/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134800419/1</guid>
+      <pubDate>2026-10-07T11:46:02.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134800415.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;복잡한 첨단 기능을 결합한 자동차에 결함과 오작동이 발생하면, 원인을 특정하기 어렵습니다. 급발진 사고가 대표적인 예입니다. 자동차를 둘러싸고 벌어지는 사고 유형도 천차만별입니다. 전기차 전환을 맞아 새로 도입되는 자동차 관련 법안도 다양합니다. 이에 IT동아는 법무법인 엘앤엘 정경일 대표변호사(교통사고 전문 변호사)와 함께 자동차 관련 법과 판례를 중심으로 다양한 사례를 살펴보는 [자동차와 法] 기고를 연재합니다.최근 눈길을 끈 교통사고 사례가 있었습니다. 상황은 이렇습니다. 서울의 한 골목에서 우회전하던 자동차 아래쪽에서 충격음이 들렸습니다. 운전자는 멈춰 주변을 살폈지만, 눈에 들어오는 것이 없어 다시 출발했습니다. 그러자, 또 한 번 충격이 왔습니다. 차에서 내려 보니 오른쪽 아래에 있던 것은 최근 대학 캠퍼스나 대단지 아파트 주변에서 자주 눈에 띄는 ‘자율주행 배달로봇’이었습니다. 운전자가 첫 충돌 뒤 멈춰 있던 로봇을 다시 들이받은 것입니다.이 사고는 보험 처리 과정에</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자 3분기 영업익 100조 전망…월가의 관심은 ‘실적의 수명’</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261007/134800357/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261007/134800357/2</guid>
+      <pubDate>2026-10-07T11:46:16.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134800377.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 3분기 100조원대 영업이익을 거둘 것으로 예상되지만 시장은 AI 메모리 호황이 2027~2028년까지 지속될지 주목하고 있다.</content:encoded>
+    </item>
+    <item>
+      <title>누리호, 낮 12시25분 5차 발사…위성 15기 싣고 ‘정밀 수송’ 도전</title>
+      <link>https://www.donga.com/news/It/article/all/20261007/134800624/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261007/134800624/1</guid>
+      <pubDate>2026-10-07T12:21:07.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/07/134800637.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국형 발사체 누리호가 7일 낮 12시25분 다섯 번째 우주 비행에 나선다. 이번에는 역대 가장 많은 위성 15기를 싣고 올라 주탑재위성 5기를 서로 충돌하지 않도록 방향을 바꿔가며 차례로 궤도에 내려놓는다. 단순히 위성 한 기를 우주로 보내는 것을 넘어 여러 위성을 원하는 궤도에 정밀하게 투입하는 ‘맞춤형 우주 수송’ 능력을 시험하는 것이다.우주항공청과 한국항공우주연구원은 이날 오전 8시 발사관리위원회를 열고 누리호 5차 발사 시각을 낮 12시25분으로 확정했다. 발사체의 기술적 준비 상태와 기상, 우주환경, 우주물체 충돌 가능성 등을 종합 검토한 결과 발사를 제약할 만한 요소는 없는 것으로 판단했다.누리호에는 주탑재위성인 초소형군집위성 ‘네온샛’ 2~6호 5기와 큐브위성 10기 등 모두 15기가 실렸다. 한 번의 누리호 발사에 실리는 위성으로는 역대 최다다.발사 후 약 123초 뒤 1단이 분리되고 233초 뒤에는 위성을 감싼 페어링, 268초 뒤에는 2단이 차례로 떨어져 나간다.</content:encoded>
     </item>
   </channel>
 </rss>
