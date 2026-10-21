@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 문화/체육</title>
-    <link>https://www.ablenews.co.kr/rss/S1N8.xml</link>
-    <description>에이블뉴스 - 문화/체육</description>
-    <lastBuildDate>2026-10-20T02:44:35.814Z</lastBuildDate>
+    <title>에이블뉴스 - 인물/단체</title>
+    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
+    <description>에이블뉴스 - 인물/단체</description>
+    <lastBuildDate>2026-10-21T02:38:43.247Z</lastBuildDate>
     <item>
       <title>표준사업장 인증 반납 1년 새 2배 급증‥장애인 일자리 유지 ‘흔들’</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233289</link>
@@ -159,20 +159,6 @@
       <content:encoded>【에이블뉴스 이슬기 기자】한국장애인고용공단 서울남부지사가 해피팜협동조합과 협력해 생성형 AI를 활용해 작물의 생육 상태를 판별하고 수확·관리·선별까지 수행하는 ‘AI 작물 케어 테크니션’ 직무를 개발하고, 장애인 6명의 신규 고용을 연계했다고 7일 밝혔다.‘AI 작물 케어 테크니션’은 발달장애인이 이미지 인식 AI를 활용해 잎채소의 생육 상태를 확인하고, AI가 제시한 결과에 따라 수확 여부와 생육 이상 관리, 병해충 의심 작물 선별 등의 조치를 직접 판단·수행하는 직무다.이번 직무개발은 AI 전환(AX)이 산업 전반으로 확산되면서</content:encoded>
     </item>
     <item>
-      <title>&quot;장애인공무원 유리천장 승진 어려워, 채용 규모 관리에만 그쳐선 안 돼&quot;</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233752</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233752</guid>
-      <pubDate>2026-10-07T16:24:26.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】국회 행정안전위원회 소속 김예지 의원(국민의힘)이 7일 국회에서 열린 행안위 국정감사에서 최동석 인사혁신처장에게 &quot;장애인공무원에게는 여전히 유리천장이 존재한다&quot;면서 차별없는 동등한 기회를 보장받을 수 있도록 인사 체계 전반을 점검할 것을 주문했다.김 의원은 &quot;장애인공무원 분들이 승진을 하기 어렵다는 민원이 많아서 인사혁신처에 장애인과 비장애인 공무원의 승진 현황을 요구했으나 채용 단계까지만 담당하고 그 이후에는 각 부처에서 관리한다며 책임을 회피했다. 19개 중앙부처에 자료를 요구하니 통계 자체가 없다고 답</content:encoded>
-    </item>
-    <item>
-      <title>지적장애 &apos;동거 고독사&apos; 비극, &quot;복지부 위기가구 집중관리 방안 필요&quot;</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233750</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233750</guid>
-      <pubDate>2026-10-07T17:20:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】국회 보건복지위원회 소속 서미화 의원(더불어민주당)이 7일 국회에서 열린 보건복지부 국정감사에서 최근 발생한 중랑구 지적장애가족의 &apos;동거 고독사&apos; 사건을 언급하며, 비극이 재발되지 않도록 장애인 위기가구의 집중 관리 방안을 주문했다.서 의원은 &quot;최근 서울 중랑구에서 지적장애가 있는 20대 남성이 숨진 채 발생했는데, 함께 살던 엄마와 동생도 지적장애여서 (장님이) 숨진 사실을 인지하지 못했다. 이 가족은 모두 기초생활보장, 장애인복지 공적 급여와 복지서비스 이용 기록이 있는 분들로 행정이 몰랐던 가족은 아니</content:encoded>
-    </item>
-    <item>
       <title>개발원·기자협회, ‘제1회 장애인권 우수보도 기자상’ 공모‥30일까지</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233761</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233761</guid>
@@ -257,13 +243,6 @@
       <content:encoded>【에이블뉴스 백민 기자】 해양수산부와 산림청이 최근 5년간 중증장애인생산품 법정 우선구매 목표를 한 차례도 달성하지 못한 것으로 나타났다.국회 농림축산식품해양수산위원회 소속 송옥주 의원(더불어민주당)이 12일 제출받은 &apos;최근 5년간(2022-2026년) 중증장애인생산품 구매 실적&apos;을 분석한 결과, 해양수산부와 산림청은 2022년부터 올해까지 매년 법정 구매 목표에 미달했다.&apos;중증장애인생산품 우선구매 특별법&apos;에 따라 공공기관은 연간 총구매액의 일정 비율 이상을 중증장애인생산품 구매에 사용해야 한다. 법정 구매 목표비율은 2024년까지</content:encoded>
     </item>
     <item>
-      <title>[단독] 활동지원 종합조사 이의신청 절반 점수 올랐는데, 판정 기준은 ‘비공개’</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233826</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233826</guid>
-      <pubDate>2026-10-13T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】장애인 활동지원 급여량을 정하는 서비스지원 종합조사에 이의를 제기한 사례의 절반이 구간 상향된 것으로 나타났지만, 조사 항목의 세부 기준이 여전히 비공개라는 지적이 제기됐다.종합조사는 2019년 7월 도입된 제도로, 국민연금공단 조사원이 거주지 등을 방문해 일상생활·사회활동·가구환경 등을 관찰·문답으로 조사하고 그 점수로 급여 구간이 정해진다.지난해 중증장애인들은 종합조사가 실제 필요를 반영하지 못한다며 공단 지역본부에서 농성·단식으로 전면 개편을 요구했고 보건복지부 장관은 같은 해 8월 복지위원회 전체회의</content:encoded>
-    </item>
-    <item>
       <title>장애인기업종합지원센터, 제주 &apos;제3회 장애인 창업 준비 아카데미’ 참가자 모집</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233832</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233832</guid>
@@ -271,18 +250,11 @@
       <content:encoded>【에이블뉴스 이슬기 기자】장애인기업종합지원센터가 지역에 따른 창업교육 기회 격차를 완화하고 비수도권 장애인의 창업 정보 접근성을 강화하기 위해 ‘2026년 제 3회 장애인 창업 준비 아카데미’ 참가자를 오는 11월 2일까지 모집한다. 제주 지역에서 창업 준비 아카데미를 개최하는 것은 이번이 처음이다.이번 교육은 지역적 여건으로 대면 창업교육 참여 기회가 상대적으로 제한적인 제주 지역 장애인 예비창업자에게 실전 교육을 제공해 창업 정보 접근성을 강화하고 창업지원사업 진입 장벽을 낮추기 위해 기획됐다.장애인기업종합지원센터는 이번 교육을</content:encoded>
     </item>
     <item>
-      <title>서울시장애인체육회 소속 14개 종목 46명 선수 ‘아이치-나고야 아시안패러게임’ 출격</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233843</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233843</guid>
-      <pubDate>2026-10-13T11:56:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 권중훈 기자】 오는 18일부터 24일까지 일본 아이치·나고야에서 열리는 ‘2026 아이치·나고야 아시안패러게임(장애인아시아경기대회)’에 골볼, 농구, 배드민턴, 보치아, 수영, 양궁, 역도 등 14개 종목 46명의 서울특별시 소속 국가대표 선수들이 출격한다.13일 서울특별시장애인체육회(회장 오세훈)에 따르면 이번 대회에는 서울특별시 연고 민간·공공기업에 취업해 활약 중인 장애인체육 선수 다수가 국가대표로 선발됐다. 코웨이 블루휠스(휠체어농구), 서울의료원(배드민턴), 대한항공·코오롱오토모티브(수영), 예금보험공사·SK에</content:encoded>
-    </item>
-    <item>
-      <title>장애인 사물놀이 땀띠, 17일 장애인문화예술축제 ‘매우쳐라’ 공연</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233860</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233860</guid>
-      <pubDate>2026-10-14T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】사물놀이 땀띠가 2026 장애인문화예술축제 &apos;A+ Festival&apos; 프로그램 일환으로 오는 17일 오후 3시 마곡광장에서 ‘매우 쳐라’ 공연을 펼친다.A+ Festival은 장애인들의 잠재적 가능성(Ability), 열린 접근성(Accessibility), 활기찬 역동성(Activity)을 모토로 장애인과 비장애인이 예술(Arts)로 함께(All Together) 한다는 취지로 2009년부터 시작한 국내 최대의 장애인문화예술축제로 16일부터 18일까지 열린다.올해는 다름이라는 반짝임에서 피어난 특별함, 그리</content:encoded>
+      <title>[단독] 활동지원 종합조사 이의신청 절반 점수 올랐는데, 판정 기준은 ‘비공개’</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233826</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233826</guid>
+      <pubDate>2026-10-13T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】장애인 활동지원 급여량을 정하는 서비스지원 종합조사에 이의를 제기한 사례의 절반이 구간 상향된 것으로 나타났지만, 조사 항목의 세부 기준이 여전히 비공개라는 지적이 제기됐다.종합조사는 2019년 7월 도입된 제도로, 국민연금공단 조사원이 거주지 등을 방문해 일상생활·사회활동·가구환경 등을 관찰·문답으로 조사하고 그 점수로 급여 구간이 정해진다.지난해 중증장애인들은 종합조사가 실제 필요를 반영하지 못한다며 공단 지역본부에서 농성·단식으로 전면 개편을 요구했고 보건복지부 장관은 같은 해 8월 복지위원회 전체회의</content:encoded>
     </item>
     <item>
       <title>주식회사 닷, 미국 헬렌 켈러재단 ‘2026 AccessAbility Awards’ 수상</title>
@@ -325,27 +297,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233829</guid>
       <pubDate>2026-10-14T17:32:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 김경식 칼럼니스트】장애 판정기준은 누가 공적 지원에 접근할 수 있는지를 결정하는 제도적 경계다. 그 경계의 정당성은 제정 당시의 의학적 근거만으로 영구히 확보되지 않는다. 치료와 보조기술은 발전하고, 인구의 신체 특성과 생활환경은 달라지며, 장애인이 수행하는 사회적 역할도 변화한다. 따라서 국가는 판정기준이 오늘의 기능 제한과 지원 필요를 얼마나 적절히 반영하는지 주기적으로 검증해야 한다.우리나라의 장애인 인정 범위는 실제로 변화해 왔다. 1981년 심신장애자복지법 제정 이후 제도가 정비되었고, 2000년과 2003년에</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 아이치·나고야 아시안패러게임’ 대한민국 선수단 출국</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233882</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233882</guid>
-      <pubDate>2026-10-14T18:05:40.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 2026 아이치·나고야 아시안패러게임 대한민국 선수단(단장 박흥식)이 14일 오후 4시 30분 인천국제공항 터미널2 출국장 L카운터에서 출영식을 갖고 결전지 일본으로 떠났다.이날 출영식에는 박흥식 선수단장을 비롯해 선수단, KPC 임직원, 스포츠안전재단 관계자 등 130여 명이 참석했다.박흥식 선수단장은 “우리는 그동안 수많은 훈련과 도전을 견디며 이 자리에 섰다, 준비해 온 만큼 승리를 위해 최선을 다하고 결과에 후회가 남지 않도록 온힘을 다해주기 바란다”며 “선수단장으로서 여러분이 마음 놓고 경기에만 집</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 제4회 서울국제초청장애인파크골프대회’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233886</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233886</guid>
-      <pubDate>2026-10-15T09:07:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】국내외 장애인 파크골프 선수들이 참가한 ‘2026 제4회 서울국제초청장애인파크골프대회’가 지난 12일부터 14일까지 서울 월드컵공원 파크골프장에서 개최됐다.이번 대회는 서울특별시장애인체육회, 한국지체장애인협회, 한국지체장애인스포츠연맹이 공동 주최하고 서울국제장애인파크골프대회 조직위원회가 주관했다. 대회에는 국내 선수 317명과 해외 선수 30명 등 총 8개국 347명이 참가했다.대회 마지막 날에는 선수부 개인전 결선, 혼성 4인조 단체전, 생활체육 동호인부 결선이 진행됐으며, 부문별 입상자에게 순위에 따른</content:encoded>
-    </item>
-    <item>
-      <title>서울장애예술창작센터 입주작가 6인 기획전 ‘달리’ 예술의전당서 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233889</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233889</guid>
-      <pubDate>2026-10-15T10:06:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】서울문화재단이 예술의전당과 함께 효성의 후원으로 장애예술 기획전 ‘달리·Differently·Dalí’를 오는 30일부터 11월 15일까지 서초동 예술의전당 한가람미술관 제7전시실에서 개최한다.이번 전시에는 2026년 서울장애예술창작센터 입주작가 6인(김미영·김승현·서은정·심규철·위혜승·임재현)이 참여해 저마다의 경험과 속도로 세계를 ‘달리’ 받아들인 조형 언어를 선보인다. 각자의 시선으로 바라본 세계를 작품에 담는 창작 태도는 전시 제목 ‘달리·Differently·Dalí’로 직결된다. 여기에는 ‘다른</content:encoded>
     </item>
     <item>
       <title>내 장애의 시작에는 혈액형이 있었다</title>
@@ -439,39 +390,11 @@
       <content:encoded>한국시각장애인연합회 부설 한국시각장애인미디어진흥원은 시각장애 학생의 학습권 보장을 위하여 EBS 초·중·고 강좌에 화면해설을 추가한 콘텐츠를 제작·보급하고 있습니다.2026년에는 총 1,255편의 화면해설방송을 제작할 예정이며, 화면해설자료는 방송미디어통신위원회 시청자미디어재단의 방송통신발전기금으로 제작됩니다.EBS 강의에 삽입된 그림, 도표, 사진 이미지 등에 별도의 화면해설을 추가하였으며 완성된 화면해설 제작물은 EBS 장애인 서비스 홈페이지(https://www.ebs.co.kr/free)를 통해 제공되고 있습니다.아래는 강좌</content:encoded>
     </item>
     <item>
-      <title>국립나주병원, ‘2026 마음을 잇는 공감 콘서트’ 23일 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233920</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233920</guid>
-      <pubDate>2026-10-16T10:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 국립나주병원(원장 시영화)은 오는 23일 정신건강의 날을 기념해 국립아시아문화전당에서 ‘2026 마음을 잇는 공감 콘서트’를 개최한다이번 행사는 최근 스트레스와 우울 등 정신건강 문제에 대한 사회적 관심과 대응 필요성이 높아지고 있는 가운데 누구나 부담 없이 정신건강 서비스를 이용할 수 있도록 정신건강을 무거운 주제로 받아들이기보다 자연스럽게 마음을 돌보는 계기를 제공하고자 마련됐다.‘2026 마음을 잇는 공감 콘서트’는 ▲특강: 스트레스 관리를 통한 뇌 건강 지키기(한양대학교병원 정신건강의학과 권준수 교수</content:encoded>
-    </item>
-    <item>
       <title>반구대병원·원병원 반복되는 정신병원 학대, 의심 신고만 107.7% 증가</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233908</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233908</guid>
       <pubDate>2026-10-16T10:01:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】국회 보건복지위원회 소속 서미화 의원(더불어민주당)이 보건복지부에 요구해 받은 ‘최근 5년간 장애인학대 신고 및 처리 현황’을 분석한 결과, 정신의료기관에서 발생한 장애인학대 의심신고가 최근 5년간 99건 접수되고, 38건이 학대로 판정된 것으로 나타났다고 16일 밝혔다.신체적 학대뿐 아니라 경제적 착취와 성적 학대, 방임 등도 확인됐다. 정신의료기관과 정신요양시설, 정신재활시설을 포함한 정신건강증진시설 전체에서는 151건의 학대의심 신고가 접수됐으며, 52건이 학대로 판정됐다.연도별 정신의료기관 내 학대의</content:encoded>
-    </item>
-    <item>
-      <title>장애여성인력개발센터, ‘미니어처 키캡 만들기 원데이클래스’ 참여자 모집</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233921</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233921</guid>
-      <pubDate>2026-10-16T10:01:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 장애여성인력개발센터(센터장 전상준)는 오는 11월 4일까지 서울시 거주 여성장애인을 대상 원데이클래스 프로그램 ‘MY ENERGY 내 에너지를 담은 키캡 만들기’ 참여자를 모집한다.이번 원데이클래스는 참여자가 평소 좋아하는 것과 자신에게 긍정적인 에너지를 주는 요소들을 모티프로 활용해 나만의 개성 있는 미니어처 키캡을 직접 만들어보는 문화·힐링 프로그램이다.11월 6일 개최되는 행사는 창의적인 공예 활동을 통해 참여자들의 일상 속 스트레스 해소와 자기돌봄 기회를 제공하고자 기획됐다.신청 대상은 서울시 거주</content:encoded>
-    </item>
-    <item>
-      <title>ISAAC-South Korea, 국제보완대체의사소통학회 17번째 지부로 출범</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233916</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233916</guid>
-      <pubDate>2026-10-16T10:02:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 ISAAC-South Korea(국제보완대체 의사 소통학회 한국지부)가 지난 12일 발대식을 개최했다.ISAAC-South Korea는 국제보완대체의사소통학회 ISAAC의 17번째 지부로, 2026년에 설립됐다. 한국에서는 사단법인 한국보완대체 의사소통학회와 함께 국내 AAC의 발전과 인식 확산, AAC 사용자의 의사소통 권리 증진을 위해 활동할 계획이다.ISAAC은 International Society for Augmentative and Alternative Communication의 약자로 보완대체의</content:encoded>
-    </item>
-    <item>
-      <title>국립장애인도서관, ‘시각장애 아동을 위한 점자라벨도서’ 무상 배포</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233914</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233914</guid>
-      <pubDate>2026-10-16T10:03:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 문화체육관광부 국립장애인도서관(관장 직무대리 홍승표)은 시각장애 아동의 독서 접근성을 높이고 장애·비장애 아동이 함께 책을 읽는 독서환경 조성을 위해 2026년 제작한 ‘시각장애 아동을 위한 점자라벨도서’ 60종 21,000책을 376개 기관에 무상 배포한다고 16일 밝혔다.‘점자라벨도서’는 일반 도서의 글 내용을 점자로 표기한 투명 라벨을 책에 부착해 시각장애인과 비장애인이 함께 이용할 수 있는 자료다.시각장애 아동은 점자로, 비장애 아동은 인쇄된 글과 그림으로 같은 책을 함께 읽을 수 있고 시각장애 부모</content:encoded>
     </item>
     <item>
       <title>&quot;정신병원 내 죽음·지역사회 고립, 정신장애인 국가책임제 이행하라&quot;</title>
@@ -558,32 +481,11 @@
       <content:encoded>【에이블뉴스 권중훈 기자】 한국장애인고용공단 부산직업능력개발원(원장 이운경) 부설 부산동부디지털훈련센터가 지난 15일 개소했다.부산동부디지털훈련센터는 인공지능(AI), 사물인터넷(IoT), 빅데이터 등 최신 ICT 기술의 급속한 발전 속에서 장애인의 디지털 역량을 강화하기 위해 설립됐다.온라인AI마케팅, 모바일 AI콘텐츠 관리, 디지털AI영상크리에이터, AI융합사무기술 총 4개의 훈련 과정을 개설했다. 전 분야에서 AI 기술을 중점적으로 활용, 실무에 즉시 투입 가능한 인재로 양성하는 것을 목표로 한다.훈련생들이 직업훈련에 전념할</content:encoded>
     </item>
     <item>
-      <title>시각장애인 25년 만에 부부의 연으로 만나다</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233928</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233928</guid>
-      <pubDate>2026-10-16T15:11:50.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이복남 객원기자】 부산장애인총연합회(회장 조창용, 결혼후원회장 팽경숙) 결혼상담소는 지난 15일 낮 12시부터 금정구 소재 야외결혼식장에서 시각장애인 한 쌍의 결혼식을 올렸다.부산시 관계자, 후원이사, 단체장, 봉사자, 그리고 하객 등 150여명이 참석한 가운데 &quot;내 마음의 보석찾기 - 제17회 장애인결혼식&quot;을 개최했다.이번에 결혼하는 박종대·심회숙 커플은 두 사람 모두 시각장애인이다. 신랑신부는 장애인총연합회 결혼상담소가 주최하는 &apos;내 마음의 보석찾기&apos; 프로그램을 통해 만났으며, 박호국 부산시설공단 전 이사장의 주례로</content:encoded>
-    </item>
-    <item>
       <title>실로암시각장애인복지관, ‘시각장애인 운전체험’ 진행</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233939</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233939</guid>
       <pubDate>2026-10-16T17:20:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 백민 기자】 실로암시각장애인복지관(관장 김미경)은 지난 15일 제47회 흰지팡이의 날을 기념해 한국도로교통공단 서부운전면허시험장(단장 윤수영)과 함께 ‘시각장애인 운전체험’ 행사를 진행했다.‘시각장애인 운전체험’은 참가자들이 운전 시뮬레이터를 통해 차량 조작 방법과 기본적인 운전 기능을 익힌 후 운전시험관과 동승하여 실제 기능시험장에서 차량을 운전해 보는 체험 프로그램이다.2021년부터 장애인의 날과 흰지팡이의 날을 기념해 운영되고 있는 운전체험 행사는 현재까지 총 49명의 시각장애인에게 실제 운전 경험의 기회를 제공하</content:encoded>
-    </item>
-    <item>
-      <title>실로암시각장애인복지관, ‘시각장애인 운전체험’ 진행</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233939</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233939</guid>
-      <pubDate>2026-10-16T17:20:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 실로암시각장애인복지관(관장 김미경)은 지난 15일 제47회 흰지팡이의 날을 기념해 한국도로교통공단 서부운전면허시험장(단장 윤수영)과 함께 ‘시각장애인 운전체험’ 행사를 진행했다.‘시각장애인 운전체험’은 참가자들이 운전 시뮬레이터를 통해 차량 조작 방법과 기본적인 운전 기능을 익힌 후 운전시험관과 동승하여 실제 기능시험장에서 차량을 운전해 보는 체험 프로그램이다.2021년부터 장애인의 날과 흰지팡이의 날을 기념해 운영되고 있는 운전체험 행사는 현재까지 총 49명의 시각장애인에게 실제 운전 경험의 기회를 제공하</content:encoded>
-    </item>
-    <item>
-      <title>정신질환자 회복지원 예산 부재 국가가 만든 죽음에 책임져라</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233938</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233938</guid>
-      <pubDate>2026-10-16T17:26:45.000Z</pubDate>
-      <content:encoded>우리는 계속되는 죽음을 기억한다.2024년 부천 W진병원의 격리·강박 사망사건, 춘천예현병원 252시간 강박 사망사건, 2026년 울산 반구대병원 입원환자 7명의 연이은 사망사건 및 환자 10여 명에 대한 케이블타이 강박 의혹, 2026년 영동제일병원 환자 창틀 강박 및 알몸 방치 문제, 2026년 인천의 한 정신병원 6개월 간 4명의 입원환자 사망 사건...우리는 정신의료기관 안에서 반복적으로 발생하는 죽음과 인권침해에도 여전히 침묵하는 국가와 지역사회를 강력히 규탄한다.국가가 만든 죽음, 국가가 책임져라.정신병원에서의 인권침해와</content:encoded>
     </item>
     <item>
       <title>정신질환자 회복지원 예산 부재 국가가 만든 죽음에 책임져라</title>
@@ -600,20 +502,6 @@
       <content:encoded>【에이블뉴스 하석미 칼럼니스트】 머릿속에 그린 지도로 찾아간 잔교둘째 날 아침을 먹고 지하철을 타고 잔교로 향했다. 나는 그동안 아시아 지역을 여행하며 구글지도를 자연스럽게 사용해 왔다. 그래서 중국에서도 당연히 사용할 수 있을 것으로 생각했다. 그러나 중국에서는 구글지도의 사용이 제한적이고 현지 정보가 충분히 반영되지 않을 수 있었다. 중국 현지인과 여행자가 주로 사용하는 대표적인 지도 앱으로는 가오더지도, 우리나라에서 흔히 고덕지도라고 부르는 Amap과 바이두지도가 있다. 두 앱 모두 장소 검색과 도보·대중교통 경로 등을 제공한</content:encoded>
     </item>
     <item>
-      <title>하석미와 떠나는 무장애 여행지, &apos;붉은빛과 푸른 바다, 칭다오를 네 바퀴로 건너다&apos;-②</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233907</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233907</guid>
-      <pubDate>2026-10-16T17:27:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 하석미 칼럼니스트】 머릿속에 그린 지도로 찾아간 잔교둘째 날 아침을 먹고 지하철을 타고 잔교로 향했다. 나는 그동안 아시아 지역을 여행하며 구글지도를 자연스럽게 사용해 왔다. 그래서 중국에서도 당연히 사용할 수 있을 것으로 생각했다. 그러나 중국에서는 구글지도의 사용이 제한적이고 현지 정보가 충분히 반영되지 않을 수 있었다. 중국 현지인과 여행자가 주로 사용하는 대표적인 지도 앱으로는 가오더지도, 우리나라에서 흔히 고덕지도라고 부르는 Amap과 바이두지도가 있다. 두 앱 모두 장소 검색과 도보·대중교통 경로 등을 제공한</content:encoded>
-    </item>
-    <item>
-      <title>과연 제가 국민연금을 받을 수 있을까요?</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233910</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233910</guid>
-      <pubDate>2026-10-16T17:28:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 장지용 칼럼니스트】제가 국민연금을 받을 수 있을까요? 현재로서는 그 답이 ‘아니다’에 가깝습니다.제가 국민연금공단에서 받은 문서에 따르면, 저는 노령연금 최소 수급 요건인 의무가입기간 120개월(10년)에 딱 11개월이 모자라 아직 수급권이 없다고 합니다. 향후 소속사가 생겨 연금보험료를 추가로 납부하고, 그 기간이 최소 1년을 넘기지 않는 한 노령연금을 받을 길은 없습니다. 남은 11개월의 보험료 납부 문제가 어떻게 풀릴지는 저 역시 장담할 수 없는 상황입니다.하지만 더불어민주당 소병훈 의원실 자료를 보면, 이러한 사</content:encoded>
-    </item>
-    <item>
       <title>과연 제가 국민연금을 받을 수 있을까요?</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233910</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233910</guid>
@@ -628,81 +516,11 @@
       <content:encoded>【에이블뉴스 서인환 칼럼니스트】 한국조폐공사에서는 조폐공사몰을 운영하고 있다. 여기에는 골드바와 실버바, 카드형 골드, 기념메달, 기념화폐, 화폐굿즈 등을 판매하고 있다.금이나 은의 판매처는 금거래소, 조폐공사, 은행, 귀금속전문점, 온라인 전용몰, 기타 유통업체 등이 있는데, 한국조폐공사는 공공기관으로 여기서 제작된 제품들은 위조방지 특수기술이 들어 있어 방향에 따라 그림이 달라지므로 진품 보증이 가장 확실하다. 그리고 조폐공사만의 독특한 제품을 취급하고 있는데, 그중 매우 흥미로운 특징은 발달장애인 작가들이 디자인한 제품을 판매</content:encoded>
     </item>
     <item>
-      <title>조폐공사와 발달장애인 작가와의 아름다운 협력</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233885</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233885</guid>
-      <pubDate>2026-10-16T17:29:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 서인환 칼럼니스트】 한국조폐공사에서는 조폐공사몰을 운영하고 있다. 여기에는 골드바와 실버바, 카드형 골드, 기념메달, 기념화폐, 화폐굿즈 등을 판매하고 있다.금이나 은의 판매처는 금거래소, 조폐공사, 은행, 귀금속전문점, 온라인 전용몰, 기타 유통업체 등이 있는데, 한국조폐공사는 공공기관으로 여기서 제작된 제품들은 위조방지 특수기술이 들어 있어 방향에 따라 그림이 달라지므로 진품 보증이 가장 확실하다. 그리고 조폐공사만의 독특한 제품을 취급하고 있는데, 그중 매우 흥미로운 특징은 발달장애인 작가들이 디자인한 제품을 판매</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 아이치·나고야 아시안패러게임’ 개막··종합 6위 목표</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233949</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233949</guid>
-      <pubDate>2026-10-18T23:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 권중훈 기자】 아시아 장애인의 스포츠 축제 ‘2026 아이치·나고야 아시안패러게임(장애인아시아경기대회)’가 18일 오후 6시 나고야 미즈호공원 육상경기장에서 개회식을 갖고, 7일 동안의 열전에 들어갔다.아시안패러게임은 4년마다 열리지만 직전 2022 항저우 대회가 코로나19 확산 여파로 인해 2023년 열리면서 이번에는 3년 만에 열리게 됐다. 오는 24일까지 일본 아이치현, 기후현, 시즈오카현 일원에서 선수 한 사람 한 사람의 뜨거운 마음을 헤아리며 모두의 마음을 하나로 모으자는 뜻을 담은 ‘이매진 원 하트’(Imag</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 아이치·나고야 아시안패러게임’ 개막··종합 6위 목표</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233949</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233949</guid>
-      <pubDate>2026-10-18T23:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 권중훈 기자】 아시아 장애인의 스포츠 축제 ‘2026 아이치·나고야 아시안패러게임(장애인아시아경기대회)’가 18일 오후 6시 나고야 미즈호공원 육상경기장에서 개회식을 갖고, 7일 동안의 열전에 들어갔다.아시안패러게임은 4년마다 열리지만 직전 2022 항저우 대회가 코로나19 확산 여파로 인해 2023년 열리면서 이번에는 3년 만에 열리게 됐다. 오는 24일까지 일본 아이치현, 기후현, 시즈오카현 일원에서 선수 한 사람 한 사람의 뜨거운 마음을 헤아리며 모두의 마음을 하나로 모으자는 뜻을 담은 ‘이매진 원 하트’(Imag</content:encoded>
-    </item>
-    <item>
-      <title>&quot;컵라면의 QR코드 손으로 찾을 수 없어 차별&quot; 시각장애인 인권위 진정</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233948</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233948</guid>
-      <pubDate>2026-10-19T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】장애인차별금지추진연대(장추련)가 전맹 시각장애인 A씨와 함께 B식품업체를 상대로 &quot;컵라면의 QR코드를 찾을 수 없다&quot;며 국가인권위원회에 진정을 제기했다고 19일 밝혔다.장추련에 따르면, 해당 식품업체는 시각장애인을 위해 점자 대신 컵라면 뚜껑에 제품 정보를 알려주는 QR코드를 인쇄했다고 홍보했지만, 실제 시각장애인이 손으로 만져서는 QR코드가 어디 있는지 알 수 없었다. 이후 해당 업체에 민원을 넣었지만, 개선은 이뤄지지 않았다.장추련은 &quot;컵라면을 스스로 고르고 먹으려면 어떤 제품인지, 어떻게 조리하는지 알</content:encoded>
-    </item>
-    <item>
       <title>성민복지관, 발달장애인 독립주거 지원 10주년 &apos;나는 별일 없이 산다&apos; 세미나 개최</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233947</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233947</guid>
       <pubDate>2026-10-19T09:00:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】성민복지관이 평생과정설계에 기반한 통합적 주거지원 실천 10주년을 맞아 오는 11월 2일 오전 10시부터 오후 3시 30분까지 여의도 이룸센터 이룸홀에서 ‘별 일 없기까지, 주거지원 10년의 기록과 과제’ 세미나를 개최한다.1부는 ‘나는 별 일 없이 산다: 지역사회 자립지원의 현재와 미래’를 주제로, 내년 3월 시행을 앞둔 ‘장애인의 지역사회 자립 및 주거 전환 지원에 관한 법률(이하 자립지원법)’에 발맞춰 열린다.성민복지관은 발달장애인을 비롯한 장애인의 자립을 위해 지난 10년간 해 온 주거지원을 돌아보고</content:encoded>
-    </item>
-    <item>
-      <title>경기우리도, ‘2026 경기차별철폐대행진’서 “정신장애인도 동등한 시민”</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233946</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233946</guid>
-      <pubDate>2026-10-19T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】경기우리도가 지난 17일 경기도청 인근 롯데몰 광교점 앞에서 열린 ‘2026 경기차별철폐대행진’에 참여해 심리사회적 장애(정신장애)에 대한 차별 철폐와 지역사회에서 동등한 시민으로 살아갈 권리 보장을 촉구했다.‘가자! 평등으로 경기평등조례제정네트워크’가 주최한 이번 대행진에는 다양한 단체와 시민들이 함께했다. 사전 부스 운영에 이어 오후 3시부터 본행사가 진행됐으며, 참가자들은 롯데몰 광교점 앞에서 출발해 경기도청과 경기도의회 일대를 행진했다.경기우리도는 본행사에 앞서 시민 참여형 부스 ‘심리사회적 장애(정</content:encoded>
-    </item>
-    <item>
-      <title>성민복지관, 발달장애인 독립주거 지원 10주년 &apos;나는 별일 없이 산다&apos; 세미나 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233947</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233947</guid>
-      <pubDate>2026-10-19T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】성민복지관이 평생과정설계에 기반한 통합적 주거지원 실천 10주년을 맞아 오는 11월 2일 오전 10시부터 오후 3시 30분까지 여의도 이룸센터 이룸홀에서 ‘별 일 없기까지, 주거지원 10년의 기록과 과제’ 세미나를 개최한다.1부는 ‘나는 별 일 없이 산다: 지역사회 자립지원의 현재와 미래’를 주제로, 내년 3월 시행을 앞둔 ‘장애인의 지역사회 자립 및 주거 전환 지원에 관한 법률(이하 자립지원법)’에 발맞춰 열린다.성민복지관은 발달장애인을 비롯한 장애인의 자립을 위해 지난 10년간 해 온 주거지원을 돌아보고</content:encoded>
-    </item>
-    <item>
-      <title>&apos;동거고독사 막자&apos; 복지부, 2명 이상 장애인가구 1만 3000명 집중조사</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233941</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233941</guid>
-      <pubDate>2026-10-19T09:02:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】보건복지부가 장애 정도가 심한 장애인 위기가구, 겨울철 에너지 취약가구를 포함한 약 19만 명을 대상으로 ‘2026년 제5차 복지사각지대 발굴·조사’를 추진한다고 19일 밝혔다.복지부는 매년 5~6차례에 걸쳐 단전·단수 등 49종 위기 정보를 포함한 빅데이터를 분석하고, 복지 위기 가능성이 높은 가구를 예측·선별하여 지방자치단체로 통보하고 있다.이후 기초자치단체(읍면동)에서 인공지능(AI) 초기상담 및‘찾아가는 보건복지서비스팀’조사를 통해 실제 위기 상황인지 여부를 판단한 후 대상자별 맞춤형 지원을 제공하게</content:encoded>
-    </item>
-    <item>
-      <title>[알기 쉬운 안전이야기2] 출퇴근 사고를 예방해요</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233578</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233578</guid>
-      <pubDate>2026-10-19T09:02:00.000Z</pubDate>
-      <content:encoded>한국장애인고용공단 고용개발원에서는 발달장애인이 스스로 정보를 보고 이해할 수 있도록 고용확대 및 고용안정 관련 &apos;알기 쉬운 자료&apos;를 매년 개발, 보급하고 있다. 이에 개발한 ‘발달장애인을 위한 직장생활에 꼭 필요한 안전이야기’를 연재한다.‘발달장애인을 위한 직장생활에 꼭 필요한 안전이야기’는 출·퇴근 사고 및 감염병 예방, 산업재해 유형별 안전수칙 등의 내용으로 구성되어 있으며, 발달장애인이 작업현장에서 경험하는 사례를 조사, 반영하여 만든 책이다. 회사를 다니는 사람들은 출퇴근 할 때 안전이 중요하죠. 오늘은 안전한 출퇴근을 위해</content:encoded>
-    </item>
-    <item>
-      <title>장애인은 잠재적 범죄자가 아니다, ‘서비스 지원 종합조사’ 전면 개편해야</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233953</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233953</guid>
-      <pubDate>2026-10-19T09:30:00.000Z</pubDate>
-      <content:encoded>지난 10월 14일 국회 보건복지위원회 국정감사에서 ‘서비스 지원 종합조사’의 심각한 문제가 드러났다.‘서비스 지원 종합조사표’는 전장연이 장애등급제 폐지를 요구하며 2012년 8월 21일부터 2017년 9월 5일까지 1,842일간 광화문역 지하도에서 이어간 농성의 결과물이다. 문재인 정부의 장애등급제 단계적 폐지 약속에 따라 기존 6개 장애등급이 2개 구분으로 개편되면서, 2019년 7월 1일 도입됐다.장애등급제가 1988년 도입되고 장애등급제 폐지는 획일적이고 의학적 기준이 아니라 ‘개인별 맟춤형 지원’이라는 31년 만에 단계적</content:encoded>
-    </item>
-    <item>
-      <title>영화관에서 장애인을 위한 자막과 해설이 있는 영화를 찾기가 너무 힘들어요</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233952</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233952</guid>
-      <pubDate>2026-10-19T09:30:00.000Z</pubDate>
-      <content:encoded>어떤 내용일까요? 1. 우리나라 큰 영화관에서 장애인을 위한 영화 상영*이 점점 줄어들고 있어요.2. 우리나라는 다른 나라보다 법과 지원이 부족해요.3. 장애인도 영화를 편하게 볼 수 있도록 나라에서 규칙을 정해야 해요.* 상영: 영화관에서 사람들에게 영화를 틀어서 보여주는 일이에요. 우리나라 큰 영화관에서 장애인을 위한 영화 상영이 점점 줄어들고 있어요모든 사람은 차별 없이 영화를 즐길 권리*가 있어요. 눈이나 귀가 불편한 장애인도 똑같이 영화를 즐길 수 있어야 해요. 이 사람들이 영화를 보려면 소리를 글로 적은 자막이나 화면을</content:encoded>
     </item>
     <item>
       <title>장애인은 잠재적 범죄자가 아니다, ‘서비스 지원 종합조사’ 전면 개편해야</title>
@@ -719,46 +537,11 @@
       <content:encoded>재능이 자랄 수 있는 자리를 만들다이시호 작가는 어릴 적부터 지하철과 버스, 건물을 유심히 보곤 했다. 대여섯 살 무렵에는 조명과 테이블 등 주변 사물을 그리기 시작했고 일곱 살 때에는 별도의 전개도 없이 고속도로와 버스 등을 입체적으로 그려냈다. 이시호 작가의 어머니는 당시 그의 모습을 보며 ‘관찰력과 공간 감각이 좋은 아이’라고 생각했다고 한다.하지만 이 같은 관심과 재능을 전문적인 미술 교육으로 이어가는 일은 쉽지 않았다. 어머니는 “발달장애인이 미술교육을 받을 수 있는 곳을 여러 군데 알아봤지만 마땅한 곳을 찾기 어려웠다”고</content:encoded>
     </item>
     <item>
-      <title>도시를 넘어 자신의 이야기를 그리다, ‘KB 봄 프로젝트’ 이시호 작가</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233950</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233950</guid>
-      <pubDate>2026-10-19T09:31:55.000Z</pubDate>
-      <content:encoded>재능이 자랄 수 있는 자리를 만들다이시호 작가는 어릴 적부터 지하철과 버스, 건물을 유심히 보곤 했다. 대여섯 살 무렵에는 조명과 테이블 등 주변 사물을 그리기 시작했고 일곱 살 때에는 별도의 전개도 없이 고속도로와 버스 등을 입체적으로 그려냈다. 이시호 작가의 어머니는 당시 그의 모습을 보며 ‘관찰력과 공간 감각이 좋은 아이’라고 생각했다고 한다.하지만 이 같은 관심과 재능을 전문적인 미술 교육으로 이어가는 일은 쉽지 않았다. 어머니는 “발달장애인이 미술교육을 받을 수 있는 곳을 여러 군데 알아봤지만 마땅한 곳을 찾기 어려웠다”고</content:encoded>
-    </item>
-    <item>
-      <title>장애물 없는 연수구 비류그린공원 공중화장실 장애인 편의 점검</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233927</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233927</guid>
-      <pubDate>2026-10-19T09:48:30.000Z</pubDate>
-      <content:encoded>【에이블뉴스 박종태 객원기자】인천시 연수구 비류그린공원 공중화장실이 지난 15일 사단법인 건축성능원으로부터 ‘장애물 없는 생활환경(Barrier Free)’ 본인증 우수등급을 받았다.16일 직접 방문해 장애인이 불편 없이 이용할 수 있을지, 장애인 편의시설을 점검했다.점검한 결과 공중화장실 입구에 시각장애인 손끝으로 만져 내부를 알 수 있는 점자안내판과 앞바닥에 점자블록이 양호하게 설치됐다.남녀장애인화장실은 남녀비장애인화장실 옆에 별도로 마련돼 있어 성별이 다른 활동보조인의 도움을 받을 수 있다. 출입문도 터치식자동문으로 손이 불편</content:encoded>
-    </item>
-    <item>
       <title>부산의 지명수어에는 농인의 이름이 살아 있다</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233769</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233769</guid>
       <pubDate>2026-10-19T09:49:00.000Z</pubDate>
       <content:encoded>사람 이름이 땅 이름이 될 때서울 종로구에 &apos;필운동&apos;이라는 동네가 있다. 조선 시대 이항복이 살던 집터가 이곳에 있었고, 그의 호 &apos;필운&apos;이 그대로 동네 이름이 되었다. 시골에도 김씨들이 모여 살아 &apos;김골&apos;, 박씨들이 모여 살아 &apos;박촌&apos;이라 부르던 마을이 흔하다. &quot;누구누구가 사는 거기&quot;가 세월이 흘러 땅 이름으로 굳은 것이다.나에게도 이런 길이 하나 있다. 광주에 내려가면 &apos;제봉로&apos;라는 길을 만난다. 임진왜란 때 의병을 일으킨 고경명 의병장의 호 &apos;제봉&apos;에서 따온 이름이다. 고경명 의병장은 둘째 아들 고인후와 함께 금산 전투에서</content:encoded>
-    </item>
-    <item>
-      <title>부산의 지명수어에는 농인의 이름이 살아 있다</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233769</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233769</guid>
-      <pubDate>2026-10-19T09:49:00.000Z</pubDate>
-      <content:encoded>사람 이름이 땅 이름이 될 때서울 종로구에 &apos;필운동&apos;이라는 동네가 있다. 조선 시대 이항복이 살던 집터가 이곳에 있었고, 그의 호 &apos;필운&apos;이 그대로 동네 이름이 되었다. 시골에도 김씨들이 모여 살아 &apos;김골&apos;, 박씨들이 모여 살아 &apos;박촌&apos;이라 부르던 마을이 흔하다. &quot;누구누구가 사는 거기&quot;가 세월이 흘러 땅 이름으로 굳은 것이다.나에게도 이런 길이 하나 있다. 광주에 내려가면 &apos;제봉로&apos;라는 길을 만난다. 임진왜란 때 의병을 일으킨 고경명 의병장의 호 &apos;제봉&apos;에서 따온 이름이다. 고경명 의병장은 둘째 아들 고인후와 함께 금산 전투에서</content:encoded>
-    </item>
-    <item>
-      <title>&apos;모두의 1층&apos; 장애당사자 제안, &apos;대구 수성구 경사로 설치 지원 조례&apos; 제정 성과</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233951</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233951</guid>
-      <pubDate>2026-10-19T10:24:03.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】사단법인 무의가 진행하는 8개 지역 경사로 확대 캠페인 &apos;모두의1층X로컬&apos;에 참여한 장애 당사자 활동가의 제안이 실제 지역 조례로 탄생했다.대구광역시 수성구의회 김두현 의원이 지난 8월 발의한 &apos;대구광역시 수성구 장애인·노인·임산부 등을 위한 경사로 설치 지원 조례안&apos;이 9월 8일 수성구의회 문화복지위원회 심사를 통과했다.이번 조례는 모두의 1층이 2023년부터 추진해 온 지역 경사로 지원 조례안을 모두의1층X로컬 사업을 대구에서 진행 중인 다릿돌장애인자립생활센터 이민호 팀장이 김 의원에게 전달하여 성사됐으</content:encoded>
-    </item>
-    <item>
-      <title>물감 화가 김재호 개인전 ‘끝내지 못한 전시’ 26일 개막</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233957</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233957</guid>
-      <pubDate>2026-10-19T11:21:49.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 20년 간 그림을 통해 세상과 소통해 온 &apos;물감 화가&apos; 김재호 작가가 오는 26일부터 서초구립 한우리정보문화센터 갤러리활에서 제10회 개인전 ‘끝내지 못한 전시’를 개최한다.2020년 코로나19로 온전히 마무리하지 못했던 아쉬움을 딛고, 지난 5년간의 여정과 새로운 도약을 담아낸 이번 표전은 작가의 깊은 예술적 철학과 삶의 태도를 만날 수 있는 자리가 될 예정이다.20년 동안 묵묵히 캔버스를 채워온 김재호 작가의 예술적 좌우명은 ‘열심히 짜내야 산다’이다. 작가에게 물감은 단순한 표현 도구를 넘어 세상과 소</content:encoded>
     </item>
     <item>
       <title>물감 화가 김재호 개인전 ‘끝내지 못한 전시’ 26일 개막</title>
@@ -775,20 +558,6 @@
       <content:encoded>【에이블뉴스 백민 기자】 나무의 형상과 물질의 질감을 독창적인 조형 언어로 탐구해 온 청년 작가 이규재가 오는 27일부터 11월 3일까지 서울 인사동 아리수갤러리 1F에서 개인전 ‘존재의 언어, 마띠에르’를 개최한다.이번 전시는 마띠에르(Matière), 즉 회화 표면에 형성되는 물질성과 질감을 중심으로 나무라는 대상을 새롭게 바라보는 자리다. 작가는 나무의 외형을 재현하는 데 머무르지 않고 화면 위에 축적되는 재료의 흔적과 표면의 변화, 겹겹이 쌓인 질감을 통해 존재가 지닌 고유한 시간과 감각을 표현한다.이규재의 작품에서 마띠에르</content:encoded>
     </item>
     <item>
-      <title>이규재 개인전 ‘존재의 언어, 마띠에르’ 27일 개막</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233959</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233959</guid>
-      <pubDate>2026-10-19T11:21:54.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 나무의 형상과 물질의 질감을 독창적인 조형 언어로 탐구해 온 청년 작가 이규재가 오는 27일부터 11월 3일까지 서울 인사동 아리수갤러리 1F에서 개인전 ‘존재의 언어, 마띠에르’를 개최한다.이번 전시는 마띠에르(Matière), 즉 회화 표면에 형성되는 물질성과 질감을 중심으로 나무라는 대상을 새롭게 바라보는 자리다. 작가는 나무의 외형을 재현하는 데 머무르지 않고 화면 위에 축적되는 재료의 흔적과 표면의 변화, 겹겹이 쌓인 질감을 통해 존재가 지닌 고유한 시간과 감각을 표현한다.이규재의 작품에서 마띠에르</content:encoded>
-    </item>
-    <item>
-      <title>국정감사에서 밝힌 주민세 문제 해결 약속, 행안부와 서울시 즉각 이행하라</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233960</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233960</guid>
-      <pubDate>2026-10-19T11:21:59.000Z</pubDate>
-      <content:encoded>2026년 국정감사에서 장애인활동지원기관 주민세(종업원분) 문제가 연이어 제기되었다. 10월 6일 행정안전부 국정감사에서 윤호중 장관은 관련 법률 해석을 재검토하겠다고 답변했으며, 10월 15일 서울시 국정감사에서 오세훈 시장은 체납처분 유보의 필요성에 공감하고, 10월 중 행정안전부와 협의하여 해결방안을 마련하겠다고 밝혔다. 이제 행정안전부와 서울시는 국정감사에서 밝힌 약속을 실질적인 조치로 이행해야 한다.장애인자립생활센터는 중증장애인의 일상생활과 지역사회 자립을 지원하고, 국가의 장애인활동지원 사업을 수행하는 비영리기관이다. 그</content:encoded>
-    </item>
-    <item>
       <title>국정감사에서 밝힌 주민세 문제 해결 약속, 행안부와 서울시 즉각 이행하라</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233960</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233960</guid>
@@ -803,95 +572,11 @@
       <content:encoded>【에이블뉴스 이슬기 기자】한국장애인고용공단 대표 캐릭터 &apos;장고와 고용이&apos;가 ‘대한민국 지자체·공공 캐릭터 페스티벌’ 공공부문에서 대표 캐릭터 정책홍보 혁신상을 수상했다.대전관광공사와 한국문화콘텐츠라이센싱협회가 공동 주관한 이번 페스티벌 시상식은 지난 17일 대전컨벤션센터 제2전시장에서 열렸으며, 정부/지자체, 공공, 축제 부문에서 우수한 캐릭터들을 선정·시상했다.공단은 이번 수상을 통해, 대표 캐릭터 ‘장고와 고용이’를 활용해 장애인 고용 정책을 적극적으로 알리고 국민과의 소통을 강화해 온 성과를 인정 받았다.공단 이종성 이사장은</content:encoded>
     </item>
     <item>
-      <title>장애인공단 캐릭터 ‘장고와 고용이’, 공공부문 정책홍보 혁신상 수상</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233958</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233958</guid>
-      <pubDate>2026-10-19T11:22:01.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인고용공단 대표 캐릭터 &apos;장고와 고용이&apos;가 ‘대한민국 지자체·공공 캐릭터 페스티벌’ 공공부문에서 대표 캐릭터 정책홍보 혁신상을 수상했다.대전관광공사와 한국문화콘텐츠라이센싱협회가 공동 주관한 이번 페스티벌 시상식은 지난 17일 대전컨벤션센터 제2전시장에서 열렸으며, 정부/지자체, 공공, 축제 부문에서 우수한 캐릭터들을 선정·시상했다.공단은 이번 수상을 통해, 대표 캐릭터 ‘장고와 고용이’를 활용해 장애인 고용 정책을 적극적으로 알리고 국민과의 소통을 강화해 온 성과를 인정 받았다.공단 이종성 이사장은</content:encoded>
-    </item>
-    <item>
-      <title>부산장애인근로자지원센터, 실무자 대상 ‘노무·법률상담 실전’ 교육 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233962</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233962</guid>
-      <pubDate>2026-10-19T11:51:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】부산장애인근로자지원센터가 지난 16일 장애인근로자지원센터 직원 직무 역량 강화교육을 실시했다.전국 6개 센터(서울, 부산, 대구, 광주, 대전, 경기) 직원이 참석한 이번 교육은 장애인근로자지원센터 실무자가 알아야 할 ‘노무·법률상담 실전’을 주제로 진행됐다.부산장애인근로자지원센터 관계자는 “장애인근로자의 안정적인 직업생활과 권익 보호를 위해 상담 및 교육, 문화, 지역 특성화 사업 등 다양한 지원 프로그램을 운영하겠다”면서 “앞으로도 장애인근로자 위한 통합적이고 전문적인 네트워크 체계 구축에 노력할 것”이</content:encoded>
-    </item>
-    <item>
-      <title>마을공동체 나주 무지개누리 ‘무지갯빛 바람 한 조각’ 전시회</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233961</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233961</guid>
-      <pubDate>2026-10-19T11:52:54.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이복남 객원기자】나주시 마을공동체 ‘무지개누리’가 장애아동과 비장애아동이 함께 만든 첫 번째 미술전시회 ‘무지갯빛 바람 한 조각’을 선보인다. 이번 전시회는 오는 15일부터 11월 22일까지 다울림창작소 2층 전시장에서 개최된다.‘무지개누리’는 장애아동과 비장애아동이 어울려 방학 중 돌봄 공백을 줄이고, 안전한 활동 공간과 사회적 관계 형성의 기회를 제공하고자 모인 마을공동체다. 2026년도 전남광주통합특별시 나주시 행복 드림 돌봄지원사업의 일환으로 ‘무지개 빛깔 아이들’ 프로그램을 운영해 왔으며, 장애아동을 위한 축구</content:encoded>
-    </item>
-    <item>
-      <title>개발원 경남센터, ‘장애아동의 날’서 장애아동 지원사업 홍보</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233963</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233963</guid>
-      <pubDate>2026-10-19T13:21:35.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인개발원 경상남도장애아동·발달장애인지원센터(이하 경남센터)가 지난 17일 양산시복지허브타운과 양산디자인공원 일대에서 열린 ‘제16회 장애아동의 날’ 행사에서 홍보부스를 운영했다.이번 행사는 양산시가 주최하고 사단법인 경상남도장애인부모연대 양산시지회가 주관한 장애·비장애 아동의 어울림 행사로, ‘놀이로 세상을 잇다’를 주제로 열렸다.경남센터는 신설된 장애아동팀과 주요 사업을 지역사회에 알리고, 장애아동과 가족이 필요한 지원서비스를 쉽게 알아보고 이용할 수 있도록 돕고자 행사에 참여했다.홍보부스에서는 장</content:encoded>
-    </item>
-    <item>
-      <title>남자 시각축구, ‘아이치·나고야 아시안패러게임’ 예선 3차전 일본에 아쉽게 패배</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233964</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233964</guid>
-      <pubDate>2026-10-19T14:03:50.000Z</pubDate>
-      <content:encoded>【나고야=공동취재단】 대한민국 남자 시각축구 대표팀은 19일 일본 나고야 쓰루마 공원 시립운동장에서 열린 일본과의 2026 아이치·나고야 아시안패러게임 시각축구 예선 3차전에서 0대1로 패배했다.시각축구는 스포츠등급 B1(전맹)의 시각장애 선수들이 소리를 통해 경기를 펼치는 종목이다. 공을 차서 골대에 넣어야 득점할 수 있다는 점을 제외하면 일반 축구와 다른 점이 많다.11대11의 대결이 아니다. 필드플레이어 4명과 골키퍼 1명으로 구성된 5대5 경기다. 필드플레이어 4명은 B1 선수만 가능하다. 골키퍼는 공을 막아야 하기 때문에</content:encoded>
-    </item>
-    <item>
-      <title>남자 시각축구, ‘아이치·나고야 아시안패러게임’ 예선 3차전 일본에 아쉽게 패배</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233964</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233964</guid>
-      <pubDate>2026-10-19T14:03:50.000Z</pubDate>
-      <content:encoded>【나고야=공동취재단】 대한민국 남자 시각축구 대표팀은 19일 일본 나고야 쓰루마 공원 시립운동장에서 열린 일본과의 2026 아이치·나고야 아시안패러게임 시각축구 예선 3차전에서 0대1로 패배했다.시각축구는 스포츠등급 B1(전맹)의 시각장애 선수들이 소리를 통해 경기를 펼치는 종목이다. 공을 차서 골대에 넣어야 득점할 수 있다는 점을 제외하면 일반 축구와 다른 점이 많다.11대11의 대결이 아니다. 필드플레이어 4명과 골키퍼 1명으로 구성된 5대5 경기다. 필드플레이어 4명은 B1 선수만 가능하다. 골키퍼는 공을 막아야 하기 때문에</content:encoded>
-    </item>
-    <item>
-      <title>&quot;친한 척하고 싶어도, 악수만···&quot; 탁구에서 12년 만의 APG 남북대결</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233965</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233965</guid>
-      <pubDate>2026-10-19T14:41:43.000Z</pubDate>
-      <content:encoded>【나고야=공동취재단】 12년 만에 아시안패러게임(APG) 탁구 무대에서 역사적인 남북대결이 다시 펼쳐졌다.박홍규(53·충북장애인체육회)는 19일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 APG 남자 탁구 단식(스포츠등급 CLASS 6)에서 북한의 전주현(40)을 게임 스코어 3-2(6-11, 6-11, 11-6, 11-7, 11-7)로 꺾고 짜릿한 역전승을 거뒀다.이날 경기는 역대 APG에서 열린 두 번째 탁구 남북대결이었다. 북한 탁구 대표팀은 지난 2014년 인천 대회에서 처음으로 APG에 출전해</content:encoded>
-    </item>
-    <item>
-      <title>&quot;친한 척하고 싶어도, 악수만···&quot; 탁구에서 12년 만의 APG 남북대결</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233965</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233965</guid>
-      <pubDate>2026-10-19T14:41:43.000Z</pubDate>
-      <content:encoded>【나고야=공동취재단】 12년 만에 아시안패러게임(APG) 탁구 무대에서 역사적인 남북대결이 다시 펼쳐졌다.박홍규(53·충북장애인체육회)는 19일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 APG 남자 탁구 단식(스포츠등급 CLASS 6)에서 북한의 전주현(40)을 게임 스코어 3-2(6-11, 6-11, 11-6, 11-7, 11-7)로 꺾고 짜릿한 역전승을 거뒀다.이날 경기는 역대 APG에서 열린 두 번째 탁구 남북대결이었다. 북한 탁구 대표팀은 지난 2014년 인천 대회에서 처음으로 APG에 출전해</content:encoded>
-    </item>
-    <item>
       <title>‘2027년 장애인식개선교육기관’ 지정 신청 접수‥11월 13일까지</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233967</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233967</guid>
       <pubDate>2026-10-19T14:41:49.000Z</pubDate>
       <content:encoded>【에이블뉴스 백민 기자】 보건복지부(장관 정은경)와 한국장애인개발원(원장 김정열, 이하 개발원)은 오는 11월 13일까지 ‘2027년 장애인식개선교육기관’ 지정 신청서를 접수한다고 19일 밝혔다.장애인식개선교육기관은 법정의무교육인 사회적장애인식개선교육 활성화를 위해 지난 2021년부터 보건복지부가 지정하고 있다.지역사회에서 장애인인식개선 교육을 시행하고 있는 역량 있는 기관을 교육기관으로 지정함으로써 대면 교육을 활성화하고 교육의 효과성을 높이기 위해서다. 2026년 10월 현재 전국 36개 기관이 지정되어 운영 중이다.신청 자격은</content:encoded>
-    </item>
-    <item>
-      <title>‘2027년 장애인식개선교육기관’ 지정 신청 접수‥11월 13일까지</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233967</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233967</guid>
-      <pubDate>2026-10-19T14:41:49.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 보건복지부(장관 정은경)와 한국장애인개발원(원장 김정열, 이하 개발원)은 오는 11월 13일까지 ‘2027년 장애인식개선교육기관’ 지정 신청서를 접수한다고 19일 밝혔다.장애인식개선교육기관은 법정의무교육인 사회적장애인식개선교육 활성화를 위해 지난 2021년부터 보건복지부가 지정하고 있다.지역사회에서 장애인인식개선 교육을 시행하고 있는 역량 있는 기관을 교육기관으로 지정함으로써 대면 교육을 활성화하고 교육의 효과성을 높이기 위해서다. 2026년 10월 현재 전국 36개 기관이 지정되어 운영 중이다.신청 자격은</content:encoded>
-    </item>
-    <item>
-      <title>‘박진호 은, 이장호 동’ 사격서 아이치·나고야 아시안패러게임 한국 첫 메달 수확</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233966</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233966</guid>
-      <pubDate>2026-10-19T14:42:53.000Z</pubDate>
-      <content:encoded>【도요타=공동취재단】 ‘장애인 사격 간판’ 박진호(49·강릉시청)와 ‘사격교관 출신’ 이장호(37·청주시청)가 2026 아이치·나고야 아시안패러게임에서 한국 대표팀에 첫 메달을 함께 안겼다.박진호는 지난 항저우 대회에 이어 2연속 은메달을 땄고, 지난 대회 챔피언 이장호는 동메달을 수확했다.박진호는 19일 일본 아이치현 도요타의 아이치현 종합사격장에서 열린 사격 남자 10ｍ 공기소총(스포츠등급 SH1) 입사 결선에서 24발 합계 248.5점을 기록, 카자흐스탄의 가바소프 예르킨(249.1점)에 이어 2위에 올랐다.앞서 예선에서 62</content:encoded>
-    </item>
-    <item>
-      <title>‘박진호 은, 이장호 동’ 사격서 아이치·나고야 아시안패러게임 한국 첫 메달 수확</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233966</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233966</guid>
-      <pubDate>2026-10-19T14:42:53.000Z</pubDate>
-      <content:encoded>【도요타=공동취재단】 ‘장애인 사격 간판’ 박진호(49·강릉시청)와 ‘사격교관 출신’ 이장호(37·청주시청)가 2026 아이치·나고야 아시안패러게임에서 한국 대표팀에 첫 메달을 함께 안겼다.박진호는 지난 항저우 대회에 이어 2연속 은메달을 땄고, 지난 대회 챔피언 이장호는 동메달을 수확했다.박진호는 19일 일본 아이치현 도요타의 아이치현 종합사격장에서 열린 사격 남자 10ｍ 공기소총(스포츠등급 SH1) 입사 결선에서 24발 합계 248.5점을 기록, 카자흐스탄의 가바소프 예르킨(249.1점)에 이어 2위에 올랐다.앞서 예선에서 62</content:encoded>
-    </item>
-    <item>
-      <title>개발원 경남센터, 굿윌스토어 밀알창원점과 업무협약 체결</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233970</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233970</guid>
-      <pubDate>2026-10-19T15:23:13.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 한국장애인개발원 경상남도장애아동·발달장애인지원센터(이하 경남센터, 센터장 이동욱)는 굿윌스토어 밀알창원점(원장 김신명)과 19일 경남센터 회의실에서 발달장애인의 취업과 자립을 지원하기 위한 업무협약을 체결했다.이번 협약은 취업과 자립을 희망하는 발달장애인에게 필요한 서비스를 연계하고 안정적인 자립 기반을 마련하기 위해 추진됐다.양 기관은 협약을 통해 ▲취업을 희망하는 발달장애인 발굴 및 굿윌스토어 취업 연계 ▲굿윌스토어 재직 발달장애인의 개인별지원계획 수립 및 복지서비스 연계 ▲경남센터 신규직원과 활동서비스</content:encoded>
     </item>
     <item>
       <title>‘2026년 하반기 장애인경제활동실태조사’ 실시··12월 13일까지</title>
@@ -950,13 +635,6 @@
       <content:encoded>[도요타=공동취재단] 한국 장애인 여자 사격 베테랑 이윤리(50·한전MCS)가 2026 아이치·나고야 아시안패러게임에서 동메달을 따냈다.이윤리는 19일 일본 아이치현 도요타의 아이치현 종합사격장에서 열린 사격 여자 10ｍ 공기소총(스포츠등급 SH1) 입사 결선에서 22발 합계 227.9점을 기록, 3위에 올랐다. 함께 출전한 김미영(46·인천광역시청)은 18발 합계 186.3점의 기록으로 5위를 차지했다.이윤리는 본선 20발까지 선두와 0.4점 차이로 3위를 유지하며 역전을 노렸으나 22발까지 2위권 진입에 실패하면서 동메달을 확정</content:encoded>
     </item>
     <item>
-      <title>사격 이윤리, ‘아이치·나고야 아시안패러게임’ 동메달 명중</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233973</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233973</guid>
-      <pubDate>2026-10-19T16:48:35.000Z</pubDate>
-      <content:encoded>[도요타=공동취재단] 한국 장애인 여자 사격 베테랑 이윤리(50·한전MCS)가 2026 아이치·나고야 아시안패러게임에서 동메달을 따냈다.이윤리는 19일 일본 아이치현 도요타의 아이치현 종합사격장에서 열린 사격 여자 10ｍ 공기소총(스포츠등급 SH1) 입사 결선에서 22발 합계 227.9점을 기록, 3위에 올랐다. 함께 출전한 김미영(46·인천광역시청)은 18발 합계 186.3점의 기록으로 5위를 차지했다.이윤리는 본선 20발까지 선두와 0.4점 차이로 3위를 유지하며 역전을 노렸으나 22발까지 2위권 진입에 실패하면서 동메달을 확정</content:encoded>
-    </item>
-    <item>
       <title>시험장에 들어가는 길도 시험 편의에 포함되어야 한다</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233940</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233940</guid>
@@ -969,13 +647,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233940</guid>
       <pubDate>2026-10-19T17:28:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 김경식 칼럼니스트】시험에 응시하며 확인한 안내에는 경사로와 승강기가 있다고 적혀 있었다. 배정된 시험실은 1층이어서 승강기를 이용할 필요는 없었다. 그런데 건물의 주출입구 부근에는 경사로가 설치되어 있지 않았다. 이 경험을 통해 시설의 존재를 알리는 정보와 실제 이용 방법을 알려주는 정보 사이의 간격을 생각하게 되었다. 응시자에게 필요한 것은 자신이 이용할 수 있는 입구의 위치와 그곳에서 시험실까지 이어지는 경로였다.한국사능력검정시험을 비롯한 국가 시행 검정시험과 국가자격시험, 민간자격시험에서 시간 연장은 중요한 편의다</content:encoded>
-    </item>
-    <item>
-      <title>사격 서훈태, ‘아이치·나고야 아시안패러게임’ 한국 첫 금빛 총성</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233977</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233977</guid>
-      <pubDate>2026-10-19T17:28:17.000Z</pubDate>
-      <content:encoded>[도요타=공동취재단] ‘2026 아이치·나고야 아시안패러게임’ 한국 대표팀 첫 금메달이 나왔다. 주인공은 사격 대표팀 서훈태(41·경기도장애인체육회)이다.서훈태는 19일 일본 아이치현 도요타의 아이치현 종합사격장에서 열린 사격 혼성 10ｍ 공기소총(스포츠등급 SH2) 입사 결선에서 24발 합계 254.6점을 기록, 대회 기록 및 아시아 신기록을 세우며 금메달을 따냈다.은메달은 태국 쿤통 웡사통(253.6점)이 차지했다. 서훈태와 함께 결선에 오른 박승우(32·광주광역시청)는 22발 합계 232.0점을 기록, 3위에 올랐다.서훈태는</content:encoded>
     </item>
     <item>
       <title>사격 서훈태, ‘아이치·나고야 아시안패러게임’ 한국 첫 금빛 총성</title>
@@ -1132,6 +803,13 @@
       <content:encoded>10월 19일 월요일 KTV 10월 19일 월요일 00시50분~01시20분 인간극장 (떡집 3대 쫄깃한 인생 1부)채널A 10월 19일 월요일 01시00분~02시00분 건강한 식당KTV 10월 19일 월요일 01시20분~01시50분 인간극장 (떡집 3대 쫄깃한 인생 2부)KTV 10월 19일 월요일 01시50분~02시20분 인간극장 (떡집 3대 쫄깃한 인생 3부)KTV 10월 19일 월요일 02시20분~02시45분 인간극장 (떡집 3대 쫄깃한 인생 4부)tvN SHOW 10월 19일 월요일 02시20분~03시50분 이젠 사랑할 수</content:encoded>
     </item>
     <item>
+      <title>한시련 제작 화면해설방송 주간 편성안내(10월 19일~25일)</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233992</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233992</guid>
+      <pubDate>2026-10-20T09:03:00.000Z</pubDate>
+      <content:encoded>10월 19일 월요일 KTV 10월 19일 월요일 00시50분~01시20분 인간극장 (떡집 3대 쫄깃한 인생 1부)채널A 10월 19일 월요일 01시00분~02시00분 건강한 식당KTV 10월 19일 월요일 01시20분~01시50분 인간극장 (떡집 3대 쫄깃한 인생 2부)KTV 10월 19일 월요일 01시50분~02시20분 인간극장 (떡집 3대 쫄깃한 인생 3부)KTV 10월 19일 월요일 02시20분~02시45분 인간극장 (떡집 3대 쫄깃한 인생 4부)tvN SHOW 10월 19일 월요일 02시20분~03시50분 이젠 사랑할 수</content:encoded>
+    </item>
+    <item>
       <title>경기도장애인생산품판매시설, 민간기업 장애인 연계고용 첫 중개 성사</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233989</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233989</guid>
@@ -1174,11 +852,88 @@
       <content:encoded>【에이블뉴스 이슬기 기자】문화체육관광부 국립장애인도서관이 발달장애인과 느린학습자의 독서와 배움 기회 확대를 위해 오는 30일까지 ‘읽기쉬운책’ 배포 대상 기관을 모집한다.‘읽기쉬운책’은 발달장애인과 느린학습자 등이 내용을 쉽게 이해할 수 있도록 쉬운 어휘와 짧은 문장 등으로 풀어쓴 책이다. 올해 제작한 ‘읽기쉬운책’ 160종 8만 부는 전국 광역대표도서관, 공공도서관, 특수학교·학급 등 500여개 기관에 배포할 계획이다.국립장애인도서관은 2022년부터 ‘읽기쉬운책’ 제작을 추진해 왔으며, 제작 규모를 2024년 40종에서 2025년</content:encoded>
     </item>
     <item>
+      <title>국립장애인도서관, 발달장애인 등 ‘읽기쉬운책’ 배포 대상 기관 모집</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233990</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233990</guid>
+      <pubDate>2026-10-20T10:03:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】문화체육관광부 국립장애인도서관이 발달장애인과 느린학습자의 독서와 배움 기회 확대를 위해 오는 30일까지 ‘읽기쉬운책’ 배포 대상 기관을 모집한다.‘읽기쉬운책’은 발달장애인과 느린학습자 등이 내용을 쉽게 이해할 수 있도록 쉬운 어휘와 짧은 문장 등으로 풀어쓴 책이다. 올해 제작한 ‘읽기쉬운책’ 160종 8만 부는 전국 광역대표도서관, 공공도서관, 특수학교·학급 등 500여개 기관에 배포할 계획이다.국립장애인도서관은 2022년부터 ‘읽기쉬운책’ 제작을 추진해 왔으며, 제작 규모를 2024년 40종에서 2025년</content:encoded>
+    </item>
+    <item>
+      <title>강동IL센터, 편의점 등 생활밀착시설 접근성 실태 공유·개선 논의</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234003</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234003</guid>
+      <pubDate>2026-10-20T11:26:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】강동장애인자립생활센터가 오는 11월 2일 오후 2시 강동구민회관에서 ‘2026년 장애인 편의시설 모니터링 결과 공유 및 정책토론회’를 개최한다.이번 토론회는 강동지역 편의점과 카페 등 생활밀착시설을 대상으로 진행한 장애인 접근성 모니터링 결과를 공유하고, 장애인이 지역사회 시설을 보다 안전하고 독립적으로 이용할 수 있도록 실질적인 개선방안을 모색하기 위해 마련됐다.강동IL센터는 2025년부터 ‘강리단길 메이커’ 사업을 통해 장애인 당사자가 직접 지역 내 생활편의시설을 방문해 접근환경을 조사해왔다.2025년에</content:encoded>
+    </item>
+    <item>
+      <title>한시련, ‘제47회 흰지팡이날 기념 전국시각장애인권익증진대회’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234002</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234002</guid>
+      <pubDate>2026-10-20T11:26:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국시각장애인연합회(한시련)와 더불어민주당 서미화 의원이 공동 주최한 ‘제47회 흰지팡이날 기념 전국시각장애인권익증진대회’가 지난 19일 국회의원회관 대회의실에서 성황리에 개최됐다.이번 대회는 매년 10월 15일 ‘흰지팡이날’을 맞아 시각장애인의 자립과 성취를 상징하는 흰지팡이의 의미를 되새기고, 시각장애인의 권리 보장과 사회적 인식 향상을 위해 마련됐다. 현장에는 전국 시각장애인과 관계자 등 400여 명이 참석했으며, 한시련 공식 유튜브 채널을 통해 전국에 생중계됐다.행사에는 시각장애 음악인들로 구성된 ‘</content:encoded>
+    </item>
+    <item>
+      <title>강동IL센터, 편의점 등 생활밀착시설 접근성 실태 공유·개선 논의</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234003</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234003</guid>
+      <pubDate>2026-10-20T11:26:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】강동장애인자립생활센터가 오는 11월 2일 오후 2시 강동구민회관에서 ‘2026년 장애인 편의시설 모니터링 결과 공유 및 정책토론회’를 개최한다.이번 토론회는 강동지역 편의점과 카페 등 생활밀착시설을 대상으로 진행한 장애인 접근성 모니터링 결과를 공유하고, 장애인이 지역사회 시설을 보다 안전하고 독립적으로 이용할 수 있도록 실질적인 개선방안을 모색하기 위해 마련됐다.강동IL센터는 2025년부터 ‘강리단길 메이커’ 사업을 통해 장애인 당사자가 직접 지역 내 생활편의시설을 방문해 접근환경을 조사해왔다.2025년에</content:encoded>
+    </item>
+    <item>
+      <title>한시련, ‘제47회 흰지팡이날 기념 전국시각장애인권익증진대회’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234002</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234002</guid>
+      <pubDate>2026-10-20T11:26:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국시각장애인연합회(한시련)와 더불어민주당 서미화 의원이 공동 주최한 ‘제47회 흰지팡이날 기념 전국시각장애인권익증진대회’가 지난 19일 국회의원회관 대회의실에서 성황리에 개최됐다.이번 대회는 매년 10월 15일 ‘흰지팡이날’을 맞아 시각장애인의 자립과 성취를 상징하는 흰지팡이의 의미를 되새기고, 시각장애인의 권리 보장과 사회적 인식 향상을 위해 마련됐다. 현장에는 전국 시각장애인과 관계자 등 400여 명이 참석했으며, 한시련 공식 유튜브 채널을 통해 전국에 생중계됐다.행사에는 시각장애 음악인들로 구성된 ‘</content:encoded>
+    </item>
+    <item>
+      <title>진해장애인가족지원센터·진해경찰서, 발달장애인 신고 대응·인권보호 맞손</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233998</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233998</guid>
+      <pubDate>2026-10-20T11:26:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】진해장애인가족지원센터가 진해경찰서와 함께 지난 19일 ‘발달장애인 신고 대응 및 인권보호를 위한 업무협약’을 체결했다.이번 업무협약은 발달장애인의 특성으로 인해 발생할 수 있는 112 신고 현장에서의 불필요한 마찰을 예방하고, 신고 대응 및 조치 과정에서 발달장애인의 인권과 권익을 보호하기 위해 양 기관의 협력 필요성에 대한 공감대를 바탕으로 추진됐다.협약에 따라 양 기관은 △발달장애인 관련 112 신고 접수 시 현장 동행 및 조력 △핫라인 구축 및 정보 공유 △교육 지원 및 합동 홍보활동 △사후 복지서비스</content:encoded>
+    </item>
+    <item>
+      <title>제주장애인가족지원센터, 성인장애인 자립교육 ‘혼자서 척척 밥상’ 참여자 모집</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233996</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233996</guid>
+      <pubDate>2026-10-20T11:26:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】제주시장애인가족지원센터가 성인장애인의 자립생활 능력 향상을 위한 요리 프로그램 ‘혼자서 척척 밥상’ 참여자를 모집한다고 20일 밝혔다.이번 프로그램은 제주시 지역에 등록된 성인장애인 4명을 대상으로 하며, 11월 매주 화요일 오전 10시부터 12시까지 총 4회 진행된다. 참여자들은 궁중떡볶이, 카레, 샌드위치, 소시지야채볶음 등을 직접 만들며 일상생활에 필요한 요리 기술을 익히고 자립 역량을 키울 예정이다. 참가비는 무료다.접수는 구글폼을 통해 선착순으로 진행하며, 선정 결과는 제주특별자치도장애인부모회 홈페</content:encoded>
+    </item>
+    <item>
+      <title>개발원 경기센터·물리치료사협회 경기지부, 장애아동·발달장애인 지원 맞손</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233994</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233994</guid>
+      <pubDate>2026-10-20T11:27:28.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인개발원 경기도장애아동·발달장애인지원센터(이하 경기센터)가 지난 19일 대한물리치료사협회 경기지부와 경기센터에서 장애아동·발달장애인의 의료·복지 서비스 연계를 위한 업무협약을 체결했다.이번 협약은 장애아동과 발달장애인의 지역사회 통합돌봄 지원을 강화하고, 물리치료·조기개입 분야의 전문 자문체계 구축과 맞춤형 교육 운영을 위한 협력 기반을 마련하고자 추진됐다.양 기관은 협약을 통해 ▲사업 안내 및 홍보 ▲전문가·보호자 대상 교육 교류 ▲장애아동 복지·재활 서비스 자원 공유 ▲개인별지원계획 및 조기개입</content:encoded>
+    </item>
+    <item>
       <title>청각장애인 수제화 아지오와 함께하는 유시민·변상욱의 신들린 영업</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233995</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233995</guid>
       <pubDate>2026-10-20T11:27:32.000Z</pubDate>
       <content:encoded>【에이블뉴스 권중훈 기자】 사회적협동조합 구두만드는풍경(대표 유석영)과 장애인직업재활시설 아지오트렌드(원장 이선우)가 오는 31일 오전 11시부터 오후 5시까지 서울 성수동 ‘꿈꾸는 아지오’ 매장에서 유시민 작가와 변상욱 기자가 함께하는 특별 이벤트 ‘아지오와 함께하는 유시민·변상욱의 ‘신’들린 영업’을 개최한다.이번 행사는 수제화 브랜드 ‘아지오(AGIO)’의 가치를 알리고 시민들과 더욱 가까이 소통하기 위해 기획됐으며 유시민 작가와 변상욱 기자가 직접 1일 판매 사원으로 나서 신발 실측 및 홍보, 고객 맞이에 나선다.특히 당일</content:encoded>
+    </item>
+    <item>
+      <title>청각장애인 수제화 아지오와 함께하는 유시민·변상욱의 신들린 영업</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233995</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233995</guid>
+      <pubDate>2026-10-20T11:27:32.000Z</pubDate>
+      <content:encoded>【에이블뉴스 권중훈 기자】 사회적협동조합 구두만드는풍경(대표 유석영)과 장애인직업재활시설 아지오트렌드(원장 이선우)가 오는 31일 오전 11시부터 오후 5시까지 서울 성수동 ‘꿈꾸는 아지오’ 매장에서 유시민 작가와 변상욱 기자가 함께하는 특별 이벤트 ‘아지오와 함께하는 유시민·변상욱의 ‘신’들린 영업’을 개최한다.이번 행사는 수제화 브랜드 ‘아지오(AGIO)’의 가치를 알리고 시민들과 더욱 가까이 소통하기 위해 기획됐으며 유시민 작가와 변상욱 기자가 직접 1일 판매 사원으로 나서 신발 실측 및 홍보, 고객 맞이에 나선다.특히 당일</content:encoded>
+    </item>
+    <item>
+      <title>생활에 도움이 필요한 장애인 가족을 나라가 먼저 찾아 나서요</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233993</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233993</guid>
+      <pubDate>2026-10-20T11:29:59.000Z</pubDate>
+      <content:encoded>어떤 내용일까요? 1. 나라가 도움이 필요한 이웃을 직접 찾아 나서요.2. 장애인이 2명 이상 함께 사는 집을 집중적으로 살펴요.3. 빚 때문에 힘든 사람과 추위에 약한 이웃도 함께 찾아서 지원해요.나라가 도움이 필요한 이웃을 직접 찾아 나서요보건복지부*가 나라의 도움이 필요한 사람들을 직접 찾아 나서요. 전기나 수도가 끊긴 기록, 건강보험*료를 못 낸 기록 등 생활이 위험하다는 신호인 49가지 위기 정보를 컴퓨터로 확인해요. 정보를 확인한 뒤에는 인공지능 상담사가 먼저 전화를 걸어 상담을 해요. 그다음 동네 주민센터 직원이 직접</content:encoded>
+    </item>
+    <item>
+      <title>소리로 읽고, 호흡으로 막는다···한국 男 골볼, 카타르에 10-2 완승</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233997</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233997</guid>
+      <pubDate>2026-10-20T11:37:15.000Z</pubDate>
+      <content:encoded>[도요하시=공동취재단] “볼 어디로 갔어요?”공이 골문을 향해 날아간 뒤 한국 골볼 대표팀 선수들은 코치진에게 공의 궤적을 물었다. 눈으로 공을 쫓을 수 없는 선수들에게는 방금 던진 공이 어느 방향으로 향했고, 상대 수비에 어떻게 막혔는지 파악하는 과정이 다음 공격을 준비하는 중요한 단서다. 상대 공격을 막아내느라 몸을 날린 뒤에는 심판진이 선수들의 고글 착용 상태를 확인했다. 롱볼과 하이볼 반칙으로 페널티 샷이 주어지는 등 골볼 코트에서는 일반 구기 종목과 다른 장면들이 이어졌다.한국 남자 골볼 대표팀은 20일 일본 아이치현 도요</content:encoded>
     </item>
     <item>
       <title>소리로 읽고, 호흡으로 막는다···한국 男 골볼, 카타르에 10-2 완승</title>
@@ -1193,6 +948,251 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233954</guid>
       <pubDate>2026-10-20T11:41:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 원선애 칼럼니스트】언제부터인가 로그인조차 무서워지는 증권사 앱. 어쩔 수 없이 잔고를 파악하려 들어갔건만 온통 핏빛 아니 파란색으로 뒤덮인 화면을 보고, 떨리는 손으로 냉큼 창을 닫아버리는 나는 80년대생 아줌마다. 파랑은 원래 평온의 색이라던데, 이 망할 주식 계좌 앞에서는 아무 의미가 없다.초등학교 컴퓨터실에서 DOS 명령어를 외웠고, 고교시절엔 인터넷의 탄생과 PC통신을 접했다. 20대 한복판에서는 싸이월드에 &apos;감성적인 ㄴ r&apos;에 빠져 이불킥할 글들을 써 내려갔고,네이버 카페에서 스드메와 육아, 살림 꿀팁을 공유하</content:encoded>
+    </item>
+    <item>
+      <title>반토막 난 계좌와 영원한 소외주, 상장폐지 직전의 특수교육</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233954</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233954</guid>
+      <pubDate>2026-10-20T11:41:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 원선애 칼럼니스트】언제부터인가 로그인조차 무서워지는 증권사 앱. 어쩔 수 없이 잔고를 파악하려 들어갔건만 온통 핏빛 아니 파란색으로 뒤덮인 화면을 보고, 떨리는 손으로 냉큼 창을 닫아버리는 나는 80년대생 아줌마다. 파랑은 원래 평온의 색이라던데, 이 망할 주식 계좌 앞에서는 아무 의미가 없다.초등학교 컴퓨터실에서 DOS 명령어를 외웠고, 고교시절엔 인터넷의 탄생과 PC통신을 접했다. 20대 한복판에서는 싸이월드에 &apos;감성적인 ㄴ r&apos;에 빠져 이불킥할 글들을 써 내려갔고,네이버 카페에서 스드메와 육아, 살림 꿀팁을 공유하</content:encoded>
+    </item>
+    <item>
+      <title>관현맹인전통예술단, ‘조선을 그리다-홍도와 윤복’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234012</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234012</guid>
+      <pubDate>2026-10-20T14:10:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】관현맹인전통예술단이 지난 14일 서울 서대문구 모두예술극장에서 공연 ‘조선을 그리다-홍도와 윤복’을 개최하고, 김홍도의 작품을 AI 창작음악과 촉각명화로 재해석한 새로운 전통예술 무대를 선보였다.이번 공연은 시각 중심의 전통회화를 음악과 촉각으로 확장해 장애와 비장애의 구분 없이 누구나 우리 전통문화를 다채롭게 경험할 수 있는 기회를 마련했다.이번 공연에서는 김홍도의 대표작인 ‘서당’, ‘씨름’, ‘송하취생도’, ‘팔가조도’, ‘사슴과 동자’ 등을 모티브로 AI를 활용해 작곡한 창작음악과 관객들에게 많은 사</content:encoded>
+    </item>
+    <item>
+      <title>관현맹인전통예술단, ‘조선을 그리다-홍도와 윤복’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234012</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234012</guid>
+      <pubDate>2026-10-20T14:10:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】관현맹인전통예술단이 지난 14일 서울 서대문구 모두예술극장에서 공연 ‘조선을 그리다-홍도와 윤복’을 개최하고, 김홍도의 작품을 AI 창작음악과 촉각명화로 재해석한 새로운 전통예술 무대를 선보였다.이번 공연은 시각 중심의 전통회화를 음악과 촉각으로 확장해 장애와 비장애의 구분 없이 누구나 우리 전통문화를 다채롭게 경험할 수 있는 기회를 마련했다.이번 공연에서는 김홍도의 대표작인 ‘서당’, ‘씨름’, ‘송하취생도’, ‘팔가조도’, ‘사슴과 동자’ 등을 모티브로 AI를 활용해 작곡한 창작음악과 관객들에게 많은 사</content:encoded>
+    </item>
+    <item>
+      <title>그림엄마 소속 발달장애 미술작가들 ‘2026 장애예술인 아트페어’ 참가</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234007</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234007</guid>
+      <pubDate>2026-10-20T14:12:57.000Z</pubDate>
+      <content:encoded>【에이블뉴스 권중훈 기자】 그림엄마 소속 발달장애 미술작가들이 ‘2026 장애예술인 아트페어(ART FAIR)’에 “한젬마와 천재 아티스트들”이라는 타이틀로 참가한다.이번 아트페어는 광주장애인미술협회 주관으로 오는 22일부터 27일까지 홀리데이인 광주 호텔 4~5층에서 &apos;Different View, New Wave(다양성의 미학, 새로운 예술적 파동)&apos;를 부제로 열린다. 공식 개막식은 10월 23일 오후 3시다.한젬마 감독을 비롯해 그림엄마 소속 발달장애 미술작가 20명은 작품을 통해 장애예술인의 창의성과 예술성을 널리 알릴 예정이</content:encoded>
+    </item>
+    <item>
+      <title>그림엄마 소속 발달장애 미술작가들 ‘2026 장애예술인 아트페어’ 참가</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234007</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234007</guid>
+      <pubDate>2026-10-20T14:12:57.000Z</pubDate>
+      <content:encoded>【에이블뉴스 권중훈 기자】 그림엄마 소속 발달장애 미술작가들이 ‘2026 장애예술인 아트페어(ART FAIR)’에 “한젬마와 천재 아티스트들”이라는 타이틀로 참가한다.이번 아트페어는 광주장애인미술협회 주관으로 오는 22일부터 27일까지 홀리데이인 광주 호텔 4~5층에서 &apos;Different View, New Wave(다양성의 미학, 새로운 예술적 파동)&apos;를 부제로 열린다. 공식 개막식은 10월 23일 오후 3시다.한젬마 감독을 비롯해 그림엄마 소속 발달장애 미술작가 20명은 작품을 통해 장애예술인의 창의성과 예술성을 널리 알릴 예정이</content:encoded>
+    </item>
+    <item>
+      <title>‘다름에서 피어난 특별한 빛’ 2026 장애인문화예술축제 ‘A+ Festival’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234005</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234005</guid>
+      <pubDate>2026-10-20T14:13:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인문화예술단체총연합회(이하 장예총)가 주최하고 2026장애인문화예술축제조직위원회가 주관하는 국내 최대 규모의 장애인 문화예술축제 ‘2026 장애인문화예술축제 A+ Festival’이 지난 16일부터 18일까지 서울 강서구 마곡광장에서 개최됐다.문화체육관광부, 한국장애인문화예술원, 강서구청, KBS 한국방송공사, (주)기아, 에이블뉴스가 후원한 이번 축제는 총 3만 9000여 명의 관람객이 방문해 장애예술의 다채로운 매력을 경험하며 특별한 가을날의 추억을 만들었다.2009년 시작해 올해로 18회를 맞이</content:encoded>
+    </item>
+    <item>
+      <title>‘다름에서 피어난 특별한 빛’ 2026 장애인문화예술축제 ‘A+ Festival’ 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234005</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234005</guid>
+      <pubDate>2026-10-20T14:13:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인문화예술단체총연합회(이하 장예총)가 주최하고 2026장애인문화예술축제조직위원회가 주관하는 국내 최대 규모의 장애인 문화예술축제 ‘2026 장애인문화예술축제 A+ Festival’이 지난 16일부터 18일까지 서울 강서구 마곡광장에서 개최됐다.문화체육관광부, 한국장애인문화예술원, 강서구청, KBS 한국방송공사, (주)기아, 에이블뉴스가 후원한 이번 축제는 총 3만 9000여 명의 관람객이 방문해 장애예술의 다채로운 매력을 경험하며 특별한 가을날의 추억을 만들었다.2009년 시작해 올해로 18회를 맞이</content:encoded>
+    </item>
+    <item>
+      <title>부산장복, 발달장애인 혼성 축구단 ‘부산동백FC’ 창단식 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234006</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234006</guid>
+      <pubDate>2026-10-20T14:13:03.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】부산광역시장애인종합복지관이 지난 17일 부산환경공단 수영사업단 축구장에서 발달장애인 혼성 축구단 ‘부산동백FC’ 창단식을 개최하고, 창단을 기념하는 친선전을 진행했다.이번 행사는 발달장애인 혼성 축구단 ‘부산동백FC’의 창단을 공식적으로 알리고, 선수와 가족, 지역사회가 함께 축구단의 새로운 출발을 축하하기 위해 마련됐다.이날 행사에는 부산광역시장애인종합복지관의 부산동백FC를 비롯해 시안아동발달상담센터의 시안FC, 의령 사랑의집의 의령꽃미녀FC, 창녕군장애인종합복지관의 창녕슈퍼스타FC 등 부산·경남 지역 발</content:encoded>
+    </item>
+    <item>
+      <title>시각장애인 학생 점자교과서 학기 전 적시 보급, 제작용 디지털 파일 제출 기준 마련</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234004</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234004</guid>
+      <pubDate>2026-10-20T14:13:09.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】앞으로 시각장애 학생을 비롯한 장애인 학생과 교원이 점자 교과서 등을 학기 시작 전에 제때 받아볼 수 있을 전망이다. 교과서를 만드는 출판사 등은 교육부가 요청하면 점자나 음성으로 쉽게 바꿀 수 있는 디지털 파일을 요청받은 날부터 30일 이내에 제출해야 한다.교육부는 20일 국무회의에서 이 같은 내용의 ‘교과용 도서에 관한 규정’ 일부개정령안이 심의·의결됐다고 밝혔다.이번 개정은 시각장애인용 교과용 도서가 학기 시작 전 적기에 제작‧보급될 수 있도록 제도 개선이 필요하다는 의견이 국회와 국민권익위원회 등을</content:encoded>
+    </item>
+    <item>
+      <title>시각장애인 학생 점자교과서 학기 전 적시 보급, 제작용 디지털 파일 제출 기준 마련</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234004</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234004</guid>
+      <pubDate>2026-10-20T14:13:09.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】앞으로 시각장애 학생을 비롯한 장애인 학생과 교원이 점자 교과서 등을 학기 시작 전에 제때 받아볼 수 있을 전망이다. 교과서를 만드는 출판사 등은 교육부가 요청하면 점자나 음성으로 쉽게 바꿀 수 있는 디지털 파일을 요청받은 날부터 30일 이내에 제출해야 한다.교육부는 20일 국무회의에서 이 같은 내용의 ‘교과용 도서에 관한 규정’ 일부개정령안이 심의·의결됐다고 밝혔다.이번 개정은 시각장애인용 교과용 도서가 학기 시작 전 적기에 제작‧보급될 수 있도록 제도 개선이 필요하다는 의견이 국회와 국민권익위원회 등을</content:encoded>
+    </item>
+    <item>
+      <title>사격 조정두, 아시안패러게임 첫 출전서 금빛 총성</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234010</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234010</guid>
+      <pubDate>2026-10-20T14:35:00.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 2024 파리 패럴림픽 금메달리스트 조정두(39·BDH파라스)가 첫 출전한 아시안패러게임에서도 대회신기록을 세우며 금빛 총성을 울렸다.조정두는 20일 일본 아이치현 종합사격장에서 열린 2026 아이치·나고야 아시안패러게임(장애인아시아경기대회) 사격 남자 10ｍ 공기권총(스포츠등급 SH1) 결선에서 24발 합계 241.3점을 쏴 우승했다.은메달과 동메달은 마니쉬 나르왈(233.7점·인도), 양차오(213.6점·중국)가 각각 차지했다.이날 본선에서 575점으로 전체 1위를 차지한 조정두는 결선에서도 정상에 올라 자</content:encoded>
+    </item>
+    <item>
+      <title>사격 조정두, 아시안패러게임 첫 출전서 금빛 총성</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234010</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234010</guid>
+      <pubDate>2026-10-20T14:35:00.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 2024 파리 패럴림픽 금메달리스트 조정두(39·BDH파라스)가 첫 출전한 아시안패러게임에서도 대회신기록을 세우며 금빛 총성을 울렸다.조정두는 20일 일본 아이치현 종합사격장에서 열린 2026 아이치·나고야 아시안패러게임(장애인아시아경기대회) 사격 남자 10ｍ 공기권총(스포츠등급 SH1) 결선에서 24발 합계 241.3점을 쏴 우승했다.은메달과 동메달은 마니쉬 나르왈(233.7점·인도), 양차오(213.6점·중국)가 각각 차지했다.이날 본선에서 575점으로 전체 1위를 차지한 조정두는 결선에서도 정상에 올라 자</content:encoded>
+    </item>
+    <item>
+      <title>아이치·나고야 아시안패러게임 &apos;金·金·金&apos; 탁구에서 금맥 터졌다</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234008</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234008</guid>
+      <pubDate>2026-10-20T14:36:41.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 한국 탁구 대표팀이 금메달을 쏟아냈다. 서수연(40·광주광역시청), 김현욱(31·경기도장애인체육회), 김은희(46·전라북도장애인탁구협회)가 풀리그로 치러진 종목에서 나란히 전승을 거두며 정상에 올랐다.서수연은 20일 오전 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 여자 단식 CLASS 2 조별리그 4차전에서 중국의 류징을 세트 스코어 3-1(12-10, 11-8, 9-11, 13-11)로 꺾었다.서수연은 2016 리우, 2020 도쿄, 2024 파리 패럴</content:encoded>
+    </item>
+    <item>
+      <title>아이치·나고야 아시안패러게임 &apos;金·金·金&apos; 탁구에서 금맥 터졌다</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234008</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234008</guid>
+      <pubDate>2026-10-20T14:36:41.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 한국 탁구 대표팀이 금메달을 쏟아냈다. 서수연(40·광주광역시청), 김현욱(31·경기도장애인체육회), 김은희(46·전라북도장애인탁구협회)가 풀리그로 치러진 종목에서 나란히 전승을 거두며 정상에 올랐다.서수연은 20일 오전 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 여자 단식 CLASS 2 조별리그 4차전에서 중국의 류징을 세트 스코어 3-1(12-10, 11-8, 9-11, 13-11)로 꺾었다.서수연은 2016 리우, 2020 도쿄, 2024 파리 패럴</content:encoded>
+    </item>
+    <item>
+      <title>숙적 꺾고 金 따낸 탁구 서수연, “3관왕 기대, 당연히 짊어져야 할 무게”</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234009</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234009</guid>
+      <pubDate>2026-10-20T14:43:04.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 금메달을 목에 걸고도 기쁨보다는 안도감이 앞섰다. 성치 않은 몸으로 또 하나의 고비를 넘었다는 생각에서다. 어느덧 불혹의 나이. 세월의 무게가 느껴질 법도 하지만 도전은 끝나지 않았다. 한국 장애인탁구의 간판 서수연(40·광주광역시청)이 오랜 숙적을 꺾고 다시 아시아 정상에 섰다. 이제 그의 시선은 대회 2연속 3관왕, 더 나아가 2028 로스앤젤레스(LA) 패럴림픽을 향한다.서수연은 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 여자 단식(스포츠등급</content:encoded>
+    </item>
+    <item>
+      <title>숙적 꺾고 金 따낸 탁구 서수연, “3관왕 기대, 당연히 짊어져야 할 무게”</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234009</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234009</guid>
+      <pubDate>2026-10-20T14:43:04.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 금메달을 목에 걸고도 기쁨보다는 안도감이 앞섰다. 성치 않은 몸으로 또 하나의 고비를 넘었다는 생각에서다. 어느덧 불혹의 나이. 세월의 무게가 느껴질 법도 하지만 도전은 끝나지 않았다. 한국 장애인탁구의 간판 서수연(40·광주광역시청)이 오랜 숙적을 꺾고 다시 아시아 정상에 섰다. 이제 그의 시선은 대회 2연속 3관왕, 더 나아가 2028 로스앤젤레스(LA) 패럴림픽을 향한다.서수연은 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 여자 단식(스포츠등급</content:encoded>
+    </item>
+    <item>
+      <title>“저를 롤모델 삼아도 괜찮아요” 탁구 김현욱, 첫 아시안패러게임서 전승 金</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234011</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234011</guid>
+      <pubDate>2026-10-20T15:33:11.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] &quot;다른 장애인분들이 운동을 시작할 때 저를 롤모델로 삼아도 괜찮을 것 같아요.&quot;아시안패러게임 첫 금메달을 목에 건 김현욱(31·경기도장애인체육회)의 바람이다. 그는 자신을 보고 누군가 운동을 시작하길 바랐다.김현욱은 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임 탁구 남자 단식(스포츠등급 CLASS 1) 4번째 경기에서 라칸 알살미(사우디아라비아)를 게임스코어 3-0(11-2 11-2 11-7)으로 꺾었다. 그는 풀리그로 치러진 이 종목에서 한 게임도 내주지 않고</content:encoded>
+    </item>
+    <item>
+      <title>“저를 롤모델 삼아도 괜찮아요” 탁구 김현욱, 첫 아시안패러게임서 전승 金</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234011</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234011</guid>
+      <pubDate>2026-10-20T15:33:11.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] &quot;다른 장애인분들이 운동을 시작할 때 저를 롤모델로 삼아도 괜찮을 것 같아요.&quot;아시안패러게임 첫 금메달을 목에 건 김현욱(31·경기도장애인체육회)의 바람이다. 그는 자신을 보고 누군가 운동을 시작하길 바랐다.김현욱은 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임 탁구 남자 단식(스포츠등급 CLASS 1) 4번째 경기에서 라칸 알살미(사우디아라비아)를 게임스코어 3-0(11-2 11-2 11-7)으로 꺾었다. 그는 풀리그로 치러진 이 종목에서 한 게임도 내주지 않고</content:encoded>
+    </item>
+    <item>
+      <title>장애인공단 경북지사·재활협회 경북협회, 장애인 취업지원·직능능력 향상 맞손</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234013</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234013</guid>
+      <pubDate>2026-10-20T16:19:26.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인고용공단 경북지사가 20일 한국장애인재활협회 경북협회와 장애인 취업지원서비스 및 직능 능력 향상을 위한 업무협약을 체결했다.이번 협약은 경북지역의 장애인 대상으로 직업재활 및 취업알선 서비스를 제공하고, 나아가 직업체험 및 직업능력개발을 필요한 하는 장애인분들과의 연계활성화를 위해 마련됐다. 이번 협약을 통해 ▲장애인의 취업지원 서비스 연계 ▲직업재활 및 직업능력 향상을 위한 교육 훈려 서비스 연계▲지역사회 장애인 발굴 및 직업훈련 지원 ▲장애인과 지역사회의 인식개선을 위한 교육 홍보 등 상호 협력</content:encoded>
+    </item>
+    <item>
+      <title>한자협 창립 23주년, &quot;장애인자립생활센터 지원 강화 예산으로 약속하라&quot;</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233980</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=233980</guid>
+      <pubDate>2026-10-20T16:45:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인자립생활센터협의회(한자협)가 20일 창립 23주년을 맞아 서울 여의도 이룸센터 앞에서 결의대회를 갖고 &quot;54조 장애인자립생활센터 지원 강화 예산으로 보장하라&quot;고 외쳤다.한자협은 윤석열 정부시절 장애인복지법 제4장 제54조에 근거가 명시됐던 장애인자립생활센터가 어떠한 협의도 없이 제58조 장애인복지시설 속 지역사회재활시설 분류로 신설됐으며, 이후 기존 제54조 장애인자립생활센터는 5인의 인건비를 지원받는 반면 신설된 제58조 장애인자립생활지원시설은 7인의 인건비를 지원받는다. 한자협은 이를 &quot;장애인차</content:encoded>
+    </item>
+    <item>
+      <title>스매시만큼 날카로웠던 눈, 윤지유 탁구 단식 ‘아시안패러게임 2연패’</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234014</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234014</guid>
+      <pubDate>2026-10-20T17:04:02.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 결승을 앞두고 상대의 경기를 직접 지켜봤다. 한 번도 맞붙어본 적 없는 낯선 상대였기에 더욱 철저한 준비가 필요했다. 치밀한 분석은 완벽한 승리로 이어졌다. 한국 장애인탁구의 간판 윤지유(26·성남시청)가 압도적인 경기력으로 아시아 정상의 자리를 지켰다.윤지유는 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 여자 단식(스포츠등급 CLASS 3) 결승전에서 황즈루이(중국)를 게임 스코어 3-0(11-7, 11-3, 11-4)으로 완파하고 우승했다.이로써</content:encoded>
+    </item>
+    <item>
+      <title>스매시만큼 날카로웠던 눈, 윤지유 탁구 단식 ‘아시안패러게임 2연패’</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234014</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234014</guid>
+      <pubDate>2026-10-20T17:04:02.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 결승을 앞두고 상대의 경기를 직접 지켜봤다. 한 번도 맞붙어본 적 없는 낯선 상대였기에 더욱 철저한 준비가 필요했다. 치밀한 분석은 완벽한 승리로 이어졌다. 한국 장애인탁구의 간판 윤지유(26·성남시청)가 압도적인 경기력으로 아시아 정상의 자리를 지켰다.윤지유는 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 여자 단식(스포츠등급 CLASS 3) 결승전에서 황즈루이(중국)를 게임 스코어 3-0(11-7, 11-3, 11-4)으로 완파하고 우승했다.이로써</content:encoded>
+    </item>
+    <item>
+      <title>지방 이양된 ‘장애인주간이용시설’ 중앙환원 요구 국민동의청원</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234015</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234015</guid>
+      <pubDate>2026-10-20T18:17:50.000Z</pubDate>
+      <content:encoded>【에이블뉴스 권중훈 기자】 한국장애인주간이용시설협회(회장 이정식, 이하 협회)가 20일 장애인의 안전과 권리보장을 위해 ‘장애인주간이용시설의 국고보조사업 전환(중앙환원)과 인력배치 기준 및 직무체계 법제화’를 요구하는 국회 국민동의청원에 나섰다.국민동의청원은 법률안 등과 같이 의안에 준해 처리된다. 오는 11월 19일까지 5만 명의 동의를 얻으면 국회 해당 상임위원회에서 관련 내용을 다룰 수 있게 된다.장애인주간이용시설은 성인기 장애인의 일상생활과 사회 참여를 지원하고, 중증·최중증 발달장애인과 중복장애인의 안전과 권리를 지키는 핵</content:encoded>
+    </item>
+    <item>
+      <title>장민호, 아시안게임 이어 아시안패러게임 출전 100m ‘아시아신 금빛 질주’</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234016</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234016</guid>
+      <pubDate>2026-10-20T19:33:12.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] ‘희망의 시각장애 스프린터’ 장민호(29·안양시청)가 한국 스포츠 역사에 새 이정표를 세웠다. 아시안게임에 이어 아시안패러게임에 출전해 최초의 발자국을 찍은 장민호가 찬란한 금빛 질주를 펼쳤다.장민호는 20일 일본 아이치현 나고야 미즈호공원 육상경기장에서 열린 2026 아이치·나고야 아시안패러게임 육상 남자 100m(스포츠등급 T13) 결선에서 10초48의 아시아 신기록으로 가장 먼저 결승선을 통과했다.이로써 한국 스포츠 사상 처음으로 비장애인 아시안게임과 장애인 아시안게임 무대를 동시에 밟은 장민호는 생애 첫</content:encoded>
+    </item>
+    <item>
+      <title>장민호, 아시안게임 이어 아시안패러게임 출전 100m ‘아시아신 금빛 질주’</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234016</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234016</guid>
+      <pubDate>2026-10-20T19:33:12.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] ‘희망의 시각장애 스프린터’ 장민호(29·안양시청)가 한국 스포츠 역사에 새 이정표를 세웠다. 아시안게임에 이어 아시안패러게임에 출전해 최초의 발자국을 찍은 장민호가 찬란한 금빛 질주를 펼쳤다.장민호는 20일 일본 아이치현 나고야 미즈호공원 육상경기장에서 열린 2026 아이치·나고야 아시안패러게임 육상 남자 100m(스포츠등급 T13) 결선에서 10초48의 아시아 신기록으로 가장 먼저 결승선을 통과했다.이로써 한국 스포츠 사상 처음으로 비장애인 아시안게임과 장애인 아시안게임 무대를 동시에 밟은 장민호는 생애 첫</content:encoded>
+    </item>
+    <item>
+      <title>사격 박승우, 이틀 연속 동메달···​​​​​​​혼성 10ｍ 공기소총 복사 3위</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234017</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234017</guid>
+      <pubDate>2026-10-20T19:39:48.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 사격 박승우(광주광역시청)가 이틀 연속 동메달을 거머쥐면서 메달 행진을 이어갔다.박승우는 20일 일본 아이치현 종합사격장에서 열린 2026 아이치·나고야 아시안패러게임(장애인아시아경기대회) 사격 혼성 10ｍ 공기소총 복사(스포츠등급 SH2) 결선에서 22발 합계 233.9점으로 3위에 올랐다.금메달과 은메달은 태국의 아누손 차이참난(255.7점), 웡사톤 꾼통(255.4점)이 각각 차지했다.차이참난은 2023년 항저우 대회에서 이철재가 세운 종전 기록(254.2점)을 1.5점 끌어올린 대회신기록으로 정상에 올랐</content:encoded>
+    </item>
+    <item>
+      <title>사격 박승우, 이틀 연속 동메달···​​​​​​​혼성 10ｍ 공기소총 복사 3위</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234017</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234017</guid>
+      <pubDate>2026-10-20T19:39:48.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 사격 박승우(광주광역시청)가 이틀 연속 동메달을 거머쥐면서 메달 행진을 이어갔다.박승우는 20일 일본 아이치현 종합사격장에서 열린 2026 아이치·나고야 아시안패러게임(장애인아시아경기대회) 사격 혼성 10ｍ 공기소총 복사(스포츠등급 SH2) 결선에서 22발 합계 233.9점으로 3위에 올랐다.금메달과 은메달은 태국의 아누손 차이참난(255.7점), 웡사톤 꾼통(255.4점)이 각각 차지했다.차이참난은 2023년 항저우 대회에서 이철재가 세운 종전 기록(254.2점)을 1.5점 끌어올린 대회신기록으로 정상에 올랐</content:encoded>
+    </item>
+    <item>
+      <title>“복수 꿈꿨는데” 아시안패러게임 유도 김동훈, 다시 한번 아쉬운 은메달</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234018</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234018</guid>
+      <pubDate>2026-10-20T19:44:53.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 김동훈(27·예금보험공사)의 복수혈전이 아쉽게 무산됐다.김동훈은 20일 일본 나고야 아이치현립무도관에서 열린 벡술탄 쿨무르자(카자흐스탄)와의 2026 아이치·나고야 아시안패러게임 유도 남자 81㎏급(스포츠등급 J2) 결승전에서 한판으로 패배하며 은메달에 만족해야 했다.김동훈은 8강과 준결승을 모두 한판승으로 통과했다. 8강에서 몽골의 다바아다그바 엔흐투야를 1분 3초 만에 꺾었고, 준결승에서는 카자흐스탄의 갈름잔 스마굴룰리를 2분 47초 만에 눕혔다.결승 상대는 카자흐스탄의 쿨무르자로 2025 세계선수권 우승자</content:encoded>
+    </item>
+    <item>
+      <title>“복수 꿈꿨는데” 아시안패러게임 유도 김동훈, 다시 한번 아쉬운 은메달</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234018</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234018</guid>
+      <pubDate>2026-10-20T19:44:53.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 김동훈(27·예금보험공사)의 복수혈전이 아쉽게 무산됐다.김동훈은 20일 일본 나고야 아이치현립무도관에서 열린 벡술탄 쿨무르자(카자흐스탄)와의 2026 아이치·나고야 아시안패러게임 유도 남자 81㎏급(스포츠등급 J2) 결승전에서 한판으로 패배하며 은메달에 만족해야 했다.김동훈은 8강과 준결승을 모두 한판승으로 통과했다. 8강에서 몽골의 다바아다그바 엔흐투야를 1분 3초 만에 꺾었고, 준결승에서는 카자흐스탄의 갈름잔 스마굴룰리를 2분 47초 만에 눕혔다.결승 상대는 카자흐스탄의 쿨무르자로 2025 세계선수권 우승자</content:encoded>
+    </item>
+    <item>
+      <title>박현미, 0.095초 차 극적인 역전 우승··생애 첫 아시안패러게임 2관왕</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234026</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234026</guid>
+      <pubDate>2026-10-20T22:00:00.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] &quot;엄마는 강하다!&quot;쌍둥이 아들의 어머니 박현미(41·경기도장애인사이클연맹)가 생애 첫 출전한 아시안패러게임(APG)에서 2관왕에 올랐다. 전날 대회 신기록으로 첫 금메달을 따낸 데 이어, 이번에는 막판 대역전극을 펼치며 두 번째 금메달을 목에 걸었다.박현미와 파일럿 김채연(22·경기도장애인사이클연맹) 조는 20일 일본 시즈오카현 이즈시 이즈 벨로드롬에서 열린 2026 아이치·나고야 APG 사이클 트랙 여자 1000m 독주(스포츠등급 B) 결승에서 1분10초642의 기록으로 정상에 올랐다.극적인 역전 우승이었다.</content:encoded>
+    </item>
+    <item>
+      <title>하루 만에 금메달 6개, 아시안패러게임 한국 장애인탁구 &apos;골든데이&apos;</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234025</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234025</guid>
+      <pubDate>2026-10-20T22:00:00.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 한국 장애인탁구 대표팀이 메달데이 첫날, 하루에만 6개의 금메달을 쓸어 담으며 아시아 무대에서 막강한 경쟁력을 과시했다.한국 장애인탁구 대표팀은 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 단식에서 금메달 6개와 은메달 3개, 동메달 4개 등 총 13개의 메달을 수확했다.탁구 대표팀이 이번 대회를 앞두고 목표로 내세운 금메달은 7개다. 그러나 금메달 결정전이 본격적으로 열린 첫날에만 6개를 수확하며 목표 달성을 눈앞에 뒀다. 또 지난 2022 항저우</content:encoded>
+    </item>
+    <item>
+      <title>박현미, 0.095초 차 극적인 역전 우승··생애 첫 아시안패러게임 2관왕</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234026</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234026</guid>
+      <pubDate>2026-10-20T22:00:00.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] &quot;엄마는 강하다!&quot;쌍둥이 아들의 어머니 박현미(41·경기도장애인사이클연맹)가 생애 첫 출전한 아시안패러게임(APG)에서 2관왕에 올랐다. 전날 대회 신기록으로 첫 금메달을 따낸 데 이어, 이번에는 막판 대역전극을 펼치며 두 번째 금메달을 목에 걸었다.박현미와 파일럿 김채연(22·경기도장애인사이클연맹) 조는 20일 일본 시즈오카현 이즈시 이즈 벨로드롬에서 열린 2026 아이치·나고야 APG 사이클 트랙 여자 1000m 독주(스포츠등급 B) 결승에서 1분10초642의 기록으로 정상에 올랐다.극적인 역전 우승이었다.</content:encoded>
+    </item>
+    <item>
+      <title>하루 만에 금메달 6개, 아시안패러게임 한국 장애인탁구 &apos;골든데이&apos;</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234025</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234025</guid>
+      <pubDate>2026-10-20T22:00:00.000Z</pubDate>
+      <content:encoded>[나고야=공동취재단] 한국 장애인탁구 대표팀이 메달데이 첫날, 하루에만 6개의 금메달을 쓸어 담으며 아시아 무대에서 막강한 경쟁력을 과시했다.한국 장애인탁구 대표팀은 20일 일본 아이치현 도요타시 스카이홀 도요타에서 열린 2026 아이치·나고야 아시안패러게임(APG) 탁구 단식에서 금메달 6개와 은메달 3개, 동메달 4개 등 총 13개의 메달을 수확했다.탁구 대표팀이 이번 대회를 앞두고 목표로 내세운 금메달은 7개다. 그러나 금메달 결정전이 본격적으로 열린 첫날에만 6개를 수확하며 목표 달성을 눈앞에 뒀다. 또 지난 2022 항저우</content:encoded>
+    </item>
+    <item>
+      <title>폐쇄 앞둔 색동원, 거주장애인 자립 ‘깜깜’ 시설뺑뺑이 우려</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234021</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234021</guid>
+      <pubDate>2026-10-21T09:03:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】시설폐쇄 처분을 받은 인천 강화군 장애인거주시설 ‘색동원’ 거주인 13명을 대상으로 자립욕구를 다시 조사한 결과, 이 중 11명이 여전히 자립지원 신청이 어려운 그룹으로 분류된 것으로 나타났다.시설폐쇄 유예기간 종료가 두 달여 앞으로 다가온 상황에서, 의사표현이 어려운 중증장애인일수록 자립지원 절차에 진입하지 못하는 구조를 바로잡아야 한다는 지적이 나온다.색동원에서는 시설장에 의한 성폭력 사건과 관련해 2025년 5월 경찰 내사가 시작됐고, 같은 해 9월 압수수색이 진행됐다. 시설장은 2026년 2월 구속돼</content:encoded>
+    </item>
+    <item>
+      <title>폐쇄 앞둔 색동원, 거주장애인 자립 ‘깜깜’ 시설뺑뺑이 우려</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234021</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234021</guid>
+      <pubDate>2026-10-21T09:03:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】시설폐쇄 처분을 받은 인천 강화군 장애인거주시설 ‘색동원’ 거주인 13명을 대상으로 자립욕구를 다시 조사한 결과, 이 중 11명이 여전히 자립지원 신청이 어려운 그룹으로 분류된 것으로 나타났다.시설폐쇄 유예기간 종료가 두 달여 앞으로 다가온 상황에서, 의사표현이 어려운 중증장애인일수록 자립지원 절차에 진입하지 못하는 구조를 바로잡아야 한다는 지적이 나온다.색동원에서는 시설장에 의한 성폭력 사건과 관련해 2025년 5월 경찰 내사가 시작됐고, 같은 해 9월 압수수색이 진행됐다. 시설장은 2026년 2월 구속돼</content:encoded>
     </item>
   </channel>
 </rss>
