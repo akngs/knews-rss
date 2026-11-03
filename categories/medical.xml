@@ -3,356 +3,356 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-11-02T03:34:21.496Z</lastBuildDate>
+    <lastBuildDate>2026-11-03T04:44:16.178Z</lastBuildDate>
     <item>
-      <title>제품 고장 시 AS 아닌 AI에 질문?··· ‘캐논코리아’ 서비스센터에 물어보니</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134939091/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134939091/1</guid>
-      <pubDate>2026-10-30T14:34:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939070.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI에게 물어보는 것이 만능은 아니지만 예상외로 쓸만한 조언을 해주는 경우가 많다. 특히 내가 모르는 영역이거나 전문 영역에 한해서는 다양하고 복잡한 데이터를 알아서 정리한 뒤 손쉽게 풀어서 제공하기 때문에 사전에 정보를 얻는 용도로 활용하기 좋다. 하지만 AI가 갈무리한 정보는 어디까지나 인터넷에서 구할 수 있는 자료를 바탕으로 하기 때문에 그 이외의 영역을 다룬다면 주의가 필요하다. 대표적으로 애프터서비스, 제품 수리 및 고장 관련 질의응답이 그렇다.일반적으로 AI가 활용할 수 있는 정보는 제조사의 홈페이지에 있는 사양, 사용설명서, 공개된 서비스의 매뉴얼 및 부품, 카탈로그, 수리 안내가 중점적이며, 제한적으로나마 수리업체에서 올린 블로그나 영상, 커뮤니티의 반응, 사용자 경험 등의 정보까지 포함된다. 하지만 제조사의 내부 수리 지침이나 센터별 수리 이력, 엔지니어가 직접 활용하는 수리 및 점검 데이터까지는 포함되지 않으므로 어디까지나 사용자가 설명한 증상을 조합해 가능한 원</content:encoded>
+      <title>LS일렉트릭 회장 “AI 전력난 해법은 직류 기반 지능형 전력망”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134950983/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134950983/1</guid>
+      <pubDate>2026-11-02T15:58:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951248.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구자균 LS일렉트릭 회장이 급증하는 인공지능(AI) 데이터센터의 전력 수요에 대응하기 위한 해법으로 직류(DC) 기반의 지능형 전력망을 제시했다. 구 회장은 2일 서울 JW 메리어트 동대문 스퀘어에서 열린 ‘2026 국제배전협의회(CIRED) 워크숍’ 기조연설에서 “폭발하는 AI 전력 수요를 감당할 확실한 해법은 직류 기반의 지능형 전력망”이라고 강조했다. 1971년 출범한 CIRED의 공식 워크숍이 아시아·태평양 지역에서 열린 것은 이번이 처음이다. 직류는 전기가 한 방향으로 흐르는 방식으로, AI 서버와 반도체 내부에 사용된다. 기존 데이터센터는 외부에서 공급받은 교류(AC) 전기를 직류로 변환해야 하지만, 직류 배전망을 활용하면 변환 과정에서 발생하는 전력 손실을 줄일 수 있다.  구 회장은 “막대한 전력을 소비하는 AI 데이터센터가 안정적으로 가동되려면 신뢰도 높은 전력망이 완벽히 뒷받침돼야 한다”며 “고도화된 AI가 다시 전력망을 효율적으로 예측하고 관리하는 선순환</content:encoded>
     </item>
     <item>
-      <title>사진-문서 네트워크 저장장치도 보안 취약…패치 권고</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261030/134938890/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261030/134938890/1</guid>
-      <pubDate>2026-10-30T15:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939212.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;개인과 기업이 사진과 문서 등 중요 자료를 보관하는 네트워크 저장장치(NAS)에서도 ‘PHP’ 보안 취약점이 발견됐다. 해커가 이를 악용하면 저장된 파일이 유출되거나 랜섬웨어로 암호화될 수 있어 이용자들의 주의가 요구된다.30일 정보기술(IT)업계에 따르면 대만 저장장치 제조사 시놀로지는 최근 PHP 취약점 ‘PHP2Shell’이 자사 제품에서 실행되는 애플리케이션 10종에 영향을 미친다는 사실을 확인하고 보안 업데이트를 발표했다. 워드프레스, 웹스테이션, 메일스테이션 등이 대상으로, 취약한 프로그램을 통해 외부에서 악성 코드를 실행할 수 있는 것으로 나타났다. 시놀로지는 위험도를 최고 단계인 ‘치명적(Critical)’으로 분류하고, 지원이 종료된 구형 운영체제까지 보안 패치 적용을 확대했다. NAS는 네트워크에 연결해 사진과 문서 등을 저장하고 공유하는 장치다. 개인은 스마트폰 사진과 동영상을 보관하거나 클라우드 서비스의 월 구독료를 줄이기 위해 사용하고, 기업은 업무자료 공</content:encoded>
+      <title>AI를 만난 예술가, 새 길을 찾다…퐁피두센터 한화</title>
+      <link>https://www.donga.com/news/Culture/article/all/20261102/134950204/1</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20261102/134950204/1</guid>
+      <pubDate>2026-11-02T15:59:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951171.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;흑백의 도시 위성사진 위로 갖가지 모양의 하얀 도형들이 떠 있다. 잠시 뒤 가지런했던 도형들이 움직이기 시작하더니 가느다란 선들이 꼬리를 물고 늘어난다. 마치 실타래가 풀리듯 수많은 선이 겹치고 뒤엉키면서 화면 곳곳에 기묘한 무늬를 만들어 낸다. 이 무늬는 누가, 어떻게 만드는 것일까.추미림 작가의 ‘새로운 경로를 탐색합니다’는 인공지능(AI)을 통해 확장된 인간 예술가의 창작 과정을 탐구한 작품이다. 지난달 23일 서울 영등포구 퐁피두센터 한화에서 개막한 전시 ‘애즈___애즈 파서블’(AS___AS POSSIBLE)에서 선보였다. 추 작가는 먼저 손수 그린 그림 10점을 컴퓨터 프로그램에 넣고 한 그림이 다른 그림으로 자연스럽게 변하도록 영상을 만들었다. 여기서 멈추지 않고 AI의 도움을 받아 선을 연결하는 순서와 움직이는 시간을 바꿀 수 있는 새 프로그램을 제작해 영상을 수정했다. 컴퓨터가 정해준 길을 그대로 따르지 않고 새로운 길을 찾아 나선 셈이다.작품 제목은 길을 잘못 들었</content:encoded>
     </item>
     <item>
-      <title>병원 밖 ‘턱관절 치료’ 돕는 헬스케어 기업 ‘비욘드메디슨’ [SBA 혁신기업]</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134939247/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134939247/1</guid>
-      <pubDate>2026-10-30T15:04:51.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939227.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[IT동아 X SBA 공동기획] SBA 미래혁신본부는 CES, 비바텍(VivaTech) 등 글로벌 전시 플랫폼과 연계해 서울 유망 스타트업의 우수한 전시성과 창출과 후속 스케일업을 지원하고 있습니다. IT동아는 SBA와 함께 세계 무대에서 혁신성을 인정받은 유망 스타트업들을 소개합니다.턱관절장애는 병원에서 한 번 치료한다고 끝나는 질환이 아니다. 턱을 괴거나 이를 악무는 습관, 스트레스, 수면 부족처럼 일상생활에서 반복되는 행동이 증상에 영향을 미치기 때문이다. 병원에서는 환자에게 턱 운동과 생활습관 교정 등을 안내하지만, 집으로 돌아간 뒤 이를 얼마나 꾸준히 실천하는지 의료진이 계속 확인하기는 어렵다.비욘드메디슨은 이 ‘병원 밖 치료의 공백’을 소프트웨어로 메우는 디지털 헬스케어 기업이다. 턱관절장애 디지털 치료기기 ‘클릭리스(Clickless)’를 개발, 환자가 의료진의 처방을 받은 뒤 6주 동안 턱 운동과 행동 교정, 인지행동치료 기반 중재, 통증·행동 기록 등을 수행하도록</content:encoded>
+      <title>KAIST, AI 전문 지식 학습시간 최대 70% 단축 기술 개발</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134950436/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134950436/1</guid>
+      <pubDate>2026-11-02T16:07:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951370.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)에 의료나 코딩 등 전문 지식을 가르치는 데 걸리는 시간을 최대 70% 줄일 수 있는 기술이 개발됐다. AI가 비슷한 내용을 반복 학습하지 않도록 학습 자료를 골라주는 방식이다.KAIST는 전산학부 이재길 교수 연구팀이 AI의 추가 학습 시간을 단축하는 기술 ‘클러스터(CluSTER)’를 개발했다고 2일 밝혔다. AI를 의료 상담이나 프로그램 개발 등 특정 분야에 활용하려면 해당 분야의 자료를 추가로 학습시켜야 한다. 이때 여러 그래픽처리장치(GPU)가 자료를 나눠 학습하는데, 비슷한 내용을 중복해서 처리하면 시간과 비용이 낭비된다.연구팀은 각 자료가 AI 학습에 미치는 영향을 분석해 비슷한 효과를 내는 자료끼리 묶었다. 이후 중복 학습을 줄이면서도 AI가 여러 종류의 지식을 골고루 익힐 수 있도록 자료를 선별해 학습시켰다. 학생이 시험공부를 할 때 비슷한 문제를 반복해서 풀기보다 여러 유형의 문제를 골고루 풀게 하는 것과 비슷한 이치다.이 기술을 의료·코딩 분야</content:encoded>
     </item>
     <item>
-      <title>역대 최대 8.4조원 털린 바이낸스…北 해킹 조직 배후설</title>
-      <link>https://www.donga.com/news/Inter/article/all/20261030/134939249/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20261030/134939249/1</guid>
-      <pubDate>2026-10-30T15:04:53.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939250.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 최대 가상자산 거래소 바이낸스가 약 63억 달러(약 8조4000억원) 규모의 해킹 공격을 당했다. 역대 최대 규모의 가상자산 탈취 사건으로, 북한 해킹 조직이 배후에 있다는 분석이 제기됐다.30일(현지 시간) 가상자산 전문매체 코인데스크에 따르면 바이낸스는 전날 발생한 해킹으로 약 63억 달러 상당의 자산이 탈취됐다고 밝혔다. 이 가운데 약 30억 달러는 동결됐으며, 테더(USDT)와 USD코인(USDC) 등 스테이블코인 약 23억 달러가 포함됐다.스테이블코인 발행사 테더는 약 15억 달러, 서클은 약 8억 달러 상당의 자산을 각각 동결했다. 해커는 탈취한 비트코인 1만8270개를 수십 분 만에 19개 지갑으로 분산한 것으로 확인됐다. 비트코인은 스테이블코인과 달리 발행 주체가 없어 자산을 직접 동결하기 어려운 만큼 피해액 회수에도 난항이 예상된다.바이낸스는 초기 조사 결과 개발·운영(데브옵스) 담당 엔지니어의 노트북이 해킹되면서 공격자가 내부 시스템에 접근해 무단 출금</content:encoded>
+      <title>[강원창업주간] 하몽하몽 “억대 연수익 내려놓고 택한 키즈풀빌라 경영, AI로 고도화중”</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134951727/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134951727/1</guid>
+      <pubDate>2026-11-02T16:30:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951671.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[강원혁신센터 x IT동아] 강원창조경제혁신센터는 소상공인들의 인공지능 전환과 역량 향상을 위한 상생협업교육 ‘장사의 신기술 with NC AI’를 운영합니다. 실습 중심 교육과 다방면의 지원을 토대로, 인공지능 전환을 시도하며 성과를 낸 강원도 소상공인들을 만나봅니다.아이와 함께 떠나는 가족 여행은 설레지만, 부모에게는 또 하나의 ‘육아 출장’이 되기 일쑤다. 유아용품을 한가득 챙겨 떠나고, 낯선 숙소에서 다칠세라 아이를 쫓아다니다 보면 집에 돌아왔을 때 오히려 더 지쳐버리기 때문이다.강원특별자치도 홍천군 서면 팔봉리에 자리 잡은 ‘하몽하몽 키즈풀빌라(대표 고선여, 이하 하몽하몽)’는 바로 이러한 부모들의 현실적인 고충에서 출발한 공간이다. 2025년 3월 문을 연 이곳은 거실 어디서든 아이가 노는 모습이 한눈에 들어오는 단층 오픈형 독채 구조와 사계절 실내 온수풀을 갖춰 ‘아이의 놀이와 부모의 쉼(일명 육퇴)’이 공존하는 숙소를 지향하고 있다.특히 고선여 대표는 부부가 직접</content:encoded>
     </item>
     <item>
-      <title>“드론 공격에 통신망 마비된다면”…정부·통신 4사, 재난 대응훈련</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134939327/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134939327/1</guid>
-      <pubDate>2026-10-30T15:08:57.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939328.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;드론 공격으로 통신시설이 마비되고 여러 통신사의 서비스에 장애가 확산되는 상황을 가정해 정부와 통신 4사가 재난 대응훈련을 실시했다. 이동기지국을 통한 통신망 복구부터 재난로밍, 재난와이파이 개방, 소상공인 카드결제 복구까지 통신장애에 따른 피해를 줄이기 위한 대응 절차를 점검했다.과학기술정보통신부는 30일 KT 구로국사와 서울·세종청사 등에서 KT, LG유플러스, SK텔레콤, SK브로드밴드 등 통신 4사 및 관계기관과 합동으로 ‘2026년 방송통신 복합재난 안전한국훈련’을 실시했다고 밝혔다.이번 훈련은 드론 공격으로 통신시설에 화재와 정전이 발생하고, 추가 공격으로 여러 통신사의 서비스까지 장애가 확산되는 복합재난 상황을 가정했다.현장에서는 경찰·소방·군·지자체가 협력해 인명구조와 화재진압, 통신시설 방호 등 초기 대응 절차를 점검했다. 이후 통신사업자들이 협력해 피해 확산을 막고 통신서비스를 복구하는 훈련을 진행했다.특히 기존 통신망이 손상된 상황에서 이동기지국을 설치하고</content:encoded>
+      <title>G마켓, 개인정보 유출 고객 전원에 1만 원 보상</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134951092/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134951092/1</guid>
+      <pubDate>2026-11-02T16:35:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951752.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;G마켓이 최근 발생한 개인정보 유출 사고와 관련해 피해 고객들에게 스마일 캐시 1만 원을 지급했다고 2일 밝혔다.G마켓은 e쿠폰 무단 사용으로 금전적 피해를 입은 고객에게 액면가 기준 피해 금액 전액을 스마일머니로 지급했다. 직접적인 e쿠폰 피해가 없는 개인정보 유출 고객에게도 스마일캐시 1만 원을 일괄 지급했다.이번 사고는 지난달 외부의 비인가 접근으로 발생했고, 고객 이름과 아이디, e쿠폰 핀번호, 연락처, 주소 등이 유출됐다. 전체 유출 인원과 금전적 피해 규모는 알려지지 않았다.</content:encoded>
     </item>
     <item>
-      <title>“신약 검체분석부터 냉장 운송까지”…SCL헬스케어 통합 솔루션 공개</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134939503/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134939503/2</guid>
-      <pubDate>2026-10-30T15:46:27.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939499.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;SCL헬스케어가 SCL사이언스와 BIX 2026에 공동 참가해 ADC·펩타이드 의약품 검체분석 기술과 콜드체인 솔루션을 소개했다. LC-MS/MS 기반 분석 역량과 실시간 온도·위치 모니터링 운송 서비스를 선보였다.</content:encoded>
+      <title>허각 “갑상샘암 수술 후 음이탈, 인생 끝난 줄”…고음 안 나온 이유는 [건강팩트체크]</title>
+      <link>https://www.donga.com/news/Culture/article/all/20261102/134951546/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20261102/134951546/2</guid>
+      <pubDate>2026-11-02T16:53:07.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951469.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;허각이 갑상샘암 수술 후 고음과 대화에 어려움을 겪고 무대에서 반복적으로 음이탈이 났다고 밝혔다. 갑상샘 주변의 되돌이후두신경과 상후두신경은 성대 움직임과 고음 조절에 관여해 수술 후 일시적인 목소리 변화가 나타날 수 있다.</content:encoded>
     </item>
     <item>
-      <title>이은화 스카이레브 대표 “HP 개러지 2.0 바탕으로 AI 관리 체계 ‘나루가드’ 전세계 선뵐 것”</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134939942/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134939942/1</guid>
-      <pubDate>2026-10-30T16:26:28.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939930.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“최근 업무용 AI 활용의 중심이 직원 개개인의 PC로 이동하면서 기업이 인지하지 못하는 사이 발생하는 생성형 AI 보안 및 개인정보 유출 문제가 가장 큰 위협으로 떠오르고 있다. 직원들의 사용량은 늘어나는데 회사가 모든 AI 이용을 파악하기 어렵다. 스카이레브는 이 사각지대를 해결하기 위한 솔루션을 개발 중이며 글로벌 시장에서 AI PC 및 워크스테이션 공급망을 갖춘 HP와 협력함으로써 엔터프라이즈 시장에서 사업성을 빠르게 검증하고 글로벌 시장 진출도 동반할 수 있으리라 본다”스카이레브(SkyReve)는 로코드·노코드 기반 자동화 BaaS(백엔드형 서비스) 플랫폼과 사내에서 운영하는 AI 업무 공간 ‘나루가드(Naru Guard)’를 개발 중인 기술 기업이다.스카이레브는 티맥스소프트, 티맥스데이터, SAP 등에서 엔터프라이즈 소프트웨어 및 시스템을 개발해온 전문가들이 2024년 6월 공동 설립했으며, 당시 설립 4개월 만에 중소벤처기업부 팁스(TIPS)에 선정되며 대내외적으로 기</content:encoded>
+      <title>사람처럼 판단하고 일하는 로봇 한자리에…‘2026 로보월드’ 4일 개막</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134951639/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134951639/2</guid>
+      <pubDate>2026-11-02T16:57:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951923.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2026 로보월드가 11월 4일부터 7일까지 킨텍스에서 열린다. 국내외 400여 개 기업이 휴머노이드, 피지컬 AI, 제조 AX 기술을 선보이며 엔비디아·퀄컴·현대차 등이 참여하는 국제로봇비즈니스컨퍼런스도 개최된다.</content:encoded>
     </item>
     <item>
-      <title>[위클리크립토] 빗썸 사내 그룹웨어 해킹, 고객 개인정보 유출 外</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134940045/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134940045/1</guid>
-      <pubDate>2026-10-30T16:37:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134940011.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;디지털자산(가상자산)과 블록체인은 금융, 경제를 넘어 산업 전반에 많은 영향을 끼치고 있습니다. 스테이블코인은 국경을 넘는 결제 수단으로 자리 잡고 있으며, 블록체인 기술은 산업 전반의 인프라로 확장되고 있습니다. [위클리크립토]는 빠르게 변하고 있는 디지털자산·블록체인 업계의 주요 소식을 전합니다.빗썸 사내 그룹웨어 해킹, 고객 개인정보 유출디지털자산 거래소 빗썸의 사내 모바일 그룹웨어 ‘다우오피스’에 외부 비인가자가 침입해 고객과 임직원의 개인정보가 외부로 유출됐다. 그룹웨어는 직원들이 메시지, 결재, 파일 공유 등 일상 업무에 쓰는 협업 시스템이다.빗썸에 따르면 외부 비인가자의 침입은 10월 27일 오전 11시 28분부터 낮 12시 27분까지 약 1시간 동안 이어졌다. 빗썸은 낮 12시 14분 비정상 접근을 처음 인지한 뒤 공격자의 접근 경로를 차단하고 모바일 그룹웨어 사용을 전면 중단했다. 이어 같은 날 오후 11시 39분 한국인터넷진흥원에, 다음 날 오전 0시 48분</content:encoded>
+      <title>팔레트, “프롬프트 대신 문장 한 줄로”… 한국어 맥락 이해하는 ‘팔레트 AI’ 출시</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134952007/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134952007/1</guid>
+      <pubDate>2026-11-02T17:02:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951931.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 플랫폼 기업 팔레트는 한국어 특화 AI 서비스 ‘팔레트 AI’를 출시하고 ‘Don’t Prompt, Start Palette’ 캠페인을 시작한다고 2일 밝혔다. 복잡한 명령어 작성법을 익히지 않아도 일상적인 문장 한 줄로 AI를 쓸 수 있게 하겠다는 취지다. 팔레트 AI는 ‘의도(Intent) 기반’ 방식을 내세웠다. 사용자가 명령어를 정교하게 짜야 하는 기존 방식과 달리, 입력한 문장의 의도와 맥락을 파악해 답을 찾는다. 회사 측은 국내 사용자 상당수가 해외 AI 서비스를 쓰면서 명령어를 여러 번 고치거나, 번역투 표현과 어긋난 결과를 다시 손봐야 했다고 설명했다. 회사에 따르면 자연어처리 기업 시스트란(SYSTRAN)이 지난달 실시한 멀티모달 AI 한국어 이해도 평가에서, 팔레트 AI는 비교 대상인 해외 모델보다 높은 점수를 받았다. 팔레트는 문화체육관광부 산하 한국콘텐츠진흥원의 ‘글로벌 K콘텐츠 향유를 위한 AI 에이전트 기반 한국적 문화해설 및 다국어 자</content:encoded>
     </item>
     <item>
-      <title>서울과기대 “모두의 창업 1차 성과 탁월…2차에서 기세 잇는다”</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134940165/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134940165/1</guid>
-      <pubDate>2026-10-30T16:50:19.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134940142.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울과학기술대학교(총장 김동환, 이하 서울과기대) 창업지원단이 중소벤처기업부의 ‘모두의 창업 1차’의 3라운드 진출자를 3명 배출하는 성과를 냈다. 모두의 창업 1차 멘토 기관이기도 한 서울과기대 창업지원단은 이번 성과로 쌓은 경험을 모두의 창업 2차에서도 발휘해 창업자들의 시장 안착과 성장을 도울 각오를 밝혔다.서울과기대는 ▲예비 창업자들이 구상을 실제화하고 시제품까지 만들도록 이끄는 ‘메이커스페이스’ ▲예비 창업자들의 법인 설립과 기반 다지기를 돕는 ‘예비창업패키지’ ▲초기 창업 기업의 성장을 함께 하는 ‘초기창업패키지’ ▲풍부한 사업 기반과 지원으로 창업 기업을 이끄는 BI(Business Incubator) 센터 등 다양한 창업 지원 사업을 운영한다. 이들 창업 지원 사업의 범위를 인공지능과 소프트웨어를 포함한 딥테크 부문은 물론 식품과 생활 등 라이프스타일, 서비스와 콘텐츠 등 신산업에 이르기까지 다양한 부문으로 넓혔다. 서울과기대는 창업 기업의 사업 모델 구체화와 시제품</content:encoded>
+      <title>66세 이미숙 “잘 때 입술에 테이프 붙인다”…숙면에 정말 도움 될까? [건강팩트체크]</title>
+      <link>https://www.donga.com/news/Culture/article/all/20261102/134952012/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20261102/134952012/2</guid>
+      <pubDate>2026-11-02T17:22:32.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951949.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;이미숙이 숙면을 위해 안대와 입 테이프를 사용한다고 밝혔다. 입 테이핑은 일부 연구에서 수면 중 호흡 지표를 개선했지만 효과가 일관되지 않고, 코막힘이나 특정 수면무호흡 환자에서는 오히려 공기 흐름을 방해할 가능성이 있어 주의가 필요하다.</content:encoded>
     </item>
     <item>
-      <title>구글, 2026 MAMA 유튜브 글로벌 생중계 나서…‘제미나이로 무대 꾸민다’</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134940687/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134940687/1</guid>
-      <pubDate>2026-10-30T17:28:01.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134940683.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구글이 K팝 시상식 ‘2026 MAMA AWARDS(마마 어워즈)’와 손잡고 유튜브 글로벌 생중계와 구글의 AI 제미나이(Gemini)를 활용한 협업에 나선다고 30일 밝혔다. 올해 시상식은 11월 20~21일 이틀간 일본 오사카 교세라 돔에서 열린다.MAMA AWARDS는 CJ ENM의 음악 채널 Mnet이 개최하는 K팝 시상식으로, 최근 한국을 넘어 싱가포르, 홍콩, 일본, 미국 등 해외로 무대를 넓혀 왔다. 구글과 파트너십의 일환으로 올해 MAMA AWARDS는 한국을 비롯한 글로벌 주요 지역에서 유튜브로 생중계될 예정이다. 기존 방송·OTT 채널에 유튜브 라이브가 더해지면서 세계 팬들이 하나의 플랫폼에서 함께 즐기고 소통할 수 있게 됐다. 다만, 생중계 지원 국가 및 플랫폼은 현지 중계권 및 송출 여건에 따라 일부 지역의 시청이 제한될 수 있다.K팝의 해외 확산에는 유튜브가 줄곧 큰 몫을 해 왔다. 2012년 싸이의 ‘강남스타일’이 유튜브 최초로 조회수 10억 회를 넘긴</content:encoded>
+      <title>SKT·F&amp;F 과제를 AI로 풀어라…해시드 해커톤 열린다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134952544/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134952544/2</guid>
+      <pubDate>2026-11-02T17:34:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134952540.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;해시드가 OpenAI·SKT와 기업·개발자 협업 해커톤 ‘OBA.RUN 2nd’를 연다. 신한카드·F&amp;F가 금융·패션 과제를 제시하고 최대 50명의 개발자가 AI로 제품을 만든다.</content:encoded>
     </item>
     <item>
-      <title>쎄피엘 “물리 법칙과 AI 결합해 공장이 최적 조건 찾도록 돕는다…제조 현장 디지털 트윈 혁신” [Start-up NEST 19기]</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134940705/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134940705/1</guid>
-      <pubDate>2026-10-30T17:30:40.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134940694.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;[신용보증기금×더인벤션랩×IT동아] 신용보증기금이 주관하고 더인벤션랩이 액셀러레이터로 참여하는 ‘Start-up NEST 19기’는 유망 스타트업의 스케일업을 돕는 대표 창업 육성 플랫폼입니다. 기업성장·투자연계·글로벌진출 등 맞춤형 트랙과 투자사·대중견기업 1:1 매칭을 통해 실질적인 성장을 지원합니다. IT동아는 Start-up NEST 19기를 통해 한 단계 도약하고 있는 혁신 스타트업을 소개합니다.제조업 현장의 디지털 전환(DX)은 이제 익숙한 개념이다. 하지만 공장에 수백, 수천 개의 센서를 붙여 데이터를 수집하더라도 이를 실제 공정 운전에 반영하기까지는 여전히 장벽이 높다. 수집된 데이터를 바탕으로 실시간 운전 조건을 변경해 효율을 높이는 작업은 제조 업계의 오래된 숙제다. 특히 최근 에너지 비용 부담이 가중되는 상황에서 공정 최적화를 통한 효율 향상은 선택이 아닌 생존 과제로 떠올랐다. 그러나 고가의 외산 장비와 소프트웨어는 도입 비용이 부담스러운 데다 시스템 간 연</content:encoded>
+      <title>HK이노엔, 의료기기 시장 진출…한국로슈진단과 진단검사 플랫폼 국내 판매 계약</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134952954/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134952954/1</guid>
+      <pubDate>2026-11-02T18:07:06.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134952945.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;HK이노엔은 한국로슈진단과 차세대 현장진단검사(POCT, Point of Care Testing) 플랫폼 ‘코바스클릭(cobas click)’의 판매 계약을 체결했다고 2일 밝혔다. 이를 통해 의료기기 시장에 본격적으로 진출하게 됐다.계약에 따라 HK이노엔은 코바스클릭에 대한 국내 영업과 유통을 담당한다. 기존 전문의약품 사업을 통해 구축한 영업 역량을 활용해 의료기기 분야로 사업 영역을 확대한다는 방침이다. HK이노엔은 이달부터 본격적으로 코바스클릭 판매에 돌입한다. 현재 성장세를 보이고 있는 만성질환 관리 시장에서 영향력을 확대한다는 계획이다.코바스클릭은 당뇨 및 심혈관 질환 관리에 필수적인 당화혈색소(HbA1c), 지질(Lipid), C반응성단백질(CRP) 검사 등을 외부 수탁검사 없이 진료 현장에서 신속하게 수행할 수 있는 통합 진단 플랫폼이다. 손끝 채혈만으로 환자의 혈당 조절 상태와 심혈관 위험도를 한 번에 확인할 수 있는 것이 특징이다. 관련 진료 편의를 높일 것으로</content:encoded>
     </item>
     <item>
-      <title>[한국 청년세대의 발견] 2. 문제는 청년이 아니다</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134941072/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134941072/1</guid>
-      <pubDate>2026-10-30T18:25:45.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134941066.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;※ 서울시 미래청년기획관을 역임한 김철희 연세대 행정대학원 객원교수의 연재(5회)를 통해, AI 시대 우리 청년들의 현 상황을 면밀히 들여다봅니다. 청년이 처한 환경과 그들의 선택을 살피고, 예산의 쓰임과 문제를 알고도 정책을 바꾸기 어려운 구조도 짚으며, 현장 경험과 자료를 바탕으로 정부·지역·대학·기업의 책임과 실행 가능한 해법을 찾아봅니다. 본문 의견과 방향 등은 IT동아의 편집 기조와 다를 수 있습니다.1부 - 대학 졸업은 사회 출발이 아니다2부 - 문제는 청년이 아니다 - 그들의 과거·현재·미래에서 다시 보다3부 - 청년예산 30조, 돈은 청년의 ‘언제’에 들어가는가4부 - 문제를 알아도 왜 바꾸기 어려운가 —청년정책의 ‘외통수’5부 - 청년의 사회 첫출발, 누가 언제 무엇을 책임해야 하나대한상공회의소가 2025년 한 민간 채용 플랫폼의 공고를 분석했더니, 경력자만 찾는 공고가 82%였다. 별도로 조사한 대졸 구직자의 53.2%는 대학에 다니는 동안 직무경험을 하</content:encoded>
+      <title>[헬스케어픽] 인수부터 협력까지···오픈AI·오라클·삼성, 서로 다른 전략</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134953110/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134953110/1</guid>
+      <pubDate>2026-11-02T18:29:45.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134953102.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;헬스케어 산업의 지형이 빠르게 바뀌고 있습니다. 이 변화의 흐름 속에서 두각을 나타내는 국내외 기업과 서비스를 엄선해 소개합니다. 헬스케어픽은 신기술을 앞세운 스타트업부터 사업 확장에 나선 대기업, 그리고 주목할 만한 서비스까지 국경을 가리지 않고 헬스케어 업계의 소식을 전합니다.오픈AI, 오케스트라 바이오 인수···신약개발까지 확장글로벌 AI 기업 오픈AI(OpenAI)가 바이오제약 팀의 신약개발 프로그램 조율을 돕는 AI 플랫폼 오케스트라 바이오(Orchestra Bio)를 인수했습니다. 다만 양사 발표에는 인수 금액 등 구체적인 조건이 담기지 않았습니다.오픈AI는 10월 20일(이하 현지 시간) 이같은 내용을 발표하면서 오케스트라 바이오의 팀과 기술을 자사 생명과학 연구용 AI 모델·도구 모음인 ‘로잘린드(Rosalind)’에 결합한다고 밝혔습니다. 이번 발표문에 따르면 오픈AI는 신약개발의 복잡성을 짚었습니다. 미국 기준으로 표적 발굴부터 규제 당국 승인까지 평균 10</content:encoded>
     </item>
     <item>
-      <title>“안경만 쓴다고 안드로이드 XR 되는 거 아니다” 엑스리얼 아우라</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134941130/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134941130/1</guid>
-      <pubDate>2026-10-30T18:54:45.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134941112.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;안경 쓴 사용자(저시력자)에 대한 배려는 여전히 부족한데, 가격만 인상된 건 아닐까? 2026년 10월 30일 공개된 공간 컴퓨팅 장비 엑스리얼(XREAL) 아우라(AURA) 이야기다. 이 제품은 안경 형태의 본체에 공간 컴퓨팅 기능을 이식했다. 말이 공간 컴퓨팅이지 증강현실(AR)처럼 눈앞에 화면을 출력하는 구조다. 다른 점이라면 안경 자체가 앱 실행 능력을 갖춘 것이다. 엑스리얼 아우라는 2026년 5월, 구글 I/O 2026에서 ‘프로젝트 아우라’라는 이름으로 시연됐다. 이제 상용 제품으로 출시되어 시장의 평가를 받는다.확장현실(XR) 기기는 무게와 싸워왔다. 선명한 화질과 공간 연산 능력을 확보하려 하면 기기 부피가 비대해졌고, 반대로 일상에서 부담 없이 쓸 만큼 무게를 덜어내면 기능이 축소됐기 때문이다. 애플 비전 프로나 메타 퀘스트 등 헤드 마운트 디스플레이(HMD)가 높은 몰입감을 앞세웠음에도 거실 밖으로 쉽게 나오지 못한 건 수백 그램에 달하는 하중과 답답한 착용감</content:encoded>
+      <title>“세종에서 꿈꾸는 아이디어가 창업으로” 세종창경 2차 모두의 창업 출범식 개최</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134954259/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134954259/1</guid>
+      <pubDate>2026-11-02T23:13:42.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134954253.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세종창조경제혁신센터가 2026년 10월 20일, 홍익대학교 세종캠퍼스 아트홀에서 ‘2026년 모두의 창업 프로젝트’ 2차 출범식과 오리엔테이션을 열었다. 현장에는 세종권역 선정자와 책임멘토, 창업지원기관 관계자 170여 명이 모였다. 2026년 모두의 창업 프로젝트 2차 출범식은 전국 17개 시·도에서 동시에 진행되며 전국 단위의 창업 열기를 증명했다.중소벤처기업부가 추진하는 모두의 창업 프로젝트는 아이디어만 있으면 누구나 창업에 도전하도록 지원하는 오디션형 인재 발굴 프로그램이다. 대부분 정부 창업 지원사업은 사업계획서와 복잡한 서류를 요구해 예비 창업자는 제품의 시장성을 확인하기도 전에 서류 작성에 에너지를 쏟아야 했다. 하지만, 모두의 창업 프로젝트는 창업 경험이나 구체적인 사업화 역량이 부족해도 지원 가능해 주목받았다.모두의 창업 프로젝트는 1차에서 신청자 6만 2944명이 몰리며 흥행을 입증했다. 이어 2026년 8월 20일부터 9월 17일까지 진행한 2차 모집에는 이</content:encoded>
     </item>
     <item>
-      <title>“살빠지고 눈이 노랗게 변했어요”…혹시 췌장암?</title>
-      <link>https://www.donga.com/news/Society/article/all/20261031/134942165/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261031/134942165/1</guid>
-      <pubDate>2026-10-31T01:12:09.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134942166.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;원인 모를 체중 감소·황달·복통 등이 있다면 췌장암을 의심해 볼 수 있다. 하지만 췌장에 발생하는 악성 종양인 췌장암은 초기 증상이 뚜렷하지 않아 조기 발견이 어렵고, 진단 당시 진행 정도에 따라 치료 선택지가 제한될 수 있어 각별한 주의가 필요하다.31일 보건복지부와 중앙암등록본부의 국가암등록통계에 따르면 2023년 국내 췌장암 신규 발생자는 9748명으로 전체 암 발생의 3.4%를 차지했다. 2019~2023년 진단자의 5년 상대생존율은 17.0%로, 전체 암의 73.7%에 비해 현저히 낮았다. 특히 같은 기간 병기정보가 확인된 췌장암 환자의 48.5%는 진단 당시 이미 다른 장기로 암이 전이된 상태였던 것으로 나타났다. 이는 췌장암이 조기에 발견되기 어려운 질환임을 보여준다.  췌장암의 대부분은 췌관을 이루는 세포에서 발생하는 췌관선암으로, 초기에는 특별한 증상이 없는 경우가 많다. 췌장이 위장과 십이지장 등 다른 장기에 둘러싸여 있어 일반적인 복부 초음파검사로 전체를</content:encoded>
+      <title>삼성, 阿 진출 31년만에 스마트폰 첫 1위</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134953320/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134953320/2</guid>
+      <pubDate>2026-11-03T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951076.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;삼성전자가 아프리카 시장에 진출한 1995년 이후 31년 만에 처음으로 현지 스마트폰 시장 1위에 올랐다. 기기값을 하루나 일주일 단위로 나눠 내는 맞춤형 할부가 주효했다는 분석이 나온다. 2일 삼성전자와 시장조사기관 테크인사이츠에 따르면 삼성전자는 올해 1분기(1∼3월) 아프리카 스마트폰 시장 매출 1위에 오른 데 이어 2분기(4∼6월)엔 매출과 판매량 모두 1위를 차지했다. 인공지능(AI)발 ‘칩플레이션’(반도체 인플레이션)의 영향으로 스마트폰 가격이 오르면서 2분기 시장 전체 판매량이 1년 전보다 16.6% 줄었지만, 삼성전자 판매량은 34.8% 늘었다. 판매량 점유율도 2024년 22.4%에서 올해 38.7%로 오를 것으로 전망된다. 가격 경쟁 대신 ‘오래 믿고 쓸 수 있는 폰’을 앞세워 차별화에 나선 것이 긍정적으로 작용했다는 평가가 나온다. 월급보다 일당이나 주급 소득이 많은 현지 사정에 맞춰 통신사 및 핀테크 업체와 손잡고 하루 또는 일주일 단위 할부 프로그램을 확대</content:encoded>
     </item>
     <item>
-      <title>“모델 다리가 왜 3개야?”…中 쇼핑몰 AI 모델 사진에 기겁</title>
-      <link>https://www.donga.com/news/Inter/article/all/20261031/134942185/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20261031/134942185/1</guid>
-      <pubDate>2026-10-31T01:13:46.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134942186.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국 온라인 의류 쇼핑몰들이 인공지능(AI)으로 생성한 모델 사진을 광고에 적극 활용하면서 소비자들의 불만이 커지고 있다. 29일(현지 시간) 베트남 매체 VN익스프레스에 따르면 중국에서는 오는 11월11일 대규모 쇼핑 행사를 앞두고 AI 모델을 활용한 의류 광고가 논란이 되고 있다.소비자들이 가장 크게 문제 삼는 것은 상품을 정확히 확인하기 어렵다는 점이다. AI가 생성한 이미지에서는 원단의 질감과 디자인, 세부적인 특징을 파악하기 어렵다는 것이다.일부 광고에서는 다리가 세 개인 모델이나 부자연스러운 포즈 등 AI 이미지의 오류도 발견됐다. 상당수의 쇼핑몰은 이러한 사진을 게시할 때 AI로 제작했다는 표시조차 하지 않은 것으로 전해졌다.쇼핑몰들이 AI 모델을 선호하는 가장 큰 이유는 비용이다. 업계 관계자는 생성형 AI를 이용한 이미지 제작 비용이 실제 모델을 섭외해 촬영하는 비용의 4분의1에도 미치지 않는다고 밝혔다.반면 일부 업체는 AI 사용을 거부하고 있다. 한 사진</content:encoded>
+      <title>구자균 “직류 지능형 전력망, AI 전력 수요 해법”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134953322/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134953322/2</guid>
+      <pubDate>2026-11-03T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134952646.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;구자균 LS일렉트릭 회장이 급증하는 인공지능(AI) 데이터센터의 전력 수요에 대응하기 위한 해법으로 직류(DC) 기반의 지능형 전력망을 제시했다. 구 회장은 2일 서울 JW 메리어트 동대문 스퀘어에서 열린 ‘2026 국제배전협의회(CIRED) 워크숍’ 기조연설에서 “폭발하는 AI 전력 수요를 감당할 확실한 해법은 직류 기반의 지능형 전력망”이라고 강조했다. 1971년 출범한 CIRED의 공식 워크숍이 아시아태평양 지역에서 열린 것은 이번이 처음이다. 직류는 전기가 한 방향으로 흐르는 방식으로, AI 서버와 반도체 내부에 사용된다. 기존 데이터센터는 외부에서 공급받은 교류(AC) 전기를 직류로 변환해야 하지만, 직류 배전망을 활용하면 변환 과정에서 발생하는 전력 손실을 줄일 수 있다.  구 회장은 “막대한 전력을 소비하는 AI 데이터센터가 안정적으로 가동되려면 신뢰도 높은 전력망이 완벽히 뒷받침돼야 한다”며 “고도화된 AI가 다시 전력망을 효율적으로 예측하고 관리하는 선순환 구조</content:encoded>
     </item>
     <item>
-      <title>비만약 투약 후 담석증-급성췌장염 늘어… 시력 손상도 잇달아</title>
-      <link>https://www.donga.com/news/Society/article/all/20261031/134940953/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261031/134940953/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/06/134790765.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“비만약을 맞은 뒤 속이 울렁거리고 어지러워서 넘어질 뻔한 적이 있어요.” 직장인 김모 씨(31)는 넉 달째 비만치료제 마운자로를 투약 중이다. 석 달간 체중이 5kg가량 줄었는데도 살을 더 빼고 싶어 한 달 전부터 용량을 2.5mg에서 5mg으로 늘렸다. 그때부터 메스꺼움이 심해져 끼니를 거르기 일쑤였고, 증상이 심할 때면 기운이 없어 외출도 꺼리게 됐다. 김 씨는 “살 빼는 효과는 분명한데 부작용이 심해 계속 맞아도 될지 걱정”이라고 했다. 위고비와 마운자로 등 글루카곤 유사 펩타이드-1(GLP-1) 계열 비만치료제 이용자가 급증하면서 오남용과 부작용 우려도 커지고 있다. 당뇨와 비만 환자를 위해 개발된 약을 정상 체중인 사람이 미용 목적으로 남용하면서 부작용이 늘고 있다는 분석이 나온다.  29일 남인순 더불어민주당 의원이 식품의약품안전처에서 받은 자료에 따르면 비만치료제 출시 이후 올해 6월까지 보고된 이상 사례는 위고비 1444건, 마운자로 1261건 등 총 2705건</content:encoded>
+      <title>AI 데이터센터로 무대 넓히는 SI… ‘두뇌’ 빌려주고 전기-냉각 제공</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134953141/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134953141/2</guid>
+      <pubDate>2026-11-03T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134954114.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기업 전산실을 짓고 관리하던 시스템통합(SI) 업체들이 ‘인공지능(AI) 시대의 발전소’로 불리는 AI 데이터센터(AIDC)로 사업 무대를 넓히고 있다. 삼성SDS는 2일 경북 구미에 60MW(메가와트)급 AI 전용 센터 건립을 본격화한다고 밝혔다. LG CNS 역시 같은 날 인도네시아 자카르타에 30MW급 AIDC를 완공했다. 제조·로봇 현장의 AI 학습을 뒷받침하고 국내서 쌓은 설계·운영 기술을 수출하는 쪽으로 보폭을 키운 것이다. 삼성SDS 구미 센터는 삼성이 7월 영남권을 ‘글로벌 피지컬 AI 혁신 클러스터’로 키우겠다며 밝힌 60조 원 투자 계획의 첫 실행 사례다. 센터가 들어서는 삼성전자의 옛 구미1사업장 터는 첨단 AI 기지로 탈바꿈한다. 4273억 원을 들여 2028년 말까지 60MW로 짓고 이후 급증하는 AI 수요에 맞춰 최대 120MW까지 늘릴 계획이다. 60MW면 서울 15만 가구가 1년 내내 쓰는 전력 규모다. 이곳은 삼성 관계사의 제조 로봇 전환(RX)과</content:encoded>
     </item>
     <item>
-      <title>“AI 의료 성큼… 암-심혈관 질환도 컨트롤한다”</title>
-      <link>https://www.donga.com/news/It/article/all/20261031/134941344/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261031/134941344/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134939999.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《‘미래의 병원’은 어떤 모습일까. 로봇이 직접 수술하거나 병원이 아닌 집에서 치료를 끝낼 수도 있겠다. 그때가 되면 암이나 희귀질환은 모두 정복할까. ‘미래병원’이 성큼 다가왔다. 동아일보는 고려대 의료원과 함께 미래병원을 전망하는 시리즈를 5회에 걸쳐 싣는다.》의료 전문가들은 수십 년 이내에 의료의 판이 크게 바뀔 것으로 전망한다. 의료 선진국 첨단 병원들은 인공지능(AI)을 기반으로 한 신기술 개발에 뛰어들었다. 이미 AI 첨단 기술을 도입한 병원들도 있다. ‘미래병원’으로의 변신을 꾀하고 있는 미국의 시더스-시나이 메디컬센터와 메이요 클리닉 플랫폼 2곳을 접촉했다. 시더스-시나이 메디컬센터는 미국 로스앤젤레스에 있는 대형 의료기관이다. 메이요 클리닉 플랫폼은 메이요 클리닉의 의료 AI와 디지털 헬스 기술을 개발하는 플랫폼이다.● AI, 의료 현장을 바꾼다메이요 클리닉은 AI ‘연합 학습(Federated Learning)’ 플랫폼을 운영한다. 미국, 캐나다, 한국 등 7</content:encoded>
+      <title>[애널리스트의 마켓뷰]코스피 반등, 중동-러우 전쟁 종전에 달렸다</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261102/134952567/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261102/134952567/2</guid>
+      <pubDate>2026-11-03T00:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134952566.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;코스피 등 국내 주식시장의 변동성이 다시 커지고 있다. 중동 정세 장기화에 따른 국제 유가와 물가 상승 우려로 시장 금리가 오르면서 인공지능(AI) 투자 심리를 위축시키고 있기 때문이다. 코스피는 삼성전자와 SK하이닉스 등 AI 투자 수혜를 받은 메모리 반도체 상장사 시가총액 비중이 50% 안팎인 만큼 하락 폭이 다른 주요국 증시와 비교해 상대적으로 더 컸다. 변동성이 커진 첫 번째 원인은 채권시장의 금리 상승이다. 채권 금리가 더 높아지고 있기 때문에 주식 등 위험 자산의 투자 매력은 상대적으로 감소할 수밖에 없다. 최근 시장에선 현재 AI 투자금 대비 기업의 수익성을 요구하면서 전반적으로 기업의 자금 조달을 위한 금리가 오르고 있다. 자금 조달을 위한 금리보다 더 높은 수익성을 통해 성장을 증명해야 하는 상황에서 미국 코어위브 등 네오클라우드(AI 특화 클라우드컴퓨팅 서비스) 업체들의 신용 위험 관련 우려가 커진 탓이다. 삼성전자와 SK하이닉스의 자사주 매입 종료 이후 국내</content:encoded>
     </item>
     <item>
-      <title>“동탄 ‘미래병원’에서는 ‘30분 대기, 3분 진료’ 확실히 사라질 것”</title>
-      <link>https://www.donga.com/news/It/article/all/20261030/134941342/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261030/134941342/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134939992.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고려대 의료원이 경기 동탄에 새 병원을 짓는다. 서울 안암과 구로, 경기 안산에 이어 고려대 의료원의 네 번째 병원이다. 고려대 동탄병원은 700병상 규모로 2031년 착공한다. 2035년 완공이 목표다. 착공까지도 4년 이상의 시간이 남았지만, 벌써 의료계의 관심이 크다. 고려대 의료원이 동탄병원을 ‘미래병원’으로 표방했기 때문이다. 윤을식 고려대 의무부총장(고려대 의료원장)은 “고려대 동탄병원은 ‘AI(인공지능) 네이티브 병원’을 표방하고 있다”라고 강조했다. －AI 네이티브 병원이 무엇인가. “여러 첨단 기술을 뒤섞는 게 아니다. 말 그대로 진료를 비롯해 병원의 모든 영역이 AI를 기반으로 가동된다는 뜻이다. 이를 통해 환자는 병원 문을 들어서는 순간부터 최적의 진료를 받게 될 것이다.”  －지금과 가장 달라지는 점이 있다면. “진료 대기 풍경이 확 달라질 것이다. 우선 예약된 진료 시간 전에 휴대 단말기를 통해 사전 진료를 한다. 환자의 동선은 최소화한다. 진료실 상황</content:encoded>
+      <title>“삼겹살 굽고 떡·만두 넣고”…118㎏까지 쪘던 의사의 라면 레시피</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134954499/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134954499/1</guid>
+      <pubDate>2026-11-03T03:48:21.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134954500.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;장형우 분당서울대병원 교수가 과거 체중이 118㎏까지 늘어났던 시절의 식습관을 회상하며 자신만의 ‘삼겹살 라면’ 레시피를 공개했다.지난달 28일 유튜브 채널 ‘침착맨’ 영상에 출연한 장 교수는 학창 시절 삼겹살 라면을 즐겨 먹었다고 밝혔다.장 교수는 “학교 갔다 오면 힘들고, 배도 고파서 먹었다”며 “삼겹살은 처음부터 라면과 같이 끓이면 고르게 익지 않기 때문에 미리 냄비에 깔아 놓고 익혀야 된다”고 설명했다.이어 “어느 정도 노릇노릇하게 익기 시작했다 싶으면 그때 물로 한 번 헹구고, 500㎖ 물을 넣은 뒤 라면을 넣는다”며 “가래떡, 물만두 같은 것도 집어 넣었다”고 덧붙였다.장 교수는 “항상 딜레마가 있었는데, 재료를 너무 많이 넣는 것”이라며 “그 순간만큼은 더 먹고 싶으니까 자제하지 못했다”고 회상했다. 그는 “물이 쫄아 붙으면 조금씩 더 넣어서 물의 양을 맞추고, 치즈 한 장을 넣어서 마무리했다”며 “치즈가 온도 때문에 녹아서 범벅처럼 된다”고 밝했다.그러면서 “</content:encoded>
     </item>
     <item>
-      <title>인천공항 체크인시스템 장애, 일부 항공사 발권-출발 지연</title>
-      <link>https://www.donga.com/news/Society/article/all/20261030/134941748/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261030/134941748/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134941747.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;30일 인천공항에서 항공사 체크인 시스템에 장애가 발생해 일부 항공사의 발권이 중단되고 항공편이 지연되면서 승객 1200여 명이 한때 불편을 겪었다. 인천국제공항공사는 장애가 발생한 지 13시간여 만에 “시스템이 모두 복구됐다”고 밝혔다. 인천공항공사에 따르면 항공 통신 네트워크인 미국 에어링크(ARINC)에서 간헐적으로 통신이 끊기는 현상이 발생했다. 에어링크는 공항 체크인 카운터와 항공사, 공항을 연결해 주는 시스템이다. 이에 따라 인천공항 제1여객터미널 8개 항공사와 제2여객터미널 5개 항공사 등 총 13개 항공사의 탑승 수속 처리 속도가 느려졌다. 에어링크 장애는 이날 오후 먼저 복구됐지만 중국남방항공과 중국동방항공, 중국국제항공 등 3곳은 발권 및 수하물 처리 시스템 복구가 지연됐다. 전자 발권이 지연되면서 이 항공사 3곳은 수기로 체크인을 진행했다. 이 과정에서 승객 약 1200명이 탑승권을 받지 못한 채 기다려야 했고, 공항 게이트 배정에도 차질이 생겨 일부 항공편의</content:encoded>
+      <title>AI 손잡은 예술가… 무한대로 펼쳐진 미지의 길에 서다</title>
+      <link>https://www.donga.com/news/Culture/article/all/20261103/134953718/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20261103/134953718/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134951985.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;흑백의 도시 위성사진 위로 갖가지 모양의 하얀 도형들이 떠 있다. 잠시 뒤 가지런했던 도형들이 움직이기 시작하더니 가느다란 선들이 꼬리를 물고 늘어난다. 마치 실타래가 풀리듯 수많은 선이 겹치고 뒤엉키면서 화면 곳곳에 기묘한 무늬를 만들어 낸다. 이 무늬는 누가, 어떻게 만드는 것일까. 추미림 작가의 ‘새로운 경로를 탐색합니다’는 인공지능(AI)을 통해 확장된 인간 예술가의 창작 과정을 탐구한 작품이다. 지난달 23일 서울 영등포구 퐁피두센터 한화에서 개막한 전시 ‘애즈___애즈 파서블’(AS___AS POSSIBLE)에서 선보였다.  추 작가는 먼저 손수 그린 그림 10점을 컴퓨터 프로그램에 넣고 한 그림이 다른 그림으로 자연스럽게 변하도록 영상을 만들었다. 여기서 멈추지 않고 AI의 도움을 받아 선을 연결하는 순서와 움직이는 시간을 바꿀 수 있는 새 프로그램을 제작해 영상을 수정했다. 컴퓨터가 정해준 길을 그대로 따르지 않고 새로운 길을 찾아 나선 셈이다. 작품 제목은 길을</content:encoded>
     </item>
     <item>
-      <title>바이낸스, 8.5조원 역대최대 해킹 피해… 美업체 “北이 공격 배후”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261030/134941743/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261030/134941743/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134942077.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;전 세계 가상자산 거래소 점유율 1위인 바이낸스에서 8조 원이 넘는 가상자산 해킹 사건이 발생했다. 지난해 2월 바이비트에서 발생한 사건을 뛰어넘는 역대 최대 규모의 가상자산 해킹으로 기록될 것으로 보인다. 국내외를 막론하고 해킹 사건이 끊이지 않으면서 소비자들의 우려가 커지고 있다.● 역대 최대 규모 가상자산 해킹30일 금융권에 따르면 바이낸스는 X(옛 트위터)에서 가상자산 탈취 사건 초기 조사 결과를 공개하며 이번 사건의 피해 규모를 63억6000만 달러(약 8조5000억 원)로 추산했다. 바이낸스는 사건 직후 입출금을 일시 중단하고, 블록체인 업체들과 협력해 약 30억 달러 규모의 자산을 동결했다고 밝혔다.  바이낸스는 가상자산 거래소 시장에서 약 47.6%(올 8월 말 기준)의 점유율을 차지하고 있는 세계 1위 사업자다. 이번 피해 규모는 지난해 2월 발생한 바이비트 해킹 피해액(약 15억 달러)의 4배를 훌쩍 넘는 수준이다.바이낸스는 이날 회사 뉴스 계정에서 “이번</content:encoded>
+      <title>KAIST, AI가 전문지식 학습하는 시간 70% 단축</title>
+      <link>https://www.donga.com/news/People/article/all/20261103/134953828/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20261103/134953828/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>인공지능(AI)에 의료나 코딩 등 전문 지식을 가르치는 데 걸리는 시간을 최대 70% 줄일 수 있는 기술이 개발됐다. AI가 비슷한 내용을 반복 학습하지 않도록 학습 자료를 골라주는 방식이다. KAIST는 전산학부 이재길 교수 연구팀이 AI의 추가 학습 시간을 단축하는 기술 ‘클러스터(CluSTER)’를 개발했다고 2일 밝혔다. AI를 의료 상담이나 프로그램 개발 등 특정 분야에 활용하려면 해당 분야의 자료를 추가로 학습시켜야 한다. 이때 여러 그래픽처리장치(GPU)가 자료를 나눠 학습하는데, 비슷한 내용을 중복해서 처리하면 시간과 비용이 낭비된다. 연구팀은 각 자료가 AI 학습에 미치는 영향을 분석해 비슷한 효과를 내는 자료끼리 묶었다. 이후 중복 학습을 줄이면서도 AI가 여러 종류의 지식을 골고루 익힐 수 있도록 자료를 선별해 학습시켰다. 학생이 시험 공부를 할 때 비슷한 문제를 반복해서 풀기보다 여러 유형의 문제를 골고루 풀게 하는 것과 비슷한 이치다. 이 기술을 의료·코딩</content:encoded>
     </item>
     <item>
-      <title>국산 에페 가세… 위고비-마운자로와 ‘비만약 삼국지’</title>
-      <link>https://www.donga.com/news/Society/article/all/20261030/134940958/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261030/134940958/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134940497.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“저렴한 국산 비만약이 나왔다고 해서 써보려고요.” 29일 서울 종로구 종로5가 일대의 한 의원 앞에서 만난 프리랜서 김모 씨(31)는 한미약품이 개발한 국내 첫 글루카곤 유사 펩타이드-1(GLP-1) 계열 비만치료제 ‘에페’를 처방받으러 왔다며 이같이 말했다. 30분간 이 의원을 방문한 환자는 4명으로 모두 에페를 찾았다. 김 씨는 “가격이 마운자로 절반 수준이라 부담이 덜하다”고 했다.  2024년 10월 위고비가 국내에 상륙한 지 2년 만에 마운자로에 이어 국산 신약 에페가 등장하면서 ‘비만약 삼파전’이 본격화됐다.  30일 국회 보건복지위원회 소속 김윤 의원실이 건강보험심사평가원에서 받은 자료에 따르면 올 들어 8월까지 처방된 위고비와 마운자로는 279만 건에 육박한다. 벌써 지난해 연간 처방 건수의 두 배를 넘어섰다. 여기에 에페까지 가세하면서 환자들은 좀 더 값싼 비만약을 구하기 위해 이른바 ‘성지’로 불리는 의원과 약국을 찾고 있다. 신약 출시에 따라 기존 비만치료</content:encoded>
+      <title>공군, 美우주군 주관 ‘국제 워게임’ 첫 참가</title>
+      <link>https://www.donga.com/news/Politics/article/all/20261103/134953840/2</link>
+      <guid>https://www.donga.com/news/Politics/article/all/20261103/134953840/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951793.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;한국 공군이 미 우주군이 주관하는 우주 군사작전 연습인 ‘파트너 투 윈(Partner to Win)’에 처음 참가한다. 파트너 투 윈은 올해 신설한 국제 우주 워게임으로 우주에서 발생할 수 있는 여러 위기 상황에 대해 동맹·우방국 간 연합우주작전 수행 태세를 강화하려는 차원이다. 공군에 따르면 2∼6일 미 플로리다 올랜도에서 미 우주군 주관으로 열리는 워게임 ‘파트너 투 윈’에는 한미와 네덜란드 스웨덴 폴란드 브라질 등 6개국이 참가한다. 이번 워게임 참가는 손석락 공군참모총장이 올 2월 브래들리 솔츠먼 당시 미 우주군참모총장과의 통화에서 논의됐고, 이후 미 우주군이 양국 간 우주 협력 관계 강화를 위해 공군을 공식 초청하면서 성사됐다. 이번 워게임은 우주를 무대로 펼쳐질 수 있는 각종 위기 상황을 설정하고 각국 대표단이 대응과 공조 방안을 논의하는 도상연습(TTX) 방식으로 진행된다. 이를 통해 공군은 각국의 우주 위기 상황 대응 방안과 연합우주작전 수행 체계를 경험하고 우주작</content:encoded>
     </item>
     <item>
-      <title>신용시장까지 번진 ‘AI 거품론’… ‘탄탄한 본업 바탕’ 반론도</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261030/134941582/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261030/134941582/2</guid>
-      <pubDate>2026-10-31T01:40:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134942163.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울에 사는 직장인 정모 씨(35)는 최근 단일종목 레버리지 상품에 1억 원을 투자했다가 사흘 만에 7000만 원을 잃었다. 기초지수가 상승과 하락을 반복하며 제자리로 돌아와도 수익률을 오히려 갉아먹는 ‘음의 복리 효과’ 탓이다. 정 씨는 “변동성이 클 때 장에 들어가고 빠지는 타이밍만 제대로 잡으면 큰돈을 벌 수 있다고 생각해 투자했는데, 반도체와 AI 관련주의 주가가 다시 올라오는 폭이 크지 않다”며 씁쓸해했다. 레버리지 상품의 극심한 변동성에 휘둘렸던 그는 이제 ‘인공지능(AI) 버블’ 논란을 두렵게 지켜보고 있다. 그의 투자 포트폴리오에서 반도체와 AI 관련 종목이 차지하는 비중이 70%를 넘기 때문이다. AI 버블이 현실로 판명 나면 손실이 상상할 수 없이 불어날까 봐 걱정이다. AI 투자가 기술의 본질적인 가치나 수요보다 지나치다는 AI 버블론이 사그라들 기미가 보이지 않으면서 AI 관련주에 투자한 개미들의 불안감이 커지고 있다. 반도체 기업과 빅테크들의 화려한 실적이</content:encoded>
+      <title>ITER 사무차장 정천영씨</title>
+      <link>https://www.donga.com/news/People/article/all/20261103/134953826/2</link>
+      <guid>https://www.donga.com/news/People/article/all/20261103/134953826/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134954399.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;과학기술정보통신부는 정천영 국제핵융합실험로(ITER) 기구 품질관리부서장(54·사진)이 5년 임기의 ITER 사무차장에 임명됐다고 2일 밝혔다. ITER은 한국과 미국, 유럽연합(EU) 등 7개국이 참여하는 핵융합 발전 연구 시설이다.</content:encoded>
     </item>
     <item>
-      <title>AI가 공무원을 대체한다면…네덜란드의 실험[딥다이브]</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261030/134937395/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261030/134937395/1</guid>
-      <pubDate>2026-10-31T10:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134937403.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)이 일자리, 특히 기업의 사무직과 소프트웨어 개발자의 일자리를 빼앗을 거란 전망이 파다하죠. 그런데 그보다 먼저 AI에 밀려날 위기에 놓인 직업이 있습니다. 바로 공무원이죠.뉴질랜드에 이어 네덜란드 정부도 정부부처 공무원 수를 대폭 감축하고 AI를 도입하겠다는 정책을 발표했습니다. 예산 절감을 위해 공무원을 AI로 대체하겠다는 건데요. 이게 정말 효과가 있을까요? AI와 공무원 감축을 들여다보겠습니다.*이 기사는 10월 30일(금요일) 발행한 딥다이브 뉴스레터의 온라인 기사 버전입니다. ‘읽다 보면 빠져드는 경제뉴스’ 딥다이브를 뉴스레터로 구독하세요.https://www.donga.com/news/Newsletter뉴질랜드 “3년 내 공무원 8700명 감축”‘작은 정부’는 본래 우파 정치권의 단골 공약이죠. 재정 적자에 시달리는 선진국일수록 비대한 공무원 조직을 슬림화하자는 논의가 힘을 얻기 마련인데요.총선이 코앞으로 다가온(11월 7일) 뉴질랜드에서도 마찬가</content:encoded>
+      <title>北, 사람 속여 침투 vs 美, AI로 돈줄 추적… 해킹 ‘창과 방패’ 전쟁</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261103/134954220/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261103/134954220/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134954395.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;지난달 29일(현지 시간) 세계 최대 가상자산 거래소 바이낸스에서 발생한 해킹 사건은 최근 북한과 미국이 벌이는 사이버전의 단면을 여실히 보여줬다는 평가가 나온다. 단일 해킹으로는 역대 최대 규모인 63억 달러(약 8조4000억 원)의 피해가 발생한 가운데, 북한 해커들은 바이낸스 관계자의 노트북에 악성코드를 심어 내부 시스템에 침투하는 이른바 ‘사람을 통한 해킹’ 전략을 구사한 것으로 알려졌다. 이에 맞서 미국은 인공지능(AI)과 블록체인 분석 등 첨단 기술을 활용해 자금 추적과 대응에 나섰다. 황석진 동국대 국제정보보호대학원 교수는 “북한이 내부 관계자의 기기를 이용해 해킹에 나서면 미국은 첨단 기술로 대응하는 일종의 ‘창과 방패’의 전쟁이 벌어지고 있는 것”이라며 “양측 모두 자신들에게 축적된 노하우와 강점을 앞세워 상대를 공략하는 상황”이라고 진단했다.● 北, 사람을 뚫는다… 가짜 구직자까지 동원보안업계에선 북한 해킹 조직이 보안망뿐만 아니라 이를 운영하는 사람을 집중</content:encoded>
     </item>
     <item>
-      <title>“수학자 지정해 검증 맡기지 마” 수학계, AI 업계에 제동 [김현지의 with AI]</title>
-      <link>https://www.donga.com/news/It/article/all/20261031/134942024/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261031/134942024/1</guid>
-      <pubDate>2026-10-31T13:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134942342.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;AI 개발사가 수학 난제를 풀었다며 수학자를 지정해 결과물 검증을 의뢰하던 관행에 미국 수학계가 제동을 걸었다. 수학을 둘러싼 학계와 AI 업계의 긴장이 한층 고조되는 양상이다.수학·인공지능 자문그룹(AGMAI·Advisory Group on Mathematics and Artificial Intelligence)은 지난 25일 UCLA 테런스 타오 교수의 블로그를 통해 ‘AI 결과 공개에서 수학자를 지정하는 방식의 단점(Disadvantages of Designating Mathematicians for AI Output Releases)’이라는 제목의 글을 공개하고 AI 기업이 특정 수학자를 지정해 비공개로 검토·해설하게 하는 관행을 앞으로는 쓰지 말라고 권고했다.● AI개발사가 고른 수학자, 검증 아닌 방패될 수 있어AGMAI는 기업이 결과를 검증하고 정리할 수학자를 직접 지정하면 학계가 스스로 결정할 권한을 빼앗기고, 다른 수학자들의 참여도 위축될 수 있다고 짚었다. 또 수학</content:encoded>
+      <title>금융위, 국내 거래소 긴급 소집… “코인 오프라인 보관 확대해야”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261103/134954217/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261103/134954217/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134954493.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 가상자산 거래소 바이낸스에서 8조 원대 해킹 사고가 발생한 가운데 금융 당국이 2일 국내 가상자산 거래소를 긴급 소집했다. 금융위원회는 이날 오전 업비트, 빗썸, 코인원, 디지털엑스, 고팍스 등 원화 거래소와 포블게이트 등 코인마켓 거래소를 불러 보안 점검 회의를 열었다. 금융위는 회의에서 거래소들에 △해킹 사고 예방을 위해 콜드월렛(온라인에 연결되지 않은 오프라인 가상자산 지갑) 비중 상향 △가상자산 입출고 상시 점검 및 추가 대응 인력 확보 △신속한 해킹 시도 보고 △준비금 추가 적립 등을 당부했다. 한국은행은 지난달부터 18개 은행과 13개 증권사를 대상으로 ‘가상자산 시장 진출 현황 조사’에 나섰다. 한은이 이런 조사를 진행한 것은 처음이다. 거래소의 해킹 사고 발생 시 금융권에 미치는 영향과 가상자산 시세 하락에 따른 금융사의 보유 자산 가치 변동성 등 위험 관리 대응 현황이 조사 대상에 포함됐다. 지난달부터 국내외 가상자산 시장에서 거래소 해킹 사고가 이어지고 있</content:encoded>
     </item>
     <item>
-      <title>윤남노 107.76kg 찍고 충격…체지방 39kg, ‘10kg 감량’ 목표 괜찮을까? [바디플랜]</title>
-      <link>https://www.donga.com/news/Culture/article/all/20261030/134931093/2</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20261030/134931093/2</guid>
-      <pubDate>2026-10-31T19:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134931020.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;윤남노가 체중 107.76kg을 확인한 뒤 10kg 감량에 도전했다. 인바디에서는 체지방량 39kg, 체지방률 36.7%가 측정됐다. 비만 관리는 급격한 감량보다 초기 체중의 5~10%를 현실적인 첫 목표로 삼고 식사 조절과 유산소·근력운동을 병행하는 것이 중요하다.</content:encoded>
+      <title>“1600조 메가프로젝트, AI데이터센터 수요 확보부터”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261103/134953925/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261103/134953925/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134954495.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;1600조 원 규모의 민간 자금이 투입되는 ‘3대 메가프로젝트’가 메모리 반도체 투자에 치중돼 있다는 지적이 제기됐다. 메모리 반도체 경쟁력을 시스템 반도체와 로봇 등 미래 산업으로 넓혀 서로 연결되고 선순환하는 국가 성장 플랫폼으로 발전시켜야 한다는 것이다.  2일 대통령 직속 국민경제자문회의는 서울 중구 페럼타워에서 ‘3대 메가프로젝트: 국가 성장 플랫폼이 되기 위한 과제’를 주제로 공개 포럼을 열었다. 김성식 국민경제자문회의 부의장은 “3대 메가프로젝트는 1970년대 중화학공업 육성 이후 우리 경제와 산업의 틀을 바꾸는 가장 큰 도전”이라며 “반도체 팹(공장) 증설을 넘어 반도체 생태계 전반의 역량을 키우는 전략을 실행해야 한다”고 강조했다. 3대 메가프로젝트는 전남광주 반도체 클러스터 조성 등을 포함해 반도체와 AI 데이터센터, 피지컬 AI 등 3개 분야에 민간 기업들이 1600조 원을 투자하는 사업이다. 반도체에 881조 원, AI 데이터센터 구축에 550조 원이 투입된</content:encoded>
     </item>
     <item>
-      <title>미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다</title>
-      <link>https://www.donga.com/news/It/article/all/20261031/134942839/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261031/134942839/2</guid>
-      <pubDate>2026-10-31T20:08:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134942840.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;샘 올트먼 오픈AI 최고경영자(CEO)가 31일 삼성 경영진에게 ‘13개의 버튼’이 있는 키보드를 선물했다. 이는 올해 7월 출시된 코덱스 전용 키보드로, 오픈AI의 첫 하드웨어 제품이다.올트먼 CEO는 이날 경기 용인 삼성인력개발원에서 삼성 계열사 사장단 50여 명과 ‘AI(인공지능)가 바꿀 다음 10년, 기업의 선택’을 주제로 대담했다. 그는 이 자리에서 “컴퓨터에 말로 지시하고 AI를 활용하는 세상에서는 키보드 전체가 필요하지 않을 수도 있다는 생각을 담았다”며 소형 키보드를 선물했다. ‘코덱스 마이크로’라고 불리는 이 키보드는 AI 에이전트 코딩 기능인 ‘코덱스’를 활용하는 작업 환경을 손쉽게 제어할 수 있다. 제품 가격은 230달러(약 30만7000원)이다. 키보드에는 기계식 스위치 13개와 터치 센서, 회전식 다이얼, 조이스틱 등이 달려있다. LED가 내장된 무광택 키 6개는 색상에 따라 AI 작업 상태를 보여준다. 대기 상태에서는 흰색, 작업 중에는 파란색, 완료된</content:encoded>
+      <title>송도에 바이오 인재 키울 교육장 계속 들어선다</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134952895/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134952895/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134952274.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;단일 도시 기준으로 세계 최대 규모의 바이오의약품 생산능력을 갖춘 인천의 경제자유구역인 송도국제도시에 최근 바이오 교육시설이 추가로 들어섰다. 2일 인천경제자유구역청(인천경제청)에 따르면 지난달 20일 송도국제도시에 있는 연세대 국제캠퍼스 산학협력관에 조성한 ‘글로벌 바이오캠퍼스 실습교육장’이 문을 열었다. 연면적 2492m² 규모로 세포와 미생물 배양과 정제, 분석과 품질관리 교육을 위한 전문 실습실 등이 설치됐다. 이 교육장은 보건복지부 산하 글로벌바이오인력양성허브지원재단이 운영을 맡을 예정이다. 2028년까지 생산공정과 품질관리 분야 장비를 단계적으로 확충해 각종 백신과 바이오의약품 제조, 품질관리 등 모든 공정을 아우르는 실습교육 기반을 갖추게 된다.  이날 개소식에는 테워드로스 아드하놈 거브러여수스 세계보건기구(WHO) 사무총장이 참석해 눈길을 끌었다. 앞서 WHO는 2022년 한국을 ‘글로벌 바이오 인력양성 허브(GTH-B)’로 지정했다. 이에 따라 정부는 국가 간 백</content:encoded>
     </item>
     <item>
-      <title>일요일 전국 곳곳 가을비…제주 최대 60㎜·돌풍 동반</title>
-      <link>https://www.donga.com/news/Society/article/all/20261101/134943023/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261101/134943023/1</guid>
-      <pubDate>2026-11-01T07:28:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134943024.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일요일인 1일은 전국이 대체로 흐리고 곳곳에 비가 내린다. 낮 기온은 평년보다 조금 낮을 전망이다.기상청에 따르면 이날 오전에는 중부지방을 중심으로 비가 내리고, 강원 높은 산지에는 비 또는 눈이 오는 곳이 있겠다.오후부터는 남부지방과 제주도에도 비가 내린다. 다만 수도권과 강원도는 오후 한때 소강상태를 보이는 곳이 많을 것으로 예상된다.서울·인천·경기 북부와 강원 중·북부의 비는 밤에 대부분 그치겠다. 그 밖의 중부지방과 남부지방, 제주도는 2일 새벽까지 비가 이어질 전망이다.1~2일 예상 강수량은 △서울·인천·경기 북부 1㎜ 안팎 △경기 남부 5㎜ 안팎 △강원도 5㎜ 안팎 △대전·세종·충남·충북 5~10㎜ △광주·전남 5~40㎜ △전북 5~20㎜ △부산·울산·경남 5~40㎜ △대구·경북 5~20㎜ △제주도 10~60㎜다. 서해5도에는 이날 5~10㎜의 비가 예상된다.제주도에는 늦은 밤 돌풍을 동반한 시간당 20㎜ 안팎의 강한 비가 내리는 곳이 있다. 비가 내리는 곳에서</content:encoded>
+      <title>법원, ‘AI 가짜 판례’ 검증 진땀… 재판장이 변호인 공개 질책도</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134953745/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134953745/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134954330.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“다시 한번 이런 일이 있으면 서면을 받지 않겠습니다.” 최근 한 민사재판에서 재판장은 소송대리인으로 출석한 변호사를 법정 앞으로 불러 이렇게 경고했다. 변호사가 재판부에 제출한 서면에 인용된 판례들이 실제로는 존재하지 않았기 때문이다. 재판장은 “서면에 기재한 판례들을 다 찾아봤는데 실제 판례가 하나도 없었다”며 “챗GPT를 이용해 보니 해당 판례들이 나온다”고 지적했다. 소송 서면을 쓸 때 인공지능(AI)을 활용하는 사례가 늘면서 AI가 지어낸 허위 판례를 가려내느라 애를 먹는 재판부도 늘고 있다. 법정에서 재판장이 변호사를 공개적으로 질책하는 일까지 벌어졌다. 이에 따라 법원행정처는 처음으로 법관을 대상으로 AI 허위 판례 관련 실태조사를 했다. ● 10명 중 6명 넘게 “AI 허위 인용 경험”2일 법원행정처에 따르면 지난달 6∼16일 실시한 설문에 응답한 법관 360명 중 243명(67.5%)이 “허위·부존재 판례 등의 인용을 경험했다”고 답변했다. 243명 중에서</content:encoded>
     </item>
     <item>
-      <title>김지민, 삼겹살·매운 음식 먹방 “예전보다 훨씬 잘 먹어”…임신 중 괜찮을까? [건강팩트체크]</title>
-      <link>https://www.donga.com/news/Culture/article/all/20261030/134932595/2</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20261030/134932595/2</guid>
-      <pubDate>2026-11-01T14:00:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/30/134932579.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;임신 19주차 김지민이 체중이 5kg 늘고 식욕이 크게 증가한 ‘먹덧’ 근황을 공개했다. 임신 중 적정 체중 증가는 임신 전 BMI에 따라 달라지며, 식욕이 늘더라도 두 사람 몫을 먹기보다 균형 잡힌 식사와 적절한 체중 증가 추이를 살피는 것이 중요하다.</content:encoded>
+      <title>서울 6년만에 11월 황사… 오늘은 아침 0~9도</title>
+      <link>https://www.donga.com/news/Society/article/all/20261102/134953780/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261102/134953780/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134952227.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;서울에서 6년 만에 ‘11월 황사’가 관측됐다. 황사가 북서풍을 타고 한반도로 유입된 데 이어 북서쪽에서 찬 공기까지 내려오면서 3일 아침 기온은 하루 새 5∼8도 뚝 떨어지겠다. 2일 기상청에 따르면 이날 오후 서울을 비롯한 수도권과 서해안 일부, 제주 등에서 황사가 관측됐다. 오후 2시 기준 서울의 미세먼지(PM10) 농도는 ㎥당 151μg(마이크로그램)까지 치솟아 ‘매우 나쁨’을 보였다.  지난달 31일 내몽골고원 등에서 발원한 황사가 북서풍을 타고 국내로 유입된 탓이다. 황사는 주로 봄철에 발생하지만 발원지에 눈이 내리기 전인 11월에도 북서풍이 불 때 국내로 유입될 수 있다. 서울에서 11월에 황사가 발생한 것은 2020년 이후 처음이다. 3일 밤에도 황사가 추가로 유입돼 수도권과 충남의 미세먼지 농도가 일시적으로 ‘나쁨’ 수준까지 오르겠지만 하루 평균 농도는 ‘보통’ 수준을 유지할 것으로 보인다. 찬 공기가 남하하면서 3일 아침 최저기온은 0∼9도로 예보됐다. 경기</content:encoded>
     </item>
     <item>
-      <title>“우리 콘텐츠 AI 학습에 쓰지 마”…오픈AI·구글 등 공통표준 추진</title>
-      <link>https://www.donga.com/news/It/article/all/20261101/134944180/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261101/134944180/1</guid>
-      <pubDate>2026-11-01T14:37:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134944596.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 학습을 위한 데이터 제공을 손쉽게 거절할 수 있는 공통 표준을 AI 선도기업들이 마련하고 있다.  AI 개발사와 콘텐츠 소유자 간 갈등이 심해지면서, 웹 사이트 사용자가 자신의 데이터를 손쉽게 보호할 수 있는 방법을 마련하기 시작한 것이다.30일(현지 시간) 미국 정보기술(IT) 전문매체 더버지에 따르면 오픈AI, 구글, 마이크로소프트(MS), 앤스로픽 등 기업들은 웹사이트 운영자의 수집 거부를 가능하게 하는 기술표준 개발을 지원하기로 했다. 앤스로픽이 국제인터넷표준화기구(IETF)에 낸 기술 초안에 따르면, 웹사이트 운영자는 외부 접근을 관리하는 ‘robots.txt’ 파일에 AI 학습 거부 의사를 적을 수 있다. 각 AI 개발사는 이 파일을 확인해 ‘거부한다’는 내용이 들어있을 경우,  해당 사이트 콘텐츠를 모델 학습에 쓰지 않는 방식이다. 기존에는 AI 기업마다 학습 거부 설정이 달랐던 데다, 콘텐츠를 소유자의 동의 없이 학습에 활용한다는 논란이 이어져 왔</content:encoded>
+      <title>AI가 등기부 등 위험 분석… 경기 전세사기 예방 서비스</title>
+      <link>https://www.donga.com/news/Society/article/all/20261102/134953411/2</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261102/134953411/2</guid>
+      <pubDate>2026-11-03T04:30:00.000Z</pubDate>
+      <content:encoded>경기도가 인공지능(AI)을 활용한 전세사기 예방 서비스 확산에 나선다. 공인중개사가 등기부등본 등 공적 장부를 AI로 분석해 전세 계약의 위험 요소를 담은 보고서를 임차인에게 무료로 제공하도록 돕는다. 경기도는 27일까지 도내 공인중개사사무소 약 7000곳을 대상으로 ‘경기 안심 부동산’ 현장 홍보를 진행한다고 2일 밝혔다. 경기도와 31개 시·군, 경기도 안전 전세 관리단, 한국공인중개사협회 관계자 등 1100여 명이 참여한다. 경기 안심 부동산은 AI가 등기부등본 등 공적 장부를 분석하고 공인중개사의 현장 점검 결과를 더해 권리분석 보고서를 작성하는 서비스다. 임차인은 계약 전 해당 보고서를 통해 부동산의 권리 관계와 위험 요소를 확인할 수 있다. 이용료는 공인중개사가 부담해 임차인은 별도 비용 부담이 없다.  도는 현장 방문과 문자 안내, 집합교육 등을 통해 서비스 가입부터 매물 등록, 보고서 발급까지 도울 계획이다. 가입과 매물 등록을 마친 중개사무소에는 참여 스티커를</content:encoded>
     </item>
     <item>
-      <title>메타, 中푸리에와 손잡고 휴머노이드 로봇 시제품 ‘맥스’ 개발</title>
-      <link>https://www.donga.com/news/It/article/all/20261101/134944790/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261101/134944790/1</guid>
-      <pubDate>2026-11-01T15:43:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/27/134917995.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;메타가 중국 기업과 손잡고 휴머노이드 로봇의 시제품을 개발했다. 9월 출시한 인공지능(AI) 비서 ‘뮤즈’를 휴머노이드와 연결해 실제 가사 업무 등을 하게 만들려는 시도다. 화면 속을 넘어 실제 공간에서 사람을 대체할 수 있도록 AI 에이전트의 외연을 넓히겠다는 구상이다.31일(현지 시간) 미국 정보기술(IT) 전문매체 더인포메이션 등에 따르면 메타는 중국 로봇 스타트업 푸리에와 약 3개월간 협력해 휴머노이드 시제품 ‘맥스(Max)’를 개발했다. 키 약 1.5m, 무게 48kg인 맥스에는 엔비디아의 로봇용 반도체 ‘젯슨 토르’가 탑재됐다. 얼굴에는 표정을 표현하는 디스플레이를, 가슴에는 스피커 두 개를 달았다. 손에는 작은 물체를 집을 수 있는 다섯 손가락 구조의 부품이 들어갔다.메타는 앞서 8월 말 열린 내부 행사에서 맥스를 시연한 뒤 9월부터 두 번째 시제품 ‘맥스2’ 개발에 착수했다. 맥스2에는 개선된 손과 상체 구조 및 계단을 오르내리는 데 필요한 센서가 탑재될 계획이다.</content:encoded>
+      <title>청장년 1인가구, 심장질환 사망 위험 41%↑…이유는?[건강팩트체크]</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134950865/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134950865/2</guid>
+      <pubDate>2026-11-03T07:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134950768.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;결혼에 대한 인식 변화와 고령화 등으로 혼자 사는 1인가구가 빠르게 늘고 있다. 이런 가운데 혼자 사는 사람은 다른 사람과 함께 사는 사람보다 여러 원인으로 사망할 위험이 높으며, 이러한 연관성은 노년층보다 청년·중장년층에서 더 두드러진다는 대규모 연구 결과가 나왔다.미국암학회(ACS) 연구진이 주도한 연구에 따르면, 혼자 사는 18~64세 성인의 전체 사망 위험은 다른 사람과 함께 사는 같은 연령대의 성인보다 22% 높았다. 65세 이상에서는 그 차이가 6%였다. 연구 결과는 10월 27일(현지 시간) 국제학술지 ‘국제 역학저널(International Journal of Epidemiology)’에 발표됐다.연구를 이끈 미국암학회 암 건강불평등 연구 책임연구원이자 논문 교신저자인 이현정 박사는 혼자 사는 것이 반드시 해롭거나 바람직하지 않은 생활 형태는 아니라고 강조했다. 이번 연구는 혼자 사는 성인들에게서 발생하는 초과 사망이 주로 기존 질환이 있거나 건강에 해로운 위험</content:encoded>
     </item>
     <item>
-      <title>국내 가상자산 거래소도 비상 “입출금 한도 최소한으로 낮춰야”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261101/134945038/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261101/134945038/1</guid>
-      <pubDate>2026-11-01T17:59:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134943081.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 가상자산 거래소 점유율 1위인 바이낸스에서 약 63억 달러(약 8조5000억 원) 규모의 해킹 사건이 발생하며 국내 가상자산 거래소들에도 비상이 걸렸다. 앞으로 비슷한 사건이 국내 거래소로 확산할 가능성도 있는 만큼 국내 투자자들이 궁금해할 내용을 문답(Q&amp;A) 형태로 소개한다.―가상자산 거래의 기반 기술인 블록체인은 보안이 강하다고 알려졌는데 왜 사고가 났을까.“사고가 상대적으로 보안에 취약한 가상자산 거래소의 시스템에서 주로 발생하기 때문이다. 해킹과 위변조가 어려운 블록체인 본체에서 발생하는 것이 아니다. 바이낸스 등 가상자산 거래소는 이용자의 매매 주문과 입출금을 처리하기 위해 전자 지갑인 ‘핫월렛’을 운영한다. 핫월렛은 거래소가 투자자의 입출금 요청에 즉시 대응하기 위해 인터넷에 상시 연결하는 지갑이다. 거래소들은 여기에 가상자산을 모아뒀다가 위변조가 어려운 블록체인에 거래 내용을 주기적으로 기록하고 있다. 이번 사고를 포함해 가상자산 관련 주요 해킹 대상은</content:encoded>
+      <title>한양증권도 해킹 피해…고객 주민번호 등 31건 유출</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261103/134955180/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261103/134955180/2</guid>
+      <pubDate>2026-11-03T09:17:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955181.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최근 금융권 해킹 사고가 연이어 발생하는 가운데, 한양증권에서도 고객정보 등 개인정보 31건이 유출된 것으로 확인됐다. 3일 금융투자업계에 따르면 한양증권은 지난달 29일 사용 중인 외부 그룹웨어 설루션에 대한 비정상적인 접근으로 일부 정보가 유출된 사실을 확인했다고 밝혔다.현재까지 확인된 유출 데이터는 고객정보 15건, 임직원 관련 정보 2건, 일반 개인정보 14건 등 총 31건이다.구체적으로 이름, 계좌번호, 연락처, 주소, 생년원일, 이메일, 주민등록번호, 운전면허번호가 포함됐다. 주민등록번호가 포함된 정보 유출은 3건이다.한양증권은 사고 인지 이후 외부 접근을 차단하고, 솔루션 공급사와 함께 긴급 보안 패치를 완료했다. 현재 정확한 유출 범위와 경위는 조사 중으로, 관계 기관에 신고를 마친 후 유출 대상 고객에게 개별 안내하고 있다. 사고는 금융당국이 최근 잇따른 금융권 침해사고에 대응해 보안 점검을 강화하면서 확인됐다.한양증권 측은 “이번 사안을 엄중하게 인식하고</content:encoded>
     </item>
     <item>
-      <title>‘양날의 검’ 메모리…삼전닉스 최대 실적 때 인텔 시총 189조 증발</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261101/134944975/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261101/134944975/1</guid>
-      <pubDate>2026-11-01T19:29:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134946490.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 행정부의 적극적인 지원으로  부상했던 인텔이 하루에 30% 가까이 급락하며 인공지능(AI) 산업 전반에 위기감을 고조시켰다. 샌디스크(―13. 5%), AMD(―10.9%) 등 다른 AI 기업 주가도 줄줄이 하락했다. AI 수익성과 과도한 투자에 대한 우려가 커진 것이다.  AI 데이터센터용 메모리 수요 폭증으로 삼성전자와 SK하이닉스가 역대 최대 실적을 거두는 동안 인텔은 PC 시장 위축과 대규모 설비투자 부담에 직면했다. 메모리 슈퍼사이클이 ‘양날의 검’이 돼 같은 반도체 산업에서조차 기업 간 명암이 극명하게 엇갈리고 있는 것이다.● 메모리 호황, PC용 CPU엔 악재지난달 30일(현지 시간) 인텔 주가 하락률 28.58%는 1974년 7월 5일 이후 52년 만의 최대 일일 낙폭으로 꼽힌다. 시가총액 약 1400억 달러(약 189조 원)가 하루 만에 증발했다. 52년 전에는 오일쇼크 이후 경기 침체로 반도체 업계 전반이 불황을 겪었다. D램을 주력으로 생산하던 인텔도</content:encoded>
+      <title>두 달 앞둔 디지털자산 과세 “과세 대상·형평성부터 다시 점검해야”</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134955470/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134955470/1</guid>
+      <pubDate>2026-11-03T09:52:37.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955441.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;2027년 1월 시행을 두 달 앞둔 디지털자산(가상자산) 과세를 두고, 현행 제도를 그대로 시행하기 전에 과세 대상과 형평성부터 다시 점검해야 한다는 목소리가 국회에서 나왔다. 전문가들은 소득이 있는 곳에 세금을 매겨야 한다는 원칙에는 공감하면서도, 2020년 설계한 현행 과세 체계가 지금의 시장 상황을 충분히 반영하지 못하고, 해외 거래소 이용자는 과세망을 빠져나가는 반면 국내 거래소 이용자에게만 세금이 집중될 수 있다고 지적했다. 정부는 현장 의견을 바탕으로 국회와 협의해 결론을 내겠다는 입장을 밝혔다.더불어민주당 이광재, 민병덕, 박민규, 이강일 의원실과 디지털자산정책포럼은 11월 2일 디지털자산 제도 개선 방안 토론회를 열었다. 이번 토론회는 디지털자산 과세 제도의 주요 쟁점과 정책 과제를 짚기 위해 마련된 자리다. 안성희 가톨릭대학교 경영학부 교수가 발제를 맡았고, 김우철 서울시립대학교 세무학과 교수, 문성훈 한림대학교 경영대학 교수, 김재진 디지털자산거래소 공동협의체(D</content:encoded>
     </item>
     <item>
-      <title>中 로봇기업과 손잡은 메타, 석달만에 시제품 ‘맥스’ 개발</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261101/134945994/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261101/134945994/2</guid>
-      <pubDate>2026-11-02T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134947332.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;메타가 중국 기업과 손잡고 휴머노이드 로봇의 시제품을 개발했다. 9월 출시한 인공지능(AI) 비서 ‘뮤즈’를 휴머노이드와 연결해 실제 가사 업무 등을 하게 만들려는 시도다.  지난달 31일(현지 시간) 미국 정보기술(IT) 전문매체 디인포메이션 등에 따르면 메타는 중국 로봇 스타트업 푸리에와 약 3개월간 협력해 휴머노이드 시제품 ‘맥스(Max)’를 개발했다. 키 약 1.5m, 무게 48kg인 맥스에는 엔비디아의 로봇용 반도체 ‘젯슨 토르’가 탑재됐다. 얼굴에는 표정을 표현하는 디스플레이를, 가슴에는 스피커 두 개를 달았다. 손에는 작은 물체를 집을 수 있는 다섯 손가락 구조의 부품이 들어갔다. 메타는 8월 말 열린 내부 행사에서 맥스를 시연한 뒤 9월부터 두 번째 시제품 ‘맥스2’ 개발에 착수했다. 맥스2에는 개선된 손과 상체 구조 및 계단을 오르내리는 데 필요한 센서가 탑재될 계획이다. 다만 메타는 이번 협력과 관련해 “내부 연구를 위한 것으로 이 시제품을 판매할 계획은 없다”</content:encoded>
+      <title>볶음밥증후군 아세요?…가열해도 살아남는 ‘이균’</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134955729/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134955729/1</guid>
+      <pubDate>2026-11-03T10:24:39.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955730.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사흘전 지은 밥으로 만든 튀긴 주먹밥을 먹은 남성이 급성 간부전을 겪었다. 2021년 오스트리아에서 보고된 사례다. 당시 밥은 약 8~9도의 환경에서 보관된 것으로 알려졌다. 이처럼 보관 상태가 적절하지 않은 밥은 다시 가열하더라도 식중독 위험이 남아 있을 수 있다.3일 식품안전정보원에 따르면 실온에 오래 보관한 밥은 다시 데워 먹더라도 식중독을 일으킬 수 있어 주의가 필요하다. 이른바 ‘볶음밥 증후군(Fried Rice Syndrome)’으로 불리는 바실러스 세레우스균(Bacillus cereus) 식중독 때문이다.볶음밥과 관련된 식중독 사례에서 유래한 명칭이지만, 볶음밥뿐 아니라 일반 밥이나 파스타 등 전분이 많은 음식에서도 발생할 수 있다.지난 2019년 말레이시아에서도 코코넛 밥 요리인 ‘나시르막’을 먹은 사람들이 메스꺼움과 구토, 설사 등의 증상을 보이는 집단 식중독이 발생했다.바실러스 세레우스균은 토양과 곡류, 채소 등 자연환경에 널리 존재하는 세균이다. 열이나 건</content:encoded>
     </item>
     <item>
-      <title>[단신]SKT, AI중심 업무 재설계 ‘AX 2.0’ 가동 外</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261101/134946083/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261101/134946083/2</guid>
-      <pubDate>2026-11-02T00:30:00.000Z</pubDate>
-      <content:encoded>■ SKT, AI중심 업무 재설계 ‘AX 2.0’ 가동SK텔레콤은 조직의 업무 프로세스와 협업 방식을 AI 중심으로 재설계하는 ‘AX(AI 전환) 혁신 2.0’을 가속화한다고 1일 밝혔다. AX 2.0은 AI 도입 초기 생산성 하락을 극복하고 조직 차원에서 AI를 통한 실질적인 성과를 창출하는 게 목표다. SK텔레콤은 이를 위해 △AX 이네이블러 태스크포스(TF) △AX 샌드박스 △AX 카탈리스트 등 세 가지 프로그램을 가동한다. 또 AI가 데이터를 활용할 수 있도록 돕는 ‘데이터 데스크(Data Desk)’를 운영한다. SK텔레콤은 “구성원의 자발적인 AI 활용과 회사 지원 체계를 연결해 AX 혁신의 성과를 낼 것”이라고 밝혔다.■ KT, 퇴직자 강사가 1인가구 시니어 AI 교육KT가 퇴직 임직원 출신자들을 인공지능(AI) 강사로 위촉해 1인 가구 시니어 대상 생성형 AI 교육에 나선다. KT는 6일부터 4주 동안 경기 성남시의 60∼69세 1인 가구 20여 명을 대상으로 A</content:encoded>
+      <title>mRNA 다음은 ‘이것’?…美, ‘DNA 의약품’ 첫 승인</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134955877/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134955877/1</guid>
+      <pubDate>2026-11-03T10:36:44.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955878.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;DNA를 활용한 의약품이 미국 식품의약국(FDA)의 문턱을 처음으로 넘었다. 이 치료제가 상업화 성공으로까지 이어질지 주목된다. 3일 로이터통신 등 외신에 따르면, FDA는 지난달 30일(현지시간) 미국 바이오기업 이노비오(Inovio)의 재발성 호흡기 유두종증(RRP) 치료제 ‘VOCERYQ’(개발명 INO-3107, 보세릭)를 가속 승인했다.  재발성 호흡기 유두종증은 인유두종바이러스(HPV) 6형·11형 감염으로 후두와 기도에 사마귀 모양의 양성 혹이 계속 자라는 희귀질환이다. 혹이 기도를 막거나 성대를 손상시킬 수 있지만 그동안은 수술로 잘라내는 것 외에 마땅한 치료법이 없었다. 혹이 다시 자라는 탓에 잇달아 수술을 받는 경우도 많았다.  이 치료제가 주목받는 것은 DNA 의약품이기 때문이다. DNA 의약품은 약 성분을 직접 넣는 대신 단백질 설계도인 DNA를 몸에 넣어 세포가 스스로 필요한 단백질을 만들게 하는 방식이다. 보세릭은 HPV 단백질 정보를 담은 DNA와</content:encoded>
     </item>
     <item>
-      <title>거래되는 동물종 80%, 사육 아닌 야생에서 잡혀 팔린다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261101/134944613/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261101/134944613/2</guid>
-      <pubDate>2026-11-02T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134944610.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인류가 상업적으로 거래하는 야생생물이 10만 종을 넘을 것으로 추정되지만 국제사회 감시망은 이 중 극히 일부만 감시하고 있는 것으로 나타났다. 야생생물 거래 실태 파악에 심각한 공백이 발생하고 있다는 것이다. 대체로 사육한 동물이 거래되는 것으로 알려져 왔지만 연구 결과 거래되는 동물종 80% 이상이 최소 1회 이상 야생에서 포획된 이력이 있는 것으로 확인됐다. 감시 사각지대를 줄이기 위해서는 파편화된 데이터를 통합 모니터링 체계 내로 편입시켜야 한다는 게 연구자들의 제언이다. 앨리스 C 휴스 호주 멜버른대 교수와 벤저민 마셜 영국 글래스고대 박사후연구원 공동 연구팀은 전 세계 야생동물 거래 모니터링 데이터베이스와 각국의 관리 체계를 종합 분석해 야생동식물 거래의 사각지대를 확인하고 연구 결과를 국제학술지 ‘사이언스 어드밴시스’에 10월 30일(현지 시간) 발표했다.● 야생생물 거래 감시망 허점… CITES 등재론 부족 그동안 국제 야생동식물 거래 통계는 유엔 산하 ‘멸종위기</content:encoded>
+      <title>골든플래닛, 은평성모병원 생성형 AI 실증 결과 공개… 간호사·약사가 AI 에이전트 직접 개발</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134955896/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134955896/1</guid>
+      <pubDate>2026-11-03T10:39:20.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955885.2.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가톨릭대학교 은평성모병원(병원장 배시현) 간호사와 약사, 행정 직원들이 업무용 AI 에이전트를 직접 기획하고 개발했다. 클라우드 기업 골든플래닛(대표 김동성)은 은평성모병원과 4개월간 진행한 생성형 AI 개념검증(PoC) 사업 결과를 공개했다고 3일 밝혔다. 양측은 지난 9월 29일 병원 본관 대강당에서 ‘은평 AX Summit 2026’을 열고 사업 결과를 발표했다. 구글 클라우드의 기업용 AI 플랫폼 ‘Gemini Enterprise’를 기반으로 현장 실무진이 개선 과제를 찾고 해결 도구를 직접 만드는 방식이다. 골든플래닛은 교육과 기술 지원을 맡았다. 교육은 단계적으로 이뤄졌다. 개발 경험이 없는 교직원도 참여할 수 있도록 노코드 기초 과정을 먼저 운영한 뒤 에이전트 개발 실습으로 이어갔다. 병원 내 아이디어 공모전을 거쳐 꾸려진 실행 조직 ‘AI Beta Crew’가 과제를 도출하면, 골든플래닛 엔지니어가 1대1로 프롬프트 설계와 개발 방향을 자문했다. 이 가운데 활용</content:encoded>
     </item>
     <item>
-      <title>에펜도르프-사이언스 신경생물학상에 ‘뇌 지질 지도’ 그린 과학자</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261101/134944608/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261101/134944608/2</guid>
-      <pubDate>2026-11-02T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134944607.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;뇌 속 지질의 정교한 분포와 세포 다양성 사이 연관성을 규명한 조엘레 라 만노 스위스 로잔연방공대(EPFL) 조교수(사진)가 ‘2026 에펜도르프·사이언스 신경생물학상’을 수상했다. 생쥐 뇌의 3차원 지질 분포 지도를 제작해 지질 조성이 서로 다른 영역 539개를 확인하고 유전자 발현만으로는 설명되지 않는 뇌의 조직 구조를 확인한 성과를 인정받았다. 국제학술지 ‘사이언스’는 뇌 속 지질의 복잡한 조직 구조와 기능을 규명한 공로로 라 만노 조교수를 올해 수상자로 선정했다고 29일(현지 시간) 밝혔다. 에펜도르프·사이언스 신경생물학상은 사이언스가 2002년부터 매년 분자, 세포, 시스템, 개체 생물학 분야 연구를 수행했거나 주도해 신경생물학 연구에 탁월한 공헌을 한 35세 이하 젊은 과학자에게 수여하는 상이다. 수상자는 상금 2만5000달러(약 3342만 원)를 받으며 수상 에세이는 사이언스에 게재된다. 지질은 신경세포를 구성하는 필수 성분이다. 신경과학계는 그동안 지질을 수동적인</content:encoded>
+      <title>“북한 해커가 턴 8조원”…비트코인은 못 묶고 테더는 묶은 이유 [머니뷰]</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261103/134955645/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261103/134955645/2</guid>
+      <pubDate>2026-11-03T11:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955738.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;바이낸스 해킹 사건에서 테더가 15억 달러 이상의 USDT를 동결했다. 비트코인과 다른 스테이블코인의 동결 기능은 피해자 보호에 유리하지만 개인 투자자의 피해 회복은 쉽지 않다. 발행사의 자산 통제 권한과 준비자산 위험, 실제 피해금 반환 가능성을 전문가 분석으로 살펴봤다.</content:encoded>
     </item>
     <item>
-      <title>‘AI 해킹’에 로펌-보안업체로 발길… 번호표 뽑는 기업들</title>
-      <link>https://www.donga.com/news/Society/article/all/20261101/134946636/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261101/134946636/2</guid>
-      <pubDate>2026-11-02T04:30:00.000Z</pubDate>
-      <content:encoded>늘어나는 해킹 피해를 수습하려는 기업들이 로펌과 보안업체에서 사건 접수를 위한 ‘번호표’를 받고 있다. 인공지능(AI)이 공격 문턱을 낮춘 ‘해킹의 대중화’로 피해 기업이 크게 늘어났기 때문에 생긴 현상이다. 1일 법조계 및 보안업계에 따르면 지난달 해킹을 당한 한 스타트업은 개인정보 유출을 확인하고 대형 로펌에 자문을 했지만 “문의가 너무 많아 순번을 받고 기다려야 한다”는 답만 받을 수 있었다. 이 로펌에 수십 곳의 사후 대처 문의가 한꺼번에 밀려든 터였다. 해킹 피해 기업이 사고 직후 로펌부터 찾는 것은 법이 정한 시한 때문이다. 개인정보보호법상 정보 유출을 안 때부터 72시간 안에 개인정보보호위원회나 한국인터넷진흥원(KISA)에 신고하고 피해자에게 알려야 한다. 늦으면 제재가 커지는 만큼 서둘러 대비책을 마련하려는 것이다. 보안업계에도 예방·대응 문의가 빗발치고 있다. 보안업체 스틸리언은 지난달 초 금융권 해킹 이후 AI 공격·방어 솔루션과 모의해킹 등 세 분야 수요가</content:encoded>
+      <title>고기·생선 안 먹는 90세 보디빌더…근육 유지 비결은? [노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134955593/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134955593/2</guid>
+      <pubDate>2026-11-03T11:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955516.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;고기와 생선을 먹지 않으면서도 90세까지 보디빌딩 대회에 출전하는 일본 남성이 있다. 그는 어떻게 근육을 만들고 유지할까.그가 꼽은 비결은 오랜 세월 지켜온 식습관과 꾸준한 근력운동이다. 다만 나이가 들면서 운동 방식과 단백질 섭취 방법은 조금씩 바꿨다.가나자와 도시스케 씨는 최근 스페인 산타수산나에서 열린 국제피트니스·보디빌딩연맹(IFBB) 주최 세계선수권대회에서 50세 이상 선수들이 출전하는 마스터스 부문에서 자신보다 수십 살 어린 선수들과 겨뤘다.무대 뒤에서 ‘젊은’ 경쟁자들과 함께 몸을 풀고, 근육이 더욱 선명하게 드러나도록 피부에 태닝 스프레이를 뿌린 그는 무대 조명을 받으며 근육을 뽐냈다.“다른 누구도 해보지 않은 일에 도전하는 것을 좋아한다. 무엇보다 평생 보디빌딩을 계속하고 싶다.”아들뻘 되는 선수들과 겨뤄 6위에 오른 그는 로이터 통신과 인터뷰에서 이렇게 말했다.그는 자신의 장수와 뛰어난 신체 상태를 엄격한 식습관 덕분이라고 생각한다. 수십 년 전부터 지</content:encoded>
     </item>
     <item>
-      <title>1년 30곳 뚫은 독학 해커… AI 쓰니 40일 만에 60곳 해킹</title>
-      <link>https://www.donga.com/news/Society/article/all/20261101/134946639/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261101/134946639/2</guid>
-      <pubDate>2026-11-02T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/01/134947283.1.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;예체능을 전공한 30대 남성이 인공지능(AI)을 동원해 40여 일 만에 국내 업체 60곳을 해킹했다. 유튜브와 블로그로 해킹을 독학한 그가 AI를 쓰기 전 1년간 뚫은 업체는 30곳이었는데, AI를 손에 쥔 뒤로는 하루에 한 곳 넘게 뚫었다. 전문 해커 조직의 영역이던 대규모 해킹이 AI로 인해 개인에게도 열린 것이다. 1일 보안업계에 따르면 이번 사건은 해킹법을 알려주던 AI가 이제는 공격까지 대신하는 ‘해킹의 대중화’를 보여주는 단적인 사례로 꼽힌다. 모의해킹·앱 보안 업체 스틸리언의 박찬암 대표는 “AI를 활용하면 해킹을 잘 모르는 비전공자도 중급 수준의 공격을 할 수 있을 정도로 진입 장벽이 낮아졌다”고 진단했다.● 1년간 30곳, AI 날개 달자 40일에 60곳서울경찰청 사이버수사과는 지난달 26일 해킹 조직의 총책인 32세 남성 A 씨 등 7명을 검거하고 A 씨를 구속했다고 밝혔다. 해킹은 A 씨 혼자서 했다. 나머지는 텔레그램에 ‘간단한 전화 아르바이트’ 공고를 내</content:encoded>
+      <title>바이낸스 8조원 탈취한 北해커, 블록체인 넘나들며 돈세탁 착수</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261103/134955851/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261103/134955851/1</guid>
+      <pubDate>2026-11-03T11:08:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956158.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 최대 가상화폐 거래소 바이낸스에서 약 63억 달러(약 8조5000억 원)를 탈취한 북한 해커들이 훔친 가상화폐를 여러 블록체인으로 옮기고 다른 가상화폐로 교환하는 등 추가 자금 세탁에 본격 착수한 것으로 전해졌다. 미 연방수사국(FBI)이 북한 해킹 조직의 소행으로 지목하고 관련 거래 차단을 요청했지만, 중앙 관리자가 없는 탈중앙화 서비스를 통한 자금 이동이 계속되면서 추적 및 동결에 어려움을 겪는 상황이다.2일(현지 시간) 블록체인 분석업체 체이널리시스와 룩온체인 등에 따르면 북한 해커들은 탈취한 가상화폐를 여러 블록체인의 지갑으로 나눠 보관하고 이를 다른 가상화폐로 바꾸는 방식으로 자금 세탁을 이어가고 있는 것으로 나타났다. 특히 약 97만522개의 솔라나(SOL·약 1300억 원 상당)를 비트코인으로 교환하기 시작한 것으로 전해졌다. 서로 다른 블록체인 간 가상화폐 교환을 지원하는 ‘크로스체인’ 서비스를 이용해 자금 이동 경로를 복잡하게 만드는 수법이다. 앞서 1일 가</content:encoded>
     </item>
     <item>
-      <title>“발과 발목 통증, 최신 첨단 치료로 상황별 맞춤 해결!”[건강 기상청 : 증상으로 본 질병-족부질환]</title>
-      <link>https://www.donga.com/news/It/article/all/20261031/134930974/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261031/134930974/1</guid>
-      <pubDate>2026-11-02T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/31/134930990.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기온이 내려가면서 뛰거나 걷다 족부(발과 발목)의 통증을 호소하는 사람들이 크게 늘고 있다. 잘못 디뎌 발목이 삐끗하거나 발뒤꿈치에 생긴 통증(족저근막염)으로 고생하는 이도 있고, 발에 맞지 않는 신발이나 유전적 요인 때문에 무지외반증이 심해지는 환자도 적지 않다.국내 족저근막염 환자는 2012년 약 13만8000명에서 2020년 약 25만 명으로 2배 가까이 증가했으며 특히 2030세대, 그중에서도 20대 남성 환자가 크게 늘었다.(건강보험심사평가원) 무지외반증의 경우, 2023년에 발표된 세계 여러 국가의 통합 분석 자료에 따르면 전체 유병률이 약 19%로 추정됐는데, 이 중 여성이 약 23.7%, 남성은 약 11.4%였다.과연 어떻게 하면 발과 발목에 생긴 통증과 질환을 효과적으로 치료할 수 있을까? 그에 대한 답을 얻기 위해 최기원 고려대학교 안산병원 정형외과 교수를 만났다. 최 교수는 “발과 발목이 어딘가 불편하고 통증이 2주 이상 지속된다면 그냥 지나치지 않고 전문의</content:encoded>
+      <title>SK브로드밴드 “데이터독으로 AI 서비스 코드 취약점 분석…하루 만에 모니터링 체계 전환”</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134956161/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134956161/1</guid>
+      <pubDate>2026-11-03T11:08:27.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956144.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“모니터링 체계를 이관하는 과정에서 가장 중요한 건 기존의 업무 체계가 새로운 환경에서도 어긋남 없이 맞물려 돌아가게 만드는 것이었습니다. SK브로드밴드는 하루 만에 ‘데이터독(Datadog)’으로 전환하고 엔드투엔드 가시성을 확보해 장애 대응 역량을 강화했을 뿐만 아니라, 신규 AI 서비스의 런타임 코드 취약점 분석도 이틀 만에 구현하는 성과를 거뒀습니다”서범석 SK브로드밴드 플랫폼SRE팀장은 IT동아와의 인터뷰에서 글로벌 옵저버빌리티 플랫폼 데이터독을 도입한 배경과 성과를 이같이 밝혔다. 24시간 멈추지 않는 미디어 관제 환경에서 기존 시스템을 공백 없이 전환하고 업무 연속성을 확보한 사례다.옵저버빌리티(Observability)는 시스템이 생성하는 메트릭, 로그, 트레이스 등의 데이터를 종합해 내부 상태를 파악하는 기술이다. 서버가 느려졌다는 사실을 확인하는 데 그치지 않고, 그 원인까지 추적하는 것이 핵심이다. 데이터독은 인프라 모니터링, 애플리케이션 성능 모니터링(APM</content:encoded>
     </item>
     <item>
-      <title>“괜찮겠지” 뛰었다간 심장 덜컥…갑자기 추워진 날씨, 러닝 주의</title>
-      <link>https://www.donga.com/news/Culture/article/all/20261102/134948062/1</link>
-      <guid>https://www.donga.com/news/Culture/article/all/20261102/134948062/1</guid>
-      <pubDate>2026-11-02T09:21:16.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948063.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;기온이 뚝 떨어진 날씨에도 러닝 열기는 식지 않고 있다. 하지만 차가운 공기에 몸이 충분히 적응하지 않은 상태에서 갑자기 속도를 높이거나 장거리를 달리면 심장에 예상보다 큰 부담이 가해질 수 있다. 평소 건강하다고 자신하는 사람도 예외는 아니다.추위에 혈관 ‘꽉’…달리면 심장 부담 더 커져노승영 고려대 구로병원 순환기내과 교수는 2일 “추위에는 혈관 수축과 혈압 상승으로 심장 부담이 커져 무리한 운동을 피해야 한다. 충분한 준비운동과 단계적인 강도 조절로 안전하게 달려야 한다”며 이같이 강조했다.우리 몸은 추위에 노출되면 체온을 유지하기 위해 피부와 말초혈관을 수축시킨다. 혈관이 좁아지면서 혈관 저항이 높아지고 혈압도 상승한다. 그만큼 심장이 혈액을 내보내기 위해 감당해야 할 부담도 커진다.여기에 달리기를 시작하면 심박수가 빠르게 올라가면서 심장이 필요로 하는 산소량도 증가한다. 추위로 이미 부담이 커진 심장에 갑작스러운 고강도 운동이 더해지는 셈이다. 특히 혈관이 좁아진 사</content:encoded>
+      <title>뱃살 속 내장지방, 왜 당뇨병 위험 높일까…국내 연구진 ‘염증 단백질’ 발견 [노화설계]</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134955961/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134955961/2</guid>
+      <pubDate>2026-11-03T11:11:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955987.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;분당서울대병원과 포스텍 연구팀이 한국인 21명의 내장지방 세포핵 약 8만6000개를 분석해 비만·당뇨병과 관련된 염증 단백질 THBS1의 작용을 확인했다. 억제 실험에서는 지방조직 섬유화와 염증이 감소했으며 새로운 치료 표적 가능성이 제시됐다.</content:encoded>
     </item>
     <item>
-      <title>무릎 반월상연골판 파열, 수술보다 운동치료가 낫다? [건강팩트체크]</title>
-      <link>https://www.donga.com/news/It/article/all/20261102/134947796/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261102/134947796/2</guid>
-      <pubDate>2026-11-02T09:41:29.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134947742.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;나이가 들면서 무릎에 통증이나 불편감을 느끼는 사람이 많다. 특히 중장년층에서는 자기공명영상(MRI) 검사에서 반월상연골판이 찢어지거나 닳은 흔적이 발견되기도 한다.과거에는 이런 퇴행성 반월상연골판 파열에 관절경 수술을 시행하는 경우가 많았다. 손상된 부위를 잘라내고 다듬으면 통증을 줄이고 무릎 기능을 회복할 수 있다는 기대에서였다.하지만 최근 연구들은 수술이 반드시 최선의 선택은 아니라는 사실을 보여준다.반월상연골판은 대퇴골(허벅지 뼈)과 경골(정강이 뼈) 사이에 위치한 반달 모양의 조직으로 충격을 흡수하고 하중을 분산하는 역할을 한다. 수십 년 동안 걷고, 뛰고, 점프하는 일상적인 움직임이 반복되면서 이 조직은 서서히 마모되고, 곳곳이 갈라지거나 가장자리가 닳아 너덜너덜해진다.미국 스탠퍼드 대학교 교수이자 관절 보존 센터(Joint Preservation Center) 소장인 콘스탄스 추 박사는 최근 뉴욕타임스(NYT)와 인터뷰에서 “나이가 들면 반월상 연골은 점차 부드</content:encoded>
+      <title>현직자 만나 진로 찾는 청소년들… 기술 너머 ‘일하는 사람’ 만난다</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134955044/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134955044/1</guid>
+      <pubDate>2026-11-03T11:14:11.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955052.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대학 진학과 취업을 앞둔 청소년에게 진로는 가장 큰 고민 중 하나다. 교과서와 온라인 자료로 직업 정보를 찾을 수는 있지만, 실제 현장에서 어떤 일을 하는지, 어떤 공부와 경험이 필요한지까지 파악하기는 쉽지 않다. 관심 있는 분야가 생겨도 그 일을 하는 사람을 직접 만나 이야기를 들을 기회는 거의 없다.한국산업기술진흥원(KIAT)이 운영하는 ‘꿈틀, 산업기술아카데미’는 이런 간극을 좁히는 프로그램이다. 학생들에게 이공계 기업, 연구기관 등을 방문해 시설과 기술을 살펴볼 기회를 제공한다. 직업 정보를 검색하는 데서 한 걸음 더 나아가 실제 그 일을 하는 사람을 통해 자신의 미래를 구체적으로 그려볼 수 있게 하는 방식이다.특히 모든 견학에는 현직자가 나선다. 어떤 전공을 선택했는지, 현재 어떤 업무를 맡고 있는지, 하루 일과는 어떻게 이뤄지는지, 현장에서는 어떤 역량이 필요한지 등 학생들은 그간 궁금했던 점들에 대해 자유롭게 질문하고 탐색한다. 지난 7월 13일 경기물류고등학교 학생 3</content:encoded>
     </item>
     <item>
-      <title>“넘어지고, 중독되고, 다친다”…일상 속 손상 막을 골든타임은</title>
-      <link>https://www.donga.com/news/Society/article/all/20261102/134948462/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261102/134948462/1</guid>
-      <pubDate>2026-11-02T10:04:39.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948463.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;넘어져 다치고, 약을 잘못 먹는 등 일상 속 손상이 반복되고 있다. 질병관리청이 노인 낙상부터 청소년 의약품 오남용, 항공기 응급상황까지 생애주기별 위험요인을 겨냥한 예방교육에 나선다. 지역별 손상 위험을 데이터로 찾아 사고를 사전에 막겠다는 취지다.질병청은 2일 청주 오스코에서 ‘2026년 국가손상예방의 날 기념행사’를 열고 이날부터 6일까지 손상예방주간을 운영한다고 밝혔다. 손상예방의 날은 손상 예방에 대한 국민의 이해를 높이고 범국민적 공감대를 형성하기 위해 매년 11월 1일로 지정된 법정 기념일이다.올해 손상예방주간의 주제는제는 ‘손상 걱정 없는 건강한 사회, 함께 만드는 예방의 미래’다. 손상포럼을 비롯해 노인 낙상 예방교육, 항공사 종사자 심폐소생술 교육, 청소년 의약품 오남용 예방교육, 응급실손상환자심층조사 합동심포지엄 등이 이어진다.특히 올해는 ‘제1차 손상관리종합계획(2026~2030)’ 시행 첫해다. 질병청은 국가 차원에서 축적한 손상 감시자료를 활용해 지역별</content:encoded>
+      <title>“시험 잘 본다고 병원 일 잘하나?”…게임으로 의사 평가했더니 [더긱스]</title>
+      <link>https://www.donga.com/news/It/article/all/20261102/134951259/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261102/134951259/2</guid>
+      <pubDate>2026-11-03T11:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134951349.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가상현실(VR) 기기를 착용하자 바닥에 누워있는 심정지 환자가 나타났다. 당황스러워할 틈이 없었다. 먼저 의식을 확인하고 주위에 구급대 신고를 요청했다. 이후 곧바로 심폐소생술(CPR)에 나섰다. 환자의 상의를 제치고 가슴압박과 인공호흡을 시행했다. 다급한 사이렌 소리와 주위의 어수선함이 그대로 느껴졌다. 실제 손은 마네킹 위에 올려놓은 상태였다. 가슴압박 깊이 및 속도를 측정할 수 있는 QCPR 기술이 장착된 마네킹이 사용됐다.VR을 활용한 CPR 교육은 실제 응급상황에서의 대응 능력을 높이기 위한 새로운 교육 방식 중 하나로 주목받고 있다. 토드 창 미국 로스앤젤레스 어린이병원(CHLA) 교수는 2016년부터 의료에 VR을 접목한 연구를 진행해 왔다. 당시 소아청소년과 수련의 등 의료진을 대상으로 소아 경련 및 아나필락시스 등 응급상황에 대응해 보는 VR 교육이 진행됐다. 창 교수는 지난달 29일 ‘국제 헬스케어 메드테크 컨퍼런스’(IHMC)가 열린 분당서울대병원에서 기자와 만</content:encoded>
     </item>
     <item>
-      <title>“일조량 줄어드는 11월”…‘이것’ 찾아올 수 있어</title>
-      <link>https://www.donga.com/news/Society/article/all/20261102/134948611/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261102/134948611/1</guid>
-      <pubDate>2026-11-02T10:17:32.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948612.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;해가 짧아지는 11월에는 햇빛을 쬐는 시간이 줄면서 기분이 가라앉거나 무기력감을 느낄 수 있다. 특히 잠을 충분히 자도 피곤하고 평소보다 식욕에 변화가 있다면 계절성 우울증을 의심해 볼 필요가 있다. 단순한 기분 변화로 여기기 쉽지만 증상이 심해지면 일상생활에도 영향을 줄 수 있어 주의해야 한다.2일 의료계에 따르면 계절성 우울증은 특정 계절에 우울 증상이 나타나고 다른 계절에는 호전되는 양상을 보이는 우울장애다. 주로 가을이나 겨울에 시작해 봄이나 여름에 증상이 나아지는 경우가 많다.계절성 우울증은 일조량 감소와 관련이 있는 것으로 알려져 있다. 햇빛에 노출되는 시간이 줄어들면 수면과 각성 주기를 조절하는 생체리듬에 변화가 생기고, 기분에도 영향을 미칠 수 있기 때문이다.특히 기분 조절에 관여하는 세로토닌과 수면·각성 주기에 영향을 주는 멜라토닌의 변화가 계절성 우울증과 관련이 있는 것으로 추정된다. 다만 정확한 발병 원인은 아직 밝혀지지 않았다.계절성 우울증은 수면과 식욕</content:encoded>
+      <title>“아이팟에 총까지 쐈는데”…메모리값 폭등에 애플도 이익률 하락</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261103/134956015/2</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261103/134956015/2</guid>
+      <pubDate>2026-11-03T11:34:13.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956188.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;애플이 아이폰 판매 호조에도 메모리 반도체 가격 급등으로 연말 이익률 하락을 전망했다. 과거 애플의 납품가 인하 압박에 아이팟을 총으로 쏜 키옥시아 임원의 사연과 AI 데이터센터 수요로 뒤집힌 반도체 시장의 협상력을 살펴봤다. 애플은 AI 서비스 비용 증가도 예상했다.</content:encoded>
     </item>
     <item>
-      <title>“AI 호황 끝났나?”…모건스탠리 “9% 하락해도 큰 매수 기회”</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261102/134948261/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261102/134948261/2</guid>
-      <pubDate>2026-11-02T10:23:19.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948300.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;모건스탠리 마이크 윌슨은 AI 투자 부담과 중간선거, 유동성 악화로 미국 증시가 약 9% 조정받을 수 있다고 전망했다. 그러나 조정 이후 S&amp;P500지수의 8000선 반등을 예상했다. 반도체주 추가 하락 위험과 AI 기업들의 자금조달 여건, 닷컴버블과 다른 이유도 분석했다.</content:encoded>
+      <title>서빙 로봇 익숙해졌지만…소비자 65% “사람 정성은 대체 못 해”</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261103/134956006/2</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261103/134956006/2</guid>
+      <pubDate>2026-11-03T11:37:26.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134955856.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;엠브레인 트렌드모니터 조사에서 외식 로봇 도입 매장 이용 경험은 80.4%에 달했지만 만족도는 50.6%에 그쳤다. 음식 이동과 문제 발생 시 대처 등이 불편 사항으로 꼽혔으며, 소비자 64.6%는 사람이 제공하는 서비스에 로봇이 대체할 수 없는 정성이 담겨 있다고 답했다.</content:encoded>
     </item>
     <item>
-      <title>부산 앞바다 크루즈선서 외국인 뇌출혈…해경·병원 신속 공조로 구했다</title>
-      <link>https://www.donga.com/news/Society/article/all/20261102/134948508/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261102/134948508/2</guid>
-      <pubDate>2026-11-02T10:45:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948557.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;부산 앞바다를 항해하던 크루즈선에서 급성 뇌출혈로 쓰러진 50대 러시아인 관광객이 해경·119·지역의료기관의 신속한 응급 공조 체계 덕분에 소중한 생명을 건졌다.러시아 국적의 부리킨 잔(55) 씨는 지난달 9일 오후 5시경 부산 관광을 마치고 출항하던 크루즈선 내에서 극심한 두통과 팔 다리 마비, 의식저하를 보였다. 선내 클리닉은 당장 병원 후송이 필요하다고 판단했다. 곧이어 해양경찰 경비함정과 119구급대가 출동해 육·해상 공조로 당일 밤 10시 30분경 부산 수영구의 좋은강안병원 응급의료센터로 긴급 이송했다.병원 검사 결과 진 씨는 우측 대뇌반구에 다량의 ‘뇌내출혈’이 발생한 상황이었다. 신경외과 의료진은 심야 응급수술을 결정하고 10일 새벽 뇌출혈을 제거하기 위한 개두술 및 혈종배액술‘을 진행했다. 다행히 신속한 조치 덕분에 수술 후 뇌출혈이 점차 감소했다. 환자는 중환자실 집중 치료를 거친 후 재활의학과와의 협진으로 재활치료를 시작해 상태가 빠르게 호전됐다. 이후 의</content:encoded>
+      <title>“아침최저 0도” 초겨울 날씨…혈압 건강도 ‘비상’</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134956428/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134956428/1</guid>
+      <pubDate>2026-11-03T11:43:04.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956429.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;아침 최저 기온이 0도까지 떨어지는 등 초겨울 날씨에 혈관 건강에도 빨간 불이 켜졌다.기온이 내려가면 신체의 근육, 혈관, 신경 등이 위축되고 경직되며 신체 활동량이 줄어들고 면역력은 약해져 기존의 질병은 증상이 악화되기도 하고, 숨어있던 각종 질병이 발현되기도 한다.3일 의료계에 따르면 고혈압은 혈액이 혈관 벽에 가하는 압력이 정상 범위보다 높은 상태가 지속되는 질환을 의미한다. 일반적으로 수축기 혈압이 140㎜Hg 이상이거나 이완기 혈압이 90㎜Hg 이상인 경우로 정의한다. 고혈압은 대부분 특별한 증상이 없어 침묵의 살인자라고 부르며 합병증이 발생한 후에야 발견되는 경우가 많다.고혈압은 요즘처럼 찬바람이 세지고 일교차가 커질 때 가장 주의해야 할 대표적인 질환 중 하나다. 갑자기 차가운 날씨에 노출되면 혈관벽이 수축해 혈압이 치솟기 때문이다. 실제로 고혈압 환자의 겨울철 사망률은 여름철보다 30% 정도 높은 것으로 알려져 있다. 심혈관계가 갑자기 찾아온 추위를 감당하</content:encoded>
     </item>
     <item>
-      <title>배움에서 현장으로… AI 콘텐츠 인재 키우는 뉴콘텐츠아카데미</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261102/134938940/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261102/134938940/1</guid>
-      <pubDate>2026-11-02T11:04:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134939040.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;김형준 씨(28)는 마태오 AI 스튜디오에서 콘텐츠 기획과 연출을 맡고 있다. 마태오 AI 스튜디오는 영화·드라마·애니메이션 등 오리지널 IP를 직접 기획·제작하는 AI 콘텐츠 스튜디오로, 기획부터 제작, 후반 작업까지 생성형 AI를 활용한 ‘AI-native 제작 시스템’을 구축하고 있다. 이곳에서 AI 기술을 활용해 콘텐츠의 이야기와 시각적 표현을 설계하고, 이를 영상으로 구현하는 것이 그의 역할이다. 어떤 이야기를 전달할지 기획하는 데서 나아가 인물과 배경, 장면의 흐름을 구성하고, AI를 활용해 기존 제작 방식으로는 구현하기 어려웠던 표현을 시도한다.같은 스튜디오에서 테크니컬 아티스트(TA)로 일하는 홍재의 씨(28)는 창작자의 구상을 실제 영상으로 구현할 기술적 해법을 찾는다. 생성형 AI로 원하는 구도나 카메라 움직임을 구현하기 어려우면 다른 제작 기술을 결합해 대안을 찾고, 결과물을 비교하며 창작 의도에 가까운 장면을 만들어간다. 연출자가 콘텐츠의 방향과 시각적 표현을</content:encoded>
+      <title>[자동차와 法] ‘페달 블랙박스’보다 시급한 ‘오조작 방지장치’</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134956523/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134956523/1</guid>
+      <pubDate>2026-11-03T11:55:02.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956514.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;복잡한 첨단 기능을 결합한 자동차에 결함과 오작동이 발생하면, 원인을 특정하기 어렵습니다. 급발진 사고가 대표적인 예입니다. 자동차를 둘러싸고 벌어지는 사고 유형도 천차만별입니다. 전기차 전환을 맞아 새로 도입되는 자동차 관련 법안도 다양합니다. 이에 IT동아는 법무법인 엘앤엘 정경일 대표변호사(교통사고 전문 변호사)와 함께 자동차 관련 법과 판례를 중심으로 다양한 사례를 살펴보는 [자동차와 法] 기고를 연재합니다.지난해 경기 부천의 한 전통시장에서 1톤 화물트럭이 상인과 시민들을 덮쳐 4명이 숨지고 18명이 다치는 참사가 발생했습니다. 사고 직후 세간의 이목은 또다시 ‘급발진 여부’에 쏠렸지만, 논란은 채 하루도 가지 않아 종결됐습니다. 역설적이게도 사고 트럭 운전석 발밑에 운전자 스스로 장착해 둔 ‘페달 블랙박스’가 있었기 때문입니다. 당시 ‘페달 오조작 방지장치’가 달려 있었다면 어땠을까요?차량 결함 가능성과 운전자의 착각·변명 사이오늘날 스마트폰이나 컴퓨터가 오류를 일으</content:encoded>
     </item>
     <item>
-      <title>AI끼리 마피아 게임 붙였더니…‘이 학습법’ 쓰면 승률 24% 높았다</title>
-      <link>https://www.donga.com/news/It/article/all/20261102/134948731/2</link>
-      <guid>https://www.donga.com/news/It/article/all/20261102/134948731/2</guid>
-      <pubDate>2026-11-02T11:04:36.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948893.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;UNIST 연구팀이 상대 AI의 정체를 추리하도록 훈련하는 학습법 ‘마르보’를 개발했다. 마피아 게임 승률이 기존보다 24%포인트 높았다.</content:encoded>
+      <title>“초코볼 양 2.5배 차이” 토핑 요거트, 포화지방 섭취 주의</title>
+      <link>https://www.donga.com/news/Economy/article/all/20261103/134956597/1</link>
+      <guid>https://www.donga.com/news/Economy/article/all/20261103/134956597/1</guid>
+      <pubDate>2026-11-03T12:10:56.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956598.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;초코볼이나 그래놀라 등을 곁들여 먹는 토핑 요거트의 토핑 양이 제품에 따라 최대 2.5배 차이 나는 것으로 나타났다. 열량은 토핑 종류에 따른 차이가 크지 않았지만, 일부 제품은 포화지방 함량이 하루 영양성분 기준치의 절반을 넘는 것으로 조사됐다.한국소비자원은 시중에 판매되는 토핑 요거트 16개 제품의 품질과 안전성, 영양성분 및 가격 등을 비교한 결과 이같이 나타났다고 3일 밝혔다.토핑 요거트는 떠먹는 요거트와 초코과자, 그래놀라, 과일 콩포트 등의 토핑을 함께 포장해 소비자가 직접 섞어 먹는 제품이다.조사 대상은 일반 요거트 13개와 그릭 요거트 3개로, 토핑 종류에 따라 초코 9개, 그래놀라 3개, 콩포트 4개로 구분됐다.시험 결과 토핑 양은 종류와 제품에 따라 차이가 있었다.초코 토핑은 6~15g으로 제품 간 최대 2.5배 차이가 났다. 그래놀라는 10~17g, 과일을 설탕 등과 함께 조려 만든 콩포트는 30~38g 수준이었다.토핑 양이 가장 많은 제품은 초코 종류</content:encoded>
     </item>
     <item>
-      <title>생성형 AI 시대, 초등학생도 저작권 배운다… 219명 ‘저작권 골든벨’ 참여</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261102/134948420/1</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261102/134948420/1</guid>
-      <pubDate>2026-11-02T11:05:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134948770.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;초등학생들이 생성형 인공지능(AI) 시대에 필요한 저작권 지식을 퀴즈로 익혔다. 문화체육관광부와 한국저작권위원회는 지난달 29일 경북 상주시 상산초등학교와 30일 경남 사천시 용산초등학교에서 ‘2026년 저작권 골든벨’을 개최했다고 밝혔다.행사에는 상산초 4학년 126명과 용산초 5·6학년 93명 등 학생 219명이 참여했다. 문제는 생성형 AI를 비롯해 영상·음악·미술 저작물 등 일상에서 접할 수 있는 저작권 관련 내용을 중심으로 출제됐다. 학생들은 사회자의 질문에 답을 적은 흰색 보드를 들어 올리며 퀴즈에 참여했다.저작권 골든벨은 한국저작권위원회가 청소년의 저작권 인식을 높이기 위해 마련한 교육 프로그램이다. 2023년 경남 진주시 무지개초등학교에서 시범 운영을 시작했으며, 이후 경남과 경북 등으로 운영 지역을 확대했다.생성형 AI 서비스 이용이 늘면서 청소년 대상 저작권 교육의 필요성도 커지고 있다. AI가 기존 저작물을 학습하거나 이를 바탕으로 새로운 이미지와 영상 등</content:encoded>
+      <title>겨울철새 고니도 사라진다…서식지 감소에 멸종위기종 지정</title>
+      <link>https://www.donga.com/news/Society/article/all/20261103/134956602/1</link>
+      <guid>https://www.donga.com/news/Society/article/all/20261103/134956602/1</guid>
+      <pubDate>2026-11-03T12:11:57.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956603.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;겨울마다 한국을 찾는 철새 ‘고니’의 월동 개체수가 서식지 감소 등으로 줄어들고 있다. 정부는 갯벌과 습지 개발로 먹이터와 휴식지가 사라지는 고니를 11월 멸종위기 야생생물로 선정했다.기후에너지환경부는 멸종위기 야생생물 Ⅰ급인 고니를 ‘이달의 멸종위기 야생생물’로 선정했다고 3일 밝혔다.고니는 몸길이 120~150㎝, 체중 3.4~7.8㎏의 대형 조류다. 성체는 온몸이 흰색이고 부리와 다리는 검은색이다. 부리 시작 부분에 노란색 무늬가 있으며 어린 개체는 회갈색 몸에 연한 분홍색 부리를 가졌다.멸종위기 야생생물 Ⅱ급인 큰고니와 생김새가 비슷하지만 몸집이 작고 부리의 노란색 부분도 상대적으로 좁다. 큰고니의 몸길이는 약 140~165㎝다.고니는 유라시아 북부와 알래스카, 캐나다 북부에서 번식하고 한국과 중국, 일본 등에서 겨울을 난다. 국내에서는 해안 하구와 호수, 간척지뿐 아니라 충주호와 팔당호 등 내륙에서도 관찰된다.주로 수생식물의 잎과 줄기, 뿌리 등을 먹으며 농경지에</content:encoded>
     </item>
     <item>
-      <title>“버그 발견시 알아서 수정”…딥시크, 자율형 ‘슈퍼 AI 에이전트’ 공개</title>
-      <link>https://www.donga.com/news/Inter/article/all/20261102/134949206/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20261102/134949206/1</guid>
-      <pubDate>2026-11-02T11:10:31.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134949207.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;중국의 인공지능(AI) 스타트업 딥시크가 여러 작업을 동시에 자율 처리하는 ‘슈퍼 AI 에이전트’ 시스템을 공개했다.2일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 딥시크는 최근 복수의 AI 에이전트를 조율해 업무 생산성의 핵심 병목 현상을 해결하는 슈퍼 에이전트를 발표했다.그동안 AI 기술은 한 사람이 동시에 감독할 수 있는 AI 에이전트 세션이 3개에서 5개 수준으로 제한돼 있어, 인간 관리자의 주의력 한계에 따라 생산성 확장에 제약이 컸다.이번 딥시크가 선보인 슈퍼 에이전트 시스템은 에이전트 간 작업을 자동으로 분배하고 업무 조율을 수행함으로써, 인간이 단순 감독에서 벗어나 최종 의사결정과 결과 검토에만 집중할 수 있도록 돕는다.중앙 역할을 하는 에이전트가 여러 독립 에이전트에게 세부 과제를 분배하면 각 에이전트가 작업 진행 상황을 중앙 에이전트에 다시 보고하는 방식으로 작동해 인간의 개입 필요성을 획기적으로 줄였다.예를 들어 에이전트가 단체 채팅 내에서 보고된 소</content:encoded>
+      <title>日GMO, 2년 전 화이트해커가 경고했는데도…대응 미흡에 해킹 피해</title>
+      <link>https://www.donga.com/news/Inter/article/all/20261103/134956753/1</link>
+      <guid>https://www.donga.com/news/Inter/article/all/20261103/134956753/1</guid>
+      <pubDate>2026-11-03T13:09:50.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956754.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;일본 정보기술(IT) 기업 GMO인터넷그룹이 2년 전 자회사 화이트해커로부터 시스템 취약점을 지적받고도 사이버 공격에 대한 대비가 미흡해 대규모 해킹 피해를 입은 것으로 드러났다.3일 니혼게이자이신문(닛케이)에 따르면 GMO인터넷그룹은 전날 2년 전 시스템 취약점을 파악했으나 근본적인 해결에 이르지 못해 피해가 확대됐다고 밝혔다.앞서 2024년 4월 GMO인터넷그룹의 자회사 GMO사이버시큐리티 바이 이에라에의 화이트해커는 GMO인터넷그룹의 시스템 보안 취약점을 지적했다.이에 GMO인터넷그룹은 같은 해 5월까지 4차례에 걸쳐 임시로 서비스를 수정했다.그러나 보안 위험에 대한 분석이 충분하지 않아 근본적인 대책을 마련하지 못한 상태가 약 2년 동안 이어졌다.구마가이 마사토시(熊谷正寿) GMO인터넷그룹 회장 겸 사장은 이날 도쿄에서 기자회견을 열고 “지적받은 사항을 서비스 운영에 반영하지 못했다는 사실을 무겁게 받아들이고 있다”며 사과했다.GMO인터넷그룹이 이번 해킹 사건과 관</content:encoded>
     </item>
     <item>
-      <title>北에 해킹당한 바이낸스, 입출금 재개하자 4.9조원 ‘썰물’</title>
-      <link>https://www.donga.com/news/Inter/article/all/20261102/134949158/1</link>
-      <guid>https://www.donga.com/news/Inter/article/all/20261102/134949158/1</guid>
-      <pubDate>2026-11-02T11:15:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/02/134949243.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;세계 최대 가상자산 거래소 바이낸스가 북한 해킹 조직의 공격으로 63억 달러(약 8조4000억 원) 규모의 가상자산을 탈취당하며 일시 중단했던 자산 인출 거래를 1일(현지 시간) 재개했다. 바이낸스는 도난 자산의 약 95%에 해당하는 금액을 자체 자금으로 확보했다고 밝혔지만, 인출 재개 이후 9시간 30분 만에 36억4000만 달러(4조9000억 원)의 자금이 순유출되는 등 이용자 불안 심리가 여실히 드러났다.이날 월스트리트저널(WSJ)에 따르면 바이낸스는 소셜미디어 X 계정을 통해 비트코인과 이더리움 등 일부 가상화폐의 인출을 재개했으며 보안 점검이 완료되는 대로 다른 자산과 네트워크의 인출도 단계적으로 허용할 방침이라고 밝혔다. 바이낸스는 또 탈취 자산의 약 95%를 자사 자산을 통해 충당했으며, 나머지 5%는 시장 유동성이 부족해 확보하는 데 시간이 걸린다고 설명했다.하지만 인출 재개 이후 9시간 30분 동안 이용자들의 출금액은 46억5000만 달러(6조2000억 원)를 기</content:encoded>
+      <title>[스타트업-ing] “피지컬AI 위한 산업용 디지털트윈, 정밀하게 구현한다” 나경건 오아시스 AIX 이사</title>
+      <link>https://www.donga.com/news/It/article/all/20261103/134956866/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261103/134956866/1</guid>
+      <pubDate>2026-11-03T13:26:30.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/03/134956835.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;오아시스에이아이엑스(OASYS AIX)는 시각특수효과(VFX) 콘텐츠 제작 노하우를 바탕으로 피지컬AI, 헬스케어, 콘텐츠 등 다양한 산업을 위한 인공지능(AI) 콘텐츠를 개발하는 기술 기업이다. 이지윤 대표가 2022년 창업한 오아시스에이아이엑스는 지난 9월 오아시스스튜디오(OASYS Studio)에서 오아시스에이아이엑스로 사명을 변경했다. 콘텐츠 전문 제작사에서 산업용 AI 콘텐츠 기술 기업으로 나아가겠다는 방향성을 명확히 하기 위함이다.오아시스에이아이엑스가 최근 가장 힘을 쏟는 분야는 로봇 학습을 위한 산업용 디지털트윈(Digital Twin)이다. 디지털트윈은 현실의 공간과 설비를 가상공간에 쌍둥이처럼 똑같이 옮긴 모델을 말한다. 로봇은 현장에 투입되기 전, 이 가상공간에서 부품 조립, 장비 분해 같은 작업을 미리 훈련할 수 있다. 오아시스에이아이엑스는 현장 촬영 영상으로 3D 공간을 사실적으로 복원한다. 이를 설계 데이터와 맞춰 가볍게 만든 뒤 물리 시뮬레이터에서 로봇이</content:encoded>
     </item>
   </channel>
 </rss>
