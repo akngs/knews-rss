@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>에이블뉴스 - 전체기사</title>
-    <link>https://www.ablenews.co.kr/rss/allArticle.xml</link>
-    <description>에이블뉴스 - 전체기사</description>
-    <lastBuildDate>2026-11-04T04:03:34.852Z</lastBuildDate>
+    <title>에이블뉴스 - 인물/단체</title>
+    <link>https://www.ablenews.co.kr/rss/S1N9.xml</link>
+    <description>에이블뉴스 - 인물/단체</description>
+    <lastBuildDate>2026-11-05T04:24:26.342Z</lastBuildDate>
     <item>
       <title>&apos;제43회 전국장애인기능경기대회&apos; 셋째날 풍경</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=233409</link>
@@ -89,20 +89,6 @@
       <content:encoded>【에이블뉴스 권중훈 기자】 한국장애인고용공단 부산직업능력개발원(원장 이운경) 부설 부산동부디지털훈련센터가 지난 15일 개소했다.부산동부디지털훈련센터는 인공지능(AI), 사물인터넷(IoT), 빅데이터 등 최신 ICT 기술의 급속한 발전 속에서 장애인의 디지털 역량을 강화하기 위해 설립됐다.온라인AI마케팅, 모바일 AI콘텐츠 관리, 디지털AI영상크리에이터, AI융합사무기술 총 4개의 훈련 과정을 개설했다. 전 분야에서 AI 기술을 중점적으로 활용, 실무에 즉시 투입 가능한 인재로 양성하는 것을 목표로 한다.훈련생들이 직업훈련에 전념할</content:encoded>
     </item>
     <item>
-      <title>가수 전유진 팬덤 ‘텐텐’, MBC &apos;가을의 기적&apos; 통해 위기가정 정기후원 동참</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234070</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234070</guid>
-      <pubDate>2026-10-22T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】가수 전유진의 공식 팬덤 ‘텐텐’이 밀알복지재단과 MBC가 공동기획한 모금방송 &apos;가을의 기적&apos;을 계기로 치료 중단 위기에 놓인 이웃들을 위한 정기후원을 이어가며 선한 영향력을 펼치고 있다. 전유진의 팬덤 ‘텐텐’ 회원들은 지난 16일 MBC &apos;가을의 기적&apos; 1부 방송 이후 밀알복지재단을 통해 자발적인 정기후원에 나서고 있다. 후원금은 의료비와 생계비 지원이 시급한 국내 위기가정을 위해 사용될 예정이다.이번 후원은 특정 금액을 한 차례 전달하는 일시후원이 아닌, 팬들이 매월 일정 금액을 꾸준히 나누는 정기후원</content:encoded>
-    </item>
-    <item>
-      <title>BF 키오스크 전면 시행, 문체부 소속·산하기관 설치율 12.7% 그쳐</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234072</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234072</guid>
-      <pubDate>2026-10-22T09:12:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】무인정보단말기에 대한 장애인 접근성 보장 의무가 공공기관에 2024년 1월부터 우선 적용되고, 올해 1월부터 민간영역까지 전면 시행됐음에도 문화체육관광부 소속·산하 기관의 배리어프리 (BF) 키오스크 설치율은 12.7% 에 그친 것으로 나타났다 .일부 기관의 교체계획은 2028~2030 년까지 이어져 , 제도를 선도해야 할 공공부문의 대응이 미흡하다는 지적이다 .22일 국회 문화체육관광위원회 소속 진선미 의원(더불어민주당)이 문화체육관광부로부터 제출받은 ‘ 기관별 키오스크 현황 및 교체계획 ’ 을 분석한 결</content:encoded>
-    </item>
-    <item>
       <title>의무만 채우고 저녁엔 뺐다, 방송사 5곳 화면해설방송 황금시간대 5% 미만 편성</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234067</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234067</guid>
@@ -150,13 +136,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234112</guid>
       <pubDate>2026-10-23T10:51:59.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】장애인 표준사업장에 대한 한국장애인고용공단의 사후관리 점검이 폭언·모욕·성폭력 등 장애인 근로자에 대한 인권침해를 조기에 발견하는 데 제대로 기능하지 못하고 있다는 지적이 제기됐다.23일 국회 기후에너지환경노동위원회 소속 박정 의원(더불어민주당)이 한국장애인고용공단으로부터 제출받은 자료에 따르면, 지난해부터 인천의 장애인 표준사업장 지에이치팩토리에서 장애인 여성 근로자가 업체 임원에게 수차례 성폭력을 당하고 출산까지 했지만 공단의 점검 과정에서는 밝혀지지 않았다.최근 5년간 공단에 적발된 장애인 인권침해 사</content:encoded>
-    </item>
-    <item>
-      <title>한국 휠체어농구, 아시안패러게임 5회 연속 메달 획득</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234133</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234133</guid>
-      <pubDate>2026-10-23T16:04:57.000Z</pubDate>
-      <content:encoded>[나고야=공동취재단] 한국 휠체어농구가 아시안패러게임 5회 연속 메달을 획득했다.한국은 23일 일본 아이치현 나고야 IG아레나에서 열린 2026 아이치·나고야 아시안패러게임 남자 휠체어농구 3·4위전에서 태국을 73-64로 꺾었다. 이로써 한국은 2010 광저우 대회 이후 5연속 메달 획득에 성공했다.이번 대회 조별리그에서 이란에 아쉽게 62-67로 패하면서 조 2위를 차지한 한국은 준결승에서 개최국 일본을 만나 39-64로 무너지며 동메달 결정전으로 밀렸다.한국은 2014년 인천 대회 이후 12년 만의 금메달 도전이 무산됐지만,</content:encoded>
     </item>
     <item>
       <title>남자 골볼, 이란에 설욕하고 8년 만의 아시안패러게임 동메달</title>
@@ -234,13 +213,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234156</guid>
       <pubDate>2026-10-26T07:49:50.000Z</pubDate>
       <content:encoded>[에이블뉴스 권중훈 기자] ‘2026 아이치·나고야 아시안패러게임’에 출전해 금 29개, 은 38개·동 33개 총 100개의 메달을 획득하며 종합 5위를 달성한 대한민국 선수단이 금의환향했다.선수단은 지난 25일 오후 6시 인천국제공항을 통해 입국, 제2터미널 A 입국장 인근에서 공항 환영식을 가졌다.환영식에는 정진완 대한장애인체육회 회장을 비롯해 박흥식 선수단장, 강대금 문화체육관광부 국장, 전선주 총감독, 이희룡 지원단장 등 300여명이 참석했으며, 대규모 선수단 입국 및 공항 여건에 따라 약식으로 진행됐다.박흥식 선수단장은 결</content:encoded>
-    </item>
-    <item>
-      <title>사회보장정보원, ‘2026 복지멤버십 수기 공모전’··11월 20일까지</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234159</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234159</guid>
-      <pubDate>2026-10-26T08:45:15.000Z</pubDate>
-      <content:encoded>[에이블뉴스 권중훈 기자] 한국사회보장정보원(원장 김현준)은 복지멤버십을 통해 필요한 복지서비스를 안내받고 실제 지원으로 이어진 국민의 생생한 경험을 발굴하기 위해 26일부터 오는 11월 20일까지 ‘2026년 맞춤형 급여 안내(복지멤버십) 수기 공모전’을 개최한다.지난해에 이어 두 번째로 열리는 이번 공모전은 복지멤버십을 통해 미처 알지 못했던 복지서비스를 발견하고, 실제 지원을 받으며 달라진 국민의 일상을 공유하기 위해 마련됐다. 이를 통해 복지멤버십의 실질적인 효과를 알리고, 더 많은 국민이 자신에게 필요한 복지서비스를 놓치지</content:encoded>
     </item>
     <item>
       <title>모두예술극장서 2026 장애예술주간 ‘모두이야기캠프’ 개최</title>
@@ -369,13 +341,6 @@
       <content:encoded>【에이블뉴스 백민 기자】 국민의힘 김정재 의원(국회 성평등가족위원장)은 28일 임산부도 장애인전용주차구역을 이용할 수 있도록 하는 ‘장애인·노인·임산부 등의 편의증진 보장에 관한 법률 일부개정법률안’을 대표 발의했다.현행법은 보행에 장애가 있는 사람의 이동편의를 보장하기 위해 장애인전용주차구역을 설치하고 관련 주차표지를 발급받은 차량에 한해 해당 구역을 이용할 수 있도록 규정하고 있다.하지만 임산부는 임신과 출산에 따른 신체적 부담으로 차량 승하차와 보행에 어려움을 겪는 경우가 많음에도 장애인전용주차구역 이용 대상에서는 제외돼 있다</content:encoded>
     </item>
     <item>
-      <title>배리어프리 피트니스 현장에서 장애인에게 선택권을 주는 질문 방식</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234121</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234121</guid>
-      <pubDate>2026-10-28T12:32:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이디다 칼럼니스트】장애인을 응대할 때 우리는 어떤 말을 가장 먼저 건넬까. 휠체어를 사용하는 사람이 이동하는 모습을 보면 “제가 밀어드릴게요”라고 말하고, 어떤 일을 하기 어려워 보이는 사람에게는 “도와드릴까요?”라고 묻기도 한다. 상대방을 배려하고 도움을 주려는 마음에서 나오는 말이다.물론 도움이 필요한 순간에 먼저 말을 건네는 것은 중요하다. 하지만 여기서 한 가지 생각해 볼 필요가 있다. 우리가 건네는 질문은 정말 상대방에게 선택권을 주고 있을까. “제가 해드릴게요”라는 말은 도움을 주겠다는 의사를 전달한다. 그러</content:encoded>
-    </item>
-    <item>
       <title>종이서류 없이 휴대전화로 장애인 자격 확인 ‘간편확인서비스’ 시행</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234249</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234249</guid>
@@ -388,41 +353,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234250</guid>
       <pubDate>2026-10-28T16:39:01.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】국회 행정안전위원회 소속 김예지 의원(국민의힘)이 장애가 있거나 장애 소견이 있는 아동이 의료기관에서 진단을 받은 이후 필요한 특수교육과 재활서비스를 적기에 이용할 수 있도록 지원체계를 강화하는 ‘장애인 등에 대한 특수교육법 일부개정법률안’과 ‘의료법 일부개정법률안’을 각각 대표발의했다고 28일 밝혔다.영유아기 장애의 조기발견과 적절한 개입은 아동의 발달과 성장에 중요한 영향을 미친다. 특히 영유아 건강검진이나 의료기관 진료 과정에서 장애 또는 장애 관련 소견이 처음 확인되는 경우가 많아, 의료현장에서 교육</content:encoded>
-    </item>
-    <item>
-      <title>우리가 수어 행사에 감옥을 만든 이유</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234243</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234243</guid>
-      <pubDate>2026-10-28T17:33:00.000Z</pubDate>
-      <content:encoded>음성언어를 사용하면 ‘감옥’에 간다.오는 10월 31일 토요일, 서울 충정로 모두예술극장에서 열리는 〈웰컴 투 데프 월드〉의 특별한 규칙이다. 문화체육관광부가 후원하고 (재)한국장애인문화예술원이 주최·주관하는 2026 장애예술주간 〈모두 이야기 캠프〉의 프로그램으로, 수어민들레가 기획과 준비 전반을 맡고 있다.‘수어감옥’은 필자와 수어민들레가 함께 제안하고 구상했다. 농인을 대화 밖에 남겨두는 소통 관행에 책임을 묻고, 함께 소통하는 방법을 배우기 위한 교육적 장치다. 수어를 모르는 참가자는 데프 월드 입국 전 10분 동안 농인과</content:encoded>
-    </item>
-    <item>
-      <title>오픈 다이얼로그의 국제적 확산과 한국 정신건강 실천의 과제</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234223</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234223</guid>
-      <pubDate>2026-10-28T17:34:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 김경식 칼럼니스트】정신건강 서비스에서 당사자의 말은 어떤 지위를 갖는가. 증상을 파악하기 위한 정보로만 취급되는가, 아니면 치료와 지원의 방향을 결정하는 근거로 존중되는가. 오픈 다이얼로그(Open Dialogue)는 이 질문을 정신건강 실천의 중심에 놓는다. 당사자와 그가 선택한 관계망, 전문가가 함께 대화하며 위기를 이해하고 지원 방향을 형성하는 접근이다. 여러 나라에서 도입과 연구가 진행되고 있지만, 그 의의와 효과를 평가할 때에는 인권적 가치, 서비스 운영의 변화, 임상적 성과를 구분해야 한다. 한국에서의 도입</content:encoded>
-    </item>
-    <item>
-      <title>“장애인 문학의 서정성과 상징성” 토론회 리뷰</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234258</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234258</guid>
-      <pubDate>2026-10-29T09:02:20.000Z</pubDate>
-      <content:encoded>【에이블뉴스 서인환 칼럼니스트】’2026 장애인문화예술축제 A+패스티벌‘의 일환으로 장애인문학포럼이 지난 15일 오후 2시 모두미술공간 세미나실(서울스퀘어 5층)에서 열렸다. 이 행사는 한국장애인문화예술단체총연합회와 2026 장애인문화예술축제조직위원회가 주최하고, 사단법인 한국장애예술인협회(회장 석창우)가 주관했고 문화체육관광부와 한국장애인문화예술원, 에이블뉴스가 후원한 행사였다. 좌장은 에이블뉴스 백종환 대표이사가 맡았다.순서는 기조발표, 주제발표1, 주제발표2, 사례발표, 종합토론 순으로 진행됐다. 기조발표는 ‘장애인문학의 가치</content:encoded>
-    </item>
-    <item>
-      <title>장애인이 사용하는 보조공학기기는 왜 비싸고 투박할까</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234177</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234177</guid>
-      <pubDate>2026-10-29T09:08:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 김양희 칼럼니스트】 누군가에게 스마트폰은 몇 년마다 새 모델로 바뀌고, 자동차는 더 안전하고 편리해진다. 인공지능은 우리의 질문에 답하고, 로봇은 사람을 대신해 일한다. 세상은 기술의 발전을 자랑한다.그런데 장애인이 사용하는 보조공학기기의 시간은 마치 다른 세상에 머물러 있는 것처럼 느껴진다. 전동휠체어, 자세유지기구, 의사소통기기, 특수마우스, 높낮이 조절 침대, 이동보조기기 등 장애인의 삶에 꼭 필요한 장비들은 여전히 비싸고, 무겁고, 디자인은 투박하며, 사용성도 만족스럽지 못한 경우가 많다.왜 그럴까.기술이 부족해</content:encoded>
-    </item>
-    <item>
-      <title>재정난의 청구서를 중증장애인 노동자에게 떠넘기지 마라</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234267</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234267</guid>
-      <pubDate>2026-10-29T10:29:29.000Z</pubDate>
-      <content:encoded>사)한국장애인자립생활센터총연합회와 사)경기도장애인자립생활센터총연합회는 경기도의 2027년 예산 편성 과정에서 권리중심 중증장애인 맞춤형 공공일자리 사업비가 전액 미반영된 데 대해 강력히 규탄한다. 경기도는 중증장애인 노동자 880명을 실직 위기로 내모는 예산 미반영을 즉각 바로잡아야 한다.권리중심일자리는 일반 노동시장에 진입하기 어려운 중증장애인이 권익옹호, 문화예술, 장애인식개선 활동을 수행하며 임금을 받는 일자리다. 자신의 장애를 드러내고 시민과 소통하며 지역사회를 변화·발전시키는 노동의 가치를 단순 매출이나 작업 속도로만 평가</content:encoded>
     </item>
     <item>
       <title>한국마사회 등 14개 기업·기관, ‘2026년 장애인고용 우수사업주’ 선정</title>
@@ -444,13 +374,6 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234277</guid>
       <pubDate>2026-10-29T17:03:30.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】한국철도공사(코레일) 신입사원 장애인 전형으로 사무영업 직무에 최종 합격한 시각장애인이 직무와 무관한 시력검사를 요구받고 최종 불합격 통보를 받자, 이는 &quot;장애인 차별&quot;이라며 합격 취소를 철회해달라는 법정 다툼을 시작했다. 당사자는 &quot;직원 수가 3만명에 달하는 코레일에서 시각장애인이 일할 자리 하나 없다는 이유로 이름 모를 직원의 전화 한 통에 채용이 물거품이 됐다&apos;면서 &quot;다시는 공기업 채용 과정에서 장애인 차별이 일어나지 말아야 할 것&quot;이라면서 소송에 나서기로 했다.장애인차별금지추진연대(장추련) 등은 29</content:encoded>
-    </item>
-    <item>
-      <title>장애당사자의 삶에서 본 의공기사와 보조공학사</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234257</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234257</guid>
-      <pubDate>2026-10-29T17:35:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 김경식 칼럼니스트】일본 의료 드라마 『의룡』에는 천재 외과의사와 함께 어려운 수술에 도전하는 여러 전문가가 등장한다. 의공학을 공부한 필자는 그중 의료기기를 담당하는 인물에게도 시선이 간다. 평생 병원과 밀접한 관계를 유지해야 하는 장애당사자로서, 치료의 안전을 뒷받침하는 기술이 나의 삶과도 연결되어 있기 때문이다. 병원에서 안전하게 진료받는 일과 진료실을 나선 뒤 일상을 살아가는 일은 필자에게 이어진 문제다.『의룡 2』에 등장하는 노무라 히로토의 직종은 일본의 임상공학기사다. 일본에서 임상공학기사는 의사의 지시 아래</content:encoded>
     </item>
     <item>
       <title>장애예술인 인터뷰, 꽃과 몸을 그리는 정열의 화가 &apos;박진&apos;</title>
@@ -544,34 +467,6 @@
       <content:encoded>【에이블뉴스 이슬기 기자】서울시가 훈맹정음 반포 100주년과 ‘한글 점자의 날’(11월 4일)을 맞아 오는 4일부터 6일까지 사흘간 시각장애인의 정보 습득 환경에 대한 이해를 높이고 점자의 가치를 다각도로 체험할 수 있는 다채로운 기념 행사를 서울갤러리와 서울도서관에서 개최한다.훈맹정음은 일제강점기였던 1926년 송암 박두성 선생이 시각장애인을 위해 창안한 6점식 한글점자로, 세종대왕의 훈민정음처럼 당대 사회·문화적 가치를 반영해 국가등록문화재로 지정된 소중한 문화유산이다.이번 행사는 한글 점자(훈맹정음)의 원리와 역사적 가치를 알</content:encoded>
     </item>
     <item>
-      <title>기아 초록여행, 올림픽공원서 제3회 ‘초록여행 x 런피아노’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234316</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234316</guid>
-      <pubDate>2026-11-02T09:03:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】기아의 대표 사회공헌사업 ‘초록여행’이 지난달 30일 서울 올림픽공원 88호수 수변무대에서 제3회 ‘여행하는 선율: 기아 초록여행 x 런피아노’를 성황리에 개최했다.이번 음악회는 ‘2026년 서울시 장애인복지관 직원교류의 날’과 연계해 진행됐으며, 장애인의 일상을 가장 가까운 곳에서 묵묵히 돕고 있는 복지 현장 종사자들에게 진심 어린 감사와 응원의 메시지를 전하고자 마련됐다.‘기아 초록여행 x 런피아노’는 기아 초록여행과 피아니스트 박종화 교수의 이동형 콘서트 프로젝트 ‘런피아노’가 함께하는 찾아가는 야외</content:encoded>
-    </item>
-    <item>
-      <title>장애인먼저, 장애인식개선 팝업북 ‘신기해, 재밌어’ 무료 배포</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234311</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234311</guid>
-      <pubDate>2026-11-02T09:04:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】장애인먼저실천운동본부가 장애인식개선 팝업북 ‘신기해 재밌어’를 위해 오는 10일부터 선착순으로 신청받아 무료 배부한다고 2일 밝혔다.‘신기해, 재밌어’는 장애의 다양성을 통해 서로를 이해하는 내용을 담은 유치원과 초등학교 저학년 대상의 교육용 팝업북이다.장애인식개선 팝업북은 장애인먼저실천운동본부와 삼성물산이 2020년부터 공동 기획해 배포하고 있으며, 현직 교사가 기획위원으로 참여해 내용의 완성도를 높이고 있다. 또한 삼성물산 임직원과 가족이 팝업북 제작에 자원봉사에 참여하고 있다.올해는 총 535권이 배포</content:encoded>
-    </item>
-    <item>
-      <title>대한뇌졸중장애인협회 창립 첫해 성과 공유‥내년 정회원 100명 확보 목표</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234308</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234308</guid>
-      <pubDate>2026-11-02T09:04:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】대한뇌졸중장애인협회가 지난 1일 충남 천안시 청년센터 불당이음에서 2026년 임원 워크숍을 개최, 창립 첫해의 주요 사업 성과를 평가하는 한편 2027년도 협회 운영 방향과 중점 추진과제를 논의했다.이번 워크숍에는 회장과 부회장, 사무국장, 이사 등 주요 임원들이 참석해 협회 창립 이후 추진해 온 사업을 돌아보고, 조직의 지속 가능한 성장과 당사자 중심 활동의 발전 방향에 대해 의견을 나눴다.협회는 지난 2월 창립 이후 뇌졸중 장애인 당사자들이 직접 참여하는 조직 운영체계를 마련하고, 공식 홈페이지와 네이버</content:encoded>
-    </item>
-    <item>
-      <title>장애인도서관, 7일 ‘발달장애 가족을 위한 가족 치유 및 역량 강화 워크숍’ 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234314</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234314</guid>
-      <pubDate>2026-11-02T10:50:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 국립장애인도서관(관장 직무대리 홍승표)은 오는 7일 오후 1시부터 국립중앙도서관 국제회의장에서 발달장애 자녀와 그 가족을 위한 문화·체험 행사인 ‘발달장애 가족을 위한 가족 치유 및 역량 강화 워크숍’을 개최한다.이번 행사는 ‘쉬운 정보로 모두가 누리는 하루’라는 주제로 발달장애인과 가족이 일상생활 및 자립에 필요한 지식정보를 직접 경험하고 참여하여 정서적 유대감을 높이고 일상생활에서 필요한 정보와 자립 역량을 키울 수 있도록 마련됐다. 행사에는 발달장애 자녀(초·중·고)와 부모를 비롯해 가족, 지원인 등이</content:encoded>
-    </item>
-    <item>
       <title>서울장애인근로자지원센터, ‘나, 출근했어요!’ 일터 인증샷 이벤트 진행</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234318</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234318</guid>
@@ -586,39 +481,11 @@
       <content:encoded>【에이블뉴스 이슬기 기자】창작공동체 무적의무지개가 장애인 배우의 창작 주체성과 장애 재현의 문제를 다루는 신작 ‘연출을 찾아온 등장인물’을 오는 13일부터 15일까지 대학로 이음아트홀에서 공연한다.‘연출을 찾아온 등장인물’은 루이지 피란델로의 ‘작가를 찾는 6인의 등장인물’을 오마주한 메타연극이다. 비장애인 배우들이 장애인을 연기하고 있는 리허설 현장에 실제 중증장애인 배우 4명이 ‘인물 1~4’로 등장하면서 이야기가 시작된다.장애인 배우들은 자신들의 역할을 대신 연기하고 있는 비장애인 배우와 연출에게 묻는다.“비장애인이 우리를 연</content:encoded>
     </item>
     <item>
-      <title>한국농아인협회 채태기 전 회장 제기 ‘해임·제명 효력정지 신청’ 각하</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234321</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234321</guid>
-      <pubDate>2026-11-02T10:54:12.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 채태기 전 한국농아인협회(이하 한농협) 회장이 한농협을 상대로 낸 임원 해임·회원 제명 결의 효력정지 가처분 신청이 각하됐다.서울남부지방법원 제51민사부는 지난 10월 30일 채태기 전 회장이 제기한 가처분 신청을 각하하고 소송비용을 채 전 회장이 부담하도록 결정했다.한농협 상벌위원회는 올해 4월 22일 ▲직무배제 임원에 대한 관리·감독 의무 위반 ▲치앙마이 해외연수 관련 예산 전용 승인 책임 ▲한농협 운영 관리 소홀 및 신뢰 훼손 등을 사유로 채 전 회장에 대한 임원 해임 및 회원 제명 징계 조치를 의결했</content:encoded>
-    </item>
-    <item>
       <title>휠체어 눈높이에 맞춘 접수대, 서울적십자병원 유니버설디자인 공간개선</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234326</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234326</guid>
       <pubDate>2026-11-02T11:24:36.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】높은 접수대, 좁은 통로, 읽기 어려운 안내판. 휠체어 이용자와 거동이 불편한 고령자에게 불편의 연속이었던 병원 공간이 누구나 편안하게 진료받을 수 있는 곳으로 거듭났다.서울디자인재단과 서울적십자병원이 지난 10월 29일 내과 진료실과 진료대기실의 유니버설디자인(UD) 공간개선을 마쳤다고 2일 밝혔다. 서울시와 재단이 추진하는 &apos;2026 유니버설디자인 컨설팅 사업&apos;의 4개 기관 5개 과제 가운데 첫 시공 완료 사례다.서울시는 &apos;서울특별시 유니버설디자인 도시조성 기본 조례&apos;에 근거해 장애인·어르신·임산부 등</content:encoded>
-    </item>
-    <item>
-      <title>소아마비 당사자의 건강과 삶을 말하다, ‘2026 소아마비 공청회’ 13일 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234329</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234329</guid>
-      <pubDate>2026-11-02T13:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】경기도남부 지역장애인보건의료센터가 오는 13일 오후 3시부터 5시까지 한국프레스센터 19층 매화홀에서 ‘소아마비와 함께, 인생의 다음 장을 건강하게 – 2026 소아마비 당사자의 건강과 삶을 말하다’를 주제로 ‘2026 소아마비 공청회’를 개최한다.이번 공청회는 한국장애인보건의료협의회와 국회의원 김예지 의원실이 공동 주최하고, 한국보건의료연구원(NECA), 환자중심의료기술최적화연구사업단(PACEN), 경기도남부 지역장애인보건의료센터가 공동 주관한다.공청회에서는 고령기에 접어드는 소아마비 당사자의 건강과 일상</content:encoded>
-    </item>
-    <item>
-      <title>행정 경험 쌓아 법원 취업‥중증장애인 맞춤형 직무모델 결실</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234126</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234126</guid>
-      <pubDate>2026-11-02T13:56:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 “더 열심히 일하고 잘 적응해 장애인 일자리가 늘어나는 데 보탬이 되고 싶습니다.”청주지방법원 총무과에서 행정지원 업무를 맡고 있는 시간제일반임기제공무원 이창배 씨(51세, 지체장애)의 바람이다.한국장애인개발원(이하 개발원)과 법원행정처는 중증장애인 맞춤형 직무모델을 개발하고 채용과 직장 적응을 연계하는 협력사업을 추진해 왔다. 이창배 씨는 장애인일자리사업에서 행정 경험을 쌓은 뒤 법원행정처 중증장애인 시간제일반임기제공무원으로 채용된 사례다.양 기관은 올해 신규 임용자의 초기 직장 적응과 장기근속을 위한 현</content:encoded>
-    </item>
-    <item>
-      <title>휠체어 타고 학교 누빈 학생들, &apos;학교 접근성 공익데이터&apos; 법·제도과제 제안</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234337</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234337</guid>
-      <pubDate>2026-11-02T13:58:29.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】학생과 교사가 직접 휠체어를 타고 측정한 학교 접근성 데이터를 바탕으로, 장애학생과 장애교원이 학교에 &apos;들어가는 것&apos;을 넘어 학교생활에 온전히 참여할 수 있게 하는 법·제도 개선 과제가 국회에서 논의된다.장애당사자를 포함한 시민 참여로 일상 장애접근성 데이터를 수집하고 민관을 설득해 현장 접근성을 높여 온 사단법인 무의는 오는 6일 오후 2시 국회에서조국혁신당 강경숙 의원실 주최로 &apos;모모탐사대 학교 접근성 개선 정책토론회&apos;를 연다.토론회에는 무의와 공익법단체 두루, 실천교육교사모임, 함께하는장애인교원노동조합</content:encoded>
     </item>
     <item>
       <title>장애인 화장실 설치 의무대상 확대가 필요한 이유-①</title>
@@ -635,32 +502,11 @@
       <content:encoded>【에이블뉴스 이복남 객원기자】우리나라에서 법적 장애인은 오랫동안 15가지 유형이었으나 2026년 7월 1일부터 췌장장애인이 포함되어 현재는 16가지 유형이다.대부분의 장애는 일부분을 상실하거나 기능이 저하되어 장애인등록을 하게 되는데 심장장애인은 그것이 쉽지 않다. 호흡기나 신장 등은 두 개이기 때문에 살아있는 사람의 하나를 이식할 수 있으나 심장은 누구에게나 하나뿐이기 때문에 살아있는 사람에게서 하나를 이식할 수도 없다.그럼에도 장애유형 속에 심장애인이 있다. 심장장애인등록은 2000년 1월 1일부터 시행되었다.심장장애인(心臟障碍</content:encoded>
     </item>
     <item>
-      <title>전남직능원, 함평군거주시설 이용 장애인들과 ‘국향대전’ 가을 나들이</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234347</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234347</guid>
-      <pubDate>2026-11-02T16:30:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 한국장애인고용공단 전남직업능력개발원(원장 양해철)은 2일 함평군장애인거주시설(사회복지법인 무지개재단) 이용 장애인들과 함께 ‘2026 대한민국 국향대전’을 방문하고 원내 직업체험관을 견학하는 시간을 가졌다.이번 나들이를 통해 참가자들은 형형색색의 국화 작품과 다양한 전시물을 관람하며 가을 축제의 즐거움을 나눴다. 이후 전남직업능력개발원으로 이동해 원내 직업체험관의 주요 시설과 직업훈련 환경을 살펴보았다.전남직업능력개발원 정경순 행정지원실장은 “앞으로도 지역 내 유관기관과 지속적으로 소통하고 협력하며 장애인과</content:encoded>
-    </item>
-    <item>
       <title>장애예술인협회, 장애예술인 10인 이야기 ‘누구?! 시리즈’ 발간‥총 58종</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234345</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234345</guid>
       <pubDate>2026-11-02T16:31:54.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】한국장애예술인협회가 2026년 문학적 초상화 프로젝트 누구?!시리즈 10종을 발간했다고 2일 밝혔다.의문과 감탄을 동시에 나타내는 기호, 로고 인테러뱅(interrobang)의 ‘누구?!시리즈’는 궁금증이 감탄으로 변하게 하는 이야기를 담은 작은 인문학도서로 2016년부터 발간하고 있다. 목표는 총 100종이며, 올해 시리즈 49~58호를 발간했다.2026년 누구시리즈 주인공 10인은 △문학의 강남국, 김경숙, 최윤정 △미술의 박진, 김현우, 이순화 △음악의 차인홍, 양하은 △대중예술의 이창훈, 양서연이다.</content:encoded>
-    </item>
-    <item>
-      <title>장애예술인협회, 장애예술인 10인 이야기 ‘누구?! 시리즈’ 발간‥총 58종</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234345</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234345</guid>
-      <pubDate>2026-11-02T16:31:54.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애예술인협회가 2026년 문학적 초상화 프로젝트 누구?!시리즈 10종을 발간했다고 2일 밝혔다.의문과 감탄을 동시에 나타내는 기호, 로고 인테러뱅(interrobang)의 ‘누구?!시리즈’는 궁금증이 감탄으로 변하게 하는 이야기를 담은 작은 인문학도서로 2016년부터 발간하고 있다. 목표는 총 100종이며, 올해 시리즈 49~58호를 발간했다.2026년 누구시리즈 주인공 10인은 △문학의 강남국, 김경숙, 최윤정 △미술의 박진, 김현우, 이순화 △음악의 차인홍, 양하은 △대중예술의 이창훈, 양서연이다.</content:encoded>
-    </item>
-    <item>
-      <title>항공사의 장애인 안내서비스, 중증장애인의 눈높이에서 달라져야</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234324</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234324</guid>
-      <pubDate>2026-11-02T17:27:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 조현대 칼럼니스트】지난 10월 29일, 한 장애인단체를 통해 제주 여행을 떠나기 위해 김포공항 국내선에 도착했다. 사전에 교통약자 지원센터에 도움을 요청했고, 포티케어 서비스를 이용하기 위해 지하철역에서 공항으로 이동하는 과정에서 직원의 안내를 기다렸다. 그러나 정해진 시간에 약속한 직원이 나오지 않아 불편을 겪었다.포티케어 서비스는 중증장애인뿐만 아니라 어린이, 어르신 등 이동에 어려움을 겪는 다양한 교통약자가 이용하는 서비스다. 이용자가 많다 보니 장애인이 도움을 요청하더라도 서비스를 받기까지 상당한 시간이 걸릴 수</content:encoded>
     </item>
     <item>
       <title>항공사의 장애인 안내서비스, 중증장애인의 눈높이에서 달라져야</title>
@@ -677,53 +523,11 @@
       <content:encoded>【에이블뉴스 김경식 칼럼니스트】아동의 재활과 발달지원이 거주지역에서 안정적으로 이어지려면 권역별 중점 의료시설과 광역·전국 단위의 바우처 연계가 함께 갖춰져야 한다. 필요한 전문서비스를 지역에서 제공하고, 행정구역을 넘거나 이사하더라도 지원이 이어지도록 해야 한다. 의료시설의 배치와 사회서비스의 재정을 함께 설계할 때, 가족이 감당해 온 이동과 돌봄 부담을 줄일 수 있다.2025년 한 공중파 방송사가 소개한 목포의 한 아동 가족은 이 문제를 구체적으로 보여준다. 보도 당시 아홉 살이던 아동은 서울에서 입원 재활치료를 받고 있었고,</content:encoded>
     </item>
     <item>
-      <title>재활난민 해소를 위한 권역별 중점 의료시설과 바우처 연계</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234305</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234305</guid>
-      <pubDate>2026-11-02T17:30:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 김경식 칼럼니스트】아동의 재활과 발달지원이 거주지역에서 안정적으로 이어지려면 권역별 중점 의료시설과 광역·전국 단위의 바우처 연계가 함께 갖춰져야 한다. 필요한 전문서비스를 지역에서 제공하고, 행정구역을 넘거나 이사하더라도 지원이 이어지도록 해야 한다. 의료시설의 배치와 사회서비스의 재정을 함께 설계할 때, 가족이 감당해 온 이동과 돌봄 부담을 줄일 수 있다.2025년 한 공중파 방송사가 소개한 목포의 한 아동 가족은 이 문제를 구체적으로 보여준다. 보도 당시 아홉 살이던 아동은 서울에서 입원 재활치료를 받고 있었고,</content:encoded>
-    </item>
-    <item>
-      <title>기아 초록여행, 장애인가정 ’2027년 새해 여행‘ 지원‥15일까지 접수</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234354</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234354</guid>
-      <pubDate>2026-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】기아가 대표 사회공헌 사업 &apos;초록여행&apos;을 통해 2027년 1월 새해 첫 여행을 떠날 장애인 가족 18가정을 모집한다고 3일 밝혔다.여행은 제주 항공여행(3가정), 국립자연휴양림 여행(6가정), 맞춤형 경비여행(9가정) 등 3개 유형으로 운영된다. 선정 가정에는 휠체어 탑승이 가능한 초록여행 차량과 함께 유형별로 항공권, 숙박, 여행 경비 등이 지원된다. 신청은 11월 15일까지 초록여행 누리집(greentrip.kr)과 전용 앱에서 받는다.장애인 가족에게 여행 준비는 목적지를 고르는 일에서 끝나지 않는다.</content:encoded>
-    </item>
-    <item>
       <title>장애예술 비평 포럼 ‘장애예술 평장 - 모두예술을 해부하다’ 10일 개최</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234353</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234353</guid>
       <pubDate>2026-11-03T09:00:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】한국장애인문화예술원(장문원)이 오는 10일 오후 1시 서울 대학로 이음센터 5층 이음아트홀에서 2026년 장애예술 비평 포럼 ‘장애예술 평장(評場) - 모두예술을 해부하다’를 개최한다.이번 포럼은 장애예술의 창작 활동과 발표 기회가 확대되는 가운데 장애예술의 현재를 비평적 관점에서 살펴보고 앞으로의 발전 방향을 모색하기 위해 마련됐다. 특히 문학·미술·음악 분야의 연구자와 장애예술인이 한자리에 모여 각 분야의 창작 현장과 연구 성과를 공유하고, 장애예술의 예술적 가치와 비평 담론을 함께 논의한다.‘장애예술인</content:encoded>
-    </item>
-    <item>
-      <title>‘제12회 경기도 발달장애인가족 체육대회’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234350</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234350</guid>
-      <pubDate>2026-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인부모회 경기도지회·경기도발달장애인스포츠연맹과 한국장애인부모회 광주시지부가 지난 10월 31일 탄벌체육관에서 ‘제12회 경기도 발달장애인가족 체육대회’를 진행했다.이날 국은주 경기도의원, 김성기 경기도의원, 김현덕 경기도의원, 임창휘 경기도의원, 박관열 광주시 시장, 소병훈 국회의원, 경기도장애인체육회 백경열 사무처장과 더불어 경기도 및 광주시 내 유관 단체장들이 내빈으로 참석하여 자리를 빛냈다.이번 체육대회는 지역사회 발전과 장애인복지 증진에 기여한 유공자에 대해 경기도지사 표창(고양시장애인부모회</content:encoded>
-    </item>
-    <item>
-      <title>성민복지관, 발달장애인 독립주거 지원 10주년 세미나 ‘나는 별일 없이 산다’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234349</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234349</guid>
-      <pubDate>2026-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】성민복지관이 지난 2일 여의도 이룸센터 이룸홀에서 발달장애인 독립주거 지원 10주년 기념 세미나 ‘나는 별일 없이 산다’를 개최했다.이번 세미나는 평생과정설계에 기반한 통합적 주거지원 실천 10년을 돌아보고, 장애인이 지역사회에서 자신이 원하는 삶을 살아가기 위한 지원 방향을 모색하고자 마련됐다.양인숙 성민복지관장은 인사말을 통해 “성민복지관의 발달장애인 독립주거 지원 10년은 발달장애인이 자신의 삶을 선택하고, 지역사회 안에서 원하는 일상을 살아갈 수 있도록 함께 고민하고 실천해 온 시간”이라며 “누군가에</content:encoded>
-    </item>
-    <item>
-      <title>장애예술 비평 포럼 ‘장애예술 평장 - 모두예술을 해부하다’ 10일 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234353</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234353</guid>
-      <pubDate>2026-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인문화예술원(장문원)이 오는 10일 오후 1시 서울 대학로 이음센터 5층 이음아트홀에서 2026년 장애예술 비평 포럼 ‘장애예술 평장(評場) - 모두예술을 해부하다’를 개최한다.이번 포럼은 장애예술의 창작 활동과 발표 기회가 확대되는 가운데 장애예술의 현재를 비평적 관점에서 살펴보고 앞으로의 발전 방향을 모색하기 위해 마련됐다. 특히 문학·미술·음악 분야의 연구자와 장애예술인이 한자리에 모여 각 분야의 창작 현장과 연구 성과를 공유하고, 장애예술의 예술적 가치와 비평 담론을 함께 논의한다.‘장애예술인</content:encoded>
-    </item>
-    <item>
-      <title>성민복지관, 발달장애인 독립주거 지원 10주년 세미나 ‘나는 별일 없이 산다’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234349</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234349</guid>
-      <pubDate>2026-11-03T09:00:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】성민복지관이 지난 2일 여의도 이룸센터 이룸홀에서 발달장애인 독립주거 지원 10주년 기념 세미나 ‘나는 별일 없이 산다’를 개최했다.이번 세미나는 평생과정설계에 기반한 통합적 주거지원 실천 10년을 돌아보고, 장애인이 지역사회에서 자신이 원하는 삶을 살아가기 위한 지원 방향을 모색하고자 마련됐다.양인숙 성민복지관장은 인사말을 통해 “성민복지관의 발달장애인 독립주거 지원 10년은 발달장애인이 자신의 삶을 선택하고, 지역사회 안에서 원하는 일상을 살아갈 수 있도록 함께 고민하고 실천해 온 시간”이라며 “누군가에</content:encoded>
     </item>
     <item>
       <title>기아 초록여행, 장애인가정 ’2027년 새해 여행‘ 지원‥15일까지 접수</title>
@@ -740,46 +544,11 @@
       <content:encoded>2027년도 에이블뉴스 칼럼니스트 공개 모집장애인 곁을 든든하게 지켜주는 대안언론 에이블뉴스가 2027년 한 해 동안 고정으로 칼럼을 연재해 주실 수 있는 분들을 찾습니다.■모집 기간: 2026년 11월 3일(화요일)~11월 18일(수요일)■모집 분야-최신 장애인 이슈를 다룰 수 있는 분-장애인 운동 현장 이야기를 나눌 수 있는 분-자신의 자립생활 이야기를 나눌 수 있는 분-장애인 관련 방송, 영화 등 미디어 비평을 하실 수 있는 분-해외 장애인 소식을 전할 수 있는 분-장애인 관련 노동, 교육 칼럼을 쓰실 수 있는 분-법률 전문가</content:encoded>
     </item>
     <item>
-      <title>2027년도 에이블뉴스 칼럼니스트 공개 모집··11월 18일까지</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234313</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234313</guid>
-      <pubDate>2026-11-03T09:03:00.000Z</pubDate>
-      <content:encoded>2027년도 에이블뉴스 칼럼니스트 공개 모집장애인 곁을 든든하게 지켜주는 대안언론 에이블뉴스가 2027년 한 해 동안 고정으로 칼럼을 연재해 주실 수 있는 분들을 찾습니다.■모집 기간: 2026년 11월 3일(화요일)~11월 18일(수요일)■모집 분야-최신 장애인 이슈를 다룰 수 있는 분-장애인 운동 현장 이야기를 나눌 수 있는 분-자신의 자립생활 이야기를 나눌 수 있는 분-장애인 관련 방송, 영화 등 미디어 비평을 하실 수 있는 분-해외 장애인 소식을 전할 수 있는 분-장애인 관련 노동, 교육 칼럼을 쓰실 수 있는 분-법률 전문가</content:encoded>
-    </item>
-    <item>
-      <title>“경기도 장애인 권리중심 일자리 중증장애인 생존권, 예산 복원하라”</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234348</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234348</guid>
-      <pubDate>2026-11-03T09:04:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】경기도장애인자립생활센터총연합회(경자연)가 지난 2일 경기도청 광교신청사 앞에서 기자회견을 갖고, “경기도 장애인 권리중심형 일자리 예산 복원”을 촉구했다.이번 기자회견은 지난 10월 발표된 2027년도 장애인 권리중심형 일자리 예산이 기존 127억 원에서 0원으로 전액 삭감된 데 대해 강력히 항의하고, 중증장애인 노동자의 고용 안정과 사업의 지속적인 운영을 촉구하기 위해 마련됐다.장애인 권리중심형 일자리는 일반 노동시장에 진입하기 어려운 중증장애인이 권익옹호, 문화예술, 장애인식개선 등의 활동을 통해 노동의</content:encoded>
-    </item>
-    <item>
       <title>성민복지관, &apos;제4회 발달장애인 블링블링 볼링대회&apos; 17일 개최</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234360</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234360</guid>
       <pubDate>2026-11-03T10:25:00.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】성민복지관이 오는 17일 서울 노원구 소재 볼링장에서 &apos;제4회 발달장애인 블링블링 볼링대회&apos;를 개최한다.이번 대회는 성민복지관, 광운대학교 RISE사업단, 24시 블랙홀볼링장 석계점이 공동 주최하고 성민복지관이 주관하며, 광운대학교 상담복지정책대학원 사회복지학과와 서울교통공사 나눔봉사단이 협력한다.올해로 4회째를 맞는 이번 대회는 발달장애인의 문화·여가활동 기회를 확대하고, 스포츠를 통한 성취감 향상과 지역사회 교류를 지원하기 위해 마련됐다. 특히 지역사회 기관과의 지속적인 협력을 통해 장애인과 비장애인이</content:encoded>
-    </item>
-    <item>
-      <title>성민복지관, &apos;제4회 발달장애인 블링블링 볼링대회&apos; 17일 개최</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234360</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234360</guid>
-      <pubDate>2026-11-03T10:25:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】성민복지관이 오는 17일 서울 노원구 소재 볼링장에서 &apos;제4회 발달장애인 블링블링 볼링대회&apos;를 개최한다.이번 대회는 성민복지관, 광운대학교 RISE사업단, 24시 블랙홀볼링장 석계점이 공동 주최하고 성민복지관이 주관하며, 광운대학교 상담복지정책대학원 사회복지학과와 서울교통공사 나눔봉사단이 협력한다.올해로 4회째를 맞는 이번 대회는 발달장애인의 문화·여가활동 기회를 확대하고, 스포츠를 통한 성취감 향상과 지역사회 교류를 지원하기 위해 마련됐다. 특히 지역사회 기관과의 지속적인 협력을 통해 장애인과 비장애인이</content:encoded>
-    </item>
-    <item>
-      <title>꿈꾸는베프, 시각장애인 10인이 직접 만든 ‘창작곡 발표회’ 8일 진행</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234358</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234358</guid>
-      <pubDate>2026-11-03T10:26:35.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】배리어프리 문화예술단체 꿈꾸는베프가 오는 8일 오후 5시 아이보리움에서 시각장애인 10명의 창작곡을 공개하는 음악 발표회를 연다.꿈꾸는베프는 올해 한국장애인문화예술원의 후원을 받아 ‘쓰고 노래하는 장벽 없는 제작소’라는 시각장애인 대상 음악 교육 프로그램 진행했다. 4월부터 10월까지 진행된 20차시의 교육에서 작사, 기타, 보컬까지 다양한 음악 교육을 진행했다.시각장애인 참여자들은 자신의 이야기를 가사로 표현하고 AI 작곡 기술을 활용해 곡을 완성한 뒤, 직접 노래를 녹음해 음원으로 제작하는 과정까지 함께</content:encoded>
-    </item>
-    <item>
-      <title>보이스아이, 인쇄물도 AI가 읽고 요약 &apos;SGA VE Code v3.0&apos; 출시</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234356</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234356</guid>
-      <pubDate>2026-11-03T10:26:39.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】SGA솔루션즈의 자회사 보이스아이가 인공지능(AI)을 적용한 보이스코드 리더 앱 ‘SGA VE Code v3.0(이하 SGA VE Code)’을 출시했다고 3일 밝혔다.‘SGA VE Code’는 인쇄물 내용을 음성으로 변환해 제공하는 음성변환 바코드 ‘보이스코드’의 모바일 애플리케이션이다. 이번 신제품은 기존 ‘보이스아이’ 앱에 AI 기술을 접목해 음성 안내 및 독음 기능을 고도화하고 AI 기반 요약 기능을 적용한 것이 특징이다.이를 통해 시각장애인과 저시력자, 다문화가정 등 정보취약계층을 비롯한 다양한 사</content:encoded>
     </item>
     <item>
       <title>보이스아이, 인쇄물도 AI가 읽고 요약 &apos;SGA VE Code v3.0&apos; 출시</title>
@@ -796,53 +565,11 @@
       <content:encoded>【에이블뉴스 이슬기 기자】국회 행정안전위원회 소속 김예지 의원(국민의힘)이 충청북도 대상 국정감사에서 도내 행정복지센터의 장애물 없는 생활환경(BF) 인증 미비 문제를 지적함에 따라, 충청북도가 144개 BF 미인증 행정복지센터 대상 4단계 인증 추진계획을 마련한 것으로 확인됐다. 앞서 김 의원은 지난 10월 20일 충청북도를 대상으로 진행된 국회 행정안전위원회 국정감사에서 도내 행정복지센터의 낮은 BF 인증률을 지적했다.김 의원이 보건복지부로부터 제출받은 자료에 따르면, 충청북도 내 153개 행정복지센터 중 BF 인증을 받은 곳은</content:encoded>
     </item>
     <item>
-      <title>김예지 의원 국감 지적, 충북도내 행정복지센터 BF 인증 추진계획 마련</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234355</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234355</guid>
-      <pubDate>2026-11-03T10:26:42.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】국회 행정안전위원회 소속 김예지 의원(국민의힘)이 충청북도 대상 국정감사에서 도내 행정복지센터의 장애물 없는 생활환경(BF) 인증 미비 문제를 지적함에 따라, 충청북도가 144개 BF 미인증 행정복지센터 대상 4단계 인증 추진계획을 마련한 것으로 확인됐다. 앞서 김 의원은 지난 10월 20일 충청북도를 대상으로 진행된 국회 행정안전위원회 국정감사에서 도내 행정복지센터의 낮은 BF 인증률을 지적했다.김 의원이 보건복지부로부터 제출받은 자료에 따르면, 충청북도 내 153개 행정복지센터 중 BF 인증을 받은 곳은</content:encoded>
-    </item>
-    <item>
-      <title>개발원 대구센터, 발달장애인 일상 속 인권침해 예방 위한 종사자 교육 진행</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234359</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234359</guid>
-      <pubDate>2026-11-03T10:34:56.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인개발원 대구광역시장애아동·발달장애인지원센터(이하 대구센터)가 지난 2일 대구교통공사 지하 1층 교육장에서 대구지역 발달장애인 유관기관 종사자 70명을 대상으로 인권교육을 실시했다.이번 교육은 종사자가 일상적인 지원 과정에서 발달장애인의 인권을 살피고 존중하며, 인권침해와 학대 상황에 대응할 수 있도록 마련됐다. 교육은 지원자의 시선과 태도를 돌아보는 인권감수성과 실제 사례를 통한 인권침해·학대 대응 방법을 중심으로 진행됐다.대전광역시장애인가족지원센터 최명진 센터장은 인권감수성을 실천하는 과정으로 ‘</content:encoded>
-    </item>
-    <item>
       <title>실로암시각장복, SK이노베이션과 함께 점자도서관 새 단장</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234361</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234361</guid>
       <pubDate>2026-11-03T11:05:15.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】실로암시각장애인복지관이 2026년 한글점자 ‘훈맹정음’(訓盲正音) 반포 100주년을 맞아 지난 2일 실로암시각장애인복지관 4층 북라운지에서 ‘실로암점자도서관 리모델링 완공 기념식’을 개최했다.이번 기념식은 SK이노베이션과 함께 이어온 나눔의 성과를 되돌아보고, 새롭게 조성된 독서문화 공간의 출발을 알리기 위해 마련됐다.이번 도서관 리모델링은 SK이노베이션 계열 구성원들이 매월 기본급의 1%를 자발적으로 모아 조성한 ‘1%행복나눔기금’의 지원을 받아 추진됐으며, 사회복지공동모금회(사랑의열매)를 통해 진행됐다.</content:encoded>
-    </item>
-    <item>
-      <title>실로암시각장복, SK이노베이션과 함께 점자도서관 새 단장</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234361</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234361</guid>
-      <pubDate>2026-11-03T11:05:15.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】실로암시각장애인복지관이 2026년 한글점자 ‘훈맹정음’(訓盲正音) 반포 100주년을 맞아 지난 2일 실로암시각장애인복지관 4층 북라운지에서 ‘실로암점자도서관 리모델링 완공 기념식’을 개최했다.이번 기념식은 SK이노베이션과 함께 이어온 나눔의 성과를 되돌아보고, 새롭게 조성된 독서문화 공간의 출발을 알리기 위해 마련됐다.이번 도서관 리모델링은 SK이노베이션 계열 구성원들이 매월 기본급의 1%를 자발적으로 모아 조성한 ‘1%행복나눔기금’의 지원을 받아 추진됐으며, 사회복지공동모금회(사랑의열매)를 통해 진행됐다.</content:encoded>
-    </item>
-    <item>
-      <title>“880명 중 한 명도 해고 용납 못 해” 경기도 권리중심일자리 예산 보장 촉구</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234364</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234364</guid>
-      <pubDate>2026-11-03T11:35:24.000Z</pubDate>
-      <content:encoded>【에이블뉴스 백민 기자】 경기도 권리중심공공일자리의 내년도 예산 반영 여부가 확정되지 않자 장애인단체들이 중증장애인 노동자 880명 가운데 단 한 명의 해고도 받아들일 수 없다며 예산 보장을 촉구했다.전국권리중심중증장애인맞춤형공공일자리협회 경기지부(이하 전권협 경기지부)와 경기장애인차별철폐연대(이하 경기장차연)는 3일 오전 10시 경기도청 1층 로비에서 ‘경기도 권리중심공공일자리 2027년도 예산 보장 강력 촉구 기자회견’을 개최했다.11월 3일부터 12월 17일까지 열리는 경기도의회 정례회에 맞춰 진행된 이번 기자회견은 내년도 권</content:encoded>
-    </item>
-    <item>
-      <title>제주도 관광약자접근성안내센터, &apos;놀멍 쉬멍, 제주 한바퀴&apos; 안내책자 발간</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234365</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234365</guid>
-      <pubDate>2026-11-03T11:47:55.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】제주특별자치도 관광약자접근성안내센터가 관광약자의 접근 가능한 관광지를 수록한 안내책자를 발간했다고 3일 밝혔다.이번 안내책자는 ‘놀멍 쉬멍, 제주 한바퀴’를 주제로 바쁜 일상에서 벗어나 제주의 자연을 여유롭게 경험하고자 여행지를 선택하고 방문하는 데 참고할 수 있는 정보를 담았다.안내책자는 센터 방문 시 무료로 배부받을 수 있으며, 현장 방문이 어려운 경우 센터 전화(1566-4669)를 통해 우편(착불)으로 신청할 수 있다.또한 공식 웹사이트 &apos;이지제주(easyjeju.net)&apos;의 발간물 다운로드 게시판에</content:encoded>
-    </item>
-    <item>
-      <title>내년 대구시 최중증 발달장애인 20명 통합돌봄 주말·공휴일 연속지원 도입 쾌거</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234366</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234366</guid>
-      <pubDate>2026-11-03T11:52:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】대구지방선거장애인차별철폐연대(이하 연대)가 3일 대구광역시청 동인청사 앞에서 기자회견을 갖고, 내년 대구시 예산안 성과로 최중증 발달장애인 통합돌봄 서비스 이용자의 주말·공휴일 연속지원 등의 예산이 반영됐다고 환영 입장을 밝혔다.이는 가족에게 떠넘겨진 돌봄을 지자체가 공적으로 책임지겠다는 것으로 정부보다 앞선 행보라는 평가다.제9회 지방선거를 겨냥해 조직된 연대는 선거 기간 동안 5대 과제, 35개 세부정책을 담은 정책요구안을 만들어 추경호 대구시장과 정책협약을 체결한 이후 1인 시위, 대구시와의 면담과 협</content:encoded>
     </item>
     <item>
       <title>한국점자도서관, 한글점자 창제 100주년 기념 책자 제작·배포</title>
@@ -852,60 +579,11 @@
       <content:encoded>【에이블뉴스 이슬기 기자】한국점자도서관이 한글점자 창제 100주년을 맞아 문화체육관광부 &apos;2026년 점자출판시설 지원사업&apos;의 지원을 받아 기념 책자 &apos;손끝으로 읽는 빛의 언어 — 점자, 세상을 밝히는 6개의 점&apos;을 제작·배포한다고 3일 밝혔다.이번 책자는 한글점자의 역사와 가치를 널리 알리고, 점자에 대한 올바른 인식을 높이기 위해 기획됐다. 아울러 시각장애인의 정보 접근권과 누구도 소외되지 않는 포용 사회의 중요성에 대해 사회적 공감대를 넓히는 데 목적이 있다.책자는 점자의 탄생에서 출발해 한글점자 ‘훈맹정음’, 송암 박두성 선생</content:encoded>
     </item>
     <item>
-      <title>한국점자도서관, 한글점자 창제 100주년 기념 책자 제작·배포</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234367</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234367</guid>
-      <pubDate>2026-11-03T11:56:04.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국점자도서관이 한글점자 창제 100주년을 맞아 문화체육관광부 &apos;2026년 점자출판시설 지원사업&apos;의 지원을 받아 기념 책자 &apos;손끝으로 읽는 빛의 언어 — 점자, 세상을 밝히는 6개의 점&apos;을 제작·배포한다고 3일 밝혔다.이번 책자는 한글점자의 역사와 가치를 널리 알리고, 점자에 대한 올바른 인식을 높이기 위해 기획됐다. 아울러 시각장애인의 정보 접근권과 누구도 소외되지 않는 포용 사회의 중요성에 대해 사회적 공감대를 넓히는 데 목적이 있다.책자는 점자의 탄생에서 출발해 한글점자 ‘훈맹정음’, 송암 박두성 선생</content:encoded>
-    </item>
-    <item>
-      <title>대구 범어역 아트웨이서 발달장애인 작가 30명 ‘꿈의 색으로 나를 그리다’ 전시</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234370</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234370</guid>
-      <pubDate>2026-11-03T13:15:00.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】발달장애인자립지원협회가 오는 20일까지 대구 도시철도 2호선 범어역 지하도에 위치한 대구 아트웨이 오픈갤러리C에서 발달장애인 작가들의 작품 전시회 ‘꿈의 색으로 나를 그리다’를 개최한다.이번 전시는 발달장애인 주간활동서비스 이용자들이 ‘내가 되고 싶은 나’를 주제로 자신의 꿈과 미래를 예술로 표현하고, 장애와 비장애의 경계를 넘어 서로의 삶을 이해할 기회를 만들고자 기획됐다.발달장애인 작가 30명이 참여해 수채화나 아크릴 등 다양한 미술 재료와 색을 탐색하고 자신이 표현하고 싶은 꿈과 생각을 담은 개인 작품</content:encoded>
-    </item>
-    <item>
-      <title>개발원 경북센터,  ‘영유아 조기개입서비스 경상북도 지역 외부전문가 교육’ 성료</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234368</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234368</guid>
-      <pubDate>2026-11-03T13:15:40.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】한국장애인개발원 경상북도장애아동·발달장애인지원센터(이하 경북센터)가 지난달 31일 대구교통공사 반월당 회의실에서 ‘영유아 조기개입서비스 경상북도 지역 외부전문가 교육’을 실시했다.이번 교육은 영유아 조기개입서비스에 참여하는 외부전문가의 사업 이해도를 높이고, 가족중심 양육코칭 실무역량을 강화하기 위해 마련됐다. 포항·경주·안동·영주·문경·경산 등 경북지역에서 활동하는 외부전문가 31명이 참석했다.교육에서는 가족 및 영유아 발달평가, 개별화가족지원계획(IFSP) 수립·적용, 가족중심 양육코칭 기법, 서비스 제</content:encoded>
-    </item>
-    <item>
-      <title>안내견이 있다는 이유로 카페에서 출입을 거부 당했어요</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234346</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234346</guid>
-      <pubDate>2026-11-03T13:20:09.000Z</pubDate>
-      <content:encoded>어떤 내용일까요? 1. 안내견*이 카페에 들어올 수 없다며 거절당했어요.2. 정당한 이유 없이 안내견 출입을 막을 수 없어요.3. 안내견과 함께 가게에 들어가는 것은 법으로 정해진 권리예요.* 안내견: 장애인의 안전한 이동을 돕거나 위험을 알려주는 훈련된 개를 말해요. &apos;도우미견&apos;이라고도 불러요. 안내견은 카페에 들어올 수 없다며 거절당했어요지난 10월 24일, 시각장애인* 선생님과 안내견, 그리고 동료 선생님 등 20명이 서울의 한 카페에 갔어요. 이들은 ‘함께하는장애인교원노동조합*’이라는 단체에서 만난 선생님들이에요.* 함께하는</content:encoded>
-    </item>
-    <item>
       <title>강북커리어플러스센터, 취업 발달장애인 참여 ‘취업준비 워크북’ 발간</title>
       <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234371</link>
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234371</guid>
       <pubDate>2026-11-03T14:02:30.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】강북커리어플러스센터가 센터를 통해 취업한 발달장애인들이 직접 제작에 참여한 ‘발달장애인의 취업을 준비하는 나의 첫걸음, 취업준비 워크북’을 발간했다고 3일 밝혔다.이번 워크북은 취업지원의 대상이었던 발달장애인들이 자신의 경험을 후배들과 나누는 주체로 참여했다는 점에서 의미가 크다. 워크북에 수록된 ‘취업 선배들의 한마디’에는 “충분히 쉬어야 긴장하지 않고 잘 할 수 있어요”, “질문을 잘 듣고, 질문에 맞게 대답해요” 등 실제 면접을 경험한 취업자들의 생생하고 현실적인 조언이 담겨져있다.총 5개 장으로 구성</content:encoded>
-    </item>
-    <item>
-      <title>강북커리어플러스센터, 취업 발달장애인 참여 ‘취업준비 워크북’ 발간</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234371</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234371</guid>
-      <pubDate>2026-11-03T14:02:30.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】강북커리어플러스센터가 센터를 통해 취업한 발달장애인들이 직접 제작에 참여한 ‘발달장애인의 취업을 준비하는 나의 첫걸음, 취업준비 워크북’을 발간했다고 3일 밝혔다.이번 워크북은 취업지원의 대상이었던 발달장애인들이 자신의 경험을 후배들과 나누는 주체로 참여했다는 점에서 의미가 크다. 워크북에 수록된 ‘취업 선배들의 한마디’에는 “충분히 쉬어야 긴장하지 않고 잘 할 수 있어요”, “질문을 잘 듣고, 질문에 맞게 대답해요” 등 실제 면접을 경험한 취업자들의 생생하고 현실적인 조언이 담겨져있다.총 5개 장으로 구성</content:encoded>
-    </item>
-    <item>
-      <title>장애아동 위탁부모·노인요양시설 차량도 &apos;장애인주차구역&apos; 이용 가능</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234372</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234372</guid>
-      <pubDate>2026-11-03T14:03:16.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】앞으로 보행상 장애가 있는 아동을 위탁 양육하는 보호자도 장애인전용주차구역 주차표지를 발급받을 수 있게 된다. 노인 주·야간보호서비스 제공기관도 주차표지 발급 대상에 포함된다.보건복지부는 이 같은 내용을 담은 &apos;장애인·노인·임산부 등의 편의증진 보장에 관한 법률 시행령&apos; 개정안이 3일 국무회의에서 의결됐다고 밝혔다.이번 개정으로 가정위탁 장애아동과 주·야간보호서비스 이용 어르신 등이 장애인전용주차구역을 이용할 수 있게 되었으며, 시설 특성에 맞지 않는 편의시설 설치 의무가 합리적으로 조정된다.이번 시행령은</content:encoded>
-    </item>
-    <item>
-      <title>서울시각장복, 점자의 날 기념 &apos;배리어프리 우리동네&apos; 청소년 AI 포스터 온·오프라인 전시</title>
-      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234374</link>
-      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234374</guid>
-      <pubDate>2026-11-03T14:46:12.000Z</pubDate>
-      <content:encoded>【에이블뉴스 이슬기 기자】서울시각장애인복지관이 훈맹정음 반포 100주년을 맞아, 장애와 비장애의 경계를 허무는 청소년 AI 포스터 공모전 전시회 &apos;Barrier-Free 우리 동네 : 다정함을 입력하세요&apos;를 개최한다고 3일 밝혔다.“우리가 매일 오가는 골목과 횡단보도, 버스 정류장에 ‘다정함’이라는 프롬프트를 한 줄 입력해 본다면 우리 동네는 어떤 모습일까?” 이번 전시는 누구나 이동과 일상에서 배제되지 않고, 서로 다른 속도와 모습 그대로 자연스럽게 어우러지는 동네를 함께 그려보자는 취지에서 기획됐다.출품작들은 청소년들이 AI라는</content:encoded>
     </item>
     <item>
       <title>서울시각장복, 점자의 날 기념 &apos;배리어프리 우리동네&apos; 청소년 AI 포스터 온·오프라인 전시</title>
@@ -1193,6 +871,328 @@
       <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234398</guid>
       <pubDate>2026-11-04T11:57:46.000Z</pubDate>
       <content:encoded>【에이블뉴스 이슬기 기자】한국장애인재활협회가 전북특별자치도장애인재활협회와 함께 지난 3일, 전북대학교 학술문화관에서 ‘CRPD 기반 전북 장애인 통합돌봄과 장애청년 자립’을 주제로 RI Korea 컨퍼런스를 개최했다.전국 RI Korea 위원들과 전북 지역의 장애인 200여 명이 참석한 이번 컨퍼런스는 장애인권리협약(CRPD) UN 채택 20주년을 맞아 정부 및 지방자치단체가 CRPD를 장애인 정책에 어떻게 반영하고 이행하고 있는지를 점검하고 평가하는 자리로 컨퍼런스 참석자들은 한목소리로 정부와 지자체가 CRPD를 구체적이고 세심하</content:encoded>
+    </item>
+    <item>
+      <title>훈맹정음 반포 100주년, 점자법 개정안 발의 환영한다</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234399</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234399</guid>
+      <pubDate>2026-11-04T11:58:51.000Z</pubDate>
+      <content:encoded>한국시각장애인연합회는 훈맹정음 반포 100주년을 맞아 김예지 국회의원이 대표발의한 점자법 개정안을 적극 환영한다.1926년 11월 4일 송암 박두성 선생이 세상에 알린 훈맹정음은 시각장애인에게 지식과 정보의 세계를 열어준 문자 혁명이었다. 점자는 시각장애인이 스스로 읽고 쓰며 자신의 생각을 표현하고 타인과 소통할 수 있게 한 소중한 문화유산이자, 지난 100년간 시각장애인의 교육과 사회참여를 뒷받침해 온 중요한 문자이다.현행 점자법은 점자를 한글과 더불어 대한민국에서 사용되는 문자로서 일반활자와 동일한 효력을 지닌다고 규정하고, 공</content:encoded>
+    </item>
+    <item>
+      <title>훈맹정음 반포 100주년, 점자법 개정안 발의 환영한다</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234399</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234399</guid>
+      <pubDate>2026-11-04T11:58:51.000Z</pubDate>
+      <content:encoded>한국시각장애인연합회는 훈맹정음 반포 100주년을 맞아 김예지 국회의원이 대표발의한 점자법 개정안을 적극 환영한다.1926년 11월 4일 송암 박두성 선생이 세상에 알린 훈맹정음은 시각장애인에게 지식과 정보의 세계를 열어준 문자 혁명이었다. 점자는 시각장애인이 스스로 읽고 쓰며 자신의 생각을 표현하고 타인과 소통할 수 있게 한 소중한 문화유산이자, 지난 100년간 시각장애인의 교육과 사회참여를 뒷받침해 온 중요한 문자이다.현행 점자법은 점자를 한글과 더불어 대한민국에서 사용되는 문자로서 일반활자와 동일한 효력을 지닌다고 규정하고, 공</content:encoded>
+    </item>
+    <item>
+      <title>박호석 더불어민주당 전국장애인위원장 당선 환영</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234402</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234402</guid>
+      <pubDate>2026-11-04T13:45:13.000Z</pubDate>
+      <content:encoded>(사)한국장애인자립생활센터총연합회(이하 한자연, 상임대표 남인수)는 지난 11월 1일부터 3일까지 실시된 더불어민주당 전국장애인위원장 선거에서 박호석 후보가 당선된 것을 진심으로 축하하며 환영한다.박호석 신임 위원장은 그동안 장애인 체육과 정치 분야에서 다양한 경험을 쌓아왔다. 이러한 경험을 바탕으로 장애인 당사자의 목소리를 폭넓게 담아내고, 장애계와 정치권을 잇는 가교역할을 충실히 해주기를 기대한다. 아울러 장애인의 권익 증진과 정치참여 확대를 위한 새로운 변화에도 앞장서 주기를 바란다.그동안 장애인의 권리보장과 사회참여를 위한</content:encoded>
+    </item>
+    <item>
+      <title>박호석 더불어민주당 전국장애인위원장 당선 환영</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234402</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234402</guid>
+      <pubDate>2026-11-04T13:45:13.000Z</pubDate>
+      <content:encoded>(사)한국장애인자립생활센터총연합회(이하 한자연, 상임대표 남인수)는 지난 11월 1일부터 3일까지 실시된 더불어민주당 전국장애인위원장 선거에서 박호석 후보가 당선된 것을 진심으로 축하하며 환영한다.박호석 신임 위원장은 그동안 장애인 체육과 정치 분야에서 다양한 경험을 쌓아왔다. 이러한 경험을 바탕으로 장애인 당사자의 목소리를 폭넓게 담아내고, 장애계와 정치권을 잇는 가교역할을 충실히 해주기를 기대한다. 아울러 장애인의 권익 증진과 정치참여 확대를 위한 새로운 변화에도 앞장서 주기를 바란다.그동안 장애인의 권리보장과 사회참여를 위한</content:encoded>
+    </item>
+    <item>
+      <title>박태현 작가, 첫 목판화 개인전 ‘경계를 넘어, 일상을 새기다’ 24일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234401</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234401</guid>
+      <pubDate>2026-11-04T13:45:21.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 발달장애 예술가 박태현 작가가 오는 24일부터 30일까지 서울 종로구 인사동 갤러리H에서 첫 목판화 개인전 ‘경계를 넘어, 일상을 새기다’(Beyond Boundaries, Engraving Daily Life)를 개최한다.그동안 ‘테이프’라는 일상적인 재료를 활용해 자신만의 독창적인 색과 형태를 구축해 온 박태현 작가는 이번 전시를 통해 ‘목판화’라는 새로운 매체에 도전한다. 목판을 깎아내고 잉크를 바르고 종이에 눌러 찍어내는 반복적이고 노동집약적인 과정 속에서 작가는 창작의 외연을 넓히는 새로운 가능성을</content:encoded>
+    </item>
+    <item>
+      <title>박태현 작가, 첫 목판화 개인전 ‘경계를 넘어, 일상을 새기다’ 24일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234401</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234401</guid>
+      <pubDate>2026-11-04T13:45:21.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 발달장애 예술가 박태현 작가가 오는 24일부터 30일까지 서울 종로구 인사동 갤러리H에서 첫 목판화 개인전 ‘경계를 넘어, 일상을 새기다’(Beyond Boundaries, Engraving Daily Life)를 개최한다.그동안 ‘테이프’라는 일상적인 재료를 활용해 자신만의 독창적인 색과 형태를 구축해 온 박태현 작가는 이번 전시를 통해 ‘목판화’라는 새로운 매체에 도전한다. 목판을 깎아내고 잉크를 바르고 종이에 눌러 찍어내는 반복적이고 노동집약적인 과정 속에서 작가는 창작의 외연을 넓히는 새로운 가능성을</content:encoded>
+    </item>
+    <item>
+      <title>‘제1회 여주세종대왕장애인축제’ 성황리 마무리</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234403</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234403</guid>
+      <pubDate>2026-11-04T14:56:48.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 세종대왕의 선진적 장애인 복지 철학과 인본주의 정신을 기리는 ‘제1회 여주세종대왕장애인축제’가 지난 3일 여주실내체육관 및 세종대왕 영릉 일원에서 개최됐다.500여 명이 참가한 이번 축제는 시력을 잃어가는 위기 속에서도 백성을 향한 사랑으로 ‘훈민정음’을 창제하고 관현맹인·명통시 제도를 펼친 세종대왕의 애민 정신을 담아 기획됐다.복지네트워크협의회 유어웨이(대표이사 나종천)가 주최하고 문화체육관광부와 한국시각장애인연합회 등이 후원한 축제는 시각장애의 한계를 창조적 에너지로 승화시킨 세종대왕의 서사를 바탕으로</content:encoded>
+    </item>
+    <item>
+      <title>강서뇌성마비복지관, 로타리 글로벌보조금 지원으로 물리치료실 조성</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234404</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234404</guid>
+      <pubDate>2026-11-04T14:56:53.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 강서뇌성마비복지관(관장 박세영)은 지난 10월 28일 물리치료실 개소식을 개최했다.이날 행사에서는 사업 경과보고와 커팅식 등이 진행됐으며 새롭게 조성된 재활공간의 출발을 알렸다.이번 물리치료실은 국제로타리 글로벌보조금 지원사업을 통해 조성됐으며 RID 3640 서울강서로타리클럽과 남서울로타리클럽, RID 3523 대만화난로타리클럽이 함께 참여해 국제적인 협력과 나눔의 의미를 더했다.개소식에는 진교훈 강서구청장, 진성준 국회의원, 송순효 시의원, 김현희·오용석·양진석·문영식 구의원과 국제로타리 3640지구 서</content:encoded>
+    </item>
+    <item>
+      <title>강서뇌성마비복지관, 로타리 글로벌보조금 지원으로 물리치료실 조성</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234404</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234404</guid>
+      <pubDate>2026-11-04T14:56:53.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 강서뇌성마비복지관(관장 박세영)은 지난 10월 28일 물리치료실 개소식을 개최했다.이날 행사에서는 사업 경과보고와 커팅식 등이 진행됐으며 새롭게 조성된 재활공간의 출발을 알렸다.이번 물리치료실은 국제로타리 글로벌보조금 지원사업을 통해 조성됐으며 RID 3640 서울강서로타리클럽과 남서울로타리클럽, RID 3523 대만화난로타리클럽이 함께 참여해 국제적인 협력과 나눔의 의미를 더했다.개소식에는 진교훈 강서구청장, 진성준 국회의원, 송순효 시의원, 김현희·오용석·양진석·문영식 구의원과 국제로타리 3640지구 서</content:encoded>
+    </item>
+    <item>
+      <title>해운대IL센터, 배리어프리 뮤지컬 &apos;어린왕자&apos; 6일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234410</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234410</guid>
+      <pubDate>2026-11-04T17:10:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 해운대장애인자립생활센터(센터장 김태훈, 이하 해운대IL센터)는 오는 6일 부산디자인진흥원이벤트홀에서 중증장애예술인 양성을 위한 배리어프리 뮤지컬 &apos;2026 드림페스티벌(DREAM FESTIVAL)-어린왕자&apos;를 개최한다.이번 공연은 지역 내 중증장애인이 문화예술 활동의 주체로서 참여하고, 문화적 이질감을 해소하며, 장애인과 비장애인이 함께 어우러지는 화합의 장을 마련 하기 위해 기획됐다.올해 무대에 오르는 작품은 생텍쥐페리의 세계적인 명작을 재해석한 배리어프리 뮤지컬 어린왕자(The Little Prince)</content:encoded>
+    </item>
+    <item>
+      <title>한글 점자 ‘훈맹정음’ 100주년, 강지훈·강춘구 씨 점자 발전 유공자 표창</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234393</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234393</guid>
+      <pubDate>2026-11-04T17:12:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】문화체육관광부와 한국시각장애인연합회가 1926년에 송암 박두성 선생이 훈맹정음을 발표한 지 100주년이 되는 해를 맞아 4일 서울 마포구에 위치한 누리꿈스퀘어에서 기념식을 개최, 한글 점자 발전 유공자 표창을 수여했다.훈맹정음(訓盲正音)은 ‘눈먼 이를 가르치는 바른 소리’라는 뜻으로 송암 박두성 선생이 제자들과 비밀리에 ‘조선어점자연구위원회’를 조직해 연구∙발표한 한글 점자다.4일 ‘한글 점자의 날’은 2020년 12월 점자법 개정에 따라 지정된 법정 기념일이다.이날 기념식에서 한글 점자 발전 문체부 장관</content:encoded>
+    </item>
+    <item>
+      <title>한글 점자 ‘훈맹정음’ 100주년, 강지훈·강춘구 씨 점자 발전 유공자 표창</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234393</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234393</guid>
+      <pubDate>2026-11-04T17:12:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】문화체육관광부와 한국시각장애인연합회가 1926년에 송암 박두성 선생이 훈맹정음을 발표한 지 100주년이 되는 해를 맞아 4일 서울 마포구에 위치한 누리꿈스퀘어에서 기념식을 개최, 한글 점자 발전 유공자 표창을 수여했다.훈맹정음(訓盲正音)은 ‘눈먼 이를 가르치는 바른 소리’라는 뜻으로 송암 박두성 선생이 제자들과 비밀리에 ‘조선어점자연구위원회’를 조직해 연구∙발표한 한글 점자다.4일 ‘한글 점자의 날’은 2020년 12월 점자법 개정에 따라 지정된 법정 기념일이다.이날 기념식에서 한글 점자 발전 문체부 장관</content:encoded>
+    </item>
+    <item>
+      <title>장애물 없는 가평군 청평면종합복지관 아쉬운 장애인 편의</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234380</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234380</guid>
+      <pubDate>2026-11-04T17:16:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 박종태 객원기자】 경기도 가평군 청평면종합복지관이 지난 2일 (주)크레비즈인증원으로부터 ‘장애물 없는 생활환경(Barrier Free)’ 본인증 우수등급을 받았다.청평면종합복지관은 지하 1층-지상 3층 건물로 ▲지상 1층: 주민자치회사무실, 수유실 ▲2층: 악기연주실, 강의실 ▲3층: 다목적실 등을 갖추었다.3일 청평면종합복지관를 직접 방문해 장애인이 불편 없이 이용할 수 있을지, 장애인 편의시설을 점검했다.점검 결과 1층 주출입문은 자동문과 여닫이문이 설치됐으며, 여닫이문 앞바닥에 점자블록이 설치됐다.주출입문 옆 시각</content:encoded>
+    </item>
+    <item>
+      <title>한글 점자 반포 100주년, 점자가 일상 속 문자로 자리 잡으려면</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234363</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234363</guid>
+      <pubDate>2026-11-04T17:17:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 조현대 칼럼니스트】11월 4일은 송암 박두성 선생이 한글 점자 ‘훈맹정음’을 만들어 반포한 것을 기념하는 한글 점자의 날이다. 1926년 훈맹정음이 반포된 이후 한글 점자는 여러 차례의 개정과 변화를 거쳐 오늘날의 체계를 갖추게 되었다.특히 올해는 한글 점자 반포 100주년이라는 점에서 더욱 뜻깊다. 그러나 100년이라는 시간이 흐른 지금도 많은 시각장애인에게 점자는 여전히 배우기 어렵고 일상에서 활용하기 쉽지 않은 문자다.시각장애인 중에는 점자를 배우고 싶어도 마땅한 교육기관이나 교육 기회를 찾지 못하는 사람이 있다.</content:encoded>
+    </item>
+    <item>
+      <title>한글 점자 반포 100주년, 점자가 일상 속 문자로 자리 잡으려면</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234363</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234363</guid>
+      <pubDate>2026-11-04T17:17:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 조현대 칼럼니스트】11월 4일은 송암 박두성 선생이 한글 점자 ‘훈맹정음’을 만들어 반포한 것을 기념하는 한글 점자의 날이다. 1926년 훈맹정음이 반포된 이후 한글 점자는 여러 차례의 개정과 변화를 거쳐 오늘날의 체계를 갖추게 되었다.특히 올해는 한글 점자 반포 100주년이라는 점에서 더욱 뜻깊다. 그러나 100년이라는 시간이 흐른 지금도 많은 시각장애인에게 점자는 여전히 배우기 어렵고 일상에서 활용하기 쉽지 않은 문자다.시각장애인 중에는 점자를 배우고 싶어도 마땅한 교육기관이나 교육 기회를 찾지 못하는 사람이 있다.</content:encoded>
+    </item>
+    <item>
+      <title>사회복무요원 장애학생 폭행·성추행 천태만상, “관리·감독 강화해야”</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234407</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234407</guid>
+      <pubDate>2026-11-04T17:18:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】서울특별시의회 교육위원회 곽인혜 의원(더불어민주당)이 지난 3일 제340회 정례회 행정사무감사에서 학교 배치 사회복무요원의 복무규정 위반이 증가하고 있는 문제를 지적하며, 장애학생의 안전과 인권 보호를 위한 관리·감독체계 강화를 촉구했다.서울시교육청이 제출한 자료에 따르면 학교 배치 사회복무요원의 복무규정 위반은 2024년 11건에서 2025년 42건으로 증가했으며, 2026년에는 9월 말 기준 이미 46건에 달하는 것으로 나타났다.최근 3년간 위반 내용은 총 99건으로, 이 중 복무이탈과 근무태만 등 개인</content:encoded>
+    </item>
+    <item>
+      <title>사회복무요원 장애학생 폭행·성추행 천태만상, “관리·감독 강화해야”</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234407</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234407</guid>
+      <pubDate>2026-11-04T17:18:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】서울특별시의회 교육위원회 곽인혜 의원(더불어민주당)이 지난 3일 제340회 정례회 행정사무감사에서 학교 배치 사회복무요원의 복무규정 위반이 증가하고 있는 문제를 지적하며, 장애학생의 안전과 인권 보호를 위한 관리·감독체계 강화를 촉구했다.서울시교육청이 제출한 자료에 따르면 학교 배치 사회복무요원의 복무규정 위반은 2024년 11건에서 2025년 42건으로 증가했으며, 2026년에는 9월 말 기준 이미 46건에 달하는 것으로 나타났다.최근 3년간 위반 내용은 총 99건으로, 이 중 복무이탈과 근무태만 등 개인</content:encoded>
+    </item>
+    <item>
+      <title>장애인 화장실 설치 의무대상 확대가 필요한 이유-⓶</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234352</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234352</guid>
+      <pubDate>2026-11-04T17:19:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 서인환 칼럼니스트】 일본에서 화장실 접근이 의무라는 것은 법적으로 모든 사람이 차별 없이 화장실을 이용할 수 있도록 시설을 갖추고 개방해야 한다는 의미를 담고 있다. 이는 단순히 화장실 개수가 많다는 것을 넘어, 장애인·고령자·임산부 등 이동 약자를 포함한 모든 시민이 안전하고 편리하게 화장실에 접근할 수 있는 권리를 보장하는 체계를 뜻한다.일본도 배리어프리법 제정 당시인 지난 2006년에는 근린생활시설에서 화장실 설치가 의무화되어 있지 않았다. 배리어프리법의 원명은 ‘고령자, 장애인 등의 이동 원활화 촉진에 관한 법률</content:encoded>
+    </item>
+    <item>
+      <title>장애인 화장실 설치 의무대상 확대가 필요한 이유-⓶</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234352</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234352</guid>
+      <pubDate>2026-11-04T17:19:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 서인환 칼럼니스트】 일본에서 화장실 접근이 의무라는 것은 법적으로 모든 사람이 차별 없이 화장실을 이용할 수 있도록 시설을 갖추고 개방해야 한다는 의미를 담고 있다. 이는 단순히 화장실 개수가 많다는 것을 넘어, 장애인·고령자·임산부 등 이동 약자를 포함한 모든 시민이 안전하고 편리하게 화장실에 접근할 수 있는 권리를 보장하는 체계를 뜻한다.일본도 배리어프리법 제정 당시인 지난 2006년에는 근린생활시설에서 화장실 설치가 의무화되어 있지 않았다. 배리어프리법의 원명은 ‘고령자, 장애인 등의 이동 원활화 촉진에 관한 법률</content:encoded>
+    </item>
+    <item>
+      <title>훈맹정음 반포 100주년, 점자로 소통할 권리를 보장하는 사회로</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234411</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234411</guid>
+      <pubDate>2026-11-04T17:51:00.000Z</pubDate>
+      <content:encoded>훈맹정음 반포 100주년, 점자로 읽고 쓸 권리는 여전히 미완성2026년 11월 4일은 송암 박두성 선생이 훈맹정음을 반포한 지 100년이 되는 날이다. 일본어 점자로 글을 배워야 했던 시각장애인들에게 훈맹정음은 우리말을 읽고 쓸 수 있는 길을 열었다. 나아가 배움과 사회참여의 토대가 되었다.한글 점자는 단순한 문자 체계나 편의 수단이 아니다. 정보를 읽고 이해하며 스스로 판단하고 선택하기 위한 권리의 기반이다. 2016년 「점자법」 제정으로 점자는 일반활자와 동등한 효력을 지닌 문자로 인정받았다. 그러나 시각장애인이 일상에서 점자</content:encoded>
+    </item>
+    <item>
+      <title>훈맹정음 반포 100주년, 점자로 소통할 권리를 보장하는 사회로</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234411</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234411</guid>
+      <pubDate>2026-11-04T17:51:00.000Z</pubDate>
+      <content:encoded>훈맹정음 반포 100주년, 점자로 읽고 쓸 권리는 여전히 미완성2026년 11월 4일은 송암 박두성 선생이 훈맹정음을 반포한 지 100년이 되는 날이다. 일본어 점자로 글을 배워야 했던 시각장애인들에게 훈맹정음은 우리말을 읽고 쓸 수 있는 길을 열었다. 나아가 배움과 사회참여의 토대가 되었다.한글 점자는 단순한 문자 체계나 편의 수단이 아니다. 정보를 읽고 이해하며 스스로 판단하고 선택하기 위한 권리의 기반이다. 2016년 「점자법」 제정으로 점자는 일반활자와 동등한 효력을 지닌 문자로 인정받았다. 그러나 시각장애인이 일상에서 점자</content:encoded>
+    </item>
+    <item>
+      <title>발달장애인 장현우 작가 첫 시집 &apos;네가 알아도 슬프지 않을 것 같아서&apos; 북콘서트 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234428</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234428</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】발달장애인 작가 장현우가 첫 시집 &apos;네가 알아도 슬프지 않을 것 같아서&apos; 출판을 기념해 오는 6일 오후 2시 서울 은평구 이호철북콘서트홀에서 북콘서트를 연다.이번 북콘서트는 장현우 작가가 무대의 주인공이 되어 자신의 목소리로 직접 시를 낭독하고 독자와 이야기를 나누는 자리로, 서부장애인종합복지관이 마련하고 한국장애인문화예술원이 지원한다. 시집은 도서출판 사슴뿔에서 펴냈다.행사는 발달장애 자녀를 둔 부모들의 기타 자조모임 ‘로망스’의 축하공연으로 문을 연다. 이어 작가가 시집에 실린 시 ‘릿교대학교’, ‘병원</content:encoded>
+    </item>
+    <item>
+      <title>관현맹인전통예술단, 한글점자 반포 100주년 기념식서 창작 판소리 선보여</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234426</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234426</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】관현맹인전통예술단이 지난 4일 상암 누리꿈스퀘어에서 열린 ‘한글점자 반포 100주년 기념식’에 참여해 창작 판소리 ‘송암 박두성 이야기’를 선보였다.이번 공연은 한글점자를 창안하고 보급한 송암 박두성 선생의 삶과 업적을 전통예술로 조명하고, 한글점자가 지닌 역사적 의미와 가치를 되새기는 뜻깊은 자리로 마련됐다.한국시각장애인연합회가 주최한 이번 기념식은 송암 박두성 선생이 1926년 한글점자 ‘훈맹정음’을 반포한 지 100주년을 맞아 ‘백년의 빛, 한글점자: 새로운 내일을 여는 손끝의 울림’을 주제로 개최됐다</content:encoded>
+    </item>
+    <item>
+      <title>장애의 불편, 기술과 디자인으로 풀다 &apos;제9회 디테크&apos; 공모전 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234425</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234425</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】법무법인(유) 디엘지가 지난 4일 서울 강남구 드림플러스 강남 지하 1층 이벤트홀에서 ‘제9회 디테크(D-Tech) 기술|디자인 공모전’ 최종 심사 및 시상식을 열고 수상팀을 발표했다.디테크 공모전은 장애인이 일상에서 마주하는 불편을 기술과 디자인으로 해결할 아이디어를 찾고, 이를 실제 사업으로 키워갈 창업가를 발굴·육성하기 위해 마련됐다. 장애를 고려한 기술과 디자인의 시장 가능성을 보여주고, 사회통합의 메시지를 전하는 것도 공모전의 목표다.올해 공모전은 법무법인(유) 디엘지와 한국사회복지협의회, 엠와이소</content:encoded>
+    </item>
+    <item>
+      <title>특수교육원, 6일 ‘2026년 장애인 평생학습도시 성과공유회’ 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234424</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234424</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 국립특수교육원(원장 직무대리 강병호)은 오는 6일 국립특수교육원에서 전국 지방자치단체 및 시도평생교육진흥원 장애인 평생교육 담당자 100여 명을 대상으로 ‘2026년 장애인 평생학습도시 성과공유회’를 개최한다.이번 성과공유회는 2026년 한 해 동안 추진된 장애인 평생학습도시 사업의 주요 성과 공유와 확산을 통해 장애인 평생교육의 지속 가능한 방안을 도모하기 위해 마련됐다.전남광주통합특별시 북구, 대전광역시 대덕구의 도시 운영 사례 발표와 ‘장애유형별 이해와 평생교육’ 강연 등 지자체 간 정보 공유와 업무</content:encoded>
+    </item>
+    <item>
+      <title>발달장애 음악인 8개팀 ‘2026 아트위캔 정기연주회 ’pecial Harmony’ 10일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234415</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234415</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국발달장애인문화예술협회 아트위캔이 오는 10일 오후 2시 서울가족플라자에서 ‘2026 아트위캔 정기연주회 ’pecial Harmony’를 개최한다.올해로 14회를 맞이하는 2026 아트위캔 정기연주회는 아트위캔 소속 발달장애 음악인들이 한 해 동안 갈고닦은 기량을 선보이는 자리로, 클래식부터 국악, 성악, 대중음악에 이르기까지 다양한 장르의 무대로 꾸며진다.이번 공연에는 총 8개 팀이 출연한다. 아트위캔 현악 연합 앙상블(헬리오스, 베누스, 노바)을 비롯해 대금트리오 화연, IM 퀸텟, 그라토 플루트 앙상</content:encoded>
+    </item>
+    <item>
+      <title>발달장애인 장현우 작가 첫 시집 &apos;네가 알아도 슬프지 않을 것 같아서&apos; 북콘서트 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234428</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234428</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】발달장애인 작가 장현우가 첫 시집 &apos;네가 알아도 슬프지 않을 것 같아서&apos; 출판을 기념해 오는 6일 오후 2시 서울 은평구 이호철북콘서트홀에서 북콘서트를 연다.이번 북콘서트는 장현우 작가가 무대의 주인공이 되어 자신의 목소리로 직접 시를 낭독하고 독자와 이야기를 나누는 자리로, 서부장애인종합복지관이 마련하고 한국장애인문화예술원이 지원한다. 시집은 도서출판 사슴뿔에서 펴냈다.행사는 발달장애 자녀를 둔 부모들의 기타 자조모임 ‘로망스’의 축하공연으로 문을 연다. 이어 작가가 시집에 실린 시 ‘릿교대학교’, ‘병원</content:encoded>
+    </item>
+    <item>
+      <title>관현맹인전통예술단, 한글점자 반포 100주년 기념식서 창작 판소리 선보여</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234426</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234426</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】관현맹인전통예술단이 지난 4일 상암 누리꿈스퀘어에서 열린 ‘한글점자 반포 100주년 기념식’에 참여해 창작 판소리 ‘송암 박두성 이야기’를 선보였다.이번 공연은 한글점자를 창안하고 보급한 송암 박두성 선생의 삶과 업적을 전통예술로 조명하고, 한글점자가 지닌 역사적 의미와 가치를 되새기는 뜻깊은 자리로 마련됐다.한국시각장애인연합회가 주최한 이번 기념식은 송암 박두성 선생이 1926년 한글점자 ‘훈맹정음’을 반포한 지 100주년을 맞아 ‘백년의 빛, 한글점자: 새로운 내일을 여는 손끝의 울림’을 주제로 개최됐다</content:encoded>
+    </item>
+    <item>
+      <title>장애의 불편, 기술과 디자인으로 풀다 &apos;제9회 디테크&apos; 공모전 성료</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234425</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234425</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】법무법인(유) 디엘지가 지난 4일 서울 강남구 드림플러스 강남 지하 1층 이벤트홀에서 ‘제9회 디테크(D-Tech) 기술|디자인 공모전’ 최종 심사 및 시상식을 열고 수상팀을 발표했다.디테크 공모전은 장애인이 일상에서 마주하는 불편을 기술과 디자인으로 해결할 아이디어를 찾고, 이를 실제 사업으로 키워갈 창업가를 발굴·육성하기 위해 마련됐다. 장애를 고려한 기술과 디자인의 시장 가능성을 보여주고, 사회통합의 메시지를 전하는 것도 공모전의 목표다.올해 공모전은 법무법인(유) 디엘지와 한국사회복지협의회, 엠와이소</content:encoded>
+    </item>
+    <item>
+      <title>특수교육원, 6일 ‘2026년 장애인 평생학습도시 성과공유회’ 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234424</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234424</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 국립특수교육원(원장 직무대리 강병호)은 오는 6일 국립특수교육원에서 전국 지방자치단체 및 시도평생교육진흥원 장애인 평생교육 담당자 100여 명을 대상으로 ‘2026년 장애인 평생학습도시 성과공유회’를 개최한다.이번 성과공유회는 2026년 한 해 동안 추진된 장애인 평생학습도시 사업의 주요 성과 공유와 확산을 통해 장애인 평생교육의 지속 가능한 방안을 도모하기 위해 마련됐다.전남광주통합특별시 북구, 대전광역시 대덕구의 도시 운영 사례 발표와 ‘장애유형별 이해와 평생교육’ 강연 등 지자체 간 정보 공유와 업무</content:encoded>
+    </item>
+    <item>
+      <title>남양주다산IL센터, 중증장애인과 함께하는 ‘무장애 자립여행’ 진행</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234423</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234423</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 남양주다산장애인자립생활센터(이하 남양주다산IL센터)는 지난 3일부터 4일까지 1박 2일간 중증장애인과 활동지원사 등 총 36명이 참여한 가운데 경기도 가평 및 포천 일대에서 무장애 자립여행을 진행했다.이번 여행은 중증장애인도 자유롭게 여행할 수 있는 관광지를 발굴하고 관광지와 숙박시설, 음식점 등 여행 과정에서 마주하는 다양한 장애인 편의시설과 접근성을 직접 모니터링하기 위해 진행했다.단순한 여행을 넘어 장애인의 관점에서 여행 환경의 현실적인 한계와 개선이 필요한 부분을 확인하고 누구나 제약 없이 여행할 수</content:encoded>
+    </item>
+    <item>
+      <title>대구대 장애학과, ‘장애학의 오늘, 2026’ 온라인 연속 세미나 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234416</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234416</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】대구대학교 일반대학원 장애학과에서 배출한 박사학위자들의 연구 성과를 소개하는 ‘장애학의 오늘, 2026’ 온라인 연속 세미나가 오는 18일부터 12월 16일까지 매주 수요일 오후 7시, 총 5회에 걸쳐 개최된다.이번 세미나는 대구대학교 장애학연구소와 장애학실천연구소가 공동주최하고, 대구대학교 일반대학원 장애학과 총동문회가 후원한다.대구대학교는 2018년 국내 최초로 일반대학원에 장애학 석사과정을 개설한 데 이어 2020년 박사과정을 개설하며 국내 장애학 연구와 전문 연구자 양성의 기반을 마련해 왔다.장애학과</content:encoded>
+    </item>
+    <item>
+      <title>발달장애 음악인 8개팀 ‘2026 아트위캔 정기연주회 ’pecial Harmony’ 10일 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234415</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234415</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】한국발달장애인문화예술협회 아트위캔이 오는 10일 오후 2시 서울가족플라자에서 ‘2026 아트위캔 정기연주회 ’pecial Harmony’를 개최한다.올해로 14회를 맞이하는 2026 아트위캔 정기연주회는 아트위캔 소속 발달장애 음악인들이 한 해 동안 갈고닦은 기량을 선보이는 자리로, 클래식부터 국악, 성악, 대중음악에 이르기까지 다양한 장르의 무대로 꾸며진다.이번 공연에는 총 8개 팀이 출연한다. 아트위캔 현악 연합 앙상블(헬리오스, 베누스, 노바)을 비롯해 대금트리오 화연, IM 퀸텟, 그라토 플루트 앙상</content:encoded>
+    </item>
+    <item>
+      <title>소소한소통, 발달장애인 직무 AI 활용 인지접근성 테스터’개발 성과공유회 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234414</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234414</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】사회적기업 소소한소통이 한국장애인고용공단 ‘중증장애인 고용모델 개발∙확산사업’의 일환으로 수행한 발달장애인의 신규 직무 ‘AI 활용 인지접근성 테스터’ 개발 성과공유회를 오는 18일 개최한다.이번 행사는 지난 수개월간 진행된 훈련 과정의 성과를 공유하고, 고용 연계 방안을 모색하기 위해 마련되었으며, 직업재활 분야 또는 기업 장애인고용 관련 담당자 등을 대상으로 참가자 30명을 모집한다.‘AI 활용 인지접근성 테스터’는 발달장애인이 일상과 소비 환경에서 겪는 어려움과 당사자 관점의 경험을 전문 직무 역량으로</content:encoded>
+    </item>
+    <item>
+      <title>대구대 장애학과, ‘장애학의 오늘, 2026’ 온라인 연속 세미나 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234416</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234416</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】대구대학교 일반대학원 장애학과에서 배출한 박사학위자들의 연구 성과를 소개하는 ‘장애학의 오늘, 2026’ 온라인 연속 세미나가 오는 18일부터 12월 16일까지 매주 수요일 오후 7시, 총 5회에 걸쳐 개최된다.이번 세미나는 대구대학교 장애학연구소와 장애학실천연구소가 공동주최하고, 대구대학교 일반대학원 장애학과 총동문회가 후원한다.대구대학교는 2018년 국내 최초로 일반대학원에 장애학 석사과정을 개설한 데 이어 2020년 박사과정을 개설하며 국내 장애학 연구와 전문 연구자 양성의 기반을 마련해 왔다.장애학과</content:encoded>
+    </item>
+    <item>
+      <title>소소한소통, 발달장애인 직무 AI 활용 인지접근성 테스터’개발 성과공유회 개최</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234414</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234414</guid>
+      <pubDate>2026-11-05T09:00:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】사회적기업 소소한소통이 한국장애인고용공단 ‘중증장애인 고용모델 개발∙확산사업’의 일환으로 수행한 발달장애인의 신규 직무 ‘AI 활용 인지접근성 테스터’ 개발 성과공유회를 오는 18일 개최한다.이번 행사는 지난 수개월간 진행된 훈련 과정의 성과를 공유하고, 고용 연계 방안을 모색하기 위해 마련되었으며, 직업재활 분야 또는 기업 장애인고용 관련 담당자 등을 대상으로 참가자 30명을 모집한다.‘AI 활용 인지접근성 테스터’는 발달장애인이 일상과 소비 환경에서 겪는 어려움과 당사자 관점의 경험을 전문 직무 역량으로</content:encoded>
+    </item>
+    <item>
+      <title>[알기 쉬운 안전이야기7] 넘어짐 사고를 예방해요</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234330</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234330</guid>
+      <pubDate>2026-11-05T09:05:00.000Z</pubDate>
+      <content:encoded>한국장애인고용공단 고용개발원에서는 발달장애인이 스스로 정보를 보고 이해할 수 있도록 고용확대 및 고용안정 관련 &apos;알기 쉬운 자료&apos;를 매년 개발, 보급하고 있다. 이에 개발한 ‘발달장애인을 위한 직장생활에 꼭 필요한 안전이야기’를 연재한다.‘발달장애인을 위한 직장생활에 꼭 필요한 안전이야기’는 출·퇴근 사고 및 감염병 예방, 산업재해 유형별 안전수칙 등의 내용으로 구성되어 있으며, 발달장애인이 작업현장에서 경험하는 사례를 조사, 반영하여 만든 책이다.길을 가다가 넘어진 적이 있나요? 우리는 생활하면서 넘어지는 경우가 종종 있습니다.</content:encoded>
+    </item>
+    <item>
+      <title>국립장애인도서관장에 전영환 씨 임명‥장애인공단 출신</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234419</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234419</guid>
+      <pubDate>2026-11-05T09:06:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】문화체육관광부가 5일 자로 국립장애인도서관 신임 관장에 전영환 한국장애인고용공단 고용개발원 정책연구부장이 임명됐다고 밝혔다. 신임 관장의 임기는 2년이다.전영환 신임 관장은 1999년에 한국장애인고용공단 고용개발원 연구위원으로 입사한 이후 정책연구부장, 조사통계부장, 보조공학센터장 등을 지내며, 약 27년간 장애인 정보 접근과 고용정책 분야에서 전문성과 현장 경험을 쌓아왔다.특히 저시력 장애인을 위한 화면 확대 프로그램 ‘엘비’를 개발·보급해 장애인용 소프트웨어 국산화의 기반을 마련했으며, 보조공학센터 설립</content:encoded>
+    </item>
+    <item>
+      <title>국립장애인도서관장에 전영환 씨 임명‥장애인공단 출신</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234419</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234419</guid>
+      <pubDate>2026-11-05T09:06:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】문화체육관광부가 5일 자로 국립장애인도서관 신임 관장에 전영환 한국장애인고용공단 고용개발원 정책연구부장이 임명됐다고 밝혔다. 신임 관장의 임기는 2년이다.전영환 신임 관장은 1999년에 한국장애인고용공단 고용개발원 연구위원으로 입사한 이후 정책연구부장, 조사통계부장, 보조공학센터장 등을 지내며, 약 27년간 장애인 정보 접근과 고용정책 분야에서 전문성과 현장 경험을 쌓아왔다.특히 저시력 장애인을 위한 화면 확대 프로그램 ‘엘비’를 개발·보급해 장애인용 소프트웨어 국산화의 기반을 마련했으며, 보조공학센터 설립</content:encoded>
+    </item>
+    <item>
+      <title>경증장애인 새마을호·ITX-마음 요금 요일 상관없이 30% 할인 적용</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234417</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234417</guid>
+      <pubDate>2026-11-05T09:07:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 이슬기 기자】정부가 경증장애인의 무궁화호의 대체 수단인 ITX-마음과 새미을호의 철도 요금을 주말 상관없이 30%로 할인을 적용할 방침이다. 5일 보건복지부는 이 같은 내용이 담긴 &apos;장애인복지법 시행령 일부개정령안&apos;을 입법예고하고, 12월 9일까지 의견을 받는다.현재 중증장애인은 모든 열차에서 요일 상관없이 50% 할인이 적용된다. 경증장애인은 KTX와 새마을호(ITX-새마을, ITX-마음) 이용 시 주말을 제외한 평일만 30%를 할인받고 무궁화호는 요일 구분 없이 50%를 할인받아왔다. 이에 개정안은 기존 무궁화호 이</content:encoded>
+    </item>
+    <item>
+      <title>전기차 시대 장애인 이동권의 전국 공통 보장</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234382</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234382</guid>
+      <pubDate>2026-11-05T09:07:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 김경식 칼럼니스트】전기차 보급이 확대되는 시기에 중앙정부는 장애인이 거주지역과 관계없이 이용할 수 있는 이동·충전 지원의 기본선을 마련해야 한다. 국내 전기차 등록대수는 2024년 말 684,244대에서 2025년 말 899,101대로 늘었다. 전년 대비 약 31.4% 증가한 수치다. 이러한 전환의 성과를 평가할 때에는 장애인이 차량을 구입한 뒤 충전하고, 필요한 장소로 이동하며, 그 비용을 지속적으로 감당할 수 있는 조건을 함께 살펴야 한다.이 과제는 이미 존재하는 이동 제약 위에서 제기된다. 보건복지부의 2023년</content:encoded>
+    </item>
+    <item>
+      <title>전기차 시대 장애인 이동권의 전국 공통 보장</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234382</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234382</guid>
+      <pubDate>2026-11-05T09:07:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 김경식 칼럼니스트】전기차 보급이 확대되는 시기에 중앙정부는 장애인이 거주지역과 관계없이 이용할 수 있는 이동·충전 지원의 기본선을 마련해야 한다. 국내 전기차 등록대수는 2024년 말 684,244대에서 2025년 말 899,101대로 늘었다. 전년 대비 약 31.4% 증가한 수치다. 이러한 전환의 성과를 평가할 때에는 장애인이 차량을 구입한 뒤 충전하고, 필요한 장소로 이동하며, 그 비용을 지속적으로 감당할 수 있는 조건을 함께 살펴야 한다.이 과제는 이미 존재하는 이동 제약 위에서 제기된다. 보건복지부의 2023년</content:encoded>
+    </item>
+    <item>
+      <title>훈맹정음 100주년 우표 뒤에 숨겨진 사람들</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234413</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234413</guid>
+      <pubDate>2026-11-05T09:08:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 서인환 칼럼니스트】1926년 11월 4일, 시각장애인의 글인 점자를 ‘훈맹정음’이란 이름으로 반포한 지 100주년이 되었다. 이를 기념하여 우표가 발행되었다. 우표 발행 매수는 전지 30,000장(낱장으로는 450,000장)이다. 우체국에서는 1인에 전지 10장 이하로만 판매하고 있다.훈맹정음을 반포한 사람은 송암 박두성 선생이다. 박두성 선생을 ‘시각장애인의 세종대왕’이라 처음 부른 사람은 노산 이은상이다. 이은상은 박두성 선생 서거 후 서울맹학교에 기념비를 세우면서 연보를 정리하고 박두성 선생을 기리는 시조를 두 편</content:encoded>
+    </item>
+    <item>
+      <title>훈맹정음 100주년 우표 뒤에 숨겨진 사람들</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234413</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234413</guid>
+      <pubDate>2026-11-05T09:08:00.000Z</pubDate>
+      <content:encoded>【에이블뉴스 서인환 칼럼니스트】1926년 11월 4일, 시각장애인의 글인 점자를 ‘훈맹정음’이란 이름으로 반포한 지 100주년이 되었다. 이를 기념하여 우표가 발행되었다. 우표 발행 매수는 전지 30,000장(낱장으로는 450,000장)이다. 우체국에서는 1인에 전지 10장 이하로만 판매하고 있다.훈맹정음을 반포한 사람은 송암 박두성 선생이다. 박두성 선생을 ‘시각장애인의 세종대왕’이라 처음 부른 사람은 노산 이은상이다. 이은상은 박두성 선생 서거 후 서울맹학교에 기념비를 세우면서 연보를 정리하고 박두성 선생을 기리는 시조를 두 편</content:encoded>
+    </item>
+    <item>
+      <title>대전장애인양궁팀, ‘2026년 장애인양궁 챌린지리그’ 최종 우승</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234422</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234422</guid>
+      <pubDate>2026-11-05T09:31:56.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 대전장애인양궁팀이 ‘2026년 장애인양궁 챌린지리그’ 최종 우승의 영예를 안았다.대한장애인양궁협회가 주최·주관한 ‘2026년 장애인양궁 챌린지리그’가 지난 4일 이천선수촌 양궁장에서 열린 최종전을 끝으로 성황리에 마무리됐다.이번 대회는 장애인양궁 선수들의 실전 경기력 향상과 팀 간 경쟁을 통한 경기 경험 확대를 위해 마련됐으며 지난 6월부터 11월까지 총 4차전에 걸쳐 진행됐다.대회에는 총 11개 팀이 참가했으며, 각 팀은 여자선수 1명을 필수로 포함해 최소 3명에서 최대 6명까지 선수단을 구성했다. 기본</content:encoded>
+    </item>
+    <item>
+      <title>대전장애인양궁팀, ‘2026년 장애인양궁 챌린지리그’ 최종 우승</title>
+      <link>https://www.ablenews.co.kr/news/articleView.html?idxno=234422</link>
+      <guid>https://www.ablenews.co.kr/news/articleView.html?idxno=234422</guid>
+      <pubDate>2026-11-05T09:31:56.000Z</pubDate>
+      <content:encoded>【에이블뉴스 백민 기자】 대전장애인양궁팀이 ‘2026년 장애인양궁 챌린지리그’ 최종 우승의 영예를 안았다.대한장애인양궁협회가 주최·주관한 ‘2026년 장애인양궁 챌린지리그’가 지난 4일 이천선수촌 양궁장에서 열린 최종전을 끝으로 성황리에 마무리됐다.이번 대회는 장애인양궁 선수들의 실전 경기력 향상과 팀 간 경쟁을 통한 경기 경험 확대를 위해 마련됐으며 지난 6월부터 11월까지 총 4차전에 걸쳐 진행됐다.대회에는 총 11개 팀이 참가했으며, 각 팀은 여자선수 1명을 필수로 포함해 최소 3명에서 최대 6명까지 선수단을 구성했다. 기본</content:encoded>
     </item>
   </channel>
 </rss>
