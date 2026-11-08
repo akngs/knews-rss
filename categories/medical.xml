@@ -3,91 +3,7 @@
     <title>동아일보 - 의학과학</title>
     <link>https://rss.donga.com/science.xml</link>
     <description>동아일보 - 의학과학</description>
-    <lastBuildDate>2026-11-07T03:51:52.124Z</lastBuildDate>
-    <item>
-      <title>인력 대폭 줄인 빅테크… ‘AI 비용’ 지원도 줄인다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261105/134974523/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261105/134974523/2</guid>
-      <pubDate>2026-11-06T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134975710.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI) 인프라 비용이 급격히 늘자 글로벌 빅테크들이 직원들의 AI 이용료도 줄이기 시작했다. AI 비용이 인건비처럼 반드시 써야 하는 고정비용이 되면서 ‘사람을 몇 명 채용할지’와 ‘AI를 얼마나 사용하도록 할지’를 동시에 따지는 방향으로 인사관리 방식이 바뀌는 것이다.● 직원 AI 이용료 3분의 1 삭감한 애플 4일(현지 시간) 블룸버그통신에 따르면 애플은 지난달 일부 엔지니어들이 업무에 AI를 활용할 때 회사가 지원하는 금액을 하루 300달러에서 200달러로 줄였다. 일부 개발 조직은 하루 100달러 한도로 더 줄이는 방안을 검토 중이다. 이미 하루 100달러 한도가 적용되는 비개발 부서는 이를 25달러까지 낮출 가능성이 점쳐지고 있다. 이번에 애플이 줄인 돈은 직원들이 앤스로픽 ‘클로드’, 오픈AI ‘챗GPT’, 구글 ‘제미나이’ 등 외부 AI 모델을 쓸 때 회사가 내는 이용료다. AI는 읽고 써낸 데이터의 양을 ‘토큰’ 단위로 세어 요금을 매긴다. 개발자가 긴</content:encoded>
-    </item>
-    <item>
-      <title>AI 공격은 AI로 방어… 금융권 ‘망 분리 규제’ 전면 해제한다</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261105/134974555/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261105/134974555/2</guid>
-      <pubDate>2026-11-06T00:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134975700.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;금융 당국이 ‘인공지능(AI) 에이전트’ 해킹에 대응하기 위해 금융회사의 내부망과 외부망을 엄격하게 갈라놓은 망 분리 규제를 전면 해제한다는 방침을 발표했다. 지금 같은 망 분리 환경에서는 AI 공격을 AI로 대응하기 어렵다는 지적이 나오고 있기 때문이다. 금융 당국은 은행, 가상자산거래소 등 금융사 580여 곳의 대고객 홈페이지부터 제휴업무 소프트웨어까지 정보기술(IT) 자산도 전수 점검하기로 했다. 해킹의 추가 피해 확산을 막고 관리 부실에 대한 엄중한 책임을 묻기 위해서다. ● 보안 역량 갖춘 금융사에 망 분리 규제 해제 이억원 금융위원장은 5일 서울 영등포구 여의도 금융보안원 분원에서 이러한 내용이 담긴 ‘AI 시대 보안체계 혁신방안’을 발표했다. 금융 당국은 관계 부처와 함께 망 분리 규제 해제를 위한 추진 절차와 평가 기준을 논의한다. 망 분리를 일괄적으로 해제하는 것은 아니다. 당국은 까다로운 조건을 제시해 AI 보안 역량이 강한 금융사만 망 분리 해제를 허용한다.</content:encoded>
-    </item>
-    <item>
-      <title>“한밤중 가슴 찌릿”…검사 정상이어도 안심못해</title>
-      <link>https://www.donga.com/news/Society/article/all/20261106/134975911/1</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261106/134975911/1</guid>
-      <pubDate>2026-11-06T01:15:46.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134975912.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;낮에 운동을 하지 않았는데도 새벽에 잠을 자다 쥐어짜는 듯한 가슴통증에 잠을 깬다면 ‘심리적인 문제겠지’라고 생각하며 무심코 넘기기 쉽다. 하지만 이런 통증이 반복될 경우에는 ‘변이형 협심증’을 의심해 봐야 한다.6일 의료계에 따르면 변이형 협심증은 심장에 혈액을 공급하는 관상동맥의 평활근이 비정상적으로 과도하게 수축(경련)해 혈관 내강이 일시적으로 좁아지거나 막히면서 심근에 혈류 공급이 부족해지는 질환을 말한다. 변이형 협심증은 심장 혈관이 동맥경화로 혈관이 고정적으로 좁아지지 않아도 생긴다. 혈관이 일시적으로 심하게 수축하면서 심장으로 가는 피가 급격히 줄어든다는 점에서 차이가 있다. 동맥경화나 혈전으로 혈관이 막히는 일반 협심증과 달리, 변이형 협심증은 관상동맥에 심한 동맥경화성 협착이 없어도 발생할 수 있다. 그래서 일반 검사로는 원인을 찾기 어렵다.가장 큰 특징은 운동이나 활동과 상관없이 통증이 온다는 점이다. 주로 한밤중이나 이른 새벽, 가만히 쉬고 있을 때 흉통이</content:encoded>
-    </item>
-    <item>
-      <title>K증시 덮친 ‘블루 쓰나미’… AI 데이터센터 제동 우려에 5% 급락</title>
-      <link>https://www.donga.com/news/Economy/article/all/20261106/134975521/2</link>
-      <guid>https://www.donga.com/news/Economy/article/all/20261106/134975521/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134975974.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;미국 중간선거에서 민주당이 상·하원을 장악한 ‘블루 쓰나미’가 5일 국내 증시에 악재로 덮쳤다. 미국 다우존스지수는 전날 3.03% 상승했지만, 국내에서는 인공지능(AI) 데이터센터에 대한 규제 우려가 부각되면서 코스피와 코스닥이 나란히 5% 넘게 하락했다.  미국에서는 민주당이 주도하는 AI 데이터센터 규제 강화로 빅테크 기업들이 밑 빠진 독에 물 붓기 식의 천문학적 투자 부담을 덜 수 있다는 기대감에 아마존, 마이크로소프트, 알파벳(구글 모회사) 등의 주가가 급등했다. 반면 한국에서는 미국의 AI 인프라 투자 축소가 메모리 반도체 수요 둔화로 이어질 수 있다는 우려가 커지면서 반도체주 등이 큰 폭으로 하락했다. 향후 국내 증시는 미국 AI 데이터센터 규제 향방과 빅테크 기업들의 투자 축소 여부에 따라 당분간 변동성이 클 것이라는 관측이 나온다. ● 미 증시 상승에도 亞 시장은 하락세5일 코스피는 전 거래일 대비 5.28% 떨어진 5,383.80으로 마감했다. 삼성전자(－7.</content:encoded>
-    </item>
-    <item>
-      <title>‘1호기 탑승자 파일’ 용역업체서 유출 가능성 조사</title>
-      <link>https://www.donga.com/news/Politics/article/all/20261106/134975649/2</link>
-      <guid>https://www.donga.com/news/Politics/article/all/20261106/134975649/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134974475.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부는 이재명 대통령 전용기인 공군 1호기 탑승자 개인정보가 외교부 외부 용역업체에 의해 유출됐을 가능성에 무게를 두고 조사 중인 것으로 알려졌다.  5일 외교소식통에 따르면 주벨기에 대사관은 이 대통령의 6월 유럽 순방을 앞두고 벨기에 정부에 이 대통령 부부를 포함한 1호기 탑승자 168명의 이름과 여권번호 등이 담긴 엑셀 파일을 이메일로 전달했다. 벨기에는 당시 이 대통령의 첫 방문지였다.  이후 벨기에 정부가 이메일로 답장을 보냈는데, 이때 엑셀 파일이 첨부된 원문도 함께 주벨기에 대사관 측으로 딸려 왔다고 한다. 이메일에 답장을 하면 당초 보낸 메일에 첨부돼 보내지기 때문이다. 문제는 외교부의 외교사이버안전센터 보안관제 용역을 맡고 있는 업체가 답장에 첨부된 엑셀 파일에 대한 악성코드 검사를 하면서 불거진 것으로 전해졌다. 해당 업체가 보안 점검을 하려고 이 엑셀 파일을 악성코드 검사 사이트인 ‘바이러스 토털’에 올리는 바람에 자동으로 유료 회원용 게시판에 게재됐다는 것</content:encoded>
-    </item>
-    <item>
-      <title>조류독감 변이까지 ‘완벽 방어’하는 백신, AI가 개발</title>
-      <link>https://www.donga.com/news/Society/article/all/20261106/134975044/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261106/134975044/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134973522.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)을 활용해 전염성이 강한 바이러스 변이들을 동물실험에서 완벽히 방어한 차세대 조류독감 백신이 개발됐다. 개발된 범용 백신은 하나의 제형으로 폭넓은 바이러스 변이에 대한 면역력이 지속되도록 설계됐다. 조너선 히니 영국 케임브리지대 수의학과 교수 연구팀은 케임브리지대 창업 기업인 ‘디오신백스(DIOSynVax)’사와 함께 특정 단일 변이가 아닌 폭넓은 변이에 대한 방어력을 제공하는 새로운 조류독감 백신을 개발하고 기존 백신 대비 월등한 방어 효과를 입증한 연구 결과를 5일(현지 시간) 국제학술지 ‘셀 리포츠 메디신’에 발표했다. 조류독감 바이러스는 감염된 조류의 장기 내에 기생한다. 매년 장거리를 이동하는 철새를 통해 지구 반대편까지 전파되며 전 세계 야생동물 및 가축 사이에 확산돼 국제 공중보건을 위협한다. 사람도 감염될 수 있다. 북미에서 확산된 변이는 인체 감염 시 경증에 그쳤으나 동남아시아에서 유행한 변이에 감염된 사람은 중증 질환을 앓았고 치명률도 높았다. 특</content:encoded>
-    </item>
-    <item>
-      <title>“비만치료제로 치매-중독-암도 예방? 가능성은 살짝 보인다”</title>
-      <link>https://www.donga.com/news/Society/article/all/20261106/134975046/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261106/134975046/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134975864.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;위고비와 마운자로 등 글루카곤유사펩타이드-1(GLP-1) 계열 비만치료제가 당뇨병 치료와 체중 감량뿐 아니라 치매나 중독, 암 예방·치료 등에도 쓰일 가능성이 제시되며 기대를 모으고 있다. 전문가들은 현재까지 수행된 인간 임상시험으로는 추가 효과를 단정하기 어렵다며, 약물 작용 원리와 장기 안전성 규명이 추가로 필요하다고 입을 모았다. 국제학술지 ‘사이언스’는 5일(현지 시간) 공개한 ‘GLP-1, 그 너머’ 특집에서 비만치료제의 뇌 건강, 중독, 암 위험에 관한 연구 성과와 한계를 집중 조명했다. 특집에는 리뷰 논문 3편, 전망 논문 2편, 정책 논평 1편 등이 실렸다. GLP-1은 식사 후 장에서 분비돼 인슐린 분비를 촉진하고 식욕과 포만감을 조절하는 호르몬이다. 위고비의 성분 세마글루타이드는 GLP-1 수용체에, 마운자로의 성분 티르제파타이드는 GLP-1과 포도당 의존성 인슐린 분비 촉진 폴리펩타이드(GIP) 수용체에 작용한다. 두 약물은 임상시험에서 15∼20%의 체중</content:encoded>
-    </item>
-    <item>
-      <title>AI안경 쓰고 수학 문제 보니, 20초만에 고난도 4점짜리 풀어</title>
-      <link>https://www.donga.com/news/Society/article/all/20261106/134975523/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261106/134975523/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134975844.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;《19일 대학수학능력시험을 앞두고 교육 당국은 인공지능(AI) 스마트안경을 악용한 부정행위를 막기 위해 비상이 걸렸다. 정부는 전국 모든 시험장에 스마트안경을 식별할 전담 인력을 배치하고 ‘AI 안경 커닝’이 적발되면 형사 처벌할 것이라고 경고하지만, 학교 현장에서는 단속이 쉽지 않을 것이라는 우려가 계속되고 있다.》“10번 문제 정답은 3번입니다. 문제 풀이가 필요하신가요?”2일 기자가 인공지능(AI) 기능이 탑재된 스마트안경을 착용한 뒤 오른쪽 안경다리를 손가락으로 길게 누르자 미리 입력해 둔 명령어 ‘앞에 있는 문제를 찍은 뒤 풀어줘’가 작동됐다. 작년 대학수학능력시험 수학 10번 문제를 들여다보자 렌즈 화면에는 ‘좀 더 가까이 다가가 달라’는 문구가 떴다.얼굴을 시험지 쪽으로 숙이자 ‘수식 확인’이라는 문구가 뜬 뒤 곧이어 풀이 과정과 함께 정답이 보였다. 고난도 4점짜리 수학 문제가 20초도 안 돼 풀린 것이다. 음성 볼륨을 ‘0’으로 해놔 안경에선 아무 소리가 나지</content:encoded>
-    </item>
-    <item>
-      <title>미래기술 연구 1.2조 지원한 삼성, 우수자 첫 선정</title>
-      <link>https://www.donga.com/news/People/article/all/20261106/134975410/2</link>
-      <guid>https://www.donga.com/news/People/article/all/20261106/134975410/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134973649.4.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;14년간 더 나은 미래를 위한 혁신기술을 지원해 온 삼성이 ‘삼성미래기술육성사업 2026 애뉴얼 포럼’을 열어 연구 성과를 공유하는 한편 10명의 ‘우수 연구자’를 선정했다. 삼성은 5일 서울 강남구 웨스틴 서울 파르나스에서 국내 과학기술계 연구자 450여 명이 한자리에 모인 가운데 애뉴얼 포럼을 개최했다. 삼성미래기술육성사업은 삼성이 도전적 연구 과제 수행을 통해 산업과 인류 발전에 기여하기 위해 2013년부터 시행해 온 대표적인 사회공헌 프로그램이다. 삼성은 14년간 이 사업을 통해 916개 과제에 총연구비 1조2000억 원을 지원했다. 과제에 참여한 연구자만 1만7000여 명이다. 이날 행사에서는 14년간 지원했던 기초과학 및 소재·정보통신기술(ICT) 분야 과제 중 644개를 4개월간 심사해 선정한 10명의 우주 연구자 시상도 처음으로 진행됐다. 수리과학에서는 오성진 미국 버클리 캘리포니아대(UC버클리) 수학과 교수, 물리학에서는 이현우 포스텍 물리학과 교수, 에너지·환경</content:encoded>
-    </item>
-    <item>
-      <title>정부 ‘정보공개포털’서 주민번호-암 진단 등 정보 노출</title>
-      <link>https://www.donga.com/news/Society/article/all/20261106/134975356/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261106/134975356/2</guid>
-      <pubDate>2026-11-06T04:30:00.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/05/134970570.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;정부 정보공개포털에 공개된 공공기관 결재문서에서 주민등록번호와 암 진단 정보 등 민감한 개인정보가 그대로 노출됐다. 정보공개포털을 운영하는 행정안전부는 4일 노출 사실을 파악한 뒤 원문정보 다운로드 서비스를 일시 중단했다. 5일 행안부에 따르면 정보공개포털에 올라온 일부 공공기관 결재문서의 첨부 파일에는 공무원과 민간인의 주민등록번호와 건강 정보, 항공권 예약 정보 등이 담겨 있었다. 정보공개포털은 중앙행정기관과 지방자치단체 등이 생산한 결재문서를 검색하고 공개된 원문을 열람하거나 내려받을 수 있는 정부 사이트다. 행안부에 따르면 최소 22개 기관의 문서 35건에서 개인정보가 노출됐다. 한 기관의 철거 보상 관련 문서에는 민간인 두 가구의 주민등록등본 원본이 첨부됐다. 또 공무원의 해외 출장 결재문서에는 전자항공권과 탑승권, 예약번호, QR코드, 비자 정보가 그대로 공개됐다. 병가 신청 문서에 첨부된 진단서에서는 직원의 실명 및 암 진단명과 질병분류코드, 병원과 의사 소견까지 확</content:encoded>
-    </item>
-    <item>
-      <title>“만들기는 쉬워졌지만 발견은 어려워졌다”…몰로코, 광고 최적화 AI ‘CARA’로 시장 공략</title>
-      <link>https://www.donga.com/news/It/article/all/20261106/134976708/1</link>
-      <guid>https://www.donga.com/news/It/article/all/20261106/134976708/1</guid>
-      <pubDate>2026-11-06T09:37:11.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134976693.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;인공지능(AI)이 소비자의 브랜드와 상품 발견 방식을 바꾸고 있다. 최근 AI 덕분에 제품과 앱 개발 문턱은 낮아졌지만, 수많은 선택지 속에서 고객에게 발견되기는 오히려 어려워졌다. 글로벌 AI 네이티브 퍼포먼스 광고 기업 몰로코(Moloco)는 모바일 앱 퍼포먼스 광고에서 축적한 기술력을 바탕으로 모바일 앱·CTV·커머스 미디어 전반에서 고객 확보와 광고 수익 창출을 지원하는 전략을 발표했다.몰로코는 5일 서울 강남구 몰로코 코리아 오피스에서 ‘몰로콘 2026’과 함께 미디어 브리핑을 열고 AI 시대 소비자 트렌드와 광고 성과 창출 전략을 소개했다. 이날 발표의 핵심은 AI를 활용한 고객 발견과 광고 성과 측정이다. 소비자의 상품 탐색 방식이 AI 중심으로 바뀌는 만큼 기업도 고객 확보부터 매출 전환까지 실질적인 성과를 입증해야 한다는 설명이다.몰로코는 자체 복합 AI 시스템인 ‘CARA(Compound Ad Recommendation Architecture)’를 핵심 기술로</content:encoded>
-    </item>
-    <item>
-      <title>비트코인도 기부하는 시대…사랑의열매, 디지털자산 나눔 활성화 논의</title>
-      <link>https://www.donga.com/news/Society/article/all/20261106/134976624/2</link>
-      <guid>https://www.donga.com/news/Society/article/all/20261106/134976624/2</guid>
-      <pubDate>2026-11-06T09:52:25.000Z</pubDate>
-      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134976611.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;사랑의열매가 24일 국회에서 디지털자산 기부 활성화 토론회를 연다. 비영리법인의 가상자산 수령과 현금화, 내부통제 기준 및 법제도 개선 방안을 논의하고 실무매뉴얼을 담은 자료집을 배포할 예정이다.</content:encoded>
-    </item>
+    <lastBuildDate>2026-11-08T03:35:27.476Z</lastBuildDate>
     <item>
       <title>“신작은 매출을, 구작은 시간을 가져간다” 게임 시장의 서로 다른 흥행 [게임 인더스트리]</title>
       <link>https://www.donga.com/news/It/article/all/20261105/134970050/1</link>
@@ -334,7 +250,7 @@
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134981313.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;대한민국 전체 가구의 약 27.7%인 626만 가구가 개와 고양이를 반려동물로 키우는 시대다(농림축산식품부 ‘2025 반려동물 양육 현황 조사’ 등). TV와 유튜브 등에서 반려견이나 반려묘 훈육 이야기는 많이 보지만 무엇보다 중요한 건강 이야기는 찾아보기 쉽지 않다. 동아일보는 사단법인 대한수의사회(회장 우연철)와 함께 반려동물과 보호자가 건강하게 오랫동안 살아갈 수 있는 방법을 연재한다.2003년 2월 14일 자 동아일보 위크엔드 섹션 5면에는 동물병원 수술대에 네 활개를 묶인 고양이가 멍한 눈으로 허공을 쳐다보는 사진이 실려 있다. 경기 과천시 주택가를 배회하다 붙잡힌 암컷 길고양이가 불임시술을 받는 장면이다. 난소와 자궁을 떼어 내는 시술은 길고양이 개체수를 줄여 주민 주거 환경을 개선하는 동시에 버려지는 고양이를 사실상 줄이는 동물복지 효과를 냈다.23년이 지난 현재 반려동물에 행하는 불임시술, 즉 중성화 수술은 이 같은 효과를 넘어 강아지나 고양이를 키우는 보호자가 가</content:encoded>
     </item>
     <item>
-      <title>“셀프 개선 AI 임박”…경고등 켜고 가속페달 밟는 앤스로픽의 두 얼굴 [김현지의 with AI]</title>
+      <title>AI가 AI를 만드는 단계 왔다…“시스템 종료 거부할 수도”[김현지의 with AI]</title>
       <link>https://www.donga.com/news/Economy/article/all/20261106/134971335/1</link>
       <guid>https://www.donga.com/news/Economy/article/all/20261106/134971335/1</guid>
       <pubDate>2026-11-07T11:00:00.000Z</pubDate>
@@ -353,6 +269,90 @@
       <guid>https://www.donga.com/news/It/article/all/20261106/134978366/1</guid>
       <pubDate>2026-11-07T12:00:00.000Z</pubDate>
       <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134978378.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;박선호 씨(36·이마트 가전바이어)는 올해 4월부터 10월까지 아들 단하(1년 5개월)를 업고 대한민국 100대 명산을 올랐다. 아들 몸무게 11~12kg에 젖병과 기저귀, 겉옷까지 챙기면 어깨에 걸리는 총중량이 17kg 안팎이다. 트레일러닝 마니아였던 그는 주말마다 이 무게를 지고 전국의 산을 올랐다. 하루에 많게는 4개의 산을 연달아 오르기도 했다. 가족을 위해 본인을 위해 선택한 동행 등반이었다.“아기가 태어나자마자 등산 캐리어부터 샀어요. 아이가 생기면 제 운동만 챙길 수 없다고 생각했죠. 아이와 시간을 많이 보내면서 운동도 하고 싶었는데, 답이 애를 업고 등산하는 것이었습니다. 주말에 제가 아들을 데리고 나가면 아내는 집에서 쉴 수 있죠. 저는 아들과 추억을 쌓으며 운동하게 되죠. 아내가 원하면 같이 가기도 하고요.”박 씨는 아내 박채형 씨(32)가 걱정할까 봐 처음에는 아들을 업거나 유모차에 태워 동네 평지부터 같이 걸었다. 그리고 본격적으로 100대 명산을 오르기 전엔</content:encoded>
+    </item>
+    <item>
+      <title>반복 작업은 정확, 스스로 판단은 아직…휴머노이드 현장 투입 ‘시작 단계’</title>
+      <link>https://www.donga.com/news/It/article/all/20261106/134979694/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261106/134979694/2</guid>
+      <pubDate>2026-11-07T13:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134979737.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;휴머노이드 로봇이 공장과 물류센터에 투입되기 시작했지만, 사람처럼 스스로 판단해 일하는 단계까지는 아직 갈 길이 멀다. 정해진 동작을 반복하는 작업은 정확도가 높지만, 인공지능(AI)이 주변 상황을 인식하고 작업 방법을 판단하는 과정에서는 오류가 잦아 사람의 개입이 필요하다.“미리 입력한 명령을 반복 수행하는 작업은 오류가 거의 없습니다. 하지만 로봇이 스스로 판단하는 단계에서는 전 세계 어느 회사든 아직 오류가 많습니다.”4~7일 경기 고양시 킨텍스에서 열린 ‘2026 로보월드’에서 만난 레인보우로보틱스 관계자의 설명이다. 이 관계자는 전시장에서 시연한 시각·언어·행동(VLA) 기반 로봇도 파란색과 빨간색 꽃을 분류하는 과정에서 인간이 할 수 있는 실수 정도는 할 수 있다고 인정했다. VLA는 로봇이 카메라로 주변을 인식하고 언어 명령을 해석해 실제 행동으로 옮기도록 하는 AI 기술이다.이번 전시회에서 만난 레인보우로보틱스, 뉴로메카, 로보티즈, 디든로보틱스, 마젠타로보틱스</content:encoded>
+    </item>
+    <item>
+      <title>흰 원피스 핏 ‘눈길’…리센느 미나미, 18㎏ 뺄 때 챙겨 먹은 음식은?</title>
+      <link>https://www.donga.com/news/Entertainment/article/all/20261107/134983518/1</link>
+      <guid>https://www.donga.com/news/Entertainment/article/all/20261107/134983518/1</guid>
+      <pubDate>2026-11-07T15:40:27.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/07/134983519.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 리센느 미나미가 가녀린 어깨선과 군살 없이 슬림한 몸매로 시선을 사로잡았다.미나미는 지난 5일 자신의 사회관계망서비스(SNS)에 흰색 나시 원피스를 입은 사진을 공개했다. 사진 속 미나미는 가녀린 어깨선과 여리여리한 상체 라인, 늘씬하게 뻗은 실루엣으로 원피스 핏을 돋보이게 했다. 특유의 청순한 분위기와 오밀조밀하면서도 또렷한 이목구비까지 어우러져 감탄을 자아냈다.미나미는 지난 9월 3일 유튜브 채널 ‘일일칠 - 117’의 ‘사나의 냉터뷰’에 출연해 다이어트 당시 즐겨 먹었던 음식으로 당근 라페를 꼽았다. 그는 “당근 라페를 진짜 좋아한다”며 “식초랑 머스터드랑 같이 섞어서 만드는 것”이라고 소개했다.특히 당근 라페를 활용한 쌈도 직접 만들어 먹었다. 미나미는 “라이스페이퍼에 양배추를 넣고 당근 라페와 고기를 조금 넣어 쌈을 만들었다”며 “음악 방송에 들고 다닌 적도 있었다”고 말했다. 이어 “배고픈데 뭔가 또 먹기에는 부담스러울 때 이걸 먹고 살 빼려고 열심히 했던 시기</content:encoded>
+    </item>
+    <item>
+      <title>최자 ‘오징어 먹뱉’ 전말…숨 못 쉬면 가장 먼저 해야 할 응급처치 [건강팩트체크]</title>
+      <link>https://www.donga.com/news/Culture/article/all/20261106/134977681/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20261106/134977681/2</guid>
+      <pubDate>2026-11-07T16:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134977604.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;최자가 공연 직전 먹은 오징어가 랩 도중 기도로 넘어가 질식할 뻔했던 경험을 공개했다. 음식물이 걸렸을 때 힘차게 기침할 수 있는 경우와 숨을 쉬거나 말하기 어려운 심한 기도폐쇄의 차이, 등 두드리기와 복부 밀어올리기 등 응급처치법을 살펴봤다.</content:encoded>
+    </item>
+    <item>
+      <title>잘록한 허리 비결은?…ITZY 유나, 직접 공개한 식사 조절법과 운동</title>
+      <link>https://www.donga.com/news/Entertainment/article/all/20261107/134983596/1</link>
+      <guid>https://www.donga.com/news/Entertainment/article/all/20261107/134983596/1</guid>
+      <pubDate>2026-11-07T17:14:37.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/07/134983597.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 ITZY 유나가 잘록한 허리와 탄탄한 각선미, 길게 뻗은 다리로 시선을 사로잡았다.유나는 지난 6일 자신의 사회관계망서비스(SNS)에 일본 여행 중 촬영한 사진 여러 장을 공개했다.레이스 장식이 돋보이는 회색 슬림 톱에 검은색 미니스커트와 시스루 스타킹을 매치해 세련된 분위기를 연출했다. 가녀린 상체와 대비되는 허리 라인, 군살 없이 늘씬한 실루엣도 눈길을 끌었다.특히 잘록하게 들어간 허리에서 자연스럽게 이어지는 매끈한 골반 라인이 돋보이며, 가녀린 상체와 대비되는 균형 잡힌 S라인이 감탄을 자아냈다.화려한 비주얼만큼 관심을 끄는 것은 유나가 과거 공개한 몸매 관리 습관이다. 그는 지난해 2월 19일 자신의 유튜브 채널 ‘유난히빛이나 YUNA’에서 홈트레이닝을 선보였다.당시 그는 “제가 연휴 동안 너무 잘 먹어서 얼굴이 빵빵해졌다”며 “먹은 것들을 좀 밖으로 배출하기 위해서 홈트를 해볼 거예요”라고 말했다. 이후 스트레칭으로 몸을 풀고 제자리 뛰기와 브이업 복근 운동,</content:encoded>
+    </item>
+    <item>
+      <title>배우 김보미, 근력 고민에 다시 시작한 발레…체지방 감량 효과도</title>
+      <link>https://www.donga.com/news/Entertainment/article/all/20261107/134983656/1</link>
+      <guid>https://www.donga.com/news/Entertainment/article/all/20261107/134983656/1</guid>
+      <pubDate>2026-11-07T17:51:07.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/07/134983657.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 김보미가 오프숄더 의상으로 드러난 가녀린 어깨선과 군살 없이 늘씬한 몸매로 시선을 사로잡았다.지난 6일 김보미는 자신의 사회관계망서비스(SNS)에 오프숄더 의상을 입고 청순한 매력을 뽐내는 사진을 공개해 눈길을 끌었다.최근 발레하는 모습도 공개한 그는 “다이어트는 잘되고 있지만 근력이 너무 없어 속상하다”며 “40세에도 살은 잘 빼고 있지만, 근력이 너무 없어 이를 보완하려고 시작한 운동이다. 근력이 없어도 너무 없는지 동작도 잘 안된다”고 털어놨다. 발레를 전공한 김보미는 두 아이를 낳고 키우며 잠시 쉬었던 발레를 다시 시작해 근력 관리에 나섰다.발레는 유연성과 균형 감각뿐 아니라 체중과 체지방 관리에도 도움을 줄 수 있다는 연구 결과가 있다.2026년 6월 국제 학술지 ‘운동재활학회지’에 발표된 연구에서 국내 제주대학교 자연과학대학 운동과학과 연구진은 비만 여성 23명을 대상으로 발레와 체중부하 운동의 효과를 비교했다. 참가자는 체지방률 30% 이상인 20~30대 여</content:encoded>
+    </item>
+    <item>
+      <title>윤은혜, 크롭톱에 망사스타킹까지…몸매 관리 위해 지킨 습관은?</title>
+      <link>https://www.donga.com/news/Entertainment/article/all/20261107/134983807/1</link>
+      <guid>https://www.donga.com/news/Entertainment/article/all/20261107/134983807/1</guid>
+      <pubDate>2026-11-07T21:27:10.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/07/134983808.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 베이비복스 멤버이자 배우 윤은혜가 과감한 스타일링으로 색다른 매력을 드러냈다.윤은혜는 6일 자신의 사회관계망서비스(SNS)에 여러 장의 사진을 공개했다. 사진 속 윤은혜는 웨이브 단발머리와 선명한 입술 색으로 강렬한 분위기를 연출했다. 그는 흰색 크롭톱에 짧은 검은색 스커트, 망사스타킹을 조합해 평소 보여주던 사랑스러운 이미지와는 또 다른 매력을 선보였다.윤은혜의 몸매 관리 비결에도 관심이 쏠린다. 그는 지난해 8월 자신의 유튜브 채널에서 급격히 늘어난 체중을 관리하는 방법을 공개한 바 있다.당시 윤은혜는 충분한 수면과 수분 섭취를 강조했다. 그는 “7시간 이상 잠을 자는 것, 물을 2리터 이상 마시는 게 중요하다”며 “그리고 간헐적 단식을 하는 게 확실히 좋기는 한 것 같다”고 말했다.이어 “잠자는 시간에 한두 시간을 더해서 16대8 생활을 하는 거다”라며 “눈을 뜨자마자 두 시간 정도만 참으면 된다”고 자신이 실천하는 간헐적 단식 방법을 설명했다.간헐적 단식의 체</content:encoded>
+    </item>
+    <item>
+      <title>“우울증인데 아무도 몰랐다”…1만6000명 검사하자 드러난 숨은 환자들</title>
+      <link>https://www.donga.com/news/It/article/all/20261106/134955886/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261106/134955886/2</guid>
+      <pubDate>2026-11-07T21:30:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134955909.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;“정신건강 문제를 직접 말하기 어려운 사람은 태블릿 등을 통한 디지털 선별검사로 자신의 상태를 빠르게 표현할 수 있습니다.”정신건강의학과 전문의인 카를로스 고메즈 레스트레포 콜롬비아 하베리아나대 교수는 지난달 29일 ‘국제 헬스케어 메드테크 컨퍼런스’(IHMC)가 열린 경기 성남시 분당서울대병원에서 기자와 만나 이같이 밝혔다. 카를로스 교수는 콜롬비아에서 디지털 기술을 활용해 우울증 및 알코올 중독 문제를 발견하고 치료∙관리까지 연결하는 의료서비스 모델(DIADA)을 연구한 바 있다.연구팀은 정신과가 아닌 1차 의료기관을 찾은 환자들이 진료 대기실에서 키오스크 및 태블릿 등을 활용해 우울증과 알코올 중독 문항에 응답하도록 했다. 일반의는 환자가 작성한 답변을 진료실에서 확인한 뒤 환자와 만나 임상 진료지침에 따른 치료 방향을 결정했다.2018년 2월부터 2020년 3월까지 수도 보고타 지역을 포함한 콜롬비아 1차 의료기관 6곳에서 환자 1만6188명을 대상으로 2만2354건의</content:encoded>
+    </item>
+    <item>
+      <title>청바지에 어그 부츠만 신었는데…안유진, 늘씬한 몸매 비결은?</title>
+      <link>https://www.donga.com/news/Entertainment/article/all/20261107/134983829/1</link>
+      <guid>https://www.donga.com/news/Entertainment/article/all/20261107/134983829/1</guid>
+      <pubDate>2026-11-07T22:13:33.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/07/134983830.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;그룹 아이브 멤버 안유진이 편안하면서도 사랑스러운 일상 패션으로 팬들의 시선을 사로잡았다.안유진은 6일 자신의 사회관계망서비스(SNS)에 ‘가을인지 겨울인지’라는 글과 함께 여러 장의 사진을 공개했다.사진 속 안유진은 흰색 긴팔 티셔츠에 청바지를 입고 카멜색 롱 어그 부츠를 신었다. 꾸미지 않은 듯 편안한 차림으로 귀여운 분위기를 완성했다. 여기에 늘씬한 몸매가 자연스럽게 드러나면서 일상적인 스타일링도 한층 돋보였다.안유진은 과거 한 방송에서 필라테스를 하는 모습을 공개하기도 했다. 필라테스는 몸의 중심을 잡아주는 근육을 단련하고 자세와 균형을 관리하는 데 활용되는 운동이다.미국 클리블랜드 클리닉에 따르면 필라테스는 20세기 초 조지프 필라테스가 무용수들의 부상 회복을 돕기 위해 개발한 운동이다. 이후 재활뿐 아니라 일반인의 체력과 건강을 관리하는 운동으로도 활용되고 있다.필라테스에서 특히 중요하게 다루는 부위는 복부와 허리, 골반을 둘러싼 코어 근육이다. 이 부위가 튼튼해</content:encoded>
+    </item>
+    <item>
+      <title>김유정, 운동복만 입었을 뿐인데…애플힙·탄탄한 복근 ‘눈길’</title>
+      <link>https://www.donga.com/news/Entertainment/article/all/20261108/134983935/1</link>
+      <guid>https://www.donga.com/news/Entertainment/article/all/20261108/134983935/1</guid>
+      <pubDate>2026-11-08T00:24:28.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/08/134983936.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;배우 김유정이 다양한 운동복 스타일을 소화하며 탄탄한 몸매를 뽐낸 가운데, 그의 붓기 관리 비법에도 관심이 쏠리고 있다.지난 5일 김유정은 개인 소셜네트워크서비스(SNS)에 패션 매거진과 함께 진행한 화보 사진 여러 장을 공개했다.사진 속 김유정은 깔끔하게 빗어 넘긴 포니테일 헤어스타일에 짙은 회색 밀착 집업 상의와 레깅스를 입고 그 위에 화이트 베스트 패딩을 매치해 감각적인 톤온톤 룩을 선보였다. 또한 김유정은 화이트 브라톱에 카키 브라운 컬러의 레깅스를 착용하고 실버 톤의 숏 패딩 재킷을 가볍게 걸쳐 당당하면서도 도시적인 아우라를 발산했다.특히 슬림하면서도 군더더기 없는 몸매와 또렷한 복근, 건강미 넘치는 핏이 눈길을 사로잡았다.근황 사진을 접한 팬들은 “더 날씬해진 모습이다”, “운동복도 정말 잘 어울린다”, “건강미가 넘친다”, “점점 더 예뻐진다” 등의 반응을 보였다.앞서 김유정은 사우나를 통해 붓기를 관리한다고 밝힌 바 있다. 구독자 14만명을 보유한 유튜브 채</content:encoded>
+    </item>
+    <item>
+      <title>동계올림픽 2관왕 김윤지, 10㎞ 휠체어 마라톤 첫 완주…“색다른 경험했어요”[양종구의 100세 시대 건강법]</title>
+      <link>https://www.donga.com/news/It/article/all/20261108/134983820/1</link>
+      <guid>https://www.donga.com/news/It/article/all/20261108/134983820/1</guid>
+      <pubDate>2026-11-08T09:16:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/08/134983821.1.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;7일 서울 마포구 상암동 월드컵공원 평화광장을 출발해 노을공원과 하늘공원 반환점을 돌아오는 코스에서 열린 ‘넥슨과 함께하는 2026 미라클365 푸르메런’. 2026 밀라노-코르티나담페초 동계패럴림픽(장애인올림픽)에서 5개의 메달(금메달 2개, 은메달 3개)을 획득한 김윤지(20·한국체대)도 출발선에 섰다.김윤지는 푸르메재단 넥슨어린이재활병원 개원 10주년을 기념해 열린 이날 대회 10km에 출전했다. 패럴림픽 크로스컨트리스키 개인 좌식 선수로 스키를 타고 10km와 12.5km를 질주하고, 훈련 땐 60km까지 소화하기는 하지만, 휠체어를 타고 마라톤 질주는 처음이었다. 하지만 김윤지는 처음부터 거침없이 휠체어를 밀었다.약 1.5km 지점에 있는 다소 가파른 구름다리를 힘차게 올랐다. 4km를 지나며 다시 내리막에 이은 약 50여m 가파른 오르막도 힘든 기색이 없이 밀고 올라섰다. 이후 약 2km 이어지는 맨땅 길도 반환점을 돌아 달리는 러너들에 활짝 웃는 얼굴로 “파이팅”을</content:encoded>
+    </item>
+    <item>
+      <title>“AI에 아이디어 안 물어본다”…나이키 광고 거친 日 디렉터의 창작법 [더긱스]</title>
+      <link>https://www.donga.com/news/Culture/article/all/20261106/134980114/2</link>
+      <guid>https://www.donga.com/news/Culture/article/all/20261106/134980114/2</guid>
+      <pubDate>2026-11-08T10:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134980557.3.jpg&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;생성형 AI로 누구나 번듯한 결과물을 만들 수 있게 된 시대에 인간은 어떤 경쟁력을 가질 수 있을까. 일본 크리에이티브 그룹 PARTY의 이토 나오키 크리에이티브 디렉터는 AI가 발전할수록 ‘무엇을, 왜’ 만들지 정하는 일이 인간의 몫으로 남는다고 진단했다. 이토 디렉터는 5일 서울 성동구 성수동 스페이스 S-50에서 동아닷컴과 만나 “AI를 써야 하느냐 말아야 하느냐는 이제 논쟁거리도 되지 않는다”며 “AI가 갈수록 기술적으로 뛰어난 결과물을 내는 만큼 쓰는 사람이 표현하려는 바가 명확해야 한다”고 말했다.</content:encoded>
+    </item>
+    <item>
+      <title>전소미 “노폐물 쌓이면 사우나로 뺀다”…땀 많이 흘리면 정말 해독될까? [건강팩트체크]</title>
+      <link>https://www.donga.com/news/It/article/all/20261106/134978519/2</link>
+      <guid>https://www.donga.com/news/It/article/all/20261106/134978519/2</guid>
+      <pubDate>2026-11-08T12:00:00.000Z</pubDate>
+      <content:encoded>&lt;img src=&apos;https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/06/134978483.3.png&apos; align=&apos;left&apos; vspace=&apos;10&apos; hspace=&apos;10&apos;&gt;가수 전소미가 10년 가까이 이어온 필라테스와 사우나 루틴을 공개했다. 특히 몸이 붓거나 짠 음식을 많이 먹었을 때 사우나를 찾으며 “노폐물이 쌓일 때마다 와서 뺀다”고 밝혔는데, 땀을 많이 흘리는 것이 실제 ‘해독’ 효과로 이어지는지는 구분해서 볼 필요가 있다.전소미는 최근 자신의 유튜브 채널을 통해 쉬는 날 필라테스를 한 뒤 사우나를 찾는 일상을 공개했다. 그는 필라테스를 2016~2017년께 시작해 약 10년 동안 이어왔다며 운동 후 뜨거운 사우나에서 10~15분 머문 뒤 찬물에 잠깐 들어가는 과정을 보통 네 차례 반복한다고 설명했다.또 사우나에 들어가기 전 마른 브러시로 피부를 쓸고 괄사 도구로 두피와 얼굴, 턱선, 승모근 등을 마사지하는 관리법도 소개했다.● 사우나에서 땀 많이 빼면 ‘노폐물 해독’된다?사우나를 하면 체온이 올라가면서 땀이 나고 몸이 가벼워지는 느낌을 받을 수 있다. 그러나 땀의 가장 중요한 역할은 체온 조절이다. 땀은 대부분 물이며 소량의 나트륨과</content:encoded>
     </item>
   </channel>
 </rss>
