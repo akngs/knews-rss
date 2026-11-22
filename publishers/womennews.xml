@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>여성신문 - 스포츠</title>
-    <link>http://www.womennews.co.kr/rss/S1N15.xml</link>
-    <description>여성신문 - 스포츠</description>
-    <lastBuildDate>2026-11-21T04:55:13.939Z</lastBuildDate>
+    <title>여성신문 - 전체기사</title>
+    <link>http://www.womennews.co.kr/rss/allArticle.xml</link>
+    <description>여성신문 - 전체기사</description>
+    <lastBuildDate>2026-11-22T04:11:21.621Z</lastBuildDate>
     <item>
       <title>“‘셀럽파이브’ 센터는 나야 나!”</title>
       <link>https://www.womennews.co.kr/news/articleView.html?idxno=190406</link>
@@ -502,13 +502,6 @@
       <content:encoded>꽃무늬 앞치마를 두른 아버지가 밥그릇과 국그릇을 식탁에 놓으며 딸을 부른다. 아내는 등을 두드리며 “수고했어요, 여보”라고 말한다. 북한 조선중앙TV가 2025년 4~6월 방영한 22부작 드라마 ‘백학벌의 새봄’의 한 장면이다. 이 장면은 올해 9월 국정원이 김주애를 “사실상 후계자 내정 단계”라고 평가한 사실이 언론 보도를 통해 알려지자, “여성 후계자를 위한 밑작업”이라는 해석과 함께 소셜미디어 엑스(X)에서 유명해졌다. 관련 영상은 조회수가 244만 회를 넘었다.드라마에 해당 장면을 그려 낸 것이 정말 그런 의도였는지는 확인되</content:encoded>
     </item>
     <item>
-      <title>[여성논단] 추미애 도지사, 누구의 삶을 위한 정치인가</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284126</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284126</guid>
-      <pubDate>2026-11-05T06:00:00.000Z</pubDate>
-      <content:encoded>얼마 전 서은혜 작가는 동료 작가 30명이 해고될 위기에 처하자 자신의 유튜브 채널에 눈물을 쏟는 영상을 올렸다. 경기도가 재정 위기를 이유로 도내 권리중심 공공일자리 예산 127억원을 전액 삭감하는 방안을 검토했기 때문이다. 서 작가는 자신과 함께 일하는 장애인 작가 30명을 비롯해 도내 장애인 노동자 880명의 일자리가 사라질 수 있다는 소식에 영상을 올린 것이다.추미애 경기도지사가 언론에 자주 오르내리며 논란에 휩싸이고 있다. 10월 중순에 열린 국정감사에서 국민의 생명과 안전을 지키는 소방 예산을 두고서는 “소방이 가장 큰</content:encoded>
-    </item>
-    <item>
       <title>[날씨] 전국 흐리고 비...남부·제주 최대 40㎜</title>
       <link>https://www.womennews.co.kr/news/articleView.html?idxno=284138</link>
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284138</guid>
@@ -591,20 +584,6 @@
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284404</guid>
       <pubDate>2026-11-12T17:00:00.000Z</pubDate>
       <content:encoded>2026년 노벨문학상 수상자 앤 카슨, 올해 76세인 그는 시와 소설, 에세이의 경계를 넘나드는 실험적인 작품으로 독창적인 예술 세계를 인정받았다. 그런 그의 인생에서 중요한 운동이 있는데 바로 복싱이다.앤 카슨은 지난해 11월 프린스턴대에서 열린 문학 강연 중에 복싱 실력을 선보이기도 했다. 카슨이 한때 그만뒀던 복싱을 다시 시작한 계기는 파킨슨병 진단이라고 한다. 몸의 움직임이 예전 같지 않고 글씨를 쓰기도 어려워지면서 눈과 손의 협응력을 기르기 위해 다시 글러브를 낀 것이다. 지난 4월부터 근육을 만들기로 한 나는 앤 카슨의</content:encoded>
-    </item>
-    <item>
-      <title>삼성 첫 AI 안경 공개… 제미나이 탑재·국내 가격 65만원부터</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284437</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284437</guid>
-      <pubDate>2026-11-13T12:28:09.000Z</pubDate>
-      <content:encoded>삼성전자가 구글, 젠틀몬스터, 워비파커와 협업한 인공지능(AI) 안경 ‘인텔리전트 아이웨어’ 전체 라인업 30종을 공개했다. 구글의 AI 모델 제미나이를 탑재해 사용자가 눈앞의 사물이나 주변 환경에 대해 질문하고 음성으로 답변을 받을 수 있다.국내에서는 12월 10일 판매를 시작하며 가격은 65만원부터다.삼성전자는 12일(현지시간) 미국 뉴욕에서 젠틀몬스터 16종과 워비파커 14종 등 총 30종의 인텔리전트 아이웨어 라인업을 공개했다고 밝혔다.인텔리전트 아이웨어는 제미나이를 통해 주변 환경에 관한 질문에 답하거나 외국어 메뉴 번역,</content:encoded>
-    </item>
-    <item>
-      <title>업무용 이메일·첨부파일까지… 카카오워크 해킹에 계열사 등 직원 정보 유출</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284448</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284448</guid>
-      <pubDate>2026-11-13T14:30:17.000Z</pubDate>
-      <content:encoded>카카오의 IT 솔루션 개발 자회사 디케이(DK)테크인이 서비스를 공급하는 그룹사 협업툴 ‘카카오워크’에서 외부 해킹 공격으로 일부 이용자의 개인정보가 유출됐다. 이름과 휴대전화번호는 물론 업무용 이메일 본문과 첨부파일 원본도 유출 정보에 포함됐다. 13일 디케이테크인이 전날 카카오워크 홈페이지에 게시한 공지에 따르면, 지난 9일 카카오워크 시스템에 외부 공격자의 비정상적인 접근이 발생했으며 이 과정에서 일부 이용자의 개인정보가 유출됐다.카카오워크는 기업 업무 전반을 지원하는 협업 플랫폼으로, 화상회의, 전자결재, 근태관리 등을 제공</content:encoded>
     </item>
     <item>
       <title>석유 최고가격 또 동결...주유소 기름값 26주 연속 하락</title>
@@ -985,34 +964,6 @@
       <content:encoded>기본소득당 용혜인 의원과 당 정책위원회가 여성폭력추방주간을 맞아 오는 26일 국회에서 ‘친밀관계폭력 피해자 지원체계 개선방안’ 토론회를 개최한다고 19일 밝혔다. 토론회는 노서영 수석최고위원이 진행한다. 발제는 조윤희 민주사회를위한변호사모임 여성인권위원회 변호사와 최유연 한국여성의전화 가정폭력피해자 보호시설 시설장이 맡는다. 조 변호사는 수사·사법 절차에서 친밀관계폭력 피해자 권리 보장 및 지원 필요성에 대해 발표할 예정이다. 최 시설장은 경기 광주 가정폭력 살인사건 등의 사례를 바탕으로 현행 피해자 지원체계의 문제점를 짚는다. 두</content:encoded>
     </item>
     <item>
-      <title>대구 동구 &quot;공공기관, 어디로 얼마나 옮기나” 정부 결단 촉구</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284698</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284698</guid>
-      <pubDate>2026-11-19T18:01:21.000Z</pubDate>
-      <content:encoded>정부의 공공기관 2차 지방 이전이 속도를 내지 못하면서 이전 규모 축소에 대한 우려가 커지고 있다. 수도권 공공기관을 얼마나, 어디로 이전할 것인지 구체적인 계획이 나오지 않는 가운데 전국 혁신도시들이 공동 대응에 나섰다.대구 동구도 정부의 조속한 이전계획 확정을 요구하는 한편, 지역의 의료·바이오 산업 기반을 활용한 공공기관 유치에 힘을 쏟기로 했다.대구 동구청(구청장 우성진)은 지난 18일 국회의사당 앞에서 열린 공공기관 2차 이전 촉구 결의대회에 참여해 기존 혁신도시를 우선 고려한 이전계획 수립을 요구했다.이날 행사에는 전국</content:encoded>
-    </item>
-    <item>
-      <title>한국에서 안 팔리는 한국영화, ‘최혜국 대우’ 중국 향하나</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284699</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284699</guid>
-      <pubDate>2026-11-19T18:02:14.000Z</pubDate>
-      <content:encoded>11월 1, 2주차 극장가 일일 평균 관객 수가 올해 최저치인 13만명을 기록했다. 통상 비수기로 꼽히는 시기임을 감안하더라도 낙폭이 컸다. 연말 대작 공세를 피해 개봉한 ‘최종면접’, ‘수능, 출제의 비밀’, ‘낮과 밤은 서로에게’, ‘실낙원’ 등 한국영화가 많은 관객을 모으지 못하면서 일일 평균 관객 수가 전달(25만명) 대비 크게 줄었다. 지난 18일 ‘폭설’이 개봉하기 전까지 이달 들어 일일 5만명 이상의 관객을 동원한 한국영화는 단 1편도 없었다. 박스오피스 상위권 역시 ‘폴2: 데드포인트’, ‘극장판 치이카와: 인어 섬의</content:encoded>
-    </item>
-    <item>
-      <title>전국 9개 경제자유구역, 투자유치 규제 개선 한목소리</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284701</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284701</guid>
-      <pubDate>2026-11-19T18:03:39.000Z</pubDate>
-      <content:encoded>전국 9개 경제자유구역청이 외국인투자 유치와 기업활동을 제약하는 규제를 개선하고 투자 인센티브를 강화해 줄 것을 정부에 공동 건의했다. 산업용지 공급부터 외국인투자기업 지원, 에너지 인프라 확충까지 경제자유구역의 경쟁력을 높이기 위한 제도 개선이 필요하다는 데 뜻을 모았다.대구경북경제자유구역청(청장 정해용)은 지난 17일 대구디지털혁신진흥원에서 열린 제35회 전국경제자유구역 청장협의회에서 이 같은 내용을 담은 공동건의문을 채택해 산업통상부에 전달했다고 밝혔다.이날 회의에는 산업통상부 경제자유구역기획단장과 전국 9개 경제자유구역청장</content:encoded>
-    </item>
-    <item>
-      <title>두 시간 만에 집을 떠난 할머니와 기억을 받아 적은 손녀 [대륙을 건너온 여성들]</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284688</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284688</guid>
-      <pubDate>2026-11-19T18:03:51.000Z</pubDate>
-      <content:encoded>아침밥을 준비하던 집에 두 사람이 찾아왔다. 따뜻한 옷과 서류를 챙겨 떠나야 한다고 했다. 주어진 시간은 두 시간. 가족은 주먹밥과 이불을 챙겼다. 석 나탈리아가 들려준 1937년 강제이주의 기억이다.누군가에게는 역사책의 한 줄인 사건이, 이 가족에게는 먹으려던 아침밥을 들고 집을 나선 날로 남았다. 당시 나탈리아의 아버지는 한 살이었다. 가족은 한 달 동안 기차를 타고 카자흐스탄의 초원에 도착했다. 추위를 피하려고 땅을 파서 반지하 거처를 만들었고, 그곳에서 한 해를 살았다고 한다.그전에도 조부모는 여러 번 삶의 터전을 옮겼다.</content:encoded>
-    </item>
-    <item>
       <title>두 시간 만에 집을 떠난 할머니와 기억을 받아 적은 손녀 [대륙을 건너온 여성들]</title>
       <link>https://www.womennews.co.kr/news/articleView.html?idxno=284688</link>
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284688</guid>
@@ -1025,20 +976,6 @@
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284689</guid>
       <pubDate>2026-11-19T18:03:53.000Z</pubDate>
       <content:encoded>이탈리아와 미국, 호주 등에서 살아가는 제자들이 타슈켄트에 오면 반 베로니카를 찾아온다. 베로니카는 그 만남을 자신의 행복으로 이야기했다. 자녀들이 어머니를 찾아오는 제자들의 모습을 보는 것도 기쁘다고 했다.자신을 큰 화가라고 생각하지는 않지만, 가르치는 사람으로서 자긍심은 크다는 그의 말에서 이야기를 시작하고 싶다. 그가 배운 미술은 수많은 학생에게 전해졌고, 학생들은 각자의 자리에서 삶을 이어가고 있다.2026년 9월 20일, 타슈켄트 세종학당에서 열린 조각보의 ‘삶이야기’에 베로니카는 가족 가계도를 준비해 왔다. 어머니에게 이</content:encoded>
-    </item>
-    <item>
-      <title>세계 곳곳의 제자들이 찾아오는 선생님 [대륙을 건너온 여성들]</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284689</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284689</guid>
-      <pubDate>2026-11-19T18:03:53.000Z</pubDate>
-      <content:encoded>이탈리아와 미국, 호주 등에서 살아가는 제자들이 타슈켄트에 오면 반 베로니카를 찾아온다. 베로니카는 그 만남을 자신의 행복으로 이야기했다. 자녀들이 어머니를 찾아오는 제자들의 모습을 보는 것도 기쁘다고 했다.자신을 큰 화가라고 생각하지는 않지만, 가르치는 사람으로서 자긍심은 크다는 그의 말에서 이야기를 시작하고 싶다. 그가 배운 미술은 수많은 학생에게 전해졌고, 학생들은 각자의 자리에서 삶을 이어가고 있다.2026년 9월 20일, 타슈켄트 세종학당에서 열린 조각보의 ‘삶이야기’에 베로니카는 가족 가계도를 준비해 왔다. 어머니에게 이</content:encoded>
-    </item>
-    <item>
-      <title>떡에 꽃무늬를 찍던 아이가 100명의 무용단을 키우기까지 [대륙을 건너온 여성들]</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284691</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284691</guid>
-      <pubDate>2026-11-19T18:04:23.000Z</pubDate>
-      <content:encoded>어린 남 이리나에게는 떡에 꽃무늬를 찍어내곤 했다. 할머니가 증편을 만들면 아이는 그 위에 무늬를 찍었다. 주문이 많을 때는 이천 개, 삼천 개나 되었다고 한다. 부모가 농사일을 하러 나가 있는 동안, 이리나는 할머니와 할아버지 곁에서 시간을 보냈다.할머니는 노래를 자주 불렀다. 이리나는 가사의 뜻을 몰라도 귀에 익은 노래를 따라 불렀고 오래 기억했다. 고려인들이 모여 살던 마을에서 문화는 거창한 설명으로가 아닌 손과 귀에 남아 있는 것으로 존재한다. 집 안에서는 남자가 먼저 밥을 먹어야 한다는 규칙도 있었다. 이전 세대로부터 이어</content:encoded>
     </item>
     <item>
       <title>떡에 꽃무늬를 찍던 아이가 100명의 무용단을 키우기까지 [대륙을 건너온 여성들]</title>
@@ -1165,13 +1102,6 @@
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284712</guid>
       <pubDate>2026-11-20T09:14:06.000Z</pubDate>
       <content:encoded>도널드 트럼프 미국 대통령이 미국 프로야구 메이저리그(MLB) 최다 안타를 기록했던 피트 로즈가 사망한지 2년만에 사면했다.트럼프 대통령은 19일(현지시각) 자신의 트루스 소셜에 &quot;나는 진정한 야구 슈퍼스타이자 전설인 고(故) 위대한 피트 로즈에게 완전하고 전면적인 사면을 방금 내렸다&quot;라고 밝혔다. 트럼프 대통령은 &quot;그의 통산 4,256안타 기록은 결코 깨지지 않을 것이다. 피트는 통산 3,562경기(역대 최다 기록!)에 출전해 1,314타점, 160홈런, 타율 0.303을 기록했고, 17회 올스타 선정, 3회 월드시리즈 우승, 내</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 15세 소녀 살해 50대 남성 구속 송치...묵묵부답</title>
-      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284713</link>
-      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284713</guid>
-      <pubDate>2026-11-20T09:27:59.000Z</pubDate>
-      <content:encoded>자신의 아들로부터 성범죄 피해를 입은 15세 소녀를 살해한 50대 남성이 구속 송치됐다..서울성북경찰서는 20일 오전 진모(59)씨를 서울북부지방공소청으로 이송했다.진씨는 &apos;피해자에게 할 말 없느냐&apos; 등 기자 질문에 아무런 답도 하지 않았다.진씨는 이달 10일 서울 성북구 정릉동 공유 숙박 숙소에서 아들의 성범죄 사건 피해자인 A양을 살해한 혐의를 받고 있다.그는 11일 새벽 이 숙소에서 만취 상태로 체포됐다. 경찰은 진씨를 구속하고 수사를 해왔다.서울북부지법은 지난 13일 &quot;증거인멸과 도망 염려가 있다&quot;며 진씨에 대한 구속영장을</content:encoded>
     </item>
     <item>
       <title>경찰, 15세 소녀 살해 50대 남성 구속 송치...묵묵부답</title>
@@ -1613,6 +1543,76 @@
       <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284766</guid>
       <pubDate>2026-11-21T11:59:13.000Z</pubDate>
       <content:encoded>층간 소음 문제로 갈등을 빚은 이웃의 우편물을 가져간 40대에게 절도혐의로 벌금형이 선고됐다.21일 법조계에 따르면 대전지법 형사7단독 최리지 판사는 절도 혐의로 기소된 A 씨(48)에게 벌금 500만 원을 선고했다.재판부는 &quot;층간 소음으로 갈등 관계에 있는 이웃의 우편물을 거듭 훔쳤고 우편물이 주민세 고지서, 환경개선부담금 고지서 등 권리 의무에 관한 것이어서 죄책이 가볍지 않다&quot;며 &quot;잘못을 반성하는 것으로 보이지는 않으나 동종 전과가 없고 건강 상태가 좋지 않은 모친을 부양하는 점 등을 고려했다&quot;고 밝혔다.A 씨는 지난 2024</content:encoded>
+    </item>
+    <item>
+      <title>‘AI 혼란’ 수능 끝 쉬어가는 연말... “OTT 뭐부터 볼까?”</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284755</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284755</guid>
+      <pubDate>2026-11-21T16:19:57.000Z</pubDate>
+      <content:encoded>인공지능(AI) 논란으로 그 어느 때보다 어수선한 대학수학능력시험(수능)이 마무리됐다. 긴 수험 생활을 끝냈거나 잠시 쉬어가는 수험생들은 얼마 남지 않은 연말을 어떻게 보낼지 고민일 테다. 이 중 몇몇은 수험 준비로 제쳐둔 콘텐츠를 몰아볼 계획을 세우고 있을지도 모른다. 길게는 1년, 짧게는 한 달간 공개된 콘텐츠가 너무 방대해 고민에 빠진 이들도 있을 것이다. 이에 혼자 혹은 친구, 연인, 가족과 함께 몰아보면 좋을 온라인 동영상 스트리밍(OTT) 플랫폼별 콘텐츠 추천작을 꼽았다.그냥 마주 보는데 흥미롭네... 손석구X나가야마 에</content:encoded>
+    </item>
+    <item>
+      <title>임옥영 임베스트 대표, 중소기업기술경영혁신대전서 국무총리 표창</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284753</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284753</guid>
+      <pubDate>2026-11-21T16:20:34.000Z</pubDate>
+      <content:encoded>기능성 수면용품 전문기업 ㈜임베스트는 임옥영 대표가 최근 열린 ‘중소기업기술경영혁신대전’에서 기술혁신 분야 유공자로 선정돼 국무총리 표창을 받았다고 밝혔다.임베스트에 따르면 임 대표는 요람의 움직임에 착안해 인체공학과 수면생리학을 결합한 ‘스웨이 모션(Sway Motion)’ 기술을 독자 개발한 공로를 인정받았다.회사 측은 이 기술을 적용한 ‘몽가타(Mongata)’ 침대가 좌우 5cm 범위에서 일정한 리듬으로 수평으로 움직인다고 설명했다. 하단 프레임은 사용자가 기존에 쓰던 매트리스를 그대로 올려 사용할 수 있도록 설계했다.</content:encoded>
+    </item>
+    <item>
+      <title>임옥영 임베스트 대표, 중소기업기술경영혁신대전서 국무총리 표창</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284753</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284753</guid>
+      <pubDate>2026-11-21T16:20:34.000Z</pubDate>
+      <content:encoded>기능성 수면용품 전문기업 ㈜임베스트는 임옥영 대표가 최근 열린 ‘중소기업기술경영혁신대전’에서 기술혁신 분야 유공자로 선정돼 국무총리 표창을 받았다고 밝혔다.임베스트에 따르면 임 대표는 요람의 움직임에 착안해 인체공학과 수면생리학을 결합한 ‘스웨이 모션(Sway Motion)’ 기술을 독자 개발한 공로를 인정받았다.회사 측은 이 기술을 적용한 ‘몽가타(Mongata)’ 침대가 좌우 5cm 범위에서 일정한 리듬으로 수평으로 움직인다고 설명했다. 하단 프레임은 사용자가 기존에 쓰던 매트리스를 그대로 올려 사용할 수 있도록 설계했다.</content:encoded>
+    </item>
+    <item>
+      <title>본죽 가맹점주 모임 ‘본사모’, 대구 취약가정 주거환경 개선 지원</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284754</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284754</guid>
+      <pubDate>2026-11-21T19:22:06.000Z</pubDate>
+      <content:encoded>본죽 가맹점주 모임인 ‘본죽을 사랑하는 사람들의 모임’(본사모)이 대구 지역 취약가정의 주거환경을 개선하는 활동에 나섰다. 본아이에프는 가맹점주들이 추진한 이번 활동에 힘을 보탰다고 20일 밝혔다.본사모는 회원 회비 등으로 재원을 마련하고 대구에서 주거환경 개선이 필요한 가정 1가구를 선정했다. 현관과 욕실, 화장실 등을 부분 리모델링하는 공사는 이달 6일 시작해 19일 마무리됐다.본아이에프는 해당 가정에 건조기 1대와 본아이에프 상품권 100만원, 약 30만원 상당의 가정식 간편식을 지원했다.2012년 출범한 본사모는 지역 복지기</content:encoded>
+    </item>
+    <item>
+      <title>본죽 가맹점주 모임 ‘본사모’, 대구 취약가정 주거환경 개선 지원</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284754</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284754</guid>
+      <pubDate>2026-11-21T19:22:06.000Z</pubDate>
+      <content:encoded>본죽 가맹점주 모임인 ‘본죽을 사랑하는 사람들의 모임’(본사모)이 대구 지역 취약가정의 주거환경을 개선하는 활동에 나섰다. 본아이에프는 가맹점주들이 추진한 이번 활동에 힘을 보탰다고 20일 밝혔다.본사모는 회원 회비 등으로 재원을 마련하고 대구에서 주거환경 개선이 필요한 가정 1가구를 선정했다. 현관과 욕실, 화장실 등을 부분 리모델링하는 공사는 이달 6일 시작해 19일 마무리됐다.본아이에프는 해당 가정에 건조기 1대와 본아이에프 상품권 100만원, 약 30만원 상당의 가정식 간편식을 지원했다.2012년 출범한 본사모는 지역 복지기</content:encoded>
+    </item>
+    <item>
+      <title>수상하고 불온한 여자들, 패션 사진의 문법을 바꾸다</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284484</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284484</guid>
+      <pubDate>2026-11-22T07:00:00.000Z</pubDate>
+      <content:encoded>수영복을 입은 다섯 여자가 뉴욕의 낡은 공중목욕탕에서 제각각 포즈를 취하고 있다. 몸매를 과시하지도, 사랑스럽게 웃어 보이지도 않는 여자들은 어딘지 수상쩍고 불온하다. 사진가 데보라 터브빌(Deborah Turbeville, 1932~2013)의 이름을 알린 대표작 ‘배스하우스’. 1975년 미국 ‘보그’에 실린 수영복 화보다. ‘화보’ 같지 않은 기묘하고 신비로운 분위기로 당시 큰 화제에 올랐다. 뛰어난 이야기꾼이자 여성의 아름다움을 여성의 관점으로 포착하고 해석해 온 사진가, 터브빌의 국내 첫 전시 ‘데보라 터브빌: 분위기’가</content:encoded>
+    </item>
+    <item>
+      <title>살릴 수 있었던 두 생명 [김효선 칼럼]</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284485</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284485</guid>
+      <pubDate>2026-11-22T08:41:32.000Z</pubDate>
+      <content:encoded>생명을 앗아가는 범죄를 막는 길은 결코 용납하지 않는다는 원칙을 끝까지 지키는 것이다. 그러나 2022년 교제폭력·가정폭력·성폭력·스토킹 가해자의 구속 비율은 모두 4%에 못 미쳤다(한국여성정책연구원). 가해자가 격리되지 않으니 피해자가 숨는다.11월 5일 서울 은평구에서 70대 여성이 과거 교제했던 60대 남성의 집에서 숨진 채 발견됐다. 피해자는 2024년부터 네 차례 스토킹을 신고했다. 7월에는 남성이 접근금지를 어기고 찾아와 목을 졸랐다. 경찰은 구속영장을 신청했지만 공소청은 폐암 4기로 건강이 나쁘다는 이유 등을 들어 법원</content:encoded>
+    </item>
+    <item>
+      <title>살릴 수 있었던 두 생명 [김효선 칼럼]</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284485</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284485</guid>
+      <pubDate>2026-11-22T08:41:32.000Z</pubDate>
+      <content:encoded>생명을 앗아가는 범죄를 막는 길은 결코 용납하지 않는다는 원칙을 끝까지 지키는 것이다. 그러나 2022년 교제폭력·가정폭력·성폭력·스토킹 가해자의 구속 비율은 모두 4%에 못 미쳤다(한국여성정책연구원). 가해자가 격리되지 않으니 피해자가 숨는다.11월 5일 서울 은평구에서 70대 여성이 과거 교제했던 60대 남성의 집에서 숨진 채 발견됐다. 피해자는 2024년부터 네 차례 스토킹을 신고했다. 7월에는 남성이 접근금지를 어기고 찾아와 목을 졸랐다. 경찰은 구속영장을 신청했지만 공소청은 폐암 4기로 건강이 나쁘다는 이유 등을 들어 법원</content:encoded>
+    </item>
+    <item>
+      <title>“우리가 제인 도” 세계여성폭력추방의 날 71개 단체 집중행동</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284768</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284768</guid>
+      <pubDate>2026-11-22T10:28:54.000Z</pubDate>
+      <content:encoded>세계여성폭력추방의 날(11월 25일)을 앞두고 젠더폭력해결페미니스트연대(이하 페미연대)가 여성폭력 근절과 성평등 사회 실현을 촉구하는 200여명의 여성·시민들과 함께 공동행동을 진행했다.페미연대 71개 공동주최단체는 지난 21일 서울 지하철 강남역 인근에서 ‘2026 세계여성폭력추방의날 서울 집중 공동행동’을 열고 반복되는 젠더폭력을 방관하는 성차별 사회 구조와 국가의 무책임을 강하게 규탄했다.이번 공동행동은 ‘I am Jane Doe’(내가 바로 제인 도다)를 문구로 내세웠다. 2년 전 미국 코넬대학교 남학생클럽에서 발생한 집단</content:encoded>
+    </item>
+    <item>
+      <title>“우리가 제인 도” 세계여성폭력추방의 날 71개 단체 집중행동</title>
+      <link>https://www.womennews.co.kr/news/articleView.html?idxno=284768</link>
+      <guid>https://www.womennews.co.kr/news/articleView.html?idxno=284768</guid>
+      <pubDate>2026-11-22T10:28:54.000Z</pubDate>
+      <content:encoded>세계여성폭력추방의 날(11월 25일)을 앞두고 젠더폭력해결페미니스트연대(이하 페미연대)가 여성폭력 근절과 성평등 사회 실현을 촉구하는 200여명의 여성·시민들과 함께 공동행동을 진행했다.페미연대 71개 공동주최단체는 지난 21일 서울 지하철 강남역 인근에서 ‘2026 세계여성폭력추방의날 서울 집중 공동행동’을 열고 반복되는 젠더폭력을 방관하는 성차별 사회 구조와 국가의 무책임을 강하게 규탄했다.이번 공동행동은 ‘I am Jane Doe’(내가 바로 제인 도다)를 문구로 내세웠다. 2년 전 미국 코넬대학교 남학생클럽에서 발생한 집단</content:encoded>
     </item>
   </channel>
 </rss>
